@@ -81,11 +81,11 @@ params: dict = {
     'max_results': 100,
     # 昨日から今日の0時まで，さらにそれをUTCに合わせるのでさらに9時間巻き戻ると，開始時刻は一昨日の15時になる
     'start_time': "{yesterday}T{UTC}".format(
-        yesterday=today + datetime.timedelta(days=-2) if os.environ.get('DATE_START') is None else os.environ['DATE_START'],
+        yesterday=today + datetime.timedelta(days=-1) if os.environ.get('DATE_START') is None else os.environ['DATE_START'],
         UTC="15:00:00Z"
     ),
     'end_time': "{today}T{UTC}".format(
-        today=today + datetime.timedelta(days=-1) if os.environ.get('DATE_END') is None else os.environ['DATE_END'],
+        today=today if os.environ.get('DATE_END') is None else os.environ['DATE_END'],
         UTC="15:00:00Z"
     ),
     "expansions": ",".join(expansion_list),
@@ -104,7 +104,7 @@ res = requests.get(endpoint, params=params, headers=headers)
 json_data = res.json()
 
 
-date = today + datetime.timedelta(days=-1) if os.environ.get('DATE_END') is None else os.environ['DATE_END']
+date = today if os.environ.get('DATE_END') is None else os.environ['DATE_END']
 yesterday = datetime.date.fromisoformat(str(date))
 
 root_dir = Path(__file__).parents[1]
