@@ -1,38 +1,22 @@
 {
   "data": [
     {
-      "id": "1349680216998776832",
+      "possibly_sensitive": false,
       "created_at": "2021-01-14T11:30:14.000Z",
-      "text": "一人か二人しか使わないツールのために随意契約でン十万円ブッパできるクライアントすげぇと思う一方，血税をこんなコトに……と静かに怒りがこみ上げてこないこともない",
-      "reply_settings": "everyone",
-      "source": "TweetDeck",
       "conversation_id": "1349680216998776832",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
+      "text": "一人か二人しか使わないツールのために随意契約でン十万円ブッパできるクライアントすげぇと思う一方，血税をこんなコトに……と静かに怒りがこみ上げてこないこともない",
+      "id": "1349680216998776832",
+      "source": "TweetDeck"
     },
     {
-      "attachments": {
-        "media_keys": [
-          "3_1349664481295560705"
-        ]
-      },
-      "id": "1349675683832762368",
-      "created_at": "2021-01-14T11:12:13.000Z",
-      "referenced_tweets": [
-        {
-          "type": "retweeted",
-          "id": "1349664486718754817"
-        }
-      ],
-      "text": "RT @skull310_sin: 自分含めて、今回のエヴァ延期に対して「まあ、仕方ないよ」って言ってる大半の人達↓ https://t.co/B5yjGNosKy",
-      "reply_settings": "everyone",
-      "source": "Twitter for iPhone",
       "entities": {
         "mentions": [
           {
@@ -51,15 +35,7 @@
           }
         ]
       },
-      "conversation_id": "1349675683832762368",
-      "public_metrics": {
-        "retweet_count": 4333,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
       "possibly_sensitive": false,
-      "author_id": "707346268821913600",
       "context_annotations": [
         {
           "domain": {
@@ -73,27 +49,59 @@
             "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)"
           }
         }
-      ]
-    },
-    {
-      "id": "1349675269963931651",
-      "created_at": "2021-01-14T11:10:34.000Z",
+      ],
+      "created_at": "2021-01-14T11:12:13.000Z",
+      "conversation_id": "1349675683832762368",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 4337,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "RT @skull310_sin: 自分含めて、今回のエヴァ延期に対して「まあ、仕方ないよ」って言ってる大半の人達↓ https://t.co/B5yjGNosKy",
       "referenced_tweets": [
         {
-          "type": "quoted",
-          "id": "1349601922160885760"
+          "type": "retweeted",
+          "id": "1349664486718754817"
         }
       ],
-      "text": "ほんとに延期するとま〜た5年とか延びるからやめろ、本当に一から作り直し始めるぞあの人 https://t.co/BkDUCKiOaI",
-      "reply_settings": "everyone",
-      "source": "Twitter for iPhone",
+      "attachments": {
+        "media_keys": [
+          "3_1349664481295560705"
+        ]
+      },
+      "id": "1349675683832762368",
+      "source": "Twitter for iPhone"
+    },
+    {
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1010244637770985472",
+            "name": "Neon Genesis Evangelion",
+            "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)"
+          }
+        }
+      ],
+      "created_at": "2021-01-14T11:10:34.000Z",
       "conversation_id": "1349675269963931651",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
+      "text": "ほんとに延期するとま〜た5年とか延びるからやめろ、本当に一から作り直し始めるぞあの人 https://t.co/BkDUCKiOaI",
       "entities": {
         "urls": [
           {
@@ -105,38 +113,19 @@
           }
         ]
       },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600",
-      "context_annotations": [
+      "referenced_tweets": [
         {
-          "domain": {
-            "id": "130",
-            "name": "Multimedia Franchise",
-            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
-          },
-          "entity": {
-            "id": "1010244637770985472",
-            "name": "Neon Genesis Evangelion",
-            "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)"
-          }
+          "type": "quoted",
+          "id": "1349601922160885760"
         }
-      ]
+      ],
+      "id": "1349675269963931651",
+      "source": "Twitter for iPhone"
     },
     {
-      "id": "1349675011481628676",
-      "created_at": "2021-01-14T11:09:33.000Z",
-      "text": "庵野ォ！！！！！！！！！",
-      "reply_settings": "everyone",
-      "source": "Twitter for iPhone",
-      "conversation_id": "1349675011481628676",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
       "possibly_sensitive": false,
-      "author_id": "707346268821913600",
+      "created_at": "2021-01-14T11:09:33.000Z",
+      "conversation_id": "1349675011481628676",
       "entities": {
         "annotations": [
           {
@@ -147,20 +136,20 @@
             "normalized_text": "庵野"
           }
         ]
-      }
+      },
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "庵野ォ！！！！！！！！！",
+      "id": "1349675011481628676",
+      "source": "Twitter for iPhone"
     },
     {
-      "id": "1349674975452487680",
-      "created_at": "2021-01-14T11:09:24.000Z",
-      "referenced_tweets": [
-        {
-          "type": "retweeted",
-          "id": "1349657916349972481"
-        }
-      ],
-      "text": "RT @khara_inc: この度の緊急事態宣言の発出を受け慎重に検討を重ねた結果、感染拡大の収束が最優先であると判断し、1月23日の『シン・エヴァンゲリオン劇場版』公開を自粛し、再延期を決定致しました。\n皆様には再びお待たせしてしまう事となり、誠に申し訳なく、深くお詫び申し…",
-      "reply_settings": "everyone",
-      "source": "Twitter for iPhone",
       "entities": {
         "mentions": [
           {
@@ -179,15 +168,7 @@
           }
         ]
       },
-      "conversation_id": "1349674975452487680",
-      "public_metrics": {
-        "retweet_count": 50610,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
       "possibly_sensitive": false,
-      "author_id": "707346268821913600",
       "context_annotations": [
         {
           "domain": {
@@ -200,36 +181,44 @@
             "name": "COVID-19"
           }
         }
-      ]
+      ],
+      "created_at": "2021-01-14T11:09:24.000Z",
+      "conversation_id": "1349674975452487680",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 50619,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "RT @khara_inc: この度の緊急事態宣言の発出を受け慎重に検討を重ねた結果、感染拡大の収束が最優先であると判断し、1月23日の『シン・エヴァンゲリオン劇場版』公開を自粛し、再延期を決定致しました。\n皆様には再びお待たせしてしまう事となり、誠に申し訳なく、深くお詫び申し…",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1349657916349972481"
+        }
+      ],
+      "id": "1349674975452487680",
+      "source": "Twitter for iPhone"
     },
     {
-      "id": "1349674602826326016",
+      "possibly_sensitive": false,
       "created_at": "2021-01-14T11:07:55.000Z",
-      "text": "ヤバくてウケ",
-      "reply_settings": "everyone",
-      "source": "Twitter for iPhone",
       "conversation_id": "1349674602826326016",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
+      "text": "ヤバくてウケ",
+      "id": "1349674602826326016",
+      "source": "Twitter for iPhone"
     },
     {
-      "id": "1349674545326796800",
-      "created_at": "2021-01-14T11:07:42.000Z",
-      "referenced_tweets": [
-        {
-          "type": "retweeted",
-          "id": "1349637909855535106"
-        }
-      ],
-      "text": "RT @RICOS_ltd: Webブラウザベースで基本操作が出来る、RICOS Production Suite β版をリリースしました。βテスト期間中は、無償でご利用いただけます。また、βテストが終了しても小規模な問題は無償でご利用いただける予定です。\nこちら（https:…",
-      "reply_settings": "everyone",
-      "source": "Twitter for iPhone",
       "entities": {
         "mentions": [
           {
@@ -248,127 +237,125 @@
           }
         ]
       },
+      "possibly_sensitive": false,
+      "created_at": "2021-01-14T11:07:42.000Z",
       "conversation_id": "1349674545326796800",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 62,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
+      "text": "RT @RICOS_ltd: Webブラウザベースで基本操作が出来る、RICOS Production Suite β版をリリースしました。βテスト期間中は、無償でご利用いただけます。また、βテストが終了しても小規模な問題は無償でご利用いただける予定です。\nこちら（https:…",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1349637909855535106"
+        }
+      ],
+      "id": "1349674545326796800",
+      "source": "Twitter for iPhone"
     },
     {
-      "id": "1349667754366836739",
+      "possibly_sensitive": false,
       "created_at": "2021-01-14T10:40:42.000Z",
-      "text": "可能性ってやつ，自分以外にも見えるように具現化しないと無価値っぽい",
-      "reply_settings": "everyone",
-      "source": "TweetDeck",
       "conversation_id": "1349667754366836739",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
-    },
-    {
-      "id": "1349667477219733505",
-      "created_at": "2021-01-14T10:39:36.000Z",
-      "text": "仕組みはよくわからんけど拡張性はバカたけぇ物がいいモノなのであって，便利だけど少しもいじることが出来ないものはクライアントにしか欲しがられずすぐゴミになってしまうんだ",
-      "reply_settings": "everyone",
-      "source": "TweetDeck",
-      "conversation_id": "1349667477219733505",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
-    },
-    {
-      "id": "1349667022980845568",
-      "created_at": "2021-01-14T10:37:48.000Z",
-      "text": "こんなこともできねぇのって上司にばかにされている気配を感じるのですが，その「こんなこと」っていうのはガチガチに仕様を定めてベンダさんに投げれば随意契約で半年もかからず達成できますけど…………なおほんの少し改修するだけでその度二桁マン後半飛ぶ模様",
-      "reply_settings": "everyone",
-      "source": "TweetDeck",
-      "conversation_id": "1349667022980845568",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
-    },
-    {
-      "id": "1349660432101900288",
-      "created_at": "2021-01-14T10:11:37.000Z",
-      "text": "クソカスゴミ雑魚でさえ手前のツールの蓄積さえあればなんとなくやれてしまう業界、でもまぁ誰でも働けるわけだしそのほうがいいと言えばそれはそう",
-      "reply_settings": "everyone",
-      "source": "Twitter for iPhone",
-      "conversation_id": "1349660432101900288",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
-    },
-    {
-      "id": "1349649350817841153",
-      "created_at": "2021-01-14T09:27:35.000Z",
-      "text": "明示的に config しなくてもいいものを作るためには config に精通する必要があり，俺はただ…………",
-      "reply_settings": "everyone",
-      "source": "TweetDeck",
-      "conversation_id": "1349649350817841153",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
-    },
-    {
-      "id": "1349649163282120707",
-      "created_at": "2021-01-14T09:26:50.000Z",
-      "text": "config ファイル系のドキュメントを読み続ける日々が続いておりますが………",
-      "reply_settings": "everyone",
-      "source": "TweetDeck",
-      "conversation_id": "1349649163282120707",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
-    },
-    {
-      "id": "1349642314503786496",
-      "created_at": "2021-01-14T08:59:37.000Z",
-      "text": "それはそれとして競馬に手を出したい気持ちがある（手のひらドリル）",
-      "reply_settings": "everyone",
-      "source": "TweetDeck",
-      "conversation_id": "1349642314503786496",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "possibly_sensitive": false,
       "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "可能性ってやつ，自分以外にも見えるように具現化しないと無価値っぽい",
+      "id": "1349667754366836739",
+      "source": "TweetDeck"
+    },
+    {
+      "possibly_sensitive": false,
+      "created_at": "2021-01-14T10:39:36.000Z",
+      "conversation_id": "1349667477219733505",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "仕組みはよくわからんけど拡張性はバカたけぇ物がいいモノなのであって，便利だけど少しもいじることが出来ないものはクライアントにしか欲しがられずすぐゴミになってしまうんだ",
+      "id": "1349667477219733505",
+      "source": "TweetDeck"
+    },
+    {
+      "possibly_sensitive": false,
+      "created_at": "2021-01-14T10:37:48.000Z",
+      "conversation_id": "1349667022980845568",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "こんなこともできねぇのって上司にばかにされている気配を感じるのですが，その「こんなこと」っていうのはガチガチに仕様を定めてベンダさんに投げれば随意契約で半年もかからず達成できますけど…………なおほんの少し改修するだけでその度二桁マン後半飛ぶ模様",
+      "id": "1349667022980845568",
+      "source": "TweetDeck"
+    },
+    {
+      "possibly_sensitive": false,
+      "created_at": "2021-01-14T10:11:37.000Z",
+      "conversation_id": "1349660432101900288",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "クソカスゴミ雑魚でさえ手前のツールの蓄積さえあればなんとなくやれてしまう業界、でもまぁ誰でも働けるわけだしそのほうがいいと言えばそれはそう",
+      "id": "1349660432101900288",
+      "source": "Twitter for iPhone"
+    },
+    {
+      "possibly_sensitive": false,
+      "created_at": "2021-01-14T09:27:35.000Z",
+      "conversation_id": "1349649350817841153",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "明示的に config しなくてもいいものを作るためには config に精通する必要があり，俺はただ…………",
+      "id": "1349649350817841153",
+      "source": "TweetDeck"
+    },
+    {
+      "possibly_sensitive": false,
+      "created_at": "2021-01-14T09:26:50.000Z",
+      "conversation_id": "1349649163282120707",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "config ファイル系のドキュメントを読み続ける日々が続いておりますが………",
+      "id": "1349649163282120707",
+      "source": "TweetDeck"
+    },
+    {
+      "possibly_sensitive": false,
       "context_annotations": [
         {
           "domain": {
@@ -382,37 +369,50 @@
             "description": "Horse racing"
           }
         }
-      ]
-    },
-    {
-      "id": "1349641512015986690",
-      "created_at": "2021-01-14T08:56:26.000Z",
-      "text": "毎日の積み重ねの中にしか価値がない人生，やっていきましょう",
+      ],
+      "created_at": "2021-01-14T08:59:37.000Z",
+      "conversation_id": "1349642314503786496",
+      "author_id": "707346268821913600",
       "reply_settings": "everyone",
-      "source": "TweetDeck",
-      "conversation_id": "1349641512015986690",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
+      "text": "それはそれとして競馬に手を出したい気持ちがある（手のひらドリル）",
+      "id": "1349642314503786496",
+      "source": "TweetDeck"
     },
     {
-      "id": "1349641403865853955",
-      "created_at": "2021-01-14T08:56:00.000Z",
-      "text": "これ全部読んどけば取り敢えずこの先５年はイケるんじゃね的な資料を発見したわね，エンジニア志望くんにはどうせ読まれないんだろうけれども\nhttps://t.co/gbOR79fZyY",
+      "possibly_sensitive": false,
+      "created_at": "2021-01-14T08:56:26.000Z",
+      "conversation_id": "1349641512015986690",
+      "author_id": "707346268821913600",
       "reply_settings": "everyone",
-      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "毎日の積み重ねの中にしか価値がない人生，やっていきましょう",
+      "id": "1349641512015986690",
+      "source": "TweetDeck"
+    },
+    {
+      "possibly_sensitive": false,
+      "created_at": "2021-01-14T08:56:00.000Z",
       "conversation_id": "1349641403865853955",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 2,
         "quote_count": 0
       },
+      "text": "これ全部読んどけば取り敢えずこの先５年はイケるんじゃね的な資料を発見したわね，エンジニア志望くんにはどうせ読まれないんだろうけれども\nhttps://t.co/gbOR79fZyY",
       "entities": {
         "urls": [
           {
@@ -424,37 +424,26 @@
           }
         ]
       },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
+      "id": "1349641403865853955",
+      "source": "TweetDeck"
     },
     {
-      "id": "1349631429177536512",
+      "possibly_sensitive": false,
       "created_at": "2021-01-14T08:16:22.000Z",
-      "text": "いまいちデコレータの概念が身につかないままｷﾞｮｰﾑをやっているんですが，どのように\"よい\"のか，何方か御存知ではありませんか",
-      "reply_settings": "everyone",
-      "source": "TweetDeck",
       "conversation_id": "1349631429177536512",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
+      "text": "いまいちデコレータの概念が身につかないままｷﾞｮｰﾑをやっているんですが，どのように\"よい\"のか，何方か御存知ではありませんか",
+      "id": "1349631429177536512",
+      "source": "TweetDeck"
     },
     {
-      "id": "1349619838902169601",
-      "created_at": "2021-01-14T07:30:18.000Z",
-      "referenced_tweets": [
-        {
-          "type": "retweeted",
-          "id": "1349382700675710977"
-        }
-      ],
-      "text": "RT @noonworks: モルカー2期にはメカモルカー出てきてほしいよね。モルカーに似てるけどモルカーではなく金属などでできた人工物の、人間が操作する自我のない機械で、エサを食べない代わりに油や電気を使って原動機を動かし、原動機の回転を利用して足の位置についた輪を高速回転さ…",
-      "reply_settings": "everyone",
-      "source": "Twitter for iPhone",
       "entities": {
         "mentions": [
           {
@@ -464,31 +453,29 @@
           }
         ]
       },
+      "possibly_sensitive": false,
+      "created_at": "2021-01-14T07:30:18.000Z",
       "conversation_id": "1349619838902169601",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
       "public_metrics": {
-        "retweet_count": 115,
+        "retweet_count": 116,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
+      "text": "RT @noonworks: モルカー2期にはメカモルカー出てきてほしいよね。モルカーに似てるけどモルカーではなく金属などでできた人工物の、人間が操作する自我のない機械で、エサを食べない代わりに油や電気を使って原動機を動かし、原動機の回転を利用して足の位置についた輪を高速回転さ…",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1349382700675710977"
+        }
+      ],
+      "id": "1349619838902169601",
+      "source": "Twitter for iPhone"
     },
     {
-      "id": "1349618618682621953",
-      "created_at": "2021-01-14T07:25:28.000Z",
-      "text": "NHKの教育とか放送技術の研究にはきちんと投資すべきと思ってるから，きちんと社会人をやっていく段階になったときに受信料支払いは必要だと思うけども，そうじゃない若者やら単身者をターゲットにして小金稼ぎしようとする姿勢はマジで許せん",
-      "reply_settings": "everyone",
-      "source": "TweetDeck",
-      "conversation_id": "1349618618682621953",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
       "possibly_sensitive": false,
-      "author_id": "707346268821913600",
       "context_annotations": [
         {
           "domain": {
@@ -538,6 +525,8 @@
           }
         }
       ],
+      "created_at": "2021-01-14T07:25:28.000Z",
+      "conversation_id": "1349618618682621953",
       "entities": {
         "annotations": [
           {
@@ -548,46 +537,44 @@
             "normalized_text": "NHK"
           }
         ]
-      }
-    },
-    {
-      "id": "1349617999829901312",
-      "in_reply_to_user_id": "707346268821913600",
-      "created_at": "2021-01-14T07:23:00.000Z",
-      "referenced_tweets": [
-        {
-          "type": "replied_to",
-          "id": "1349617773442285568"
-        }
-      ],
-      "text": "なんの説明もせずこれ書いてってボード渡されてマジでビビったんやけど，何？",
+      },
+      "author_id": "707346268821913600",
       "reply_settings": "everyone",
-      "source": "TweetDeck",
-      "conversation_id": "1349617773442285568",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
+      "text": "NHKの教育とか放送技術の研究にはきちんと投資すべきと思ってるから，きちんと社会人をやっていく段階になったときに受信料支払いは必要だと思うけども，そうじゃない若者やら単身者をターゲットにして小金稼ぎしようとする姿勢はマジで許せん",
+      "id": "1349618618682621953",
+      "source": "TweetDeck"
     },
     {
-      "id": "1349617773442285568",
-      "created_at": "2021-01-14T07:22:06.000Z",
-      "text": "日本人の１３割がNHKの契約を断る口実としてあいぽんを選んでるらしいね",
-      "reply_settings": "everyone",
-      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "in_reply_to_user_id": "707346268821913600",
+      "created_at": "2021-01-14T07:23:00.000Z",
       "conversation_id": "1349617773442285568",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
-        "reply_count": 1,
+        "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
+      "text": "なんの説明もせずこれ書いてってボード渡されてマジでビビったんやけど，何？",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1349617773442285568"
+        }
+      ],
+      "id": "1349617999829901312",
+      "source": "TweetDeck"
+    },
+    {
       "possibly_sensitive": false,
-      "author_id": "707346268821913600",
       "context_annotations": [
         {
           "domain": {
@@ -613,6 +600,8 @@
           }
         }
       ],
+      "created_at": "2021-01-14T07:22:06.000Z",
+      "conversation_id": "1349617773442285568",
       "entities": {
         "annotations": [
           {
@@ -623,39 +612,37 @@
             "normalized_text": "NHK"
           }
         ]
-      }
+      },
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "日本人の１３割がNHKの契約を断る口実としてあいぽんを選んでるらしいね",
+      "id": "1349617773442285568",
+      "source": "TweetDeck"
     },
     {
-      "id": "1349602079019470850",
+      "possibly_sensitive": false,
       "created_at": "2021-01-14T06:19:44.000Z",
-      "text": "ただでさえ人が死ぬかもしれない映画なのに………………………(一つの時代が終わるため)",
-      "reply_settings": "everyone",
-      "source": "Twitter for iPhone",
       "conversation_id": "1349602079019470850",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
+      "text": "ただでさえ人が死ぬかもしれない映画なのに………………………(一つの時代が終わるため)",
+      "id": "1349602079019470850",
+      "source": "Twitter for iPhone"
     },
     {
-      "id": "1349601922160885760",
-      "created_at": "2021-01-14T06:19:07.000Z",
-      "text": "エヴァ延期しろ庵野",
-      "reply_settings": "everyone",
-      "source": "Twitter for iPhone",
-      "conversation_id": "1349601922160885760",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 1
-      },
       "possibly_sensitive": false,
-      "author_id": "707346268821913600",
       "context_annotations": [
         {
           "domain": {
@@ -670,6 +657,8 @@
           }
         }
       ],
+      "created_at": "2021-01-14T06:19:07.000Z",
+      "conversation_id": "1349601922160885760",
       "entities": {
         "annotations": [
           {
@@ -680,71 +669,69 @@
             "normalized_text": "庵野"
           }
         ]
-      }
-    },
-    {
-      "id": "1349570099452080131",
-      "created_at": "2021-01-14T04:12:40.000Z",
-      "text": "天才なので誰からも理解されなのか，狂人すぎて生きる世界が違うのか，たんなる頓珍漢なのか",
-      "reply_settings": "everyone",
-      "source": "TweetDeck",
-      "conversation_id": "1349570099452080131",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
       },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
-    },
-    {
-      "id": "1349569818387628035",
-      "created_at": "2021-01-14T04:11:33.000Z",
-      "text": "いやそれは誰でもできるんスよ，既に仕様が公開されてるから………俺はベンダーじゃなくてただの学生バイトなのでもっと萌芽を見てくれ…………",
-      "reply_settings": "everyone",
-      "source": "TweetDeck",
-      "conversation_id": "1349569818387628035",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
-    },
-    {
-      "id": "1349569622098419713",
-      "created_at": "2021-01-14T04:10:46.000Z",
-      "text": "上司ッ！！！！！！！！！！！！！！！！！！！！！",
-      "reply_settings": "everyone",
-      "source": "TweetDeck",
-      "conversation_id": "1349569622098419713",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
-    },
-    {
-      "id": "1349533031476850693",
-      "created_at": "2021-01-14T01:45:22.000Z",
-      "text": "相変わらずタイムマネジメントがクソになっていてアだけれど，それでも少しずつGitが使えるようになってきていたり，脳内をGithubにアウトソースして生活するのがいい感じに動作できている，ホントに時間管理と集中力管理だけできればあとは鉄人なんやが…",
-      "reply_settings": "everyone",
-      "source": "TweetDeck",
-      "conversation_id": "1349533031476850693",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "possibly_sensitive": false,
       "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "text": "エヴァ延期しろ庵野",
+      "id": "1349601922160885760",
+      "source": "Twitter for iPhone"
+    },
+    {
+      "possibly_sensitive": false,
+      "created_at": "2021-01-14T04:12:40.000Z",
+      "conversation_id": "1349570099452080131",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "天才なので誰からも理解されなのか，狂人すぎて生きる世界が違うのか，たんなる頓珍漢なのか",
+      "id": "1349570099452080131",
+      "source": "TweetDeck"
+    },
+    {
+      "possibly_sensitive": false,
+      "created_at": "2021-01-14T04:11:33.000Z",
+      "conversation_id": "1349569818387628035",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "いやそれは誰でもできるんスよ，既に仕様が公開されてるから………俺はベンダーじゃなくてただの学生バイトなのでもっと萌芽を見てくれ…………",
+      "id": "1349569818387628035",
+      "source": "TweetDeck"
+    },
+    {
+      "possibly_sensitive": false,
+      "created_at": "2021-01-14T04:10:46.000Z",
+      "conversation_id": "1349569622098419713",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "上司ッ！！！！！！！！！！！！！！！！！！！！！",
+      "id": "1349569622098419713",
+      "source": "TweetDeck"
+    },
+    {
+      "possibly_sensitive": false,
       "context_annotations": [
         {
           "domain": {
@@ -804,6 +791,8 @@
           }
         }
       ],
+      "created_at": "2021-01-14T01:45:22.000Z",
+      "conversation_id": "1349533031476850693",
       "entities": {
         "annotations": [
           {
@@ -814,23 +803,23 @@
             "normalized_text": "Github"
           }
         ]
-      }
-    },
-    {
-      "id": "1349532557562417153",
-      "created_at": "2021-01-14T01:43:29.000Z",
-      "text": "webpack が v5 になってたり，eslint と prettierの連携は解消するべきって潮流にまた変わってたり，フロントエンドに身を置くのはちょっと辞めたほうが良さそう，半年に一回くらいの割合で週末潰して全部学び直すくらいの体力がないとすぐ死ぬ",
+      },
+      "author_id": "707346268821913600",
       "reply_settings": "everyone",
-      "source": "TweetDeck",
-      "conversation_id": "1349532557562417153",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
-        "like_count": 1,
+        "like_count": 0,
         "quote_count": 0
       },
+      "text": "相変わらずタイムマネジメントがクソになっていてアだけれど，それでも少しずつGitが使えるようになってきていたり，脳内をGithubにアウトソースして生活するのがいい感じに動作できている，ホントに時間管理と集中力管理だけできればあとは鉄人なんやが…",
+      "id": "1349533031476850693",
+      "source": "TweetDeck"
+    },
+    {
       "possibly_sensitive": false,
-      "author_id": "707346268821913600",
+      "created_at": "2021-01-14T01:43:29.000Z",
+      "conversation_id": "1349532557562417153",
       "entities": {
         "annotations": [
           {
@@ -841,21 +830,32 @@
             "normalized_text": "webpack"
           }
         ]
-      }
+      },
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "webpack が v5 になってたり，eslint と prettierの連携は解消するべきって潮流にまた変わってたり，フロントエンドに身を置くのはちょっと辞めたほうが良さそう，半年に一回くらいの割合で週末潰して全部学び直すくらいの体力がないとすぐ死ぬ",
+      "id": "1349532557562417153",
+      "source": "TweetDeck"
     },
     {
-      "id": "1349531550577094658",
+      "possibly_sensitive": false,
       "created_at": "2021-01-14T01:39:29.000Z",
-      "text": "何をトチ狂ったかNeutrinoとかいう †Tool chain† を使ってみているのだけれど，ひたすらつらい日々が続いていた（webpack v4からv5へのmigrateをやっています）\n\ncf. https://t.co/yecZpY01IE\ncf. https://t.co/7LDQHFD3Qr",
-      "reply_settings": "everyone",
-      "source": "TweetDeck",
       "conversation_id": "1349531550577094658",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
+      "text": "何をトチ狂ったかNeutrinoとかいう †Tool chain† を使ってみているのだけれど，ひたすらつらい日々が続いていた（webpack v4からv5へのmigrateをやっています）\n\ncf. https://t.co/yecZpY01IE\ncf. https://t.co/7LDQHFD3Qr",
       "entities": {
         "urls": [
           {
@@ -878,42 +878,11 @@
           }
         ]
       },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
+      "id": "1349531550577094658",
+      "source": "TweetDeck"
     },
     {
-      "id": "1349529108644917248",
-      "entities": {
-        "hashtags": [
-          {
-            "start": 46,
-            "end": 59,
-            "tag": "DEVCommunity"
-          }
-        ],
-        "urls": [
-          {
-            "start": 60,
-            "end": 83,
-            "url": "https://t.co/xJu70Lt0dy",
-            "expanded_url": "https://dev.to/couchcamote/git-branching-name-convention-cch",
-            "display_url": "dev.to/couchcamote/gi…"
-          }
-        ]
-      },
-      "created_at": "2021-01-14T01:29:47.000Z",
-      "text": "\"Git Branch Naming Convention\" by couchcamote #DEVCommunity https://t.co/xJu70Lt0dy \n\ngitわかってきた",
-      "reply_settings": "everyone",
-      "source": "Twitter Web App",
-      "conversation_id": "1349529108644917248",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
       "possibly_sensitive": false,
-      "author_id": "707346268821913600",
       "context_annotations": [
         {
           "domain": {
@@ -939,20 +908,40 @@
             "description": "Computer programming"
           }
         }
-      ]
+      ],
+      "created_at": "2021-01-14T01:29:47.000Z",
+      "conversation_id": "1349529108644917248",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "\"Git Branch Naming Convention\" by couchcamote #DEVCommunity https://t.co/xJu70Lt0dy \n\ngitわかってきた",
+      "entities": {
+        "urls": [
+          {
+            "start": 60,
+            "end": 83,
+            "url": "https://t.co/xJu70Lt0dy",
+            "expanded_url": "https://dev.to/couchcamote/git-branching-name-convention-cch",
+            "display_url": "dev.to/couchcamote/gi…"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 46,
+            "end": 59,
+            "tag": "DEVCommunity"
+          }
+        ]
+      },
+      "id": "1349529108644917248",
+      "source": "Twitter Web App"
     },
     {
-      "id": "1349521871591464962",
-      "created_at": "2021-01-14T01:01:01.000Z",
-      "referenced_tweets": [
-        {
-          "type": "retweeted",
-          "id": "1349299665917730819"
-        }
-      ],
-      "text": "RT @puchiba52: 「オカンが前見たスパイダーマンの映画がどれか思い出せんらしいねん」\n「ほな俺が一緒に考えてあげるからどんな特徴言ってたか教えて」",
-      "reply_settings": "everyone",
-      "source": "Twitter for iPhone",
       "entities": {
         "mentions": [
           {
@@ -971,15 +960,7 @@
           }
         ]
       },
-      "conversation_id": "1349521871591464962",
-      "public_metrics": {
-        "retweet_count": 22360,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
       "possibly_sensitive": false,
-      "author_id": "707346268821913600",
       "context_annotations": [
         {
           "domain": {
@@ -1005,23 +986,29 @@
             "description": "Spider-Man"
           }
         }
-      ]
-    },
-    {
-      "id": "1349520881664442369",
-      "created_at": "2021-01-14T00:57:05.000Z",
-      "text": "バーガー！",
+      ],
+      "created_at": "2021-01-14T01:01:01.000Z",
+      "conversation_id": "1349521871591464962",
+      "author_id": "707346268821913600",
       "reply_settings": "everyone",
-      "source": "Twitter for iPhone",
-      "conversation_id": "1349520881664442369",
       "public_metrics": {
-        "retweet_count": 0,
+        "retweet_count": 22369,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
+      "text": "RT @puchiba52: 「オカンが前見たスパイダーマンの映画がどれか思い出せんらしいねん」\n「ほな俺が一緒に考えてあげるからどんな特徴言ってたか教えて」",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1349299665917730819"
+        }
+      ],
+      "id": "1349521871591464962",
+      "source": "Twitter for iPhone"
+    },
+    {
       "possibly_sensitive": false,
-      "author_id": "707346268821913600",
       "context_annotations": [
         {
           "domain": {
@@ -1047,23 +1034,23 @@
             "description": "Hamburgers"
           }
         }
-      ]
+      ],
+      "created_at": "2021-01-14T00:57:05.000Z",
+      "conversation_id": "1349520881664442369",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "バーガー！",
+      "id": "1349520881664442369",
+      "source": "Twitter for iPhone"
     },
     {
-      "attachments": {
-        "media_keys": [
-          "3_1349326643773403136"
-        ]
-      },
-      "id": "1349520651007086593",
       "entities": {
-        "hashtags": [
-          {
-            "start": 16,
-            "end": 24,
-            "tag": "チェンソーマン"
-          }
-        ],
         "mentions": [
           {
             "start": 3,
@@ -1079,27 +1066,16 @@
             "expanded_url": "https://twitter.com/marymushii/status/1349327729720639495/photo/1",
             "display_url": "pic.twitter.com/lLXDlnKinz"
           }
+        ],
+        "hashtags": [
+          {
+            "start": 16,
+            "end": 24,
+            "tag": "チェンソーマン"
+          }
         ]
       },
-      "created_at": "2021-01-14T00:56:10.000Z",
-      "referenced_tweets": [
-        {
-          "type": "retweeted",
-          "id": "1349327729720639495"
-        }
-      ],
-      "text": "RT @marymushii: #チェンソーマン　生姜焼きバーガー　5課の皆ファミリーの制服が似合う https://t.co/lLXDlnKinz",
-      "reply_settings": "everyone",
-      "source": "Twitter for iPhone",
-      "conversation_id": "1349520651007086593",
-      "public_metrics": {
-        "retweet_count": 412,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
       "possibly_sensitive": false,
-      "author_id": "707346268821913600",
       "context_annotations": [
         {
           "domain": {
@@ -1136,23 +1112,34 @@
             "description": "Hamburgers"
           }
         }
-      ]
-    },
-    {
-      "id": "1349516683841421314",
-      "created_at": "2021-01-14T00:40:24.000Z",
-      "text": "フロントエンドのいい記事だな～～～～って思ってみるとだいたい竹馬だし機械学習のいい記事だな～～～～って思ってみると一人鍋エンジニア（いつもお世話になっております）",
+      ],
+      "created_at": "2021-01-14T00:56:10.000Z",
+      "conversation_id": "1349520651007086593",
+      "author_id": "707346268821913600",
       "reply_settings": "everyone",
-      "source": "TweetDeck",
-      "conversation_id": "1349516683841421314",
       "public_metrics": {
-        "retweet_count": 0,
+        "retweet_count": 415,
         "reply_count": 0,
-        "like_count": 1,
+        "like_count": 0,
         "quote_count": 0
       },
+      "text": "RT @marymushii: #チェンソーマン　生姜焼きバーガー　5課の皆ファミリーの制服が似合う https://t.co/lLXDlnKinz",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1349327729720639495"
+        }
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1349326643773403136"
+        ]
+      },
+      "id": "1349520651007086593",
+      "source": "Twitter for iPhone"
+    },
+    {
       "possibly_sensitive": false,
-      "author_id": "707346268821913600",
       "context_annotations": [
         {
           "domain": {
@@ -1178,39 +1165,39 @@
             "description": "Machine Learning"
           }
         }
-      ]
-    },
-    {
-      "id": "1349486041338503170",
-      "created_at": "2021-01-13T22:38:39.000Z",
-      "text": "おはようございます\n\n本日の目標はタイムマネジメントをやっていくことですよろしくおねがいします．",
-      "reply_settings": "everyone",
-      "source": "TweetDeck",
-      "conversation_id": "1349486041338503170",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
-    },
-    {
-      "id": "1349376155971854339",
-      "created_at": "2021-01-13T15:22:00.000Z",
-      "text": "エヴァ、夏に見たいが？",
-      "reply_settings": "everyone",
-      "source": "Twitter for iPhone",
-      "conversation_id": "1349376155971854339",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "possibly_sensitive": false,
+      ],
+      "created_at": "2021-01-14T00:40:24.000Z",
+      "conversation_id": "1349516683841421314",
       "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "フロントエンドのいい記事だな～～～～って思ってみるとだいたい竹馬だし機械学習のいい記事だな～～～～って思ってみると一人鍋エンジニア（いつもお世話になっております）",
+      "id": "1349516683841421314",
+      "source": "TweetDeck"
+    },
+    {
+      "possibly_sensitive": false,
+      "created_at": "2021-01-13T22:38:39.000Z",
+      "conversation_id": "1349486041338503170",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "おはようございます\n\n本日の目標はタイムマネジメントをやっていくことですよろしくおねがいします．",
+      "id": "1349486041338503170",
+      "source": "TweetDeck"
+    },
+    {
+      "possibly_sensitive": false,
       "context_annotations": [
         {
           "domain": {
@@ -1225,6 +1212,8 @@
           }
         }
       ],
+      "created_at": "2021-01-13T15:22:00.000Z",
+      "conversation_id": "1349376155971854339",
       "entities": {
         "annotations": [
           {
@@ -1235,32 +1224,33 @@
             "normalized_text": "エヴァ"
           }
         ]
-      }
+      },
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "エヴァ、夏に見たいが？",
+      "id": "1349376155971854339",
+      "source": "Twitter for iPhone"
     },
     {
-      "id": "1349374685406846978",
+      "possibly_sensitive": false,
       "in_reply_to_user_id": "707346268821913600",
       "created_at": "2021-01-13T15:16:09.000Z",
-      "referenced_tweets": [
-        {
-          "type": "quoted",
-          "id": "1349370966145724416"
-        },
-        {
-          "type": "replied_to",
-          "id": "1349009846004305921"
-        }
-      ],
-      "text": "だんだんアベレージが上がってきているのと、これでもまだテスト切る習慣は付けられていないので、もっと細かくステップ踏めるようになりたいね https://t.co/eVdxdmH5bM",
-      "reply_settings": "everyone",
-      "source": "Twitter for iPhone",
       "conversation_id": "1345020610875777024",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 1,
         "like_count": 0,
         "quote_count": 0
       },
+      "text": "だんだんアベレージが上がってきているのと、これでもまだテスト切る習慣は付けられていないので、もっと細かくステップ踏めるようになりたいね https://t.co/eVdxdmH5bM",
       "entities": {
         "urls": [
           {
@@ -1272,11 +1262,32 @@
           }
         ]
       },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1349370966145724416"
+        },
+        {
+          "type": "replied_to",
+          "id": "1349009846004305921"
+        }
+      ],
+      "id": "1349374685406846978",
+      "source": "Twitter for iPhone"
     },
     {
-      "id": "1349370966145724416",
+      "possibly_sensitive": false,
+      "created_at": "2021-01-13T15:01:23.000Z",
+      "conversation_id": "1349370966145724416",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "text": "Ningensei848 さんの 2021/01/13 の contribution 数: 10\n #contributter_report",
       "entities": {
         "hashtags": [
           {
@@ -1286,40 +1297,28 @@
           }
         ]
       },
-      "created_at": "2021-01-13T15:01:23.000Z",
-      "text": "Ningensei848 さんの 2021/01/13 の contribution 数: 10\n #contributter_report",
-      "reply_settings": "everyone",
-      "source": "contributter",
-      "conversation_id": "1349370966145724416",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 1
-      },
-      "possibly_sensitive": false,
-      "author_id": "707346268821913600"
+      "id": "1349370966145724416",
+      "source": "contributter"
     }
   ],
   "includes": {
     "users": [
       {
-        "location": "山梨県→茨城県つくば市",
-        "id": "707346268821913600",
-        "name": "きあい🌒",
-        "url": "https://t.co/KBXT0N3eAa",
-        "pinned_tweet_id": "1345020610875777024",
         "verified": false,
-        "created_at": "2016-03-08T23:24:27.000Z",
-        "description": "やる：電気工事士2種＆応用情報技術者試験，つくる：検索しやすいSPARQLのサービス",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
         "public_metrics": {
           "followers_count": 731,
           "following_count": 987,
-          "tweet_count": 57918,
+          "tweet_count": 57919,
           "listed_count": 22
         },
+        "url": "https://t.co/KBXT0N3eAa",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "description": "やる：電気工事士2種＆応用情報技術者試験，つくる：検索しやすいSPARQLのサービス",
+        "pinned_tweet_id": "1345020610875777024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
         "username": "Ningensei848",
+        "name": "きあい🌒",
+        "location": "山梨県→茨城県つくば市",
         "entities": {
           "url": {
             "urls": [
@@ -1333,25 +1332,25 @@
             ]
           }
         },
+        "id": "707346268821913600",
         "protected": false
       },
       {
-        "location": "OKB Zero",
-        "id": "1949006058",
-        "name": "真𝕊𝕂𝕌𝕃𝕃𝟛𝟙𝟘",
-        "url": "",
-        "pinned_tweet_id": "1306237957754351618",
         "verified": false,
-        "created_at": "2013-10-09T10:45:39.000Z",
-        "description": "TOMORROW IS IN YOUR HANDS.僕の体の30%は小島ゲーム、30%は特撮、30%は銃で出来ている。無言フォローにご用心。サバゲー用垢作りました→ @heyho310",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1344794519758229504/-9ZhfllN_normal.jpg",
         "public_metrics": {
           "followers_count": 455,
           "following_count": 866,
           "tweet_count": 17038,
           "listed_count": 2
         },
+        "url": "",
+        "created_at": "2013-10-09T10:45:39.000Z",
+        "description": "TOMORROW IS IN YOUR HANDS.僕の体の30%は小島ゲーム、30%は特撮、30%は銃で出来ている。無言フォローにご用心。サバゲー用垢作りました→ @heyho310",
+        "pinned_tweet_id": "1306237957754351618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344794519758229504/-9ZhfllN_normal.jpg",
         "username": "skull310_sin",
+        "name": "真𝕊𝕂𝕌𝕃𝕃𝟛𝟙𝟘",
+        "location": "OKB Zero",
         "entities": {
           "description": {
             "mentions": [
@@ -1363,24 +1362,24 @@
             ]
           }
         },
+        "id": "1949006058",
         "protected": false
       },
       {
-        "id": "259194126",
-        "name": "株式会社カラー",
-        "url": "https://t.co/a8OW0TJ7Ut",
-        "pinned_tweet_id": "1349657916349972481",
         "verified": true,
-        "created_at": "2011-03-01T10:14:12.000Z",
-        "description": "株式会社カラー公式アカウントです。 『エヴァンゲリオン』シリーズをはじめスタジオカラー作品や所属スタッフの最新情報などをお知らせします。\n カラー2号機＠khara_inc2\n エヴァンゲリオンシリーズ公式@evangelion_co",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/864773601462861825/fMH9kIEI_normal.jpg",
         "public_metrics": {
-          "followers_count": 165434,
+          "followers_count": 165504,
           "following_count": 15,
           "tweet_count": 5882,
           "listed_count": 2022
         },
+        "url": "https://t.co/a8OW0TJ7Ut",
+        "created_at": "2011-03-01T10:14:12.000Z",
+        "description": "株式会社カラー公式アカウントです。 『エヴァンゲリオン』シリーズをはじめスタジオカラー作品や所属スタッフの最新情報などをお知らせします。\n カラー2号機＠khara_inc2\n エヴァンゲリオンシリーズ公式@evangelion_co",
+        "pinned_tweet_id": "1349657916349972481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/864773601462861825/fMH9kIEI_normal.jpg",
         "username": "khara_inc",
+        "name": "株式会社カラー",
         "entities": {
           "url": {
             "urls": [
@@ -1408,25 +1407,25 @@
             ]
           }
         },
+        "id": "259194126",
         "protected": false
       },
       {
-        "location": "Tokyo",
-        "id": "1023777982853181440",
-        "name": "科学計算総合研究所 (RICOS Co.Ltd.)",
-        "url": "https://t.co/1haZsKyxJc",
-        "pinned_tweet_id": "1349637909855535106",
         "verified": false,
-        "created_at": "2018-07-30T03:51:06.000Z",
-        "description": "株式会社科学計算総合研究所（RICOS Co. Ltd.）の公式アカウントです。\n製造業の設計プロセスの自動化を目指して技術開発を進めています。学会・論文・イベント等の企業活動情報をお知らせします。\n\nCAE/CAD/機械学習/FEM/CFD/計算機/HPC/FrontISTR",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1039143265113595909/6Y2IGQea_normal.jpg",
         "public_metrics": {
-          "followers_count": 1207,
+          "followers_count": 1208,
           "following_count": 1092,
           "tweet_count": 72,
           "listed_count": 11
         },
+        "url": "https://t.co/1haZsKyxJc",
+        "created_at": "2018-07-30T03:51:06.000Z",
+        "description": "株式会社科学計算総合研究所（RICOS Co. Ltd.）の公式アカウントです。\n製造業の設計プロセスの自動化を目指して技術開発を進めています。学会・論文・イベント等の企業活動情報をお知らせします。\n\nCAE/CAD/機械学習/FEM/CFD/計算機/HPC/FrontISTR",
+        "pinned_tweet_id": "1349637909855535106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1039143265113595909/6Y2IGQea_normal.jpg",
         "username": "RICOS_ltd",
+        "name": "科学計算総合研究所 (RICOS Co.Ltd.)",
+        "location": "Tokyo",
         "entities": {
           "url": {
             "urls": [
@@ -1440,44 +1439,44 @@
             ]
           }
         },
+        "id": "1023777982853181440",
         "protected": false
       },
       {
-        "location": "Ramuh",
-        "id": "86547051",
-        "name": "noon🐥",
-        "url": "",
-        "pinned_tweet_id": "1337038070055542786",
         "verified": false,
-        "created_at": "2009-10-31T15:28:04.000Z",
-        "description": "やぁみんな。ショービジネス青魔おじさんだよ。\nたいていゲームしてるかプログラム書いてるけど、筋金入りのYAOI shipperだよ。\nRFA運動負荷一桁部OB、RFA世界設定捏造部所属",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1324757837407428608/XlNA1l_y_normal.jpg",
         "public_metrics": {
           "followers_count": 1570,
           "following_count": 543,
           "tweet_count": 260701,
           "listed_count": 96
         },
+        "url": "",
+        "created_at": "2009-10-31T15:28:04.000Z",
+        "description": "やぁみんな。ショービジネス青魔おじさんだよ。\nたいていゲームしてるかプログラム書いてるけど、筋金入りのYAOI shipperだよ。\nRFA運動負荷一桁部OB、RFA世界設定捏造部所属",
+        "pinned_tweet_id": "1337038070055542786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1324757837407428608/XlNA1l_y_normal.jpg",
         "username": "noonworks",
+        "name": "noon🐥",
+        "location": "Ramuh",
+        "id": "86547051",
         "protected": false
       },
       {
-        "location": "関西",
-        "id": "1291366420924653570",
-        "name": "プチバヤシ",
-        "url": "https://t.co/W4FPT5dYZC",
-        "pinned_tweet_id": "1323522503877173248",
         "verified": false,
-        "created_at": "2020-08-06T13:32:22.000Z",
-        "description": "主にアメコミ。成人済み。ガンガン絡んで頂けると喜ぶ。アメコミは映画と邦訳を追ってます（DCもマーベルも）。アイコンはArtgermさんにコミッションで描いてもらったパワーガールです。 無言フォローやリムーブ等好きにしてください。プロフカードにマシュマロと質問箱と雑な履修作品メモ",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1291371774278397953/4-Je0URt_normal.jpg",
         "public_metrics": {
           "followers_count": 686,
           "following_count": 1006,
-          "tweet_count": 10831,
+          "tweet_count": 10841,
           "listed_count": 5
         },
+        "url": "https://t.co/W4FPT5dYZC",
+        "created_at": "2020-08-06T13:32:22.000Z",
+        "description": "主にアメコミ。成人済み。ガンガン絡んで頂けると喜ぶ。アメコミは映画と邦訳を追ってます（DCもマーベルも）。アイコンはArtgermさんにコミッションで描いてもらったパワーガールです。 無言フォローやリムーブ等好きにしてください。プロフカードにマシュマロと質問箱と雑な履修作品メモ",
+        "pinned_tweet_id": "1323522503877173248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291371774278397953/4-Je0URt_normal.jpg",
         "username": "puchiba52",
+        "name": "プチバヤシ",
+        "location": "関西",
         "entities": {
           "url": {
             "urls": [
@@ -1491,106 +1490,48 @@
             ]
           }
         },
+        "id": "1291366420924653570",
         "protected": false
       },
       {
-        "location": "ﾃﾞﾝｼﾞｶﾜｲｲ星",
-        "id": "3073760029",
-        "name": "mrms瑪栗蟲",
-        "url": "",
-        "pinned_tweet_id": "1344509617980641280",
         "verified": false,
-        "created_at": "2015-03-11T20:09:19.000Z",
-        "description": "doodles/fanarts/learning 3D/sometimes NSFW/\nチェンソーマンCSM FATE etc.\n20↑ BLGLBG👌   FUB free \nENG/中文/日本語",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1302044837726679040/qnHE4Oxv_normal.jpg",
         "public_metrics": {
-          "followers_count": 4236,
+          "followers_count": 4237,
           "following_count": 458,
           "tweet_count": 869,
           "listed_count": 47
         },
+        "url": "",
+        "created_at": "2015-03-11T20:09:19.000Z",
+        "description": "doodles/fanarts/learning 3D/sometimes NSFW/\nチェンソーマンCSM FATE etc.\n20↑ BLGLBG👌   FUB free \nENG/中文/日本語",
+        "pinned_tweet_id": "1344509617980641280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1302044837726679040/qnHE4Oxv_normal.jpg",
         "username": "marymushii",
+        "name": "mrms瑪栗蟲",
+        "location": "ﾃﾞﾝｼﾞｶﾜｲｲ星",
+        "id": "3073760029",
         "protected": false
       }
     ],
     "media": [
       {
         "url": "https://pbs.twimg.com/media/Err4seWVcAEOChT.jpg",
-        "media_key": "3_1349664481295560705",
         "height": 1661,
-        "width": 1680,
-        "type": "photo"
+        "media_key": "3_1349664481295560705",
+        "type": "photo",
+        "width": 1680
       },
       {
         "url": "https://pbs.twimg.com/media/ErnFbvgVcAAinGm.jpg",
-        "media_key": "3_1349326643773403136",
         "height": 1821,
-        "width": 1290,
-        "type": "photo"
+        "media_key": "3_1349326643773403136",
+        "type": "photo",
+        "width": 1290
       }
     ],
     "tweets": [
       {
-        "attachments": {
-          "media_keys": [
-            "3_1349664481295560705"
-          ]
-        },
-        "id": "1349664486718754817",
-        "created_at": "2021-01-14T10:27:43.000Z",
-        "text": "自分含めて、今回のエヴァ延期に対して「まあ、仕方ないよ」って言ってる大半の人達↓ https://t.co/B5yjGNosKy",
-        "reply_settings": "everyone",
-        "source": "Twitter for iPhone",
-        "conversation_id": "1349664486718754817",
-        "public_metrics": {
-          "retweet_count": 4333,
-          "reply_count": 18,
-          "like_count": 12615,
-          "quote_count": 175
-        },
-        "entities": {
-          "urls": [
-            {
-              "start": 41,
-              "end": 64,
-              "url": "https://t.co/B5yjGNosKy",
-              "expanded_url": "https://twitter.com/skull310_sin/status/1349664486718754817/photo/1",
-              "display_url": "pic.twitter.com/B5yjGNosKy"
-            }
-          ]
-        },
         "possibly_sensitive": false,
-        "author_id": "1949006058",
-        "context_annotations": [
-          {
-            "domain": {
-              "id": "130",
-              "name": "Multimedia Franchise",
-              "description": "Franchises which span multiple forms of media like 'Harry Potter'"
-            },
-            "entity": {
-              "id": "1010244637770985472",
-              "name": "Neon Genesis Evangelion",
-              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1349601922160885760",
-        "created_at": "2021-01-14T06:19:07.000Z",
-        "text": "エヴァ延期しろ庵野",
-        "reply_settings": "everyone",
-        "source": "Twitter for iPhone",
-        "conversation_id": "1349601922160885760",
-        "public_metrics": {
-          "retweet_count": 0,
-          "reply_count": 0,
-          "like_count": 0,
-          "quote_count": 1
-        },
-        "possibly_sensitive": false,
-        "author_id": "707346268821913600",
         "context_annotations": [
           {
             "domain": {
@@ -1605,6 +1546,54 @@
             }
           }
         ],
+        "created_at": "2021-01-14T10:27:43.000Z",
+        "conversation_id": "1349664486718754817",
+        "author_id": "1949006058",
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 4337,
+          "reply_count": 18,
+          "like_count": 12619,
+          "quote_count": 175
+        },
+        "text": "自分含めて、今回のエヴァ延期に対して「まあ、仕方ないよ」って言ってる大半の人達↓ https://t.co/B5yjGNosKy",
+        "entities": {
+          "urls": [
+            {
+              "start": 41,
+              "end": 64,
+              "url": "https://t.co/B5yjGNosKy",
+              "expanded_url": "https://twitter.com/skull310_sin/status/1349664486718754817/photo/1",
+              "display_url": "pic.twitter.com/B5yjGNosKy"
+            }
+          ]
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1349664481295560705"
+          ]
+        },
+        "id": "1349664486718754817",
+        "source": "Twitter for iPhone"
+      },
+      {
+        "possibly_sensitive": false,
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "130",
+              "name": "Multimedia Franchise",
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+            },
+            "entity": {
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion",
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)"
+            }
+          }
+        ],
+        "created_at": "2021-01-14T06:19:07.000Z",
+        "conversation_id": "1349601922160885760",
         "entities": {
           "annotations": [
             {
@@ -1615,27 +1604,46 @@
               "normalized_text": "庵野"
             }
           ]
-        }
+        },
+        "author_id": "707346268821913600",
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "text": "エヴァ延期しろ庵野",
+        "id": "1349601922160885760",
+        "source": "Twitter for iPhone"
       },
       {
-        "attachments": {
-          "media_keys": [
-            "3_1349657908800233476"
-          ]
-        },
-        "id": "1349657916349972481",
+        "possibly_sensitive": false,
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "123",
+              "name": "Ongoing News Story",
+              "description": "Ongoing News Stories like 'Brexit'"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
         "created_at": "2021-01-14T10:01:37.000Z",
-        "text": "この度の緊急事態宣言の発出を受け慎重に検討を重ねた結果、感染拡大の収束が最優先であると判断し、1月23日の『シン・エヴァンゲリオン劇場版』公開を自粛し、再延期を決定致しました。\n皆様には再びお待たせしてしまう事となり、誠に申し訳なく、深くお詫び申し上げます。\nhttps://t.co/vO2YOfgbEK https://t.co/cht4OhzBXD",
-        "reply_settings": "everyone",
-        "source": "Twitter Web App",
         "conversation_id": "1349657916349972481",
-        "public_metrics": {
-          "retweet_count": 50610,
-          "reply_count": 815,
-          "like_count": 64621,
-          "quote_count": 8076
-        },
         "entities": {
+          "annotations": [
+            {
+              "start": 54,
+              "end": 67,
+              "probability": 0.7485,
+              "type": "Other",
+              "normalized_text": "シン・エヴァンゲリオン劇場版"
+            }
+          ],
           "urls": [
             {
               "start": 130,
@@ -1667,52 +1675,39 @@
               "expanded_url": "https://twitter.com/khara_inc/status/1349657916349972481/photo/1",
               "display_url": "pic.twitter.com/cht4OhzBXD"
             }
-          ],
-          "annotations": [
-            {
-              "start": 54,
-              "end": 67,
-              "probability": 0.7485,
-              "type": "Other",
-              "normalized_text": "シン・エヴァンゲリオン劇場版"
-            }
           ]
         },
-        "possibly_sensitive": false,
         "author_id": "259194126",
-        "context_annotations": [
-          {
-            "domain": {
-              "id": "123",
-              "name": "Ongoing News Story",
-              "description": "Ongoing News Stories like 'Brexit'"
-            },
-            "entity": {
-              "id": "1220701888179359745",
-              "name": "COVID-19"
-            }
-          }
-        ]
-      },
-      {
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 50619,
+          "reply_count": 816,
+          "like_count": 64662,
+          "quote_count": 8080
+        },
+        "text": "この度の緊急事態宣言の発出を受け慎重に検討を重ねた結果、感染拡大の収束が最優先であると判断し、1月23日の『シン・エヴァンゲリオン劇場版』公開を自粛し、再延期を決定致しました。\n皆様には再びお待たせしてしまう事となり、誠に申し訳なく、深くお詫び申し上げます。\nhttps://t.co/vO2YOfgbEK https://t.co/cht4OhzBXD",
         "attachments": {
           "media_keys": [
-            "7_1349637594338869256"
+            "3_1349657908800233476"
           ]
         },
-        "id": "1349637909855535106",
+        "id": "1349657916349972481",
+        "source": "Twitter Web App"
+      },
+      {
+        "possibly_sensitive": false,
         "created_at": "2021-01-14T08:42:07.000Z",
-        "text": "Webブラウザベースで基本操作が出来る、RICOS Production Suite β版をリリースしました。βテスト期間中は、無償でご利用いただけます。また、βテストが終了しても小規模な問題は無償でご利用いただける予定です。\nこちら（https://t.co/fatpXCxNAF）の「新規登録」から登録できます。 https://t.co/W4MUR38QiL",
-        "reply_settings": "everyone",
-        "source": "Twitter Web App",
         "conversation_id": "1349637909855535106",
-        "public_metrics": {
-          "retweet_count": 62,
-          "reply_count": 1,
-          "like_count": 167,
-          "quote_count": 2
-        },
         "entities": {
+          "annotations": [
+            {
+              "start": 20,
+              "end": 44,
+              "probability": 0.2685,
+              "type": "Other",
+              "normalized_text": "RICOS Production Suite β版"
+            }
+          ],
           "urls": [
             {
               "start": 118,
@@ -1731,51 +1726,43 @@
               "expanded_url": "https://twitter.com/RICOS_ltd/status/1349637909855535106/video/1",
               "display_url": "pic.twitter.com/W4MUR38QiL"
             }
-          ],
-          "annotations": [
-            {
-              "start": 20,
-              "end": 44,
-              "probability": 0.2685,
-              "type": "Other",
-              "normalized_text": "RICOS Production Suite β版"
-            }
           ]
         },
-        "possibly_sensitive": false,
-        "author_id": "1023777982853181440"
+        "author_id": "1023777982853181440",
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 62,
+          "reply_count": 1,
+          "like_count": 167,
+          "quote_count": 2
+        },
+        "text": "Webブラウザベースで基本操作が出来る、RICOS Production Suite β版をリリースしました。βテスト期間中は、無償でご利用いただけます。また、βテストが終了しても小規模な問題は無償でご利用いただける予定です。\nこちら（https://t.co/fatpXCxNAF）の「新規登録」から登録できます。 https://t.co/W4MUR38QiL",
+        "attachments": {
+          "media_keys": [
+            "7_1349637594338869256"
+          ]
+        },
+        "id": "1349637909855535106",
+        "source": "Twitter Web App"
       },
       {
-        "id": "1349382700675710977",
+        "possibly_sensitive": false,
         "created_at": "2021-01-13T15:48:00.000Z",
-        "text": "モルカー2期にはメカモルカー出てきてほしいよね。モルカーに似てるけどモルカーではなく金属などでできた人工物の、人間が操作する自我のない機械で、エサを食べない代わりに油や電気を使って原動機を動かし、原動機の回転を利用して足の位置についた輪を高速回転させることで進む乗り物の……",
-        "reply_settings": "everyone",
-        "source": "Twitter for Android",
         "conversation_id": "1349382700675710977",
+        "author_id": "86547051",
+        "reply_settings": "everyone",
         "public_metrics": {
-          "retweet_count": 115,
+          "retweet_count": 116,
           "reply_count": 1,
-          "like_count": 153,
+          "like_count": 154,
           "quote_count": 0
         },
-        "possibly_sensitive": false,
-        "author_id": "86547051"
+        "text": "モルカー2期にはメカモルカー出てきてほしいよね。モルカーに似てるけどモルカーではなく金属などでできた人工物の、人間が操作する自我のない機械で、エサを食べない代わりに油や電気を使って原動機を動かし、原動機の回転を利用して足の位置についた輪を高速回転させることで進む乗り物の……",
+        "id": "1349382700675710977",
+        "source": "Twitter for Android"
       },
       {
-        "id": "1349617773442285568",
-        "created_at": "2021-01-14T07:22:06.000Z",
-        "text": "日本人の１３割がNHKの契約を断る口実としてあいぽんを選んでるらしいね",
-        "reply_settings": "everyone",
-        "source": "TweetDeck",
-        "conversation_id": "1349617773442285568",
-        "public_metrics": {
-          "retweet_count": 0,
-          "reply_count": 1,
-          "like_count": 0,
-          "quote_count": 0
-        },
         "possibly_sensitive": false,
-        "author_id": "707346268821913600",
         "context_annotations": [
           {
             "domain": {
@@ -1801,6 +1788,8 @@
             }
           }
         ],
+        "created_at": "2021-01-14T07:22:06.000Z",
+        "conversation_id": "1349617773442285568",
         "entities": {
           "annotations": [
             {
@@ -1811,23 +1800,21 @@
               "normalized_text": "NHK"
             }
           ]
-        }
+        },
+        "author_id": "707346268821913600",
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "text": "日本人の１３割がNHKの契約を断る口実としてあいぽんを選んでるらしいね",
+        "id": "1349617773442285568",
+        "source": "TweetDeck"
       },
       {
-        "id": "1349299665917730819",
-        "created_at": "2021-01-13T10:18:03.000Z",
-        "text": "「オカンが前見たスパイダーマンの映画がどれか思い出せんらしいねん」\n「ほな俺が一緒に考えてあげるからどんな特徴言ってたか教えて」",
-        "reply_settings": "everyone",
-        "source": "Twitter Web App",
-        "conversation_id": "1349299665917730819",
-        "public_metrics": {
-          "retweet_count": 22360,
-          "reply_count": 75,
-          "like_count": 85094,
-          "quote_count": 599
-        },
         "possibly_sensitive": false,
-        "author_id": "1291366420924653570",
         "context_annotations": [
           {
             "domain": {
@@ -1854,6 +1841,8 @@
             }
           }
         ],
+        "created_at": "2021-01-13T10:18:03.000Z",
+        "conversation_id": "1349299665917730819",
         "entities": {
           "annotations": [
             {
@@ -1864,46 +1853,21 @@
               "normalized_text": "スパイダーマン"
             }
           ]
-        }
+        },
+        "author_id": "1291366420924653570",
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 22369,
+          "reply_count": 75,
+          "like_count": 85162,
+          "quote_count": 599
+        },
+        "text": "「オカンが前見たスパイダーマンの映画がどれか思い出せんらしいねん」\n「ほな俺が一緒に考えてあげるからどんな特徴言ってたか教えて」",
+        "id": "1349299665917730819",
+        "source": "Twitter Web App"
       },
       {
-        "attachments": {
-          "media_keys": [
-            "3_1349326643773403136"
-          ]
-        },
-        "id": "1349327729720639495",
-        "entities": {
-          "hashtags": [
-            {
-              "start": 0,
-              "end": 8,
-              "tag": "チェンソーマン"
-            }
-          ],
-          "urls": [
-            {
-              "start": 35,
-              "end": 58,
-              "url": "https://t.co/lLXDlnKinz",
-              "expanded_url": "https://twitter.com/marymushii/status/1349327729720639495/photo/1",
-              "display_url": "pic.twitter.com/lLXDlnKinz"
-            }
-          ]
-        },
-        "created_at": "2021-01-13T12:09:34.000Z",
-        "text": "#チェンソーマン　生姜焼きバーガー　5課の皆ファミリーの制服が似合う https://t.co/lLXDlnKinz",
-        "reply_settings": "everyone",
-        "source": "Twitter Web App",
-        "conversation_id": "1349327729720639495",
-        "public_metrics": {
-          "retweet_count": 412,
-          "reply_count": 5,
-          "like_count": 2262,
-          "quote_count": 11
-        },
         "possibly_sensitive": false,
-        "author_id": "3073760029",
         "context_annotations": [
           {
             "domain": {
@@ -1940,10 +1904,57 @@
               "description": "Hamburgers"
             }
           }
-        ]
+        ],
+        "created_at": "2021-01-13T12:09:34.000Z",
+        "conversation_id": "1349327729720639495",
+        "author_id": "3073760029",
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 415,
+          "reply_count": 5,
+          "like_count": 2264,
+          "quote_count": 11
+        },
+        "text": "#チェンソーマン　生姜焼きバーガー　5課の皆ファミリーの制服が似合う https://t.co/lLXDlnKinz",
+        "entities": {
+          "urls": [
+            {
+              "start": 35,
+              "end": 58,
+              "url": "https://t.co/lLXDlnKinz",
+              "expanded_url": "https://twitter.com/marymushii/status/1349327729720639495/photo/1",
+              "display_url": "pic.twitter.com/lLXDlnKinz"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 0,
+              "end": 8,
+              "tag": "チェンソーマン"
+            }
+          ]
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1349326643773403136"
+          ]
+        },
+        "id": "1349327729720639495",
+        "source": "Twitter Web App"
       },
       {
-        "id": "1349370966145724416",
+        "possibly_sensitive": false,
+        "created_at": "2021-01-13T15:01:23.000Z",
+        "conversation_id": "1349370966145724416",
+        "author_id": "707346268821913600",
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "text": "Ningensei848 さんの 2021/01/13 の contribution 数: 10\n #contributter_report",
         "entities": {
           "hashtags": [
             {
@@ -1953,44 +1964,23 @@
             }
           ]
         },
-        "created_at": "2021-01-13T15:01:23.000Z",
-        "text": "Ningensei848 さんの 2021/01/13 の contribution 数: 10\n #contributter_report",
-        "reply_settings": "everyone",
-        "source": "contributter",
-        "conversation_id": "1349370966145724416",
-        "public_metrics": {
-          "retweet_count": 0,
-          "reply_count": 0,
-          "like_count": 0,
-          "quote_count": 1
-        },
-        "possibly_sensitive": false,
-        "author_id": "707346268821913600"
+        "id": "1349370966145724416",
+        "source": "contributter"
       },
       {
-        "id": "1349009846004305921",
+        "possibly_sensitive": false,
         "in_reply_to_user_id": "707346268821913600",
         "created_at": "2021-01-12T15:06:25.000Z",
-        "referenced_tweets": [
-          {
-            "type": "quoted",
-            "id": "1349008588489027590"
-          },
-          {
-            "type": "replied_to",
-            "id": "1348753808457809920"
-          }
-        ],
-        "text": "ギリギリ滑り込んでコレよ\n\nたぶん継続のために重要なのは、すぐにでもできる軽微なことを敢えて明日にやれるようにしておいて、当日になったら爆速でそれを終わらせることなんじゃないかという気づきが芽生えています https://t.co/Bd23iuYV40",
-        "reply_settings": "everyone",
-        "source": "Twitter for iPhone",
         "conversation_id": "1345020610875777024",
+        "author_id": "707346268821913600",
+        "reply_settings": "everyone",
         "public_metrics": {
           "retweet_count": 0,
           "reply_count": 1,
           "like_count": 0,
           "quote_count": 0
         },
+        "text": "ギリギリ滑り込んでコレよ\n\nたぶん継続のために重要なのは、すぐにでもできる軽微なことを敢えて明日にやれるようにしておいて、当日になったら爆速でそれを終わらせることなんじゃないかという気づきが芽生えています https://t.co/Bd23iuYV40",
         "entities": {
           "urls": [
             {
@@ -2002,8 +1992,18 @@
             }
           ]
         },
-        "possibly_sensitive": false,
-        "author_id": "707346268821913600"
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1349008588489027590"
+          },
+          {
+            "type": "replied_to",
+            "id": "1348753808457809920"
+          }
+        ],
+        "id": "1349009846004305921",
+        "source": "Twitter for iPhone"
       }
     ]
   },
