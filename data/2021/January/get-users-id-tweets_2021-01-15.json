@@ -1,0 +1,1072 @@
+{
+  "data": [
+    {
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 81,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1349936800807075840"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "aslt3238"
+          }
+        ]
+      },
+      "created_at": "2021-01-15T12:00:46.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1350050288049115138",
+      "possibly_sensitive": false,
+      "id": "1350050288049115138",
+      "text": "RT @aslt3238: 今日は定期検診だったのですが…薬が変わりまして…こんな小さくて可愛い座薬からとんでもないモノに…ナニコレ…腸よ鼻よ。にこんなの出てなかったよ泣どうやらお尻にブッ刺してボンベプシューらしいです。しかもステロイドかぁ(  ⌯᷄︎ὢ⌯᷅︎  ) https…"
+    },
+    {
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-15T11:50:53.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1350047803205013506",
+      "possibly_sensitive": false,
+      "id": "1350047803205013506",
+      "text": "今日から俺のツイートの全てがギットハブとかいうサイトに塩漬けされることになっているのに無自覚な不要ツイートばかり"
+    },
+    {
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-15T11:47:54.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1350047053208977409",
+      "possibly_sensitive": false,
+      "id": "1350047053208977409",
+      "text": "うぇぶぱっくとてぃえすこんふぃぐといぃえすりんたぁるしとぷれってぃあぁるしに詳しくなったので勝ちです"
+    },
+    {
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-15T11:44:23.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1350046165157306369",
+      "possibly_sensitive": false,
+      "id": "1350046165157306369",
+      "text": "えっち画像生成のやつ、能動的にサイトへ行ってクリックするオタクが居るからなんか偏ってるんだろうけど、じゃあこれを駅構内に設置して顔認識と視線予測を組み合わせてバケモンインスタレーションにしたらどうなるのか？えっちかどうかはともかくとして、目や輪郭が浮かび上がるようになるのか？"
+    },
+    {
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-15T11:36:33.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1350044194073526278",
+      "possibly_sensitive": false,
+      "id": "1350044194073526278",
+      "text": "何で北が上じゃねぇんだよと思った方、社会を正常に生きているので健やかな生活を送って欲しい　&gt;rt"
+    },
+    {
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 6418,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1349708072025944065"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "rapurann"
+          }
+        ],
+        "urls": [
+          {
+            "start": 33,
+            "end": 56,
+            "url": "https://t.co/S8eHMK0lIA",
+            "expanded_url": "https://twitter.com/rapurann/status/1349708072025944065/photo/1",
+            "display_url": "pic.twitter.com/S8eHMK0lIA"
+          },
+          {
+            "start": 33,
+            "end": 56,
+            "url": "https://t.co/S8eHMK0lIA",
+            "expanded_url": "https://twitter.com/rapurann/status/1349708072025944065/photo/1",
+            "display_url": "pic.twitter.com/S8eHMK0lIA"
+          },
+          {
+            "start": 33,
+            "end": 56,
+            "url": "https://t.co/S8eHMK0lIA",
+            "expanded_url": "https://twitter.com/rapurann/status/1349708072025944065/photo/1",
+            "display_url": "pic.twitter.com/S8eHMK0lIA"
+          }
+        ]
+      },
+      "created_at": "2021-01-15T11:35:24.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1350043906843373569",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "872578743771963392",
+            "name": "Tabletop gaming",
+            "description": "Board Games"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "1146508557044469760",
+            "name": "Mahjong"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "1175097393290735616",
+            "name": "Traditional games",
+            "description": "Traditional tabletop games like poker, chess, and mahjong."
+          }
+        }
+      ],
+      "id": "1350043906843373569",
+      "attachments": {
+        "media_keys": [
+          "3_1349708049938726914",
+          "3_1349708059434577926",
+          "3_1349708068594962439"
+        ]
+      },
+      "text": "RT @rapurann: 届いた！変えた！麻雀牌キーキャップ！ https://t.co/S8eHMK0lIA"
+    },
+    {
+      "source": "TweetDeck",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-15T11:24:43.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1350041218730790913",
+      "possibly_sensitive": false,
+      "id": "1350041218730790913",
+      "text": "苦難の一週間だった（？）"
+    },
+    {
+      "source": "TweetDeck",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-15T11:20:12.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1350040080493158401",
+      "possibly_sensitive": false,
+      "id": "1350040080493158401",
+      "text": "きちんと環境構築するだけで精一杯になってしまう初心者の気持ちになっています"
+    },
+    {
+      "source": "TweetDeck",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-15T04:25:20.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1349935676754595841",
+      "possibly_sensitive": false,
+      "id": "1349935676754595841",
+      "text": "カレーうどんをね，食べたいんだ"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-15T02:55:32.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1349913079425818628",
+      "possibly_sensitive": false,
+      "id": "1349913079425818628",
+      "text": "集まることで個々の価値は減衰こそすれ、打ち消しあってマイナスになるってのは余程悪意を持ってやらないと無理だし、そもそも「集まること」それ自体に価値を見出す人々が集まる傾向もあり…"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-15T02:53:29.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1349912562029142016",
+      "possibly_sensitive": false,
+      "id": "1349912562029142016",
+      "text": "「人が集まると価値が生じる」ことに対して取れる策は、一定以上集まったら価値を徴収する仕組みを作るか、或いはもっと別の集まらなくても価値が生まれるようにするか、な気がしているけれど"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 1168,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1349581228236701697"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "daichi"
+          }
+        ]
+      },
+      "created_at": "2021-01-15T02:51:13.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1349911993042444289",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847529762566230016",
+            "name": "Business and finance",
+            "description": "Business"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "857878521472888832",
+            "name": "Advertising",
+            "description": "Advertising"
+          }
+        }
+      ],
+      "id": "1349911993042444289",
+      "text": "RT @daichi: 陰謀論も、まったく医学的根拠のないデマサイトもなくならないのは、「ファクト関係なく人さえ集めたら儲かる」というネット広告の仕組みが存続してるからなんだよな。この資金供給源をなんとかしない限り、いくらサイトや個人を攻撃したところでまた別のものが現れるだけ。"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-15T01:30:51.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1349891764623036416",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "864925500627484672",
+            "name": "Family and life stages",
+            "description": "Family and Life Stages"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "1092545020932976640",
+            "name": "Caregiving",
+            "description": "Caregiving"
+          }
+        }
+      ],
+      "id": "1349891764623036416",
+      "text": "VRCやってないけどよく見る可愛いアバタ全部頭身低くてジョジってるしケモってるので、上手いことハマれば、もといハメれば性癖異常おじさんが性癖異常おじさんを介護してあげる永久機関が爆誕しそう、もちろん直接的な濃厚接触はないので安全です"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-15T01:26:21.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1349890631682859008",
+      "possibly_sensitive": false,
+      "id": "1349890631682859008",
+      "text": "自動生成されたモザイクから女児を見出し致す小児性愛者、テクノロジが人を救う未来っぽい"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-15T01:25:06.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1349890317328154630",
+      "possibly_sensitive": false,
+      "id": "1349890317328154630",
+      "text": "えっち画像生成が少佐に見える人と綾波に見える人がいます"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1349889334103531522"
+        }
+      ],
+      "in_reply_to_user_id": "707346268821913600",
+      "created_at": "2021-01-15T01:24:31.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1349889334103531522",
+      "possibly_sensitive": false,
+      "id": "1349890174419800066",
+      "text": "男女問わず存在していて、何故か未だ同じ機能を搭載している(分泌物は乳腺の担当なのでここでは除外)"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-15T01:21:11.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1349889334103531522",
+      "possibly_sensitive": false,
+      "id": "1349889334103531522",
+      "text": "集団的無意識下でのエロス、やはり乳首の主張から目を逸らせないらし"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 1757,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1349771105246928897"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "EGFinal_mada"
+          }
+        ],
+        "urls": [
+          {
+            "start": 63,
+            "end": 86,
+            "url": "https://t.co/HsBXvZaFt0",
+            "expanded_url": "https://twitter.com/EGFinal_mada/status/1349771105246928897/photo/1",
+            "display_url": "pic.twitter.com/HsBXvZaFt0"
+          }
+        ]
+      },
+      "created_at": "2021-01-15T01:20:12.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1349889084848627715",
+      "possibly_sensitive": false,
+      "id": "1349889084848627715",
+      "attachments": {
+        "media_keys": [
+          "3_1349771100050210816"
+        ]
+      },
+      "text": "RT @EGFinal_mada: 実物はまだただの肌色の図形なんだけど、これくらい引いて見ると普通に人体に見えてくるな…… https://t.co/HsBXvZaFt0"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-14T23:18:51.000Z",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 12,
+            "probability": 0.3725,
+            "type": "Other",
+            "normalized_text": "one last kiss"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "conversation_id": "1349858549074063361",
+      "possibly_sensitive": false,
+      "id": "1349858549074063361",
+      "text": "one last kiss、はようフルで聴きたい"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1349733349120569348"
+        },
+        {
+          "type": "replied_to",
+          "id": "1349374685406846978"
+        }
+      ],
+      "in_reply_to_user_id": "707346268821913600",
+      "created_at": "2021-01-14T23:14:38.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1345020610875777024",
+      "possibly_sensitive": false,
+      "id": "1349857486400937988",
+      "entities": {
+        "urls": [
+          {
+            "start": 57,
+            "end": 80,
+            "url": "https://t.co/rAocNapMdW",
+            "expanded_url": "https://twitter.com/ningensei848/status/1349733349120569348",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      },
+      "text": "う〜わ、もしかして忘れてたっけと思ったらギリギリやってた、よかったよかった(プロジェクトは亀の歩みなので良くない https://t.co/rAocNapMdW"
+    },
+    {
+      "source": "contributter",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "created_at": "2021-01-14T15:01:21.000Z",
+      "reply_settings": "everyone",
+      "conversation_id": "1349733349120569348",
+      "possibly_sensitive": false,
+      "id": "1349733349120569348",
+      "text": "Ningensei848 さんの 2021/01/14 の contribution 数: 2\n #contributter_report",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      }
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 987,
+          "tweet_count": 57918,
+          "listed_count": 22
+        },
+        "description": "やる：電気工事士2種＆応用情報技術者試験，つくる：検索しやすいSPARQLのサービス",
+        "location": "山梨県→茨城県つくば市",
+        "id": "707346268821913600",
+        "username": "Ningensei848",
+        "pinned_tweet_id": "1345020610875777024",
+        "url": "https://t.co/KBXT0N3eAa",
+        "verified": false,
+        "protected": false,
+        "name": "きあい☀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2016-03-30T14:06:08.000Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1311869701425778689/isL40IHj_normal.jpg",
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 143,
+          "tweet_count": 1216,
+          "listed_count": 0
+        },
+        "description": "元ログレス w4（もうやってません）趣味垢 2bro大好きアニメLiSAFF幻影戦争B'z ケツメイシ 無言フォローごめんなさいm(_ _)m",
+        "id": "715178299878543361",
+        "username": "aslt3238",
+        "pinned_tweet_id": "1317037123195695107",
+        "url": "",
+        "verified": false,
+        "protected": false,
+        "name": "摩利支天"
+      },
+      {
+        "created_at": "2010-03-28T04:32:30.000Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1283073124066459648/SFLnH5wz_normal.jpg",
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 618,
+          "tweet_count": 131656,
+          "listed_count": 24
+        },
+        "description": "グラブル/Splatoon/麻雀/音ゲー　生産力+2",
+        "location": "天鳳スプラタウン",
+        "id": "127129602",
+        "username": "rapurann",
+        "pinned_tweet_id": "873562936689573889",
+        "url": "",
+        "verified": false,
+        "protected": false,
+        "name": "らぷらん"
+      },
+      {
+        "created_at": "2007-04-11T03:42:12.000Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1216364842463817728/zTQOLcea_normal.jpg",
+        "public_metrics": {
+          "followers_count": 21412,
+          "following_count": 1998,
+          "tweet_count": 16162,
+          "listed_count": 1058
+        },
+        "description": "編集者/記者/プロジェクトマネージャー@asahi 朝日新聞コンテンツ編成本部で新しい仕掛け←@BuzzFeedJapanオリジナル編集長←@HuffPostJapan副編集長。技術革新の時代にニュースをどう発信するか。アート、テック、ビジネスを統合し、橋をかける。それが自分のミッションです。サッポロ一番はみそ派です。",
+        "location": "Tokyo",
+        "id": "4118841",
+        "username": "daichi",
+        "pinned_tweet_id": "1323214534983626754",
+        "url": "https://t.co/QUPKnSXjZR",
+        "verified": true,
+        "protected": false,
+        "name": "伊藤 大地 / Daichi ITO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/QUPKnSXjZR",
+                "expanded_url": "http://www.asahi.com",
+                "display_url": "asahi.com"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 19,
+                "end": 25,
+                "username": "asahi"
+              },
+              {
+                "start": 47,
+                "end": 61,
+                "username": "BuzzFeedJapan"
+              },
+              {
+                "start": 70,
+                "end": 84,
+                "username": "HuffPostJapan"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "created_at": "2013-09-29T06:21:49.000Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000522920873/d16bc2dc5509336f4bec725d16bad88f_normal.jpeg",
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 1046,
+          "tweet_count": 88235,
+          "listed_count": 57
+        },
+        "description": "座禅無しでゼン・スピリット。誰でも明鏡止水。+180000／リツイート直後のツイートは必ずしもお前に言っているわけではありません",
+        "location": "Yojimbo",
+        "id": "1916296482",
+        "username": "EGFinal_mada",
+        "pinned_tweet_id": "1341345155945656321",
+        "url": "",
+        "verified": false,
+        "protected": false,
+        "name": "ひまだ"
+      }
+    ],
+    "tweets": [
+      {
+        "source": "Twitter for iPhone",
+        "author_id": "715178299878543361",
+        "public_metrics": {
+          "retweet_count": 81,
+          "reply_count": 8,
+          "like_count": 450,
+          "quote_count": 12
+        },
+        "created_at": "2021-01-15T04:29:48.000Z",
+        "reply_settings": "everyone",
+        "conversation_id": "1349936800807075840",
+        "possibly_sensitive": false,
+        "id": "1349936800807075840",
+        "entities": {
+          "urls": [
+            {
+              "start": 120,
+              "end": 143,
+              "url": "https://t.co/xtXNDgKTnQ",
+              "expanded_url": "https://twitter.com/aslt3238/status/1349936800807075840/photo/1",
+              "display_url": "pic.twitter.com/xtXNDgKTnQ"
+            },
+            {
+              "start": 120,
+              "end": 143,
+              "url": "https://t.co/xtXNDgKTnQ",
+              "expanded_url": "https://twitter.com/aslt3238/status/1349936800807075840/photo/1",
+              "display_url": "pic.twitter.com/xtXNDgKTnQ"
+            },
+            {
+              "start": 120,
+              "end": 143,
+              "url": "https://t.co/xtXNDgKTnQ",
+              "expanded_url": "https://twitter.com/aslt3238/status/1349936800807075840/photo/1",
+              "display_url": "pic.twitter.com/xtXNDgKTnQ"
+            }
+          ]
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1349936795434172416",
+            "3_1349936795576799232",
+            "3_1349936795845226496"
+          ]
+        },
+        "text": "今日は定期検診だったのですが…薬が変わりまして…こんな小さくて可愛い座薬からとんでもないモノに…ナニコレ…腸よ鼻よ。にこんなの出てなかったよ泣どうやらお尻にブッ刺してボンベプシューらしいです。しかもステロイドかぁ(  ⌯᷄︎ὢ⌯᷅︎  ) https://t.co/xtXNDgKTnQ"
+      },
+      {
+        "source": "Twitter for Android",
+        "author_id": "127129602",
+        "public_metrics": {
+          "retweet_count": 6418,
+          "reply_count": 43,
+          "like_count": 18547,
+          "quote_count": 325
+        },
+        "created_at": "2021-01-14T13:20:55.000Z",
+        "reply_settings": "everyone",
+        "conversation_id": "1349708072025944065",
+        "possibly_sensitive": false,
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847868745150119936",
+              "name": "Home & family",
+              "description": "Hobbies and interests"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "872578743771963392",
+              "name": "Tabletop gaming",
+              "description": "Board Games"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "1175097393290735616",
+              "name": "Traditional games",
+              "description": "Traditional tabletop games like poker, chess, and mahjong."
+            }
+          }
+        ],
+        "id": "1349708072025944065",
+        "entities": {
+          "urls": [
+            {
+              "start": 19,
+              "end": 42,
+              "url": "https://t.co/S8eHMK0lIA",
+              "expanded_url": "https://twitter.com/rapurann/status/1349708072025944065/photo/1",
+              "display_url": "pic.twitter.com/S8eHMK0lIA"
+            },
+            {
+              "start": 19,
+              "end": 42,
+              "url": "https://t.co/S8eHMK0lIA",
+              "expanded_url": "https://twitter.com/rapurann/status/1349708072025944065/photo/1",
+              "display_url": "pic.twitter.com/S8eHMK0lIA"
+            },
+            {
+              "start": 19,
+              "end": 42,
+              "url": "https://t.co/S8eHMK0lIA",
+              "expanded_url": "https://twitter.com/rapurann/status/1349708072025944065/photo/1",
+              "display_url": "pic.twitter.com/S8eHMK0lIA"
+            }
+          ]
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1349708049938726914",
+            "3_1349708059434577926",
+            "3_1349708068594962439"
+          ]
+        },
+        "text": "届いた！変えた！麻雀牌キーキャップ！ https://t.co/S8eHMK0lIA"
+      },
+      {
+        "source": "Twitter Web App",
+        "author_id": "4118841",
+        "public_metrics": {
+          "retweet_count": 1168,
+          "reply_count": 12,
+          "like_count": 2887,
+          "quote_count": 48
+        },
+        "created_at": "2021-01-14T04:56:53.000Z",
+        "reply_settings": "everyone",
+        "conversation_id": "1349581228236701697",
+        "possibly_sensitive": false,
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847529762566230016",
+              "name": "Business and finance",
+              "description": "Business"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "857878521472888832",
+              "name": "Advertising",
+              "description": "Advertising"
+            }
+          }
+        ],
+        "id": "1349581228236701697",
+        "text": "陰謀論も、まったく医学的根拠のないデマサイトもなくならないのは、「ファクト関係なく人さえ集めたら儲かる」というネット広告の仕組みが存続してるからなんだよな。この資金供給源をなんとかしない限り、いくらサイトや個人を攻撃したところでまた別のものが現れるだけ。"
+      },
+      {
+        "source": "Twitter for iPhone",
+        "author_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "created_at": "2021-01-15T01:21:11.000Z",
+        "reply_settings": "everyone",
+        "conversation_id": "1349889334103531522",
+        "possibly_sensitive": false,
+        "id": "1349889334103531522",
+        "text": "集団的無意識下でのエロス、やはり乳首の主張から目を逸らせないらし"
+      },
+      {
+        "source": "Twitter for iPhone",
+        "author_id": "1916296482",
+        "public_metrics": {
+          "retweet_count": 1757,
+          "reply_count": 22,
+          "like_count": 4298,
+          "quote_count": 107
+        },
+        "created_at": "2021-01-14T17:31:23.000Z",
+        "reply_settings": "everyone",
+        "conversation_id": "1349771105246928897",
+        "possibly_sensitive": false,
+        "id": "1349771105246928897",
+        "entities": {
+          "urls": [
+            {
+              "start": 45,
+              "end": 68,
+              "url": "https://t.co/HsBXvZaFt0",
+              "expanded_url": "https://twitter.com/EGFinal_mada/status/1349771105246928897/photo/1",
+              "display_url": "pic.twitter.com/HsBXvZaFt0"
+            }
+          ]
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1349771100050210816"
+          ]
+        },
+        "text": "実物はまだただの肌色の図形なんだけど、これくらい引いて見ると普通に人体に見えてくるな…… https://t.co/HsBXvZaFt0"
+      },
+      {
+        "source": "contributter",
+        "author_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "created_at": "2021-01-14T15:01:21.000Z",
+        "reply_settings": "everyone",
+        "conversation_id": "1349733349120569348",
+        "possibly_sensitive": false,
+        "id": "1349733349120569348",
+        "text": "Ningensei848 さんの 2021/01/14 の contribution 数: 2\n #contributter_report",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        }
+      },
+      {
+        "source": "Twitter for iPhone",
+        "author_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1349370966145724416"
+          },
+          {
+            "type": "replied_to",
+            "id": "1349009846004305921"
+          }
+        ],
+        "in_reply_to_user_id": "707346268821913600",
+        "created_at": "2021-01-13T15:16:09.000Z",
+        "reply_settings": "everyone",
+        "conversation_id": "1345020610875777024",
+        "possibly_sensitive": false,
+        "id": "1349374685406846978",
+        "entities": {
+          "urls": [
+            {
+              "start": 68,
+              "end": 91,
+              "url": "https://t.co/eVdxdmH5bM",
+              "expanded_url": "https://twitter.com/ningensei848/status/1349370966145724416",
+              "display_url": "twitter.com/ningensei848/s…"
+            }
+          ]
+        },
+        "text": "だんだんアベレージが上がってきているのと、これでもまだテスト切る習慣は付けられていないので、もっと細かくステップ踏めるようになりたいね https://t.co/eVdxdmH5bM"
+      }
+    ],
+    "media": [
+      {
+        "width": 2048,
+        "height": 1535,
+        "media_key": "3_1349708049938726914",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/ErsgUgMVQAIoa_R.jpg"
+      },
+      {
+        "width": 2048,
+        "height": 1535,
+        "media_key": "3_1349708059434577926",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/ErsgVDkUcAY-0ba.jpg"
+      },
+      {
+        "width": 2048,
+        "height": 1535,
+        "media_key": "3_1349708068594962439",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/ErsgVlsU0AcVbWL.jpg"
+      },
+      {
+        "width": 750,
+        "height": 1213,
+        "media_key": "3_1349771100050210816",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/ErtZqgKUwAAfpFU.jpg"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1349733349120569348",
+    "newest_id": "1350050288049115138",
+    "result_count": 21
+  }
+}
