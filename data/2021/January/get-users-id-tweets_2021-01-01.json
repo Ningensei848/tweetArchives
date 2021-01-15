@@ -1,0 +1,722 @@
+{
+  "data": [
+    {
+      "conversation_id": "1345020610875777024",
+      "created_at": "2021-01-01T14:54:37.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone",
+      "id": "1345020610875777024",
+      "text": "少なくとも一回 commit してたら人権ある日、というルールで自分に勝っていこうと思う in 2021"
+    },
+    {
+      "conversation_id": "1345015946176385024",
+      "created_at": "2021-01-01T14:36:05.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone",
+      "id": "1345015946176385024",
+      "text": "2021年はきちんと草生やしたいわね、テストもしつつ"
+    },
+    {
+      "conversation_id": "1345011113201520641",
+      "created_at": "2021-01-01T14:16:53.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone",
+      "id": "1345011113201520641",
+      "text": "指名券、手持ちの石でW来なかったら腹いせに買います"
+    },
+    {
+      "conversation_id": "1344994401601290241",
+      "created_at": "2021-01-01T13:10:28.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": true,
+      "author_id": "707346268821913600",
+      "source": "TweetDeck",
+      "reply_settings": "everyone",
+      "entities": {
+        "urls": [
+          {
+            "start": 41,
+            "end": 64,
+            "url": "https://t.co/spr6rRuy5r",
+            "expanded_url": "https://adventar.org/calendars/5135",
+            "display_url": "adventar.org/calendars/5135",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1344994404856041472/brAOpU_R?format=png&name=orig",
+                "width": 192,
+                "height": 192
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1344994404856041472/brAOpU_R?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "klis Advent Calendar 2020 - Adventar",
+            "description": "[klis Advent Calendar 2020](https://adventar.org/calendars/5135),おかげさまで多くの方にご参加いただき枠が埋まりました． まだ12月まで時間もありますし，せっかくならということで[第二のklis Advent Calendar 2020](https://adventar.org/calendars/5350)を立てました．ぜひご参加ください． --- 今年でなんと７年目. ラッキーな感じですね. # 概要 現在klisな人，かつてklisだった人，これからklisになる人たちで記事を書きましょう． 本文に「klis」が入っていれば内容は問いません． いろんなklisな人たちからのご参加をお待ちしています． それではお楽しみください． # 参考 過去のカレンダー - [klis 2014](https://adventar.org/calendars/704) - [klis 2015](https://adventar.org/calendars/1005) - [klis 2016](https://adventar.org/calendars/1463) - [klis 2017](https://adventar.org/calendars/2117) - [klis 2018](https://adventar.org/calendars/3293) - [klis 2019](https://adventar.org/calendars/4206) - [klis 2019(2)](https://adventar.org/calendars/4349) # 今年の情報学群カレンダー - [mast 2020](https://adventar.org/calendars/4996) - [klis 2020](https://adventar.org/calendars/5135) - [第二のklis 2020](https://adventar.org/calendars/5350) - [卒業klis超絶雑 Advent Calendar 2020](https://adventar.org/calendars/5404) - [coins 2020](https://adventa",
+            "unwound_url": "https://adventar.org/calendars/5135"
+          }
+        ]
+      },
+      "id": "1344994401601290241",
+      "text": "アドベントカレンダーこそ，寝正月にまとめて読むのが最高の娯楽であると毎年思ってる\nhttps://t.co/spr6rRuy5r"
+    },
+    {
+      "conversation_id": "1344993791774609409",
+      "created_at": "2021-01-01T13:08:03.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "source": "TweetDeck",
+      "reply_settings": "everyone",
+      "id": "1344993791774609409",
+      "text": "毎日のツイートをまとめてリポジトリにブチ込むやつ，ほし"
+    },
+    {
+      "conversation_id": "1344966001482297349",
+      "created_at": "2021-01-01T11:17:37.000Z",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1344960070598107136"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "RKX1209"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone",
+      "id": "1344966001482297349",
+      "text": "RT @RKX1209: このまま行くと「やりたくない事をやらないまま大人になった結果30代過ぎてから何もやる事が無くなってしまう人生」が開始してしまう"
+    },
+    {
+      "conversation_id": "1344846488233381888",
+      "created_at": "2021-01-01T03:22:43.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 6,
+            "probability": 0.848,
+            "type": "Product",
+            "normalized_text": "Twitter"
+          },
+          {
+            "start": 24,
+            "end": 29,
+            "probability": 0.5932,
+            "type": "Product",
+            "normalized_text": "GitHub"
+          },
+          {
+            "start": 80,
+            "end": 85,
+            "probability": 0.7449,
+            "type": "Product",
+            "normalized_text": "GitHub"
+          }
+        ]
+      },
+      "source": "Twitter for iPhone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10045225402",
+            "name": "Twitter"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692468",
+            "name": "GitHub"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1344846488233381888",
+      "text": "Twitterはきっといつか唐突になくなるけど、GitHubは大いなる力によって人類の滅びまで残されるんじゃないかという気付きを得て、2021年のすべての発信はGitHubに蓄積していこうと思います(私信)"
+    },
+    {
+      "conversation_id": "1344822098330468352",
+      "created_at": "2021-01-01T01:45:48.000Z",
+      "attachments": {
+        "media_keys": [
+          "3_1344822019888582656"
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "possibly_sensitive": true,
+      "author_id": "707346268821913600",
+      "source": "Twitter Web App",
+      "reply_settings": "everyone",
+      "entities": {
+        "urls": [
+          {
+            "start": 0,
+            "end": 23,
+            "url": "https://t.co/E8BwLop2f4",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1344822098330468352/photo/1",
+            "display_url": "pic.twitter.com/E8BwLop2f4"
+          }
+        ]
+      },
+      "id": "1344822098330468352",
+      "text": "https://t.co/E8BwLop2f4"
+    },
+    {
+      "conversation_id": "1344803135831719936",
+      "created_at": "2021-01-01T00:30:27.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "source": "Twitter for iPhone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "903303816698671104",
+            "name": "Wellness and health",
+            "description": "Wellness & Health"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1344803135831719936",
+      "text": "本年も健康に"
+    },
+    {
+      "conversation_id": "1344803069981151233",
+      "created_at": "2021-01-01T00:30:11.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "source": "Twitter for iPhone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "119",
+            "name": "Holiday",
+            "description": "Holidays like Christmas or Halloween"
+          },
+          "entity": {
+            "id": "1319305164751163393",
+            "name": "New Years Eve",
+            "description": "This entity includes all conversations for New Years Eve for all years."
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1344803069981151233",
+      "text": "何をやるにも新年初というプレッシャーに押し潰されていきましょう、あけましておめでとうございます🌅"
+    },
+    {
+      "conversation_id": "1344796402166112257",
+      "created_at": "2021-01-01T00:03:42.000Z",
+      "public_metrics": {
+        "retweet_count": 22506,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1344659599941660673"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "zombielandsaga"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 75,
+            "end": 79,
+            "probability": 0.5027,
+            "type": "Person",
+            "normalized_text": "境宗久監督"
+          },
+          {
+            "start": 85,
+            "end": 89,
+            "probability": 0.742,
+            "type": "Other",
+            "normalized_text": "運命のPV"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 102,
+            "end": 111,
+            "tag": "ゾンビランドサガ"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "source": "Twitter for iPhone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10054657859",
+            "name": "ゾンビランドサガ"
+          }
+        },
+        {
+          "domain": {
+            "id": "119",
+            "name": "Holiday",
+            "description": "Holidays like Christmas or Halloween"
+          },
+          "entity": {
+            "id": "1319305164751163393",
+            "name": "New Years Eve",
+            "description": "This entity includes all conversations for New Years Eve for all years."
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1344796402166112257",
+      "text": "RT @zombielandsaga: 【お正月三が日 連続発表 第1弾①】\n\n謹賀新年！\n\nゾンビランドサガ リベンジ2021年4月より放送決定！\n境宗久監督 演出の「運命のPV」公開\n\nPVの感想は #ゾンビランドサガ を付けて叫んで下さい！\n\n1/2の第2弾発表もご期待下…"
+    },
+    {
+      "conversation_id": "1344663648036380672",
+      "created_at": "2020-12-31T15:16:10.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "source": "contributter",
+      "reply_settings": "everyone",
+      "id": "1344663648036380672",
+      "text": "Ningensei848 さんの 2020/12/31 の contribution 数: 0\n #contributter_report",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      }
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "description": "やる：電気工事士2種＆応用情報技術者試験，つくる：検索しやすいSPARQLのサービス",
+        "location": "山梨県→茨城県つくば市",
+        "pinned_tweet_id": "1345020610875777024",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "name": "きあい⛅",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 987,
+          "tweet_count": 57910,
+          "listed_count": 22
+        },
+        "protected": false,
+        "verified": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "username": "Ningensei848",
+        "url": "https://t.co/KBXT0N3eAa",
+        "id": "707346268821913600",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "description": "CEO of Ricerca Security, Inc. (@RicercaSec) / Offensive Security, Red Team",
+        "location": "Japan",
+        "pinned_tweet_id": "1249899208213028864",
+        "created_at": "2011-04-03T13:48:10.000Z",
+        "name": "スーツケース、スーツ、傘、財布を買う",
+        "public_metrics": {
+          "followers_count": 6929,
+          "following_count": 371,
+          "tweet_count": 2315,
+          "listed_count": 184
+        },
+        "protected": false,
+        "verified": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/945463212064980992/WwH8xL0h_normal.jpg",
+        "username": "RKX1209",
+        "url": "https://t.co/pITkS4qUSP",
+        "id": "276499809",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/pITkS4qUSP",
+                "expanded_url": "https://rkx1209.github.io/about/",
+                "display_url": "rkx1209.github.io/about/"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 31,
+                "end": 42,
+                "username": "RicercaSec"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "description": "オリジナルTVアニメ「#ゾンビランドサガ リベンジ」 が遂に始動。 2021 年4月よりTOKYO MX、AT -Xほかにて放送／Amazon Prime Video、ABEMAにて地上波先行独占配信 宮野真守、本渡楓、田野アサミ、種田梨沙、河瀬茉希、衣川里佳、田中美海、三石琴乃 ©ゾンビランドサガ リベンジ製作委員会",
+        "pinned_tweet_id": "1344659599941660673",
+        "created_at": "2018-07-02T17:34:54.000Z",
+        "name": "ゾンビランドサガ リベンジ_TVアニメ公式",
+        "public_metrics": {
+          "followers_count": 130415,
+          "following_count": 55,
+          "tweet_count": 3699,
+          "listed_count": 1219
+        },
+        "protected": false,
+        "verified": true,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344659638772330501/Y9h-0SO1_normal.jpg",
+        "username": "zombielandsaga",
+        "url": "https://t.co/YTPBEVwpVJ",
+        "id": "1013838438397718528",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/YTPBEVwpVJ",
+                "expanded_url": "http://zombielandsaga.com",
+                "display_url": "zombielandsaga.com"
+              }
+            ]
+          },
+          "description": {
+            "hashtags": [
+              {
+                "start": 11,
+                "end": 20,
+                "tag": "ゾンビランドサガ"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "tweets": [
+      {
+        "conversation_id": "1344960070598107136",
+        "created_at": "2021-01-01T10:54:03.000Z",
+        "public_metrics": {
+          "retweet_count": 7,
+          "reply_count": 1,
+          "like_count": 39,
+          "quote_count": 1
+        },
+        "possibly_sensitive": false,
+        "author_id": "276499809",
+        "source": "Twitter for iPhone",
+        "reply_settings": "everyone",
+        "id": "1344960070598107136",
+        "text": "このまま行くと「やりたくない事をやらないまま大人になった結果30代過ぎてから何もやる事が無くなってしまう人生」が開始してしまう"
+      },
+      {
+        "conversation_id": "1344659599941660673",
+        "created_at": "2020-12-31T15:00:05.000Z",
+        "attachments": {
+          "media_keys": [
+            "13_1344494333299343361"
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 22506,
+          "reply_count": 227,
+          "like_count": 31036,
+          "quote_count": 1867
+        },
+        "possibly_sensitive": false,
+        "author_id": "1013838438397718528",
+        "entities": {
+          "annotations": [
+            {
+              "start": 55,
+              "end": 59,
+              "probability": 0.5126,
+              "type": "Person",
+              "normalized_text": "境宗久監督"
+            },
+            {
+              "start": 65,
+              "end": 69,
+              "probability": 0.772,
+              "type": "Other",
+              "normalized_text": "運命のPV"
+            }
+          ],
+          "urls": [
+            {
+              "start": 133,
+              "end": 156,
+              "url": "https://t.co/x5Cthpc9Yj",
+              "expanded_url": "https://zombielandsaga.com/",
+              "display_url": "zombielandsaga.com",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1348692425154326528/jjePARev?format=jpg&name=orig",
+                  "width": 1200,
+                  "height": 630
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1348692425154326528/jjePARev?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "TVアニメ「ゾンビランドサガ リベンジ」公式サイト",
+              "description": "TVアニメ「ゾンビランドサガ リベンジ」2021年4月よりTOKYO MX、AT-Xほかにて放送開始！Amazon Prime Video、ABEMAにて地上波先行独占配信！運命への“リベンジ”が始まる...",
+              "unwound_url": "https://zombielandsaga.com/"
+            },
+            {
+              "start": 171,
+              "end": 194,
+              "url": "https://t.co/sl5SoRZlZ5",
+              "expanded_url": "https://twitter.com/zombielandsaga/status/1344659599941660673/video/1",
+              "display_url": "pic.twitter.com/sl5SoRZlZ5"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 82,
+              "end": 91,
+              "tag": "ゾンビランドサガ"
+            },
+            {
+              "start": 158,
+              "end": 163,
+              "tag": "新年早々"
+            },
+            {
+              "start": 164,
+              "end": 170,
+              "tag": "新年一発目"
+            }
+          ]
+        },
+        "source": "Twitter Media Studio",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "3",
+              "name": "TV Shows",
+              "description": "Television shows from around the world"
+            },
+            "entity": {
+              "id": "10054657859",
+              "name": "ゾンビランドサガ"
+            }
+          },
+          {
+            "domain": {
+              "id": "119",
+              "name": "Holiday",
+              "description": "Holidays like Christmas or Halloween"
+            },
+            "entity": {
+              "id": "1319305164751163393",
+              "name": "New Years Eve",
+              "description": "This entity includes all conversations for New Years Eve for all years."
+            }
+          }
+        ],
+        "reply_settings": "everyone",
+        "id": "1344659599941660673",
+        "text": "【お正月三が日 連続発表 第1弾①】\n\n謹賀新年！\n\nゾンビランドサガ リベンジ2021年4月より放送決定！\n境宗久監督 演出の「運命のPV」公開\n\nPVの感想は #ゾンビランドサガ を付けて叫んで下さい！\n\n1/2の第2弾発表もご期待下さい\n…何だと思いますか？\nhttps://t.co/x5Cthpc9Yj\n #新年早々 #新年一発目 https://t.co/sl5SoRZlZ5"
+      }
+    ],
+    "media": [
+      {
+        "width": 963,
+        "url": "https://pbs.twimg.com/media/EqnEgH2VEAAr2tl.jpg",
+        "type": "photo",
+        "height": 419,
+        "media_key": "3_1344822019888582656"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1344663648036380672",
+    "newest_id": "1345020610875777024",
+    "result_count": 12
+  }
+}

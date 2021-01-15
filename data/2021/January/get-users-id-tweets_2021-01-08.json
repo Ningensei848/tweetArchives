@@ -1,0 +1,5672 @@
+{
+  "data": [
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347509416979886083",
+      "conversation_id": "1347509416979886083",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-08T11:44:15.000Z",
+      "possibly_sensitive": false,
+      "text": "明日から久々にﾌﾟのやつ参加するべと思っているのだけれど，さすがに傾向と対策を練ってから挑んだほうがいいような気がしてきた（が，明日の夜までには何も出来ないので今ポチります，本を）"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347508402222559237",
+      "conversation_id": "1347508402222559237",
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 0,
+            "end": 23,
+            "url": "https://t.co/Vzbscx2sID",
+            "expanded_url": "https://open.spotify.com/track/6EzZn96uOc9JsVGNRpx06n?si=FH170xqCQoutTYVzrqXxQw",
+            "display_url": "open.spotify.com/track/6EzZn96u…"
+          }
+        ]
+      },
+      "created_at": "2021-01-08T11:40:13.000Z",
+      "possibly_sensitive": false,
+      "text": "https://t.co/Vzbscx2sID"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 2494,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1347204855677341696"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "kahasina9"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 16,
+            "end": 22,
+            "probability": 0.7471,
+            "type": "Product",
+            "normalized_text": "Twitter"
+          },
+          {
+            "start": 85,
+            "end": 91,
+            "probability": 0.6455,
+            "type": "Product",
+            "normalized_text": "Twitter"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "id": "1347472684045664262",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10045225402",
+            "name": "Twitter"
+          }
+        }
+      ],
+      "conversation_id": "1347472684045664262",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-08T09:18:17.000Z",
+      "possibly_sensitive": false,
+      "text": "RT @kahasina9: 「Twitter投稿に最適化された文法に慣れると、自分の思考を文章化する際に、情報の過度な省略や定型化を無意識に行っているように思える」→「Twitter、日本語が雑になりがち」"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347472238266601472",
+      "entities": {
+        "annotations": [
+          {
+            "start": 4,
+            "end": 7,
+            "probability": 0.6942,
+            "type": "Organization",
+            "normalized_text": "山梨学院"
+          }
+        ]
+      },
+      "conversation_id": "1347472238266601472",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-08T09:16:31.000Z",
+      "possibly_sensitive": false,
+      "text": "ア！明日山梨学院の準決勝じゃんマジ？"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347471896019800064",
+      "conversation_id": "1347471896019800064",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-08T09:15:09.000Z",
+      "possibly_sensitive": false,
+      "text": "英語を読め定期との啓示を膝に受けてしまった"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347433349090971649",
+      "entities": {
+        "annotations": [
+          {
+            "start": 26,
+            "end": 28,
+            "probability": 0.5213,
+            "type": "Person",
+            "normalized_text": "三雲修"
+          },
+          {
+            "start": 45,
+            "end": 48,
+            "probability": 0.8946,
+            "type": "Person",
+            "normalized_text": "葦原大介"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10034935437",
+            "name": "ワールドトリガー"
+          }
+        }
+      ],
+      "conversation_id": "1347433349090971649",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-08T06:41:59.000Z",
+      "possibly_sensitive": false,
+      "text": "「夜中のミッション用にペンチを持ち出しているので実質三雲修」ってのみてワロタ、搾精研究所は葦原大介だった…………？"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 2360,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1347366176041549825"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "porosuke"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 15,
+            "end": 18,
+            "probability": 0.6567,
+            "type": "Other",
+            "normalized_text": "淫獄団地"
+          }
+        ],
+        "urls": [
+          {
+            "start": 53,
+            "end": 76,
+            "url": "https://t.co/bwJmgNYfOr",
+            "expanded_url": "http://nico.ms/mg530957",
+            "display_url": "nico.ms/mg530957"
+          },
+          {
+            "start": 77,
+            "end": 100,
+            "url": "https://t.co/eKsz7pvdw2",
+            "expanded_url": "https://twitter.com/porosuke/status/1347366176041549825/photo/1",
+            "display_url": "pic.twitter.com/eKsz7pvdw2"
+          },
+          {
+            "start": 77,
+            "end": 100,
+            "url": "https://t.co/eKsz7pvdw2",
+            "expanded_url": "https://twitter.com/porosuke/status/1347366176041549825/photo/1",
+            "display_url": "pic.twitter.com/eKsz7pvdw2"
+          },
+          {
+            "start": 77,
+            "end": 100,
+            "url": "https://t.co/eKsz7pvdw2",
+            "expanded_url": "https://twitter.com/porosuke/status/1347366176041549825/photo/1",
+            "display_url": "pic.twitter.com/eKsz7pvdw2"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 47,
+            "end": 52,
+            "tag": "淫獄団地"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "id": "1347432696985788421",
+      "attachments": {
+        "media_keys": [
+          "3_1347365857387663360",
+          "3_1347365885506248706",
+          "3_1347365909636108295"
+        ]
+      },
+      "conversation_id": "1347432696985788421",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-08T06:39:23.000Z",
+      "possibly_sensitive": true,
+      "text": "RT @porosuke: 『淫獄団地』第1話が公開されました。\nどうぞ宜しくお願いします！ #淫獄団地\nhttps://t.co/bwJmgNYfOr https://t.co/eKsz7pvdw2"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 5083,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1347366293893042178"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 19,
+            "username": "98OzeBGDhZARIyj"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 29,
+            "end": 32,
+            "probability": 0.6359,
+            "type": "Other",
+            "normalized_text": "淫獄団地"
+          }
+        ],
+        "urls": [
+          {
+            "start": 99,
+            "end": 122,
+            "url": "https://t.co/aqfH0sUuUY",
+            "expanded_url": "https://seiga.nicovideo.jp/comic/46238",
+            "display_url": "seiga.nicovideo.jp/comic/46238"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "id": "1347432653885038593",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "85",
+            "name": "Book Genre",
+            "description": "A genre for books, like Fiction"
+          },
+          "entity": {
+            "id": "847521144173350912",
+            "name": "Comics",
+            "description": "Comics"
+          }
+        }
+      ],
+      "conversation_id": "1347432653885038593",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-08T06:39:13.000Z",
+      "possibly_sensitive": false,
+      "text": "RT @98OzeBGDhZARIyj: やったぁあ！！『淫獄団地』が連載開始よぉおお！！原作：搾精研究所　漫画：丈山雄為！！ニコニコ漫画ドラドラしゃーぷで公開中よぉおお！！みんな見てねぇええ！！\nhttps://t.co/aqfH0sUuUY https://t.co/YH4…"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347391590302584835",
+      "conversation_id": "1347391590302584835",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-08T03:56:03.000Z",
+      "possibly_sensitive": false,
+      "text": "サブスクリプションをキメる、略して"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347391263096467458",
+      "entities": {
+        "annotations": [
+          {
+            "start": 3,
+            "end": 9,
+            "probability": 0.7851,
+            "type": "Product",
+            "normalized_text": "Spotify"
+          }
+        ]
+      },
+      "conversation_id": "1347391263096467458",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-08T03:54:45.000Z",
+      "possibly_sensitive": false,
+      "text": "年末にSpotify課金したらもう無料には戻れない体に調教されてしまった、これが噂に聞くキメ◯ク……"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347370228645195778",
+      "conversation_id": "1347370228645195778",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-08T02:31:10.000Z",
+      "possibly_sensitive": false,
+      "text": "悩みではないんだけど、自分のウォーキングは相対的にかなり遅いらしくて、ふと周りを見るとバンバン抜かされてウケる"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347339148164677632",
+      "conversation_id": "1347339148164677632",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-08T00:27:39.000Z",
+      "possibly_sensitive": false,
+      "text": "つよつよになりてえ"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347339090081902592",
+      "conversation_id": "1347339090081902592",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-08T00:27:26.000Z",
+      "possibly_sensitive": false,
+      "text": "春に復学、したいわね"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347306014098432000",
+      "conversation_id": "1347306014098432000",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T22:16:00.000Z",
+      "possibly_sensitive": false,
+      "text": "よしよし、一週間まずは継続できましたね〜〜いい習慣はどんどん身近なルーティンにして、なるたけ増やせるようにしたいね"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1347196665216827393"
+        },
+        {
+          "type": "replied_to",
+          "id": "1346843780603777027"
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1347305676754755586",
+      "in_reply_to_user_id": "707346268821913600",
+      "conversation_id": "1345020610875777024",
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 59,
+            "end": 82,
+            "url": "https://t.co/zly5jrcd6P",
+            "expanded_url": "https://twitter.com/ningensei848/status/1347196665216827393",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      },
+      "created_at": "2021-01-07T22:14:39.000Z",
+      "possibly_sensitive": false,
+      "text": "昨日は散々だったけど、それでも頑張って2 commit してるし捨てたもんじゃねぇな\n\n本日も最低限頑張っていきます https://t.co/zly5jrcd6P"
+    },
+    {
+      "source": "contributter",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone",
+      "id": "1347196665216827393",
+      "conversation_id": "1347196665216827393",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T15:01:29.000Z",
+      "possibly_sensitive": false,
+      "text": "Ningensei848 さんの 2021/01/07 の contribution 数: 2\n #contributter_report",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      }
+    },
+    {
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347146183341297666",
+      "entities": {
+        "annotations": [
+          {
+            "start": 8,
+            "end": 9,
+            "probability": 0.428,
+            "type": "Place",
+            "normalized_text": "渋谷"
+          }
+        ]
+      },
+      "conversation_id": "1347146183341297666",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T11:40:53.000Z",
+      "possibly_sensitive": false,
+      "text": "さっき魔がさして渋谷事変最新話まで通して読んでた"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347110844803387401",
+      "conversation_id": "1347110844803387401",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T09:20:28.000Z",
+      "possibly_sensitive": false,
+      "text": "うううううう俺が悪いのよ（勘違いに次ぐ勘違いで上長をキレさせる天才になった）"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347110694160789510",
+      "conversation_id": "1347110694160789510",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T09:19:52.000Z",
+      "possibly_sensitive": false,
+      "text": "年頭初日出勤，失敗（物理出勤して申請を通してからじゃないと駄目らしい）"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347110143499014146",
+      "conversation_id": "1347110143499014146",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T09:17:40.000Z",
+      "possibly_sensitive": false,
+      "text": "今日晴れてるし洗濯すっか～～～～～でもなんか悪い予感がする　→　当たっててよかったね"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347108946457231361",
+      "conversation_id": "1347108946457231361",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T09:12:55.000Z",
+      "possibly_sensitive": false,
+      "text": "昨年末，誰もいない研にプレミアムなプレイボーイ置いてった奴いるらしいね"
+    },
+    {
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347097033333645313",
+      "conversation_id": "1347097033333645313",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T08:25:35.000Z",
+      "possibly_sensitive": false,
+      "text": "ア！！！！"
+    },
+    {
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 10353,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1347088195960201217"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "jujutsu_PR"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 27,
+            "end": 32,
+            "tag": "呪術廻戦"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "id": "1347096988559372288",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "1309225658623508480",
+            "name": "呪術廻戦"
+          }
+        },
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1346901380292775936",
+            "name": "Jujutsu Kaisen"
+          }
+        }
+      ],
+      "conversation_id": "1347096988559372288",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T08:25:24.000Z",
+      "possibly_sensitive": false,
+      "text": "RT @jujutsu_PR: 【プレゼント】いつも #呪術廻戦 を応援いただきありがとうございます！ついに！フォロワー50万人突破！\nこれを記念して「虎杖」「宿儺」のアイコンをプレゼント！\n\n今後もアイコンプレゼントは続きますが準備中なのでお待ちを！\nまた現在フォロワー50万…"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347088855770386432",
+      "conversation_id": "1347088855770386432",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T07:53:05.000Z",
+      "possibly_sensitive": false,
+      "text": "上長～～～～～～～～ォ！！！！！！！！！！！！！！！！！！！！！！！"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347080296160587777",
+      "conversation_id": "1347080296160587777",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T07:19:04.000Z",
+      "possibly_sensitive": false,
+      "text": "対人判断基準の冗長性を確保する人生をやっていきましょう，いつでもどこでも相談できる信頼性の高いパートナーが必要ですが………………………………"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1347078089889615882"
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1347079538614833155",
+      "in_reply_to_user_id": "707346268821913600",
+      "conversation_id": "1347078089889615882",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T07:16:04.000Z",
+      "possibly_sensitive": false,
+      "text": "これ多分経験者だから言えるんですけど，対人の悩みにおいては個人でのジャッジを避けたほうが良くて，できるだけ無関係の第三者に判断してもらえるようにしておいたほうがいい．なぜなら些細なことから認知がずれて，そこから負のスパイラルが始まりがちだから（独りだと修正が効かない）"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347078089889615882",
+      "conversation_id": "1347078089889615882",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T07:10:18.000Z",
+      "possibly_sensitive": false,
+      "text": "進学を機に研究室を移るのはわかる，けど周りから見ればそいつがどこにいたのかわかってしまう状況で元の所属に泥掛けまくってしまうのは～～～～今はスカッとするけど後々各所に響いてきそうな"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 32,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1347070293072695296"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "yuuki2644"
+          }
+        ],
+        "urls": [
+          {
+            "start": 15,
+            "end": 38,
+            "url": "https://t.co/if3KWuQMB3",
+            "expanded_url": "https://twitter.com/yuuki2644/status/1347070293072695296/photo/1",
+            "display_url": "pic.twitter.com/if3KWuQMB3"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "id": "1347071857984372736",
+      "attachments": {
+        "media_keys": [
+          "3_1347070289134252032"
+        ]
+      },
+      "conversation_id": "1347071857984372736",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T06:45:32.000Z",
+      "possibly_sensitive": true,
+      "text": "RT @yuuki2644: https://t.co/if3KWuQMB3"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1347068935888281600"
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1347069261131337729",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10052304085",
+            "name": "宇宙よりも遠い場所"
+          }
+        }
+      ],
+      "in_reply_to_user_id": "707346268821913600",
+      "conversation_id": "1347068935888281600",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T06:35:13.000Z",
+      "possibly_sensitive": false,
+      "text": "わかりづれぇな、「よりもい」こと『宇宙よりも遠い場所』です(うちゅうと書いてソラと読みます何卒よろしく"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347068935888281600",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10052304085",
+            "name": "宇宙よりも遠い場所"
+          }
+        }
+      ],
+      "conversation_id": "1347068935888281600",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T06:33:56.000Z",
+      "possibly_sensitive": false,
+      "text": "全人類よりもいを見てください"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 7232,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1347016356080672770"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "yorimoi"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 45,
+            "end": 46,
+            "probability": 0.9673,
+            "type": "Place",
+            "normalized_text": "山梨"
+          },
+          {
+            "start": 98,
+            "end": 106,
+            "probability": 0.6545,
+            "type": "Other",
+            "normalized_text": "宇宙よりも遠い場所"
+          },
+          {
+            "start": 113,
+            "end": 127,
+            "probability": 0.8205,
+            "type": "Other",
+            "normalized_text": "ゆるキャン△ SEASON 2"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "id": "1347068861426720768",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10052304085",
+            "name": "宇宙よりも遠い場所"
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10052312868",
+            "name": "ゆるキャン△"
+          }
+        },
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1296310920889606144",
+            "name": "Laid-Back Camp"
+          }
+        }
+      ],
+      "conversation_id": "1347068861426720768",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T06:33:38.000Z",
+      "possibly_sensitive": false,
+      "text": "RT @yorimoi: 再び青春が動き出したキマリたち🍮🐧🎥🎤👓\n\n久しぶりに山梨にキャンプに行ったら……\nまたあの子たちに出会ったようですよ⛺🛵🐾\n\nBS11でご覧のみなさま、『宇宙よりも遠い場所』を見たら『ゆるキャン△ SEASON 2』にもお呼ばれしてください…ね。…"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 10743,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1346803061860102145"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "tsunoda_fumm"
+          }
+        ],
+        "urls": [
+          {
+            "start": 51,
+            "end": 74,
+            "url": "https://t.co/SeB1O5jBM0",
+            "expanded_url": "https://twitter.com/tsunoda_fumm/status/1346803061860102145/video/1",
+            "display_url": "pic.twitter.com/SeB1O5jBM0"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "id": "1347065109806419970",
+      "attachments": {
+        "media_keys": [
+          "7_1346803019447353353"
+        ]
+      },
+      "conversation_id": "1347065109806419970",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T06:18:44.000Z",
+      "possibly_sensitive": true,
+      "text": "RT @tsunoda_fumm: 親友にも恋人にもモノにもさわれない病気になった男のドキュメント。 https://t.co/SeB1O5jBM0"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347058829310058498",
+      "conversation_id": "1347058829310058498",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T05:53:46.000Z",
+      "possibly_sensitive": false,
+      "text": "上がるかもしれないという期待が消えない限り上がり続ける、どこまでいくのかしら"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347057203983732739",
+      "attachments": {
+        "media_keys": [
+          "3_1347057196278849536"
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "119",
+            "name": "Holiday",
+            "description": "Holidays like Christmas or Halloween"
+          },
+          "entity": {
+            "id": "1319305164751163393",
+            "name": "New Years Eve",
+            "description": "This entity includes all conversations for New Years Eve for all years."
+          }
+        }
+      ],
+      "conversation_id": "1347057203983732739",
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 61,
+            "end": 84,
+            "url": "https://t.co/wu2J4AD0Vk",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1347057203983732739/photo/1",
+            "display_url": "pic.twitter.com/wu2J4AD0Vk"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 60,
+            "tag": "カレーうどんZEYO"
+          }
+        ]
+      },
+      "created_at": "2021-01-07T05:47:19.000Z",
+      "possibly_sensitive": true,
+      "text": "新年のカレーうどん初め🎉\n(本年もよろしくおねがいします)(まだしばらく学生の予定です🙇‍♂️)\n#カレーうどんZEYO https://t.co/wu2J4AD0Vk"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347047660629282818",
+      "attachments": {
+        "media_keys": [
+          "3_1347047653935222787"
+        ]
+      },
+      "conversation_id": "1347047660629282818",
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 23,
+            "end": 46,
+            "url": "https://t.co/pvWJ6SnBKG",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1347047660629282818/photo/1",
+            "display_url": "pic.twitter.com/pvWJ6SnBKG"
+          }
+        ]
+      },
+      "created_at": "2021-01-07T05:09:23.000Z",
+      "possibly_sensitive": true,
+      "text": "これはにわかに話題のブツ(某所にあったもの) https://t.co/pvWJ6SnBKG"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347046628289511424",
+      "conversation_id": "1347046628289511424",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T05:05:17.000Z",
+      "possibly_sensitive": false,
+      "text": "何も達成してないけど拙者おつかれ！ｗ"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347046183328313344",
+      "conversation_id": "1347046183328313344",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T05:03:31.000Z",
+      "possibly_sensitive": false,
+      "text": "テスト，やらねばならないので"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1347037411021180928",
+      "conversation_id": "1347037411021180928",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-07T04:28:40.000Z",
+      "possibly_sensitive": false,
+      "text": "マシンリーダブル、マジできちんと教化しないと発想すらないし理解さえされない、経験則でそこに辿り着けるのはよほど天才しか居ないので"
+    },
+    {
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1346837982200934400"
+        },
+        {
+          "type": "replied_to",
+          "id": "1346472491380658179"
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1346843780603777027",
+      "in_reply_to_user_id": "707346268821913600",
+      "conversation_id": "1345020610875777024",
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 17,
+            "end": 40,
+            "url": "https://t.co/o1uQ5nV2Y4",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1346837982200934400",
+            "display_url": "twitter.com/Ningensei848/s…"
+          }
+        ]
+      },
+      "created_at": "2021-01-06T15:39:15.000Z",
+      "possibly_sensitive": false,
+      "text": "はい、今日は色々やりましたもんね https://t.co/o1uQ5nV2Y4"
+    },
+    {
+      "source": "contributter",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone",
+      "id": "1346837982200934400",
+      "conversation_id": "1346837982200934400",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T15:16:12.000Z",
+      "possibly_sensitive": false,
+      "text": "Ningensei848 さんの 2021/01/06 の contribution 数: 17\n #contributter_report",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 50,
+            "end": 70,
+            "tag": "contributter_report"
+          }
+        ]
+      }
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346808890306883585",
+      "conversation_id": "1346808890306883585",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T13:20:36.000Z",
+      "possibly_sensitive": false,
+      "text": "本日から人生をカンバンで駆動することにしたのですが，躁期間なのかハチャメチャに捗るかのような錯覚を見ている"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346789847403356162",
+      "conversation_id": "1346789847403356162",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T12:04:56.000Z",
+      "possibly_sensitive": false,
+      "text": "名前つけて満足してしまってるけど，つくづくネーミングセンスがあるのかないのかよくわからん天運にある"
+    },
+    {
+      "source": "Twitter Web App",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346779500810391552",
+      "attachments": {
+        "media_keys": [
+          "3_1346778142849921025"
+        ]
+      },
+      "conversation_id": "1346779500810391552",
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 14,
+            "end": 37,
+            "url": "https://t.co/mz57L589Z3",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1346779500810391552/photo/1",
+            "display_url": "pic.twitter.com/mz57L589Z3"
+          }
+        ]
+      },
+      "created_at": "2021-01-06T11:23:49.000Z",
+      "possibly_sensitive": true,
+      "text": "最高のレコメンド引き当てた https://t.co/mz57L589Z3"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346762162237128704",
+      "conversation_id": "1346762162237128704",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T10:14:55.000Z",
+      "possibly_sensitive": false,
+      "text": "英語が読めても中国語が喋れても日本語でオタク活動しててもプログラミングは平等に難しい\n\nかと思ってたけどこれは違うっぽくて、単に情報検索と取捨選択の能力および入力インターフェースへの習熟度合いに依存しているっぽい、言語は関係ない(日本語は文型のせいで多少不利かもだけどそれだけ)"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1346744363129290752"
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1346747491811672064",
+      "in_reply_to_user_id": "707346268821913600",
+      "conversation_id": "1346744363129290752",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T09:16:38.000Z",
+      "possibly_sensitive": false,
+      "text": "ギア部分がノイズ無しかつ摩耗しないのは分かったけど、モータ部分は結局うるさそう(だから意図的に音が消されてるんだと思った)\n\nが、その駆動部分も含めて全部マグネティックにやれるなら色々良さそう？しかし他の精密部分への弊害も発生してそう(それもシミュレーションできるならメタマテになる？"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346744363129290752",
+      "conversation_id": "1346744363129290752",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T09:04:12.000Z",
+      "possibly_sensitive": false,
+      "text": "うわ"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 80,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1346507465458761728"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "HCI_Research"
+          }
+        ],
+        "urls": [
+          {
+            "start": 46,
+            "end": 69,
+            "url": "https://t.co/ylVovV7wuP",
+            "expanded_url": "https://twitter.com/HCI_Research/status/1346507465458761728/video/1",
+            "display_url": "pic.twitter.com/ylVovV7wuP"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "id": "1346744312734777344",
+      "attachments": {
+        "media_keys": [
+          "7_1346507369031684096"
+        ]
+      },
+      "conversation_id": "1346744312734777344",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T09:04:00.000Z",
+      "possibly_sensitive": true,
+      "text": "RT @HCI_Research: Magnetically assisted gears https://t.co/ylVovV7wuP"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346693958257102850",
+      "entities": {
+        "annotations": [
+          {
+            "start": 28,
+            "end": 31,
+            "probability": 0.5758,
+            "type": "Person",
+            "normalized_text": "セイロン"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "71",
+            "name": "Video Game",
+            "description": "A video game like Overwatch"
+          },
+          "entity": {
+            "id": "1233113060732092416",
+            "name": "Arknights"
+          }
+        }
+      ],
+      "conversation_id": "1346693958257102850",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T05:43:54.000Z",
+      "possibly_sensitive": false,
+      "text": "アークナイツ，イフリータさえいれば…………の気持ちです（セイロンさんちの猫だと範囲が心もとない場面が多い）"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346682576413474818",
+      "conversation_id": "1346682576413474818",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T04:58:41.000Z",
+      "possibly_sensitive": false,
+      "text": "まじにきちんと生きていくために自分のドメインをきちんと持っておくべきやなと思い探していたら時間が溶けた"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346673888080535554",
+      "conversation_id": "1346673888080535554",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T04:24:09.000Z",
+      "possibly_sensitive": false,
+      "text": "あ～～～～～グーグルカレンダーのショートカット今はじめて認識した"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1346670522969456640"
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1346672317783445504",
+      "in_reply_to_user_id": "707346268821913600",
+      "conversation_id": "1346670522969456640",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T04:17:55.000Z",
+      "possibly_sensitive": false,
+      "text": "HPCとか記憶容量とかは積極的にクラウドリソースにしようとしてるけど，それは許せなくて自前で揃えてる人を見ていいなぁと思っている（し，そこまでする理由とは…とも思う）（これはいわゆるデザイン・クリエイティブな作業をほぼしないユーザだからかも）"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346670522969456640",
+      "conversation_id": "1346670522969456640",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T04:10:47.000Z",
+      "possibly_sensitive": false,
+      "text": "おもえば快適なネットワークと快適なパソコンさえあれば仕事ができるのっていいご身分だよなぁ，世間はそうじゃない人々が沢山いるというのをつい忘れてしまいそうになる"
+    },
+    {
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1346655936723750912"
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1346656807213699072",
+      "in_reply_to_user_id": "707346268821913600",
+      "conversation_id": "1346655250711601154",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T03:16:17.000Z",
+      "possibly_sensitive": false,
+      "text": "それか、大衆の期待に応える/裏切るようなストーリーを作り出す意見集約のアルゴリズムを考える方針とかどうだろう？面白さは期待をなんらかの方法で上回った時に生じると考えているので、集団の考えている先を推測できれば上手くいきそうじゃない？"
+    },
+    {
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1346655250711601154"
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1346655936723750912",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "85",
+            "name": "Book Genre",
+            "description": "A genre for books, like Fiction"
+          },
+          "entity": {
+            "id": "847521144173350912",
+            "name": "Comics",
+            "description": "Comics"
+          }
+        }
+      ],
+      "in_reply_to_user_id": "707346268821913600",
+      "conversation_id": "1346655250711601154",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T03:12:49.000Z",
+      "possibly_sensitive": false,
+      "text": "なんなら『〇〇先生の画風でXXという漫画を描き直す』みたいなオーダーも出来てしまうわけで、人間として注力すべきは魅力的なプロット、もといえーあいくんに対してオーダーを細かく出せる能力なのではないかという気がしてきた"
+    },
+    {
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346655250711601154",
+      "conversation_id": "1346655250711601154",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T03:10:06.000Z",
+      "possibly_sensitive": false,
+      "text": "俺がMLを志した根源的な理由、『冨樫が死んでもプロットさえあれば続きが見られる世界をつくる』なのでもうほぼ俺がやらなくてもいい段階まで来てるんだよな、それに費やすコストを稼ぐ方法を考えたほうがいい……"
+    },
+    {
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346654718458646528",
+      "conversation_id": "1346654718458646528",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T03:07:59.000Z",
+      "possibly_sensitive": false,
+      "text": "えーあいに画力とスピードで勝てなくなった皆さん………"
+    },
+    {
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346653286137352192",
+      "conversation_id": "1346653286137352192",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T03:02:17.000Z",
+      "possibly_sensitive": false,
+      "text": "タスクを脳内でいっぱいに抱えてると辛いけど、書き出したら書き出したでそれで満足してほっぽらかしてしまう癖を直す2021"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346644845729779712",
+      "entities": {
+        "annotations": [
+          {
+            "start": 42,
+            "end": 48,
+            "probability": 0.4104,
+            "type": "Product",
+            "normalized_text": "Twitter"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10045225402",
+            "name": "Twitter"
+          }
+        }
+      ],
+      "conversation_id": "1346644845729779712",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T02:28:45.000Z",
+      "possibly_sensitive": false,
+      "text": "社会をやっていくために，RSSフィードってやつを始めるかぁの気持ちになってきた，現状Twitterくんしか窓がないので"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346637362822975489",
+      "conversation_id": "1346637362822975489",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T01:59:01.000Z",
+      "possibly_sensitive": false,
+      "text": "ウーン，分野変えワンチャンあるんじゃないスカ？（何も分かっていない）"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346637159579586560",
+      "conversation_id": "1346637159579586560",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T01:58:12.000Z",
+      "possibly_sensitive": false,
+      "text": "2019年と2020年に最新技術のキャッチアップをひたすらサボってたらML界隈がﾌﾟﾗﾝｸﾄﾝでﾁｬﾌﾟﾁｬﾌﾟになっていた回"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346632278282129408",
+      "entities": {
+        "annotations": [
+          {
+            "start": 6,
+            "end": 12,
+            "probability": 0.6249,
+            "type": "Product",
+            "normalized_text": "twitter"
+          },
+          {
+            "start": 18,
+            "end": 23,
+            "probability": 0.5201,
+            "type": "Product",
+            "normalized_text": "github"
+          },
+          {
+            "start": 45,
+            "end": 50,
+            "probability": 0.5015,
+            "type": "Product",
+            "normalized_text": "github"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10045225402",
+            "name": "Twitter"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "119",
+            "name": "Holiday",
+            "description": "Holidays like Christmas or Halloween"
+          },
+          "entity": {
+            "id": "1319305164751163393",
+            "name": "New Years Eve",
+            "description": "This entity includes all conversations for New Years Eve for all years."
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692468",
+            "name": "GitHub"
+          }
+        }
+      ],
+      "conversation_id": "1346632278282129408",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-06T01:38:49.000Z",
+      "possibly_sensitive": false,
+      "text": "新年第一週，twitter よりも github の方が滞在時間が長い気がするし実質的に github を SNS として使えるようになってきた説あるな（ない）"
+    },
+    {
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 359,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1346074428958883840"
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1346621232955809793",
+      "attachments": {
+        "media_keys": [
+          "3_1346074412013871105",
+          "3_1346074412005482497",
+          "3_1346074412009758720",
+          "3_1346074412013928450"
+        ]
+      },
+      "conversation_id": "1346621232955809793",
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 20,
+            "end": 43,
+            "url": "https://t.co/7bdOLxukJ2",
+            "expanded_url": "https://twitter.com/sudakime2/status/1346074428958883840/photo/1",
+            "display_url": "pic.twitter.com/7bdOLxukJ2"
+          },
+          {
+            "start": 20,
+            "end": 43,
+            "url": "https://t.co/7bdOLxukJ2",
+            "expanded_url": "https://twitter.com/sudakime2/status/1346074428958883840/photo/1",
+            "display_url": "pic.twitter.com/7bdOLxukJ2"
+          },
+          {
+            "start": 20,
+            "end": 43,
+            "url": "https://t.co/7bdOLxukJ2",
+            "expanded_url": "https://twitter.com/sudakime2/status/1346074428958883840/photo/1",
+            "display_url": "pic.twitter.com/7bdOLxukJ2"
+          },
+          {
+            "start": 20,
+            "end": 43,
+            "url": "https://t.co/7bdOLxukJ2",
+            "expanded_url": "https://twitter.com/sudakime2/status/1346074428958883840/photo/1",
+            "display_url": "pic.twitter.com/7bdOLxukJ2"
+          }
+        ]
+      },
+      "created_at": "2021-01-06T00:54:55.000Z",
+      "possibly_sensitive": true,
+      "text": "RT @sudakime2: 😊😡🥲🤗 https://t.co/7bdOLxukJ2"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346604158145581056",
+      "conversation_id": "1346604158145581056",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-05T23:47:04.000Z",
+      "possibly_sensitive": false,
+      "text": "週に一回単行本が一冊届くようにプライムで仕込んだら人生楽しくなりそうだよな～～～～って思うんだけど，どうですか（もっと資金に余裕があれば一日一冊まで頻度を上げたいね）"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346589427426942976",
+      "conversation_id": "1346589427426942976",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-05T22:48:32.000Z",
+      "possibly_sensitive": false,
+      "text": "おはよう御座います，本日も Issue driven development をやっていきましょう"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1346471859580096515"
+        },
+        {
+          "type": "replied_to",
+          "id": "1346111960144781314"
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1346472491380658179",
+      "in_reply_to_user_id": "707346268821913600",
+      "conversation_id": "1345020610875777024",
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 82,
+            "end": 105,
+            "url": "https://t.co/MruFp3TEtB",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1346471859580096515",
+            "display_url": "twitter.com/Ningensei848/s…"
+          }
+        ]
+      },
+      "created_at": "2021-01-05T15:03:52.000Z",
+      "possibly_sensitive": false,
+      "text": "ここに来て0回になってるのウケる、と思ったけどやっぱりラグがあるみたいで、実際には 3 commit ぐらいは滑り込みでできてるはずなので勝ちです(自分との勝負) https://t.co/MruFp3TEtB"
+    },
+    {
+      "source": "contributter",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone",
+      "id": "1346471859580096515",
+      "conversation_id": "1346471859580096515",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-05T15:01:22.000Z",
+      "possibly_sensitive": false,
+      "text": "Ningensei848 さんの 2021/01/05 の contribution 数: 0\n #contributter_report",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      }
+    },
+    {
+      "source": "Twitter Web App",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346464463264780289",
+      "conversation_id": "1346464463264780289",
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 227,
+            "end": 250,
+            "url": "https://t.co/osQy9KxoUa",
+            "expanded_url": "https://github.community/t/cant-get-links-to-open-in-new-tab-bis/2326/2",
+            "display_url": "github.community/t/cant-get-lin…"
+          }
+        ]
+      },
+      "created_at": "2021-01-05T14:31:58.000Z",
+      "possibly_sensitive": true,
+      "text": "ウケてる，仕方ないけど面倒だな…（READMEのaタグに target=\"_blank\" 指定できない） / \"The target attribute on the a tag is one of those items that gets stripped out. Unfortunately, there isn’t a solution for this.\"\n\nCan't get links to open in new tab (bis) https://t.co/osQy9KxoUa"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1346430110887342080"
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1346430873919320064",
+      "in_reply_to_user_id": "707346268821913600",
+      "conversation_id": "1346430110887342080",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-05T12:18:30.000Z",
+      "possibly_sensitive": false,
+      "text": "問題は、大多数がそうは思っていなかったとしても強引に押し進められるだけの権力者が\"地方に\"いるっぽいことなんだよな…表舞台には出てこない上に、都会から離れてるからリスクなしに高みの見物と洒落込めてしまう"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346430110887342080",
+      "entities": {
+        "annotations": [
+          {
+            "start": 62,
+            "end": 65,
+            "probability": 0.3919,
+            "type": "Organization",
+            "normalized_text": "東京五輪"
+          },
+          {
+            "start": 106,
+            "end": 107,
+            "probability": 0.7221,
+            "type": "Place",
+            "normalized_text": "日本"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "6",
+            "name": "Sports Event"
+          },
+          "entity": {
+            "id": "1103026158382141440",
+            "name": "Tokyo 2021 Summer Olympics",
+            "description": "Tokyo 2020 Summer Olympics "
+          }
+        }
+      ],
+      "conversation_id": "1346430110887342080",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-05T12:15:28.000Z",
+      "possibly_sensitive": false,
+      "text": "まぁぶっちゃけ自分が65歳以上の高齢者で、いま災禍に巻き込まれて死ぬかもしれないという天秤を考えた上で、それでもなおもう一度東京五輪の夢を見たいという気持ちはわからんでもないかもしれない\n特にバブル以後は衰退する日本を眺め続けた人々なわけだし(衰退させたのも彼らだけど"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346417290753974276",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847544972781826048",
+            "name": "Careers",
+            "description": "Careers"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "850073441055133696",
+            "name": "Job search",
+            "description": "Job search"
+          }
+        }
+      ],
+      "conversation_id": "1346417290753974276",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-05T11:24:31.000Z",
+      "possibly_sensitive": false,
+      "text": "半年間で心がだいぶ上向いたし就活するか（？）"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346382465921740800",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 2,
+            "probability": 0.9166,
+            "type": "Place",
+            "normalized_text": "つくば"
+          }
+        ]
+      },
+      "conversation_id": "1346382465921740800",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-05T09:06:09.000Z",
+      "possibly_sensitive": false,
+      "text": "つくば戻りましたが、はちゃめちゃに頭痛で笑っています、たぶん脱水ですけど"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346356677646303232",
+      "conversation_id": "1346356677646303232",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-05T07:23:40.000Z",
+      "possibly_sensitive": false,
+      "text": "ヨウイチオチアイにも話を振ると参加してくれそう\n&gt;RT"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 9,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1346299071099596801"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "hebiko"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 13,
+            "end": 16,
+            "probability": 0.297,
+            "type": "Place",
+            "normalized_text": "春日地区"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "id": "1346356554618998785",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "847869251595542528",
+            "name": "Drawing & illustration",
+            "description": "Drawing and sketching"
+          }
+        },
+        {
+          "domain": {
+            "id": "85",
+            "name": "Book Genre",
+            "description": "A genre for books, like Fiction"
+          },
+          "entity": {
+            "id": "847521144173350912",
+            "name": "Comics",
+            "description": "Comics"
+          }
+        }
+      ],
+      "conversation_id": "1346356554618998785",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-05T07:23:11.000Z",
+      "possibly_sensitive": false,
+      "text": "RT @hebiko: 「春日地区は育児の夢を見るか」ってタイトルで出産・育児本の原稿集めるぞ！って言ったら参加してくれる人居るかな……俳句でも短歌でもエッセイでも漫画でもイラスト（モノクロ）でもなんでもいいです　まあ何も集まらなかったら私が一人で出せばいいんだが……（誰かに怒…"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1346351772105728000"
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1346353347494703106",
+      "in_reply_to_user_id": "707346268821913600",
+      "conversation_id": "1346351772105728000",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-05T07:10:26.000Z",
+      "possibly_sensitive": false,
+      "text": "例えば千円分の券があったときに、代理のやつに金とその番号を渡して買わせる。そいつはその通り買ってその番号を掲示板に載せる。他の注文者はその掲示板を参考にして代理に金と番号を渡す。もし当たればその何割かを注文者が受け取り、残りは他の注文者で山分けする。外れても山分けに与れる…とか？"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346351772105728000",
+      "conversation_id": "1346351772105728000",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-05T07:04:11.000Z",
+      "possibly_sensitive": false,
+      "text": "馬券とかそういう類のもの、確実に当たりと外れがあるわけだけど、理論上全ての可能性の券を買えばどれかは当たるはずで、でもそれを個人の財力でやると無理なわけで、じゃあ一旦どこかにプールしてそいつが代理で買えば確実じゃない？資金移動業と電子決済法とかネックだけれども"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346350285912899586",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "847869481888096256",
+            "name": "Gambling"
+          }
+        }
+      ],
+      "conversation_id": "1346350285912899586",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-05T06:58:16.000Z",
+      "possibly_sensitive": false,
+      "text": "2021年、賭け金以外は損が発生しないギャンブルを積極的にやっていきたい、もちろん回数楽しむために樋口一人までくらいに枷をつけて"
+    },
+    {
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346247845959983105",
+      "conversation_id": "1346247845959983105",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-05T00:11:13.000Z",
+      "possibly_sensitive": false,
+      "text": "アップロードの検知はプロバイダ云々のアレやこれやで辿れたけど、ダウンロードの検知はできないんじゃない？どうやって立証するんだろ(サーバ側に履歴を残させるとも思えんし…)"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1346109481634115588"
+        },
+        {
+          "type": "replied_to",
+          "id": "1345750634197254144"
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1346111960144781314",
+      "in_reply_to_user_id": "707346268821913600",
+      "conversation_id": "1345020610875777024",
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 80,
+            "end": 103,
+            "url": "https://t.co/OtdlkuLt9x",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1346109481634115588",
+            "display_url": "twitter.com/Ningensei848/s…"
+          }
+        ]
+      },
+      "created_at": "2021-01-04T15:11:15.000Z",
+      "possibly_sensitive": false,
+      "text": "ずいぶんと習慣化されてきていてかなり良くて、継続の力を感じています\n\n5日からは README 以外のきちんとしたやつにも手を入れていこうと思います、よろしく https://t.co/OtdlkuLt9x"
+    },
+    {
+      "source": "contributter",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone",
+      "id": "1346109481634115588",
+      "conversation_id": "1346109481634115588",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-04T15:01:24.000Z",
+      "possibly_sensitive": false,
+      "text": "Ningensei848 さんの 2021/01/04 の contribution 数: 14\n #contributter_report",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 50,
+            "end": 70,
+            "tag": "contributter_report"
+          }
+        ]
+      }
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 174,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1346085324716273664"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "Hishinuma_t"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 35,
+            "end": 41,
+            "probability": 0.5171,
+            "type": "Person",
+            "normalized_text": "振れたら 博し"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "id": "1346105956816457728",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847546154439000064",
+            "name": "Education",
+            "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform."
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "852247095461371904",
+            "name": "Graduate school",
+            "description": "Graduate school"
+          }
+        }
+      ],
+      "conversation_id": "1346105956816457728",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-04T14:47:24.000Z",
+      "possibly_sensitive": false,
+      "text": "RT @Hishinuma_t: 学士は打席に立てたら\n修士はバットが振れたら\n博しはヒットが打てたら\n\nなんて言葉があって学士は簡単に聞こえるのかもしれませんが、ルールブックに沿ったユニフォームとバットをきちんと装着して打席に立つことは難しいんだなあ。などとこの時期になると思う"
+    },
+    {
+      "source": "Twitter Web App",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346100640582311936",
+      "entities": {
+        "annotations": [
+          {
+            "start": 9,
+            "end": 16,
+            "probability": 0.5322,
+            "type": "Person",
+            "normalized_text": "藤子・F・不二雄"
+          }
+        ],
+        "urls": [
+          {
+            "start": 24,
+            "end": 47,
+            "url": "https://t.co/gEPshhOICo",
+            "expanded_url": "https://dorachan.tameshiyo.me/20WIN21H",
+            "display_url": "dorachan.tameshiyo.me/20WIN21H",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1345902724349452288/21FxD7KA?format=jpg&name=orig",
+                "width": 828,
+                "height": 1200
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1345902724349452288/21FxD7KA?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "ミノタウロスの皿（藤子・F・不二雄SF短編集）",
+            "unwound_url": "https://dorachan.tameshiyo.me/20WIN21H"
+          }
+        ]
+      },
+      "conversation_id": "1346100640582311936",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-04T14:26:16.000Z",
+      "possibly_sensitive": true,
+      "text": "ミノタウロスの皿（藤子・F・不二雄SF短編集）\nhttps://t.co/gEPshhOICo"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1346087627837956098",
+      "entities": {
+        "annotations": [
+          {
+            "start": 3,
+            "end": 4,
+            "probability": 0.926,
+            "type": "Place",
+            "normalized_text": "東京"
+          },
+          {
+            "start": 8,
+            "end": 9,
+            "probability": 0.9763,
+            "type": "Place",
+            "normalized_text": "茨城"
+          }
+        ]
+      },
+      "conversation_id": "1346087627837956098",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-04T13:34:34.000Z",
+      "possibly_sensitive": false,
+      "text": "明日は東京経由で茨城に戻るんですけど，ちょっと不穏ですね……"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1346073205639843840"
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1346075661790707712",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692468",
+            "name": "GitHub"
+          }
+        }
+      ],
+      "conversation_id": "1346075661790707712",
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 28,
+            "end": 51,
+            "url": "https://t.co/MImBUAQciz",
+            "expanded_url": "https://github.com/Ningensei848",
+            "display_url": "github.com/Ningensei848",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1346075668908371968/fc_-QYhP?format=jpg&name=orig",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1346075668908371968/fc_-QYhP?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Ningensei848 - Overview",
+            "description": "University of Tsukuba / Library Science / Imagine the Future of Digital Nature. - Ningensei848",
+            "unwound_url": "https://github.com/Ningensei848"
+          },
+          {
+            "start": 52,
+            "end": 75,
+            "url": "https://t.co/40EAp0QDui",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1346073205639843840",
+            "display_url": "twitter.com/Ningensei848/s…"
+          }
+        ]
+      },
+      "created_at": "2021-01-04T12:47:01.000Z",
+      "possibly_sensitive": true,
+      "text": "三が日＋本日の成果物です（リンクミスってたので再投稿）\nhttps://t.co/MImBUAQciz https://t.co/40EAp0QDui"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1346073205639843840"
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1346073638093484034",
+      "entities": {
+        "annotations": [
+          {
+            "start": 65,
+            "end": 70,
+            "probability": 0.6408,
+            "type": "Product",
+            "normalized_text": "Github"
+          }
+        ]
+      },
+      "in_reply_to_user_id": "707346268821913600",
+      "conversation_id": "1346073205639843840",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-04T12:38:58.000Z",
+      "possibly_sensitive": false,
+      "text": "profile はまぁ自動更新されるようになってバンザイなんだけど，これができるなら自分がインターネットに流しているすべての情報をGithubのリポジトリに集約するのもありなんではと思ったりする．わざわざブチ込まなくても，Actions で定期的に収集できるので使わない手はない……！"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone",
+      "id": "1346073205639843840",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 13,
+            "probability": 0.4661,
+            "type": "Product",
+            "normalized_text": "Github Actions"
+          },
+          {
+            "start": 49,
+            "end": 54,
+            "probability": 0.6345,
+            "type": "Product",
+            "normalized_text": "Github"
+          }
+        ],
+        "urls": [
+          {
+            "start": 126,
+            "end": 149,
+            "url": "https://t.co/0Y6Udfi9fA",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1346072539135578112",
+            "display_url": "twitter.com/Ningensei848/s…"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692468",
+            "name": "GitHub"
+          }
+        }
+      ],
+      "conversation_id": "1346073205639843840",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-04T12:37:15.000Z",
+      "possibly_sensitive": false,
+      "text": "Github Actions がかなり良くて，流石は天下のMS様やなって思ったし，そもそもGitとGithubという仕組みが素晴らしいということを再認識できた（し，Git に対する苦手意識とか忌避してきた GUI 操作もなんとなくできるようになった） https://t.co/0Y6Udfi9fA"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1345944364636196865",
+      "entities": {
+        "annotations": [
+          {
+            "start": 3,
+            "end": 4,
+            "probability": 0.4056,
+            "type": "Person",
+            "normalized_text": "五条"
+          },
+          {
+            "start": 7,
+            "end": 10,
+            "probability": 0.6653,
+            "type": "Person",
+            "normalized_text": "ナナミン"
+          },
+          {
+            "start": 28,
+            "end": 29,
+            "probability": 0.8228,
+            "type": "Person",
+            "normalized_text": "東堂"
+          }
+        ]
+      },
+      "conversation_id": "1345944364636196865",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-04T04:05:17.000Z",
+      "possibly_sensitive": false,
+      "text": "だから五条とかナナミンはやめとけとあれほど………勝つのは東堂しかおらん、ブラザーしか勝たん"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 13599,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1345862152150630400"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "ali_a_lily"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 16,
+            "end": 22,
+            "probability": 0.3563,
+            "type": "Other",
+            "normalized_text": "ヒロアカ29巻"
+          },
+          {
+            "start": 24,
+            "end": 25,
+            "probability": 0.7059,
+            "type": "Other",
+            "normalized_text": "呪術"
+          },
+          {
+            "start": 26,
+            "end": 26,
+            "probability": 0.4478,
+            "type": "Other",
+            "normalized_text": "廻"
+          },
+          {
+            "start": 27,
+            "end": 27,
+            "probability": 0.353,
+            "type": "Other",
+            "normalized_text": "戦"
+          },
+          {
+            "start": 28,
+            "end": 30,
+            "probability": 0.3559,
+            "type": "Other",
+            "normalized_text": "14巻"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "id": "1345940787851194369",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "1309225658623508480",
+            "name": "呪術廻戦"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "1109139066430210048",
+            "name": "Shonen Jump"
+          }
+        },
+        {
+          "domain": {
+            "id": "84",
+            "name": "Book",
+            "description": "A book, like \"To Kill a Mockingbird\""
+          },
+          "entity": {
+            "id": "1236052936121151488",
+            "name": "Chainsaw Man"
+          }
+        }
+      ],
+      "conversation_id": "1345940787851194369",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-04T03:51:04.000Z",
+      "possibly_sensitive": false,
+      "text": "RT @ali_a_lily: ヒロアカ29巻、呪術廻戦14巻、チェンソーマン10巻がジャンプ地獄セットって呼ばれてるの見てゲラゲラ笑った  連載完結で単行本発売日がズレたから同日発売になったの奇跡でしょ"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1345926716393279488",
+      "conversation_id": "1345926716393279488",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-04T02:55:09.000Z",
+      "possibly_sensitive": false,
+      "text": "と同時に自分の人生の周回遅れがズシンと響いてウケる"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1345926518451568642",
+      "conversation_id": "1345926518451568642",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-04T02:54:22.000Z",
+      "possibly_sensitive": false,
+      "text": "めでてぇ！！"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1345926479507378177",
+      "conversation_id": "1345926479507378177",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-04T02:54:13.000Z",
+      "possibly_sensitive": false,
+      "text": "新年初おめでたの発生を確認"
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1345926388402909186",
+      "conversation_id": "1345926388402909186",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-04T02:53:51.000Z",
+      "possibly_sensitive": false,
+      "text": "ア"
+    },
+    {
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1345921702706905088",
+      "conversation_id": "1345921702706905088",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-04T02:35:14.000Z",
+      "possibly_sensitive": false,
+      "text": "映像も音声も膨大なデータから自由に生成できるようになった時代、何をもってそれが「本物」であると証明できるんだろう(あるいは贋物であると判別できるんだろう)"
+    },
+    {
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 746,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1345753816063385600"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "SAMEX_1u2y"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 25,
+            "end": 28,
+            "probability": 0.9814,
+            "type": "Person",
+            "normalized_text": "浜田雅功"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "id": "1345913280347262976",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1012415187788316673",
+            "name": "Masatoshi Hamada",
+            "description": "Masatoshi Hamada (浜田雅功)"
+          }
+        },
+        {
+          "domain": {
+            "id": "58",
+            "name": "Entertainment Personality",
+            "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+          },
+          "entity": {
+            "id": "1012415187788316673",
+            "name": "Masatoshi Hamada",
+            "description": "Masatoshi Hamada (浜田雅功)"
+          }
+        },
+        {
+          "domain": {
+            "id": "71",
+            "name": "Video Game",
+            "description": "A video game like Overwatch"
+          },
+          "entity": {
+            "id": "1128367253861175296",
+            "name": "Taiko no Tatsujin"
+          }
+        }
+      ],
+      "conversation_id": "1345913280347262976",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-04T02:01:46.000Z",
+      "possibly_sensitive": false,
+      "text": "RT @SAMEX_1u2y: 太鼓の達人だったら浜田雅功が「性癖発表ーーーーーーーーーーーーーーーーーーーッッッッッッッッッッッッッッッッッッッッッ！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！」って絶叫してる https://t.co…"
+    },
+    {
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1345906271879270400",
+      "conversation_id": "1345906271879270400",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-04T01:33:55.000Z",
+      "possibly_sensitive": false,
+      "text": "いやアンデラもう3年くらい連載してたっけ？になってる"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1345752115398864896",
+      "conversation_id": "1345752115398864896",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-03T15:21:21.000Z",
+      "possibly_sensitive": false,
+      "text": "耳が痛いことを痛くなく言う、いい言葉ですね"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1345747064311975938"
+        },
+        {
+          "type": "replied_to",
+          "id": "1345385363695566849"
+        }
+      ],
+      "reply_settings": "everyone",
+      "id": "1345750634197254144",
+      "in_reply_to_user_id": "707346268821913600",
+      "conversation_id": "1345020610875777024",
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 102,
+            "end": 125,
+            "url": "https://t.co/L5fVdr7yPv",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1345747064311975938",
+            "display_url": "twitter.com/Ningensei848/s…"
+          }
+        ]
+      },
+      "created_at": "2021-01-03T15:15:28.000Z",
+      "possibly_sensitive": false,
+      "text": "いや試行錯誤しすぎで草生えとる\n\n実質的な commit 数は3くらいなのでもうちょいきちんとやりましょう\nそろそろ profile いじるのもやめて、昨年のブツをまず整理しておきましょう(明日の予定) https://t.co/L5fVdr7yPv"
+    },
+    {
+      "source": "contributter",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "reply_settings": "everyone",
+      "id": "1345747064311975938",
+      "conversation_id": "1345747064311975938",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-03T15:01:17.000Z",
+      "possibly_sensitive": false,
+      "text": "Ningensei848 さんの 2021/01/03 の contribution 数: 15\n #contributter_report",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 50,
+            "end": 70,
+            "tag": "contributter_report"
+          }
+        ]
+      }
+    },
+    {
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1345742301029519360",
+      "conversation_id": "1345742301029519360",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-03T14:42:21.000Z",
+      "possibly_sensitive": false,
+      "text": "New Enlightenment て，それはつまり「ただしく理解すれば，私と同じ考えに至るはずだ」という同調圧力でしかないのでは"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1345716193181614080",
+      "entities": {
+        "annotations": [
+          {
+            "start": 14,
+            "end": 16,
+            "probability": 0.8592,
+            "type": "Person",
+            "normalized_text": "新海誠"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1132013015690178560",
+            "name": "Makoto Shinkai"
+          }
+        }
+      ],
+      "conversation_id": "1345716193181614080",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-03T12:58:37.000Z",
+      "possibly_sensitive": false,
+      "text": "いつの日か来たる時のために、新海誠作品は今まで一度も見ていないんですが、今年か来年あたりにはその機会を得たいですね"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "id": "1345713705116344320",
+      "conversation_id": "1345713705116344320",
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-03T12:48:44.000Z",
+      "possibly_sensitive": false,
+      "text": "愛を注げる対象が我が子しか居ないと親の認知は歪む、本年最初の気づきですね(犬と共に暮らしましょう)"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "name": "きあい🌥️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "location": "山梨県→茨城県つくば市",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 987,
+          "tweet_count": 57910,
+          "listed_count": 22
+        },
+        "url": "https://t.co/KBXT0N3eAa",
+        "id": "707346268821913600",
+        "pinned_tweet_id": "1345020610875777024",
+        "protected": false,
+        "description": "やる：電気工事士2種＆応用情報技術者試験，つくる：検索しやすいSPARQLのサービス",
+        "verified": false,
+        "username": "Ningensei848",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "川科",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/892759655755112448/v6uz8SOY_normal.jpg",
+        "location": "沼",
+        "created_at": "2010-10-05T15:21:32.000Z",
+        "public_metrics": {
+          "followers_count": 126392,
+          "following_count": 823,
+          "tweet_count": 263418,
+          "listed_count": 2443
+        },
+        "url": "https://t.co/oBLK9TRLaY",
+        "id": "198911004",
+        "pinned_tweet_id": "1345189360996499456",
+        "protected": false,
+        "description": "絵を描きます。",
+        "verified": false,
+        "username": "kahasina9",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/oBLK9TRLaY",
+                "expanded_url": "http://www.pixiv.net/member.php?id=373203",
+                "display_url": "pixiv.net/member.php?id=…"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "ぽろすけ / 丈山（淫獄連載）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/705707325118525440/xj4SbNH8_normal.jpg",
+        "location": "東京都　宮崎県民",
+        "created_at": "2008-10-17T03:20:13.000Z",
+        "public_metrics": {
+          "followers_count": 18281,
+          "following_count": 2148,
+          "tweet_count": 31351,
+          "listed_count": 257
+        },
+        "url": "https://t.co/qUM4IHSTZS",
+        "id": "16819444",
+        "pinned_tweet_id": "1347366176041549825",
+        "protected": false,
+        "description": "PN：丈山雄為（じょうやま ゆい）\n『淫獄団地』連載中（原作：搾精研究所先生）\n『リビドーハンタータケル』全4巻\n『ヤミアバキクラウミコ』全2巻\n『解体ザナフ』四季賞2012秋\n・ギルティギア大好き ・東方も好き ・鈴原るる…すこ…🎨🥰",
+        "verified": false,
+        "username": "porosuke",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/qUM4IHSTZS",
+                "expanded_url": "https://www.pixiv.net/member.php?id=109402",
+                "display_url": "pixiv.net/member.php?id=…"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "搾精研究所（淫獄連載中！）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1271783473397657600/2Kx6o26O_normal.jpg",
+        "location": "所内",
+        "created_at": "2020-06-13T11:32:34.000Z",
+        "public_metrics": {
+          "followers_count": 12291,
+          "following_count": 34,
+          "tweet_count": 297,
+          "listed_count": 93
+        },
+        "url": "https://t.co/fD2tLzIXa2",
+        "id": "1271767381514153984",
+        "pinned_tweet_id": "1348959575689424900",
+        "protected": false,
+        "description": "いつも応援ありがとうございます！「無限射精拷問」「搾精病棟」など、主に成人向けCG集を制作してきました。お陰様で「搾精病棟」が小説化・AV化しました！現在「搾精学級⑤」絶賛発売中！また漫画「淫獄団地」の原作担当！ 18禁コンテンツなので未成年の方は閲覧しないで下さい。",
+        "verified": false,
+        "username": "98OzeBGDhZARIyj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/fD2tLzIXa2",
+                "expanded_url": "https://ci-en.dlsite.com/creator/4612",
+                "display_url": "ci-en.dlsite.com/creator/4612"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "呪術廻戦【公式】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1245379443717107718/M3e7e1fC_normal.jpg",
+        "location": "東京都立呪術高等専門学校",
+        "created_at": "2018-11-05T14:48:05.000Z",
+        "public_metrics": {
+          "followers_count": 526175,
+          "following_count": 8,
+          "tweet_count": 1065,
+          "listed_count": 2122
+        },
+        "url": "https://t.co/dUFSRbydTN",
+        "id": "1059457329710526465",
+        "pinned_tweet_id": "1349174329284681728",
+        "protected": false,
+        "description": "週刊少年ジャンプで連載中『呪術廻戦』（作／芥見下々）の公式アカウントです。コミックス0～14巻・小説2巻発売中！アニメ放送中！🤞#呪術廻戦 #JujutsuKaisen |⚡アイコン壁紙まとめ https://t.co/tHJx361wuw|📱LINEスタンプ https://t.co/N6uyBo1NH8｜📺アニメ公式 @animejujutsu",
+        "verified": false,
+        "username": "jujutsu_PR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/dUFSRbydTN",
+                "expanded_url": "https://www.shonenjump.com/j/rensai/jujutsu.html",
+                "display_url": "shonenjump.com/j/rensai/jujut…"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 97,
+                "end": 120,
+                "url": "https://t.co/tHJx361wuw",
+                "expanded_url": "http://bit.ly/2v6FZl4",
+                "display_url": "bit.ly/2v6FZl4"
+              },
+              {
+                "start": 131,
+                "end": 154,
+                "url": "https://t.co/N6uyBo1NH8",
+                "expanded_url": "http://bit.ly/2FiX10J",
+                "display_url": "bit.ly/2FiX10J"
+              }
+            ],
+            "hashtags": [
+              {
+                "start": 64,
+                "end": 69,
+                "tag": "呪術廻戦"
+              },
+              {
+                "start": 70,
+                "end": 84,
+                "tag": "JujutsuKaisen"
+              }
+            ],
+            "mentions": [
+              {
+                "start": 162,
+                "end": 175,
+                "username": "animejujutsu"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "味噌うなぎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1349278588848140290/t2_qTuPD_normal.jpg",
+        "created_at": "2013-08-10T12:15:18.000Z",
+        "public_metrics": {
+          "followers_count": 18473,
+          "following_count": 476,
+          "tweet_count": 108208,
+          "listed_count": 284
+        },
+        "url": "https://t.co/SKCq8qdgT8",
+        "id": "1659953958",
+        "pinned_tweet_id": "1346401461463236610",
+        "protected": false,
+        "description": "お話をつくるのが好きです。匿名メッセージはこちらまで→https://t.co/EgcPrQidkA https://t.co/18dA2LRqEr お仕事やご連絡はDMまでお願いします。",
+        "verified": false,
+        "username": "yuuki2644",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/SKCq8qdgT8",
+                "expanded_url": "https://www.pixiv.net/users/8792108",
+                "display_url": "pixiv.net/users/8792108"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 27,
+                "end": 50,
+                "url": "https://t.co/EgcPrQidkA",
+                "expanded_url": "https://marshmallow-qa.com/yuuki2644",
+                "display_url": "marshmallow-qa.com/yuuki2644"
+              },
+              {
+                "start": 51,
+                "end": 74,
+                "url": "https://t.co/18dA2LRqEr",
+                "expanded_url": "https://skeb.jp/@yuuki2644",
+                "display_url": "skeb.jp/@yuuki2644"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "TVアニメ『宇宙よりも遠い場所』",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345012308326502403/B6BJim9k_normal.jpg",
+        "location": "南極",
+        "created_at": "2017-10-31T01:36:43.000Z",
+        "public_metrics": {
+          "followers_count": 55450,
+          "following_count": 20,
+          "tweet_count": 942,
+          "listed_count": 926
+        },
+        "url": "https://t.co/v21rWbNmar",
+        "id": "925174663633764352",
+        "pinned_tweet_id": "1329236356212482050",
+        "protected": false,
+        "description": "🐧2021年3月24日(水)Blu-ray BOX発売 & 1月より再放送決定🐧『ノーゲーム・ノーライフ』のチームによるオリジナルTVアニメーション『宇宙(そら)よりも遠い場所』の公式Twitterです。最新情報をお届けします！ 公式ハッシュタグ：#yorimoi #よりもい",
+        "verified": false,
+        "username": "yorimoi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/v21rWbNmar",
+                "expanded_url": "http://yorimoi.com/",
+                "display_url": "yorimoi.com"
+              }
+            ]
+          },
+          "description": {
+            "hashtags": [
+              {
+                "start": 124,
+                "end": 132,
+                "tag": "yorimoi"
+              },
+              {
+                "start": 133,
+                "end": 138,
+                "tag": "よりもい"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "つのだ ふむ🗯cakes連載中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1235084212731924487/E2f51x3W_normal.jpg",
+        "created_at": "2017-07-01T06:09:34.000Z",
+        "public_metrics": {
+          "followers_count": 22442,
+          "following_count": 1532,
+          "tweet_count": 15948,
+          "listed_count": 87
+        },
+        "url": "https://t.co/ALNKsjKbjU",
+        "id": "881032008599617536",
+        "pinned_tweet_id": "1297041682303655937",
+        "protected": false,
+        "description": "マンガ家。LINEマンガ、cakes同時連載→「#りさこのルール」（電子書籍１、2巻発売中） / まんが舞台袖noteマガジン→「シアターふむ」コルク所属 新連載準備中　コザクラインコ飼ってます",
+        "verified": false,
+        "username": "tsunoda_fumm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/ALNKsjKbjU",
+                "expanded_url": "https://manga.line.me/product/periodic?id=Z0000730",
+                "display_url": "manga.line.me/product/period…"
+              }
+            ]
+          },
+          "description": {
+            "hashtags": [
+              {
+                "start": 24,
+                "end": 32,
+                "tag": "りさこのルール"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "HCI Research",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/569094864411709440/LyxEP3f4_normal.png",
+        "location": "I \"came\" from the future",
+        "created_at": "2013-09-21T06:38:50.000Z",
+        "public_metrics": {
+          "followers_count": 8666,
+          "following_count": 1108,
+          "tweet_count": 8951,
+          "listed_count": 194
+        },
+        "url": "https://t.co/0PKM9ajeAO",
+        "id": "1889160704",
+        "pinned_tweet_id": "1080799379693420545",
+        "protected": false,
+        "description": "Best #HCI #VR #AR news. Credits and retweets are much appreciated.\nPatreon: https://t.co/25qtBU9OJ7 \nDonation: https://t.co/TCztqC6L34",
+        "verified": false,
+        "username": "HCI_Research",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/0PKM9ajeAO",
+                "expanded_url": "https://www.facebook.com/HCI.Research",
+                "display_url": "facebook.com/HCI.Research"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 76,
+                "end": 99,
+                "url": "https://t.co/25qtBU9OJ7",
+                "expanded_url": "https://www.patreon.com/hci_research",
+                "display_url": "patreon.com/hci_research"
+              },
+              {
+                "start": 111,
+                "end": 134,
+                "url": "https://t.co/TCztqC6L34",
+                "expanded_url": "http://paypal.me/hciresearch",
+                "display_url": "paypal.me/hciresearch"
+              }
+            ],
+            "hashtags": [
+              {
+                "start": 5,
+                "end": 9,
+                "tag": "HCI"
+              },
+              {
+                "start": 10,
+                "end": 13,
+                "tag": "VR"
+              },
+              {
+                "start": 14,
+                "end": 17,
+                "tag": "AR"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "たくぅ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1348623915837374465/emgtyyEO_normal.jpg",
+        "created_at": "2019-11-11T01:08:26.000Z",
+        "public_metrics": {
+          "followers_count": 4900,
+          "following_count": 4,
+          "tweet_count": 141,
+          "listed_count": 44
+        },
+        "url": "https://t.co/iO9RudiBi4",
+        "id": "1193696914660659200",
+        "pinned_tweet_id": "1334311549884719104",
+        "protected": false,
+        "description": "チェ | 本誌",
+        "verified": false,
+        "username": "chm_sd3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iO9RudiBi4",
+                "expanded_url": "https://marshmallow-qa.com/sudakime2?utm_medium=url_text&utm_source=promotion",
+                "display_url": "marshmallow-qa.com/sudakime2?utm_…"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "へびこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1255035424684167168/DSGz1PmN_normal.png",
+        "location": "ものへびはうす",
+        "created_at": "2009-09-05T11:37:32.000Z",
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 945,
+          "tweet_count": 242454,
+          "listed_count": 123
+        },
+        "url": "https://t.co/lUUwedLlcB",
+        "id": "71782950",
+        "pinned_tweet_id": "1349564584420495360",
+        "protected": false,
+        "description": "はたらくあざらし/春日民中心出産育児アンソロ、原稿募集中です。詳細は固定ツイ/ SW-8077-6803-9892",
+        "verified": false,
+        "username": "hebiko",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/lUUwedLlcB",
+                "expanded_url": "https://twpf.jp/hebiko",
+                "display_url": "twpf.jp/hebiko"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "電子計算機の沼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1339630842797117440/wavnOK1p_normal.jpg",
+        "location": "丸ノ内線沿い",
+        "created_at": "2013-01-16T16:36:10.000Z",
+        "public_metrics": {
+          "followers_count": 3710,
+          "following_count": 1938,
+          "tweet_count": 24922,
+          "listed_count": 73
+        },
+        "url": "https://t.co/PHAtMZs1yT",
+        "id": "1095705715",
+        "pinned_tweet_id": "1344586787100917760",
+        "protected": false,
+        "description": "博士(情報学)，HPCが専門，科学計算総合研究所 主任研究員． 前職はPEZY Computingで数値計算ライブラリ開発． C++, Linux, vim．アーキ依存や精度・型をどう隠蔽して＆どうテストしてライブラリの性能・精度・I/Fを高品質にするかに興味がある． 車，ゴマちゃん，妻が好き．発言は所属と関係ない",
+        "verified": false,
+        "username": "Hishinuma_t",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/PHAtMZs1yT",
+                "expanded_url": "https://hishinuma-t.dev/",
+                "display_url": "hishinuma-t.dev"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "有里",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1327958291620667393/5mE5DC9d_normal.jpg",
+        "location": "↑ツイフィご一読ください",
+        "created_at": "2018-08-24T13:45:34.000Z",
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 29,
+          "tweet_count": 358,
+          "listed_count": 0
+        },
+        "url": "https://t.co/mzHR34nvAW",
+        "id": "1032987282096017408",
+        "protected": false,
+        "description": "ジャンル雑多趣味垢 / 成人済 / 腐 / ゲームスクショ多め / たまにお絵描き　https://t.co/nJS57GXIPk",
+        "verified": false,
+        "username": "ali_a_lily",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/mzHR34nvAW",
+                "expanded_url": "https://www.pixiv.net/users/41732451",
+                "display_url": "pixiv.net/users/41732451"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 42,
+                "end": 65,
+                "url": "https://t.co/nJS57GXIPk",
+                "expanded_url": "https://twpf.jp/ali_a_lily",
+                "display_url": "twpf.jp/ali_a_lily"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "さめ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1212049591626940417/-gXgtaTN_normal.png",
+        "created_at": "2012-03-12T18:07:34.000Z",
+        "public_metrics": {
+          "followers_count": 8402,
+          "following_count": 1048,
+          "tweet_count": 345936,
+          "listed_count": 236
+        },
+        "url": "",
+        "id": "522457661",
+        "protected": false,
+        "description": "さめやで。メギドやってます。本田に勝ちました。",
+        "verified": false,
+        "username": "SAMEX_1u2y"
+      }
+    ],
+    "tweets": [
+      {
+        "source": "Twitter Web App",
+        "public_metrics": {
+          "retweet_count": 2494,
+          "reply_count": 2,
+          "like_count": 6551,
+          "quote_count": 34
+        },
+        "reply_settings": "everyone",
+        "id": "1347204855677341696",
+        "entities": {
+          "annotations": [
+            {
+              "start": 1,
+              "end": 7,
+              "probability": 0.7662,
+              "type": "Product",
+              "normalized_text": "Twitter"
+            },
+            {
+              "start": 70,
+              "end": 76,
+              "probability": 0.6519,
+              "type": "Product",
+              "normalized_text": "Twitter"
+            }
+          ]
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "Twitter"
+            }
+          }
+        ],
+        "conversation_id": "1347204855677341696",
+        "author_id": "198911004",
+        "created_at": "2021-01-07T15:34:02.000Z",
+        "possibly_sensitive": false,
+        "text": "「Twitter投稿に最適化された文法に慣れると、自分の思考を文章化する際に、情報の過度な省略や定型化を無意識に行っているように思える」→「Twitter、日本語が雑になりがち」"
+      },
+      {
+        "source": "Twitter Web App",
+        "public_metrics": {
+          "retweet_count": 2360,
+          "reply_count": 30,
+          "like_count": 5545,
+          "quote_count": 66
+        },
+        "reply_settings": "everyone",
+        "id": "1347366176041549825",
+        "entities": {
+          "annotations": [
+            {
+              "start": 1,
+              "end": 4,
+              "probability": 0.7175,
+              "type": "Other",
+              "normalized_text": "淫獄団地"
+            }
+          ],
+          "urls": [
+            {
+              "start": 39,
+              "end": 62,
+              "url": "https://t.co/bwJmgNYfOr",
+              "expanded_url": "http://nico.ms/mg530957",
+              "display_url": "nico.ms/mg530957"
+            },
+            {
+              "start": 63,
+              "end": 86,
+              "url": "https://t.co/eKsz7pvdw2",
+              "expanded_url": "https://twitter.com/porosuke/status/1347366176041549825/photo/1",
+              "display_url": "pic.twitter.com/eKsz7pvdw2"
+            },
+            {
+              "start": 63,
+              "end": 86,
+              "url": "https://t.co/eKsz7pvdw2",
+              "expanded_url": "https://twitter.com/porosuke/status/1347366176041549825/photo/1",
+              "display_url": "pic.twitter.com/eKsz7pvdw2"
+            },
+            {
+              "start": 63,
+              "end": 86,
+              "url": "https://t.co/eKsz7pvdw2",
+              "expanded_url": "https://twitter.com/porosuke/status/1347366176041549825/photo/1",
+              "display_url": "pic.twitter.com/eKsz7pvdw2"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 33,
+              "end": 38,
+              "tag": "淫獄団地"
+            }
+          ]
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1347365857387663360",
+            "3_1347365885506248706",
+            "3_1347365909636108295"
+          ]
+        },
+        "conversation_id": "1347366176041549825",
+        "author_id": "16819444",
+        "created_at": "2021-01-08T02:15:03.000Z",
+        "possibly_sensitive": true,
+        "text": "『淫獄団地』第1話が公開されました。\nどうぞ宜しくお願いします！ #淫獄団地\nhttps://t.co/bwJmgNYfOr https://t.co/eKsz7pvdw2"
+      },
+      {
+        "source": "Twitter Web App",
+        "public_metrics": {
+          "retweet_count": 5083,
+          "reply_count": 36,
+          "like_count": 8239,
+          "quote_count": 177
+        },
+        "reply_settings": "everyone",
+        "id": "1347366293893042178",
+        "entities": {
+          "annotations": [
+            {
+              "start": 8,
+              "end": 11,
+              "probability": 0.6738,
+              "type": "Other",
+              "normalized_text": "淫獄団地"
+            }
+          ],
+          "urls": [
+            {
+              "start": 78,
+              "end": 101,
+              "url": "https://t.co/aqfH0sUuUY",
+              "expanded_url": "https://seiga.nicovideo.jp/comic/46238",
+              "display_url": "seiga.nicovideo.jp/comic/46238"
+            },
+            {
+              "start": 102,
+              "end": 125,
+              "url": "https://t.co/YH4dqagsem",
+              "expanded_url": "https://twitter.com/98OzeBGDhZARIyj/status/1347366293893042178/photo/1",
+              "display_url": "pic.twitter.com/YH4dqagsem"
+            }
+          ]
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1347366185294204931"
+          ]
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "85",
+              "name": "Book Genre",
+              "description": "A genre for books, like Fiction"
+            },
+            "entity": {
+              "id": "847521144173350912",
+              "name": "Comics",
+              "description": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1347366293893042178",
+        "author_id": "1271767381514153984",
+        "created_at": "2021-01-08T02:15:31.000Z",
+        "possibly_sensitive": false,
+        "text": "やったぁあ！！『淫獄団地』が連載開始よぉおお！！原作：搾精研究所　漫画：丈山雄為！！ニコニコ漫画ドラドラしゃーぷで公開中よぉおお！！みんな見てねぇええ！！\nhttps://t.co/aqfH0sUuUY https://t.co/YH4dqagsem"
+      },
+      {
+        "source": "contributter",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "id": "1347196665216827393",
+        "conversation_id": "1347196665216827393",
+        "author_id": "707346268821913600",
+        "created_at": "2021-01-07T15:01:29.000Z",
+        "possibly_sensitive": false,
+        "text": "Ningensei848 さんの 2021/01/07 の contribution 数: 2\n #contributter_report",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        }
+      },
+      {
+        "source": "Twitter for iPad",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1346837982200934400"
+          },
+          {
+            "type": "replied_to",
+            "id": "1346472491380658179"
+          }
+        ],
+        "reply_settings": "everyone",
+        "id": "1346843780603777027",
+        "in_reply_to_user_id": "707346268821913600",
+        "conversation_id": "1345020610875777024",
+        "author_id": "707346268821913600",
+        "entities": {
+          "urls": [
+            {
+              "start": 17,
+              "end": 40,
+              "url": "https://t.co/o1uQ5nV2Y4",
+              "expanded_url": "https://twitter.com/Ningensei848/status/1346837982200934400",
+              "display_url": "twitter.com/Ningensei848/s…"
+            }
+          ]
+        },
+        "created_at": "2021-01-06T15:39:15.000Z",
+        "possibly_sensitive": false,
+        "text": "はい、今日は色々やりましたもんね https://t.co/o1uQ5nV2Y4"
+      },
+      {
+        "source": "Twitter Web App",
+        "public_metrics": {
+          "retweet_count": 10353,
+          "reply_count": 91,
+          "like_count": 66814,
+          "quote_count": 520
+        },
+        "reply_settings": "everyone",
+        "id": "1347088195960201217",
+        "attachments": {
+          "media_keys": [
+            "3_1347044874667712518",
+            "3_1347044911615340545"
+          ]
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "3",
+              "name": "TV Shows",
+              "description": "Television shows from around the world"
+            },
+            "entity": {
+              "id": "1309225658623508480",
+              "name": "呪術廻戦"
+            }
+          },
+          {
+            "domain": {
+              "id": "130",
+              "name": "Multimedia Franchise",
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+            },
+            "entity": {
+              "id": "1346901380292775936",
+              "name": "Jujutsu Kaisen"
+            }
+          }
+        ],
+        "conversation_id": "1347088195960201217",
+        "author_id": "1059457329710526465",
+        "entities": {
+          "urls": [
+            {
+              "start": 141,
+              "end": 164,
+              "url": "https://t.co/hZ9dQgKs03",
+              "expanded_url": "https://twitter.com/jujutsu_PR/status/1347088195960201217/photo/1",
+              "display_url": "pic.twitter.com/hZ9dQgKs03"
+            },
+            {
+              "start": 141,
+              "end": 164,
+              "url": "https://t.co/hZ9dQgKs03",
+              "expanded_url": "https://twitter.com/jujutsu_PR/status/1347088195960201217/photo/1",
+              "display_url": "pic.twitter.com/hZ9dQgKs03"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 11,
+              "end": 16,
+              "tag": "呪術廻戦"
+            }
+          ]
+        },
+        "created_at": "2021-01-07T07:50:28.000Z",
+        "possibly_sensitive": false,
+        "text": "【プレゼント】いつも #呪術廻戦 を応援いただきありがとうございます！ついに！フォロワー50万人突破！\nこれを記念して「虎杖」「宿儺」のアイコンをプレゼント！\n\n今後もアイコンプレゼントは続きますが準備中なのでお待ちを！\nまた現在フォロワー50万人突破企画も検討中！\nお楽しみに！ https://t.co/hZ9dQgKs03"
+      },
+      {
+        "source": "TweetDeck",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "id": "1347078089889615882",
+        "conversation_id": "1347078089889615882",
+        "author_id": "707346268821913600",
+        "created_at": "2021-01-07T07:10:18.000Z",
+        "possibly_sensitive": false,
+        "text": "進学を機に研究室を移るのはわかる，けど周りから見ればそいつがどこにいたのかわかってしまう状況で元の所属に泥掛けまくってしまうのは～～～～今はスカッとするけど後々各所に響いてきそうな"
+      },
+      {
+        "source": "Twitter for iPhone",
+        "public_metrics": {
+          "retweet_count": 32,
+          "reply_count": 0,
+          "like_count": 145,
+          "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "id": "1347070293072695296",
+        "attachments": {
+          "media_keys": [
+            "3_1347070289134252032"
+          ]
+        },
+        "conversation_id": "1347070293072695296",
+        "author_id": "1659953958",
+        "entities": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/if3KWuQMB3",
+              "expanded_url": "https://twitter.com/yuuki2644/status/1347070293072695296/photo/1",
+              "display_url": "pic.twitter.com/if3KWuQMB3"
+            }
+          ]
+        },
+        "created_at": "2021-01-07T06:39:19.000Z",
+        "possibly_sensitive": false,
+        "text": "https://t.co/if3KWuQMB3"
+      },
+      {
+        "source": "Twitter for iPhone",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "id": "1347068935888281600",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "3",
+              "name": "TV Shows",
+              "description": "Television shows from around the world"
+            },
+            "entity": {
+              "id": "10052304085",
+              "name": "宇宙よりも遠い場所"
+            }
+          }
+        ],
+        "conversation_id": "1347068935888281600",
+        "author_id": "707346268821913600",
+        "created_at": "2021-01-07T06:33:56.000Z",
+        "possibly_sensitive": false,
+        "text": "全人類よりもいを見てください"
+      },
+      {
+        "source": "Twitter Web App",
+        "public_metrics": {
+          "retweet_count": 7232,
+          "reply_count": 57,
+          "like_count": 18789,
+          "quote_count": 264
+        },
+        "reply_settings": "everyone",
+        "id": "1347016356080672770",
+        "entities": {
+          "annotations": [
+            {
+              "start": 32,
+              "end": 33,
+              "probability": 0.9675,
+              "type": "Place",
+              "normalized_text": "山梨"
+            },
+            {
+              "start": 85,
+              "end": 93,
+              "probability": 0.6885,
+              "type": "Other",
+              "normalized_text": "宇宙よりも遠い場所"
+            },
+            {
+              "start": 100,
+              "end": 114,
+              "probability": 0.8151,
+              "type": "Other",
+              "normalized_text": "ゆるキャン△ SEASON 2"
+            }
+          ],
+          "urls": [
+            {
+              "start": 148,
+              "end": 171,
+              "url": "https://t.co/t7Uqai0UyO",
+              "expanded_url": "https://twitter.com/yorimoi/status/1347016356080672770/photo/1",
+              "display_url": "pic.twitter.com/t7Uqai0UyO"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 126,
+              "end": 132,
+              "tag": "ゆるキャン"
+            },
+            {
+              "start": 133,
+              "end": 141,
+              "tag": "yorimoi"
+            },
+            {
+              "start": 142,
+              "end": 147,
+              "tag": "よりもい"
+            }
+          ]
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1347014783430656001"
+          ]
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "3",
+              "name": "TV Shows",
+              "description": "Television shows from around the world"
+            },
+            "entity": {
+              "id": "10052304085",
+              "name": "宇宙よりも遠い場所"
+            }
+          },
+          {
+            "domain": {
+              "id": "3",
+              "name": "TV Shows",
+              "description": "Television shows from around the world"
+            },
+            "entity": {
+              "id": "10052312868",
+              "name": "ゆるキャン△"
+            }
+          },
+          {
+            "domain": {
+              "id": "130",
+              "name": "Multimedia Franchise",
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+            },
+            "entity": {
+              "id": "1296310920889606144",
+              "name": "Laid-Back Camp"
+            }
+          }
+        ],
+        "conversation_id": "1347016356080672770",
+        "author_id": "925174663633764352",
+        "created_at": "2021-01-07T03:05:00.000Z",
+        "possibly_sensitive": false,
+        "text": "再び青春が動き出したキマリたち🍮🐧🎥🎤👓\n\n久しぶりに山梨にキャンプに行ったら……\nまたあの子たちに出会ったようですよ⛺🛵🐾\n\nBS11でご覧のみなさま、『宇宙よりも遠い場所』を見たら『ゆるキャン△ SEASON 2』にもお呼ばれしてください…ね。\n\n#ゆるキャン　#yorimoi　#よりもい https://t.co/t7Uqai0UyO"
+      },
+      {
+        "source": "Twitter for iPad",
+        "public_metrics": {
+          "retweet_count": 10743,
+          "reply_count": 65,
+          "like_count": 46396,
+          "quote_count": 294
+        },
+        "reply_settings": "everyone",
+        "id": "1346803061860102145",
+        "attachments": {
+          "media_keys": [
+            "7_1346803019447353353"
+          ]
+        },
+        "conversation_id": "1346803061860102145",
+        "author_id": "881032008599617536",
+        "entities": {
+          "urls": [
+            {
+              "start": 33,
+              "end": 56,
+              "url": "https://t.co/SeB1O5jBM0",
+              "expanded_url": "https://twitter.com/tsunoda_fumm/status/1346803061860102145/video/1",
+              "display_url": "pic.twitter.com/SeB1O5jBM0"
+            }
+          ]
+        },
+        "created_at": "2021-01-06T12:57:26.000Z",
+        "possibly_sensitive": false,
+        "text": "親友にも恋人にもモノにもさわれない病気になった男のドキュメント。 https://t.co/SeB1O5jBM0"
+      },
+      {
+        "source": "contributter",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "id": "1346837982200934400",
+        "conversation_id": "1346837982200934400",
+        "author_id": "707346268821913600",
+        "created_at": "2021-01-06T15:16:12.000Z",
+        "possibly_sensitive": false,
+        "text": "Ningensei848 さんの 2021/01/06 の contribution 数: 17\n #contributter_report",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 50,
+              "end": 70,
+              "tag": "contributter_report"
+            }
+          ]
+        }
+      },
+      {
+        "source": "Twitter for iPhone",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1346471859580096515"
+          },
+          {
+            "type": "replied_to",
+            "id": "1346111960144781314"
+          }
+        ],
+        "reply_settings": "everyone",
+        "id": "1346472491380658179",
+        "in_reply_to_user_id": "707346268821913600",
+        "conversation_id": "1345020610875777024",
+        "author_id": "707346268821913600",
+        "entities": {
+          "urls": [
+            {
+              "start": 82,
+              "end": 105,
+              "url": "https://t.co/MruFp3TEtB",
+              "expanded_url": "https://twitter.com/Ningensei848/status/1346471859580096515",
+              "display_url": "twitter.com/Ningensei848/s…"
+            }
+          ]
+        },
+        "created_at": "2021-01-05T15:03:52.000Z",
+        "possibly_sensitive": false,
+        "text": "ここに来て0回になってるのウケる、と思ったけどやっぱりラグがあるみたいで、実際には 3 commit ぐらいは滑り込みでできてるはずなので勝ちです(自分との勝負) https://t.co/MruFp3TEtB"
+      },
+      {
+        "source": "Twitter for iPhone",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "id": "1346744363129290752",
+        "conversation_id": "1346744363129290752",
+        "author_id": "707346268821913600",
+        "created_at": "2021-01-06T09:04:12.000Z",
+        "possibly_sensitive": false,
+        "text": "うわ"
+      },
+      {
+        "source": "Twitter Web App",
+        "public_metrics": {
+          "retweet_count": 80,
+          "reply_count": 0,
+          "like_count": 292,
+          "quote_count": 11
+        },
+        "reply_settings": "everyone",
+        "id": "1346507465458761728",
+        "attachments": {
+          "media_keys": [
+            "7_1346507369031684096"
+          ]
+        },
+        "conversation_id": "1346507465458761728",
+        "author_id": "1889160704",
+        "entities": {
+          "urls": [
+            {
+              "start": 28,
+              "end": 51,
+              "url": "https://t.co/ylVovV7wuP",
+              "expanded_url": "https://twitter.com/HCI_Research/status/1346507465458761728/video/1",
+              "display_url": "pic.twitter.com/ylVovV7wuP"
+            }
+          ]
+        },
+        "created_at": "2021-01-05T17:22:51.000Z",
+        "possibly_sensitive": false,
+        "text": "Magnetically assisted gears https://t.co/ylVovV7wuP"
+      },
+      {
+        "source": "TweetDeck",
+        "public_metrics": {
+          "retweet_count": 1,
+          "reply_count": 1,
+          "like_count": 2,
+          "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "id": "1346670522969456640",
+        "conversation_id": "1346670522969456640",
+        "author_id": "707346268821913600",
+        "created_at": "2021-01-06T04:10:47.000Z",
+        "possibly_sensitive": false,
+        "text": "おもえば快適なネットワークと快適なパソコンさえあれば仕事ができるのっていいご身分だよなぁ，世間はそうじゃない人々が沢山いるというのをつい忘れてしまいそうになる"
+      },
+      {
+        "source": "Twitter for iPad",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1346655250711601154"
+          }
+        ],
+        "reply_settings": "everyone",
+        "id": "1346655936723750912",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "85",
+              "name": "Book Genre",
+              "description": "A genre for books, like Fiction"
+            },
+            "entity": {
+              "id": "847521144173350912",
+              "name": "Comics",
+              "description": "Comics"
+            }
+          }
+        ],
+        "in_reply_to_user_id": "707346268821913600",
+        "conversation_id": "1346655250711601154",
+        "author_id": "707346268821913600",
+        "created_at": "2021-01-06T03:12:49.000Z",
+        "possibly_sensitive": false,
+        "text": "なんなら『〇〇先生の画風でXXという漫画を描き直す』みたいなオーダーも出来てしまうわけで、人間として注力すべきは魅力的なプロット、もといえーあいくんに対してオーダーを細かく出せる能力なのではないかという気がしてきた"
+      },
+      {
+        "source": "Twitter for iPad",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "id": "1346655250711601154",
+        "conversation_id": "1346655250711601154",
+        "author_id": "707346268821913600",
+        "created_at": "2021-01-06T03:10:06.000Z",
+        "possibly_sensitive": false,
+        "text": "俺がMLを志した根源的な理由、『冨樫が死んでもプロットさえあれば続きが見られる世界をつくる』なのでもうほぼ俺がやらなくてもいい段階まで来てるんだよな、それに費やすコストを稼ぐ方法を考えたほうがいい……"
+      },
+      {
+        "source": "Twitter for iPhone",
+        "public_metrics": {
+          "retweet_count": 359,
+          "reply_count": 1,
+          "like_count": 1535,
+          "quote_count": 6
+        },
+        "reply_settings": "everyone",
+        "id": "1346074428958883840",
+        "attachments": {
+          "media_keys": [
+            "3_1346074412013871105",
+            "3_1346074412005482497",
+            "3_1346074412009758720",
+            "3_1346074412013928450"
+          ]
+        },
+        "conversation_id": "1346074428958883840",
+        "author_id": "1193696914660659200",
+        "entities": {
+          "urls": [
+            {
+              "start": 5,
+              "end": 28,
+              "url": "https://t.co/7bdOLxukJ2",
+              "expanded_url": "https://twitter.com/sudakime2/status/1346074428958883840/photo/1",
+              "display_url": "pic.twitter.com/7bdOLxukJ2"
+            },
+            {
+              "start": 5,
+              "end": 28,
+              "url": "https://t.co/7bdOLxukJ2",
+              "expanded_url": "https://twitter.com/sudakime2/status/1346074428958883840/photo/1",
+              "display_url": "pic.twitter.com/7bdOLxukJ2"
+            },
+            {
+              "start": 5,
+              "end": 28,
+              "url": "https://t.co/7bdOLxukJ2",
+              "expanded_url": "https://twitter.com/sudakime2/status/1346074428958883840/photo/1",
+              "display_url": "pic.twitter.com/7bdOLxukJ2"
+            },
+            {
+              "start": 5,
+              "end": 28,
+              "url": "https://t.co/7bdOLxukJ2",
+              "expanded_url": "https://twitter.com/sudakime2/status/1346074428958883840/photo/1",
+              "display_url": "pic.twitter.com/7bdOLxukJ2"
+            }
+          ]
+        },
+        "created_at": "2021-01-04T12:42:07.000Z",
+        "possibly_sensitive": false,
+        "text": "😊😡🥲🤗 https://t.co/7bdOLxukJ2"
+      },
+      {
+        "source": "contributter",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "id": "1346471859580096515",
+        "conversation_id": "1346471859580096515",
+        "author_id": "707346268821913600",
+        "created_at": "2021-01-05T15:01:22.000Z",
+        "possibly_sensitive": false,
+        "text": "Ningensei848 さんの 2021/01/05 の contribution 数: 0\n #contributter_report",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        }
+      },
+      {
+        "source": "Twitter for iPhone",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1346109481634115588"
+          },
+          {
+            "type": "replied_to",
+            "id": "1345750634197254144"
+          }
+        ],
+        "reply_settings": "everyone",
+        "id": "1346111960144781314",
+        "in_reply_to_user_id": "707346268821913600",
+        "conversation_id": "1345020610875777024",
+        "author_id": "707346268821913600",
+        "entities": {
+          "urls": [
+            {
+              "start": 80,
+              "end": 103,
+              "url": "https://t.co/OtdlkuLt9x",
+              "expanded_url": "https://twitter.com/Ningensei848/status/1346109481634115588",
+              "display_url": "twitter.com/Ningensei848/s…"
+            }
+          ]
+        },
+        "created_at": "2021-01-04T15:11:15.000Z",
+        "possibly_sensitive": false,
+        "text": "ずいぶんと習慣化されてきていてかなり良くて、継続の力を感じています\n\n5日からは README 以外のきちんとしたやつにも手を入れていこうと思います、よろしく https://t.co/OtdlkuLt9x"
+      },
+      {
+        "source": "Twitter for iPhone",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "id": "1346430110887342080",
+        "entities": {
+          "annotations": [
+            {
+              "start": 62,
+              "end": 65,
+              "probability": 0.3919,
+              "type": "Organization",
+              "normalized_text": "東京五輪"
+            },
+            {
+              "start": 106,
+              "end": 107,
+              "probability": 0.7221,
+              "type": "Place",
+              "normalized_text": "日本"
+            }
+          ]
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1103026158382141440",
+              "name": "Tokyo 2021 Summer Olympics",
+              "description": "Tokyo 2020 Summer Olympics "
+            }
+          }
+        ],
+        "conversation_id": "1346430110887342080",
+        "author_id": "707346268821913600",
+        "created_at": "2021-01-05T12:15:28.000Z",
+        "possibly_sensitive": false,
+        "text": "まぁぶっちゃけ自分が65歳以上の高齢者で、いま災禍に巻き込まれて死ぬかもしれないという天秤を考えた上で、それでもなおもう一度東京五輪の夢を見たいという気持ちはわからんでもないかもしれない\n特にバブル以後は衰退する日本を眺め続けた人々なわけだし(衰退させたのも彼らだけど"
+      },
+      {
+        "source": "Twitter for Mac",
+        "public_metrics": {
+          "retweet_count": 9,
+          "reply_count": 10,
+          "like_count": 29,
+          "quote_count": 2
+        },
+        "reply_settings": "everyone",
+        "id": "1346299071099596801",
+        "entities": {
+          "annotations": [
+            {
+              "start": 1,
+              "end": 4,
+              "probability": 0.2882,
+              "type": "Place",
+              "normalized_text": "春日地区"
+            }
+          ]
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847868745150119936",
+              "name": "Home & family",
+              "description": "Hobbies and interests"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "847869251595542528",
+              "name": "Drawing & illustration",
+              "description": "Drawing and sketching"
+            }
+          },
+          {
+            "domain": {
+              "id": "85",
+              "name": "Book Genre",
+              "description": "A genre for books, like Fiction"
+            },
+            "entity": {
+              "id": "847521144173350912",
+              "name": "Comics",
+              "description": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1346299071099596801",
+        "author_id": "71782950",
+        "created_at": "2021-01-05T03:34:46.000Z",
+        "possibly_sensitive": false,
+        "text": "「春日地区は育児の夢を見るか」ってタイトルで出産・育児本の原稿集めるぞ！って言ったら参加してくれる人居るかな……俳句でも短歌でもエッセイでも漫画でもイラスト（モノクロ）でもなんでもいいです　まあ何も集まらなかったら私が一人で出せばいいんだが……（誰かに怒られそうなタイトル）"
+      },
+      {
+        "source": "Twitter for iPhone",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "reply_settings": "everyone",
+        "id": "1346351772105728000",
+        "conversation_id": "1346351772105728000",
+        "author_id": "707346268821913600",
+        "created_at": "2021-01-05T07:04:11.000Z",
+        "possibly_sensitive": false,
+        "text": "馬券とかそういう類のもの、確実に当たりと外れがあるわけだけど、理論上全ての可能性の券を買えばどれかは当たるはずで、でもそれを個人の財力でやると無理なわけで、じゃあ一旦どこかにプールしてそいつが代理で買えば確実じゃない？資金移動業と電子決済法とかネックだけれども"
+      },
+      {
+        "source": "contributter",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "id": "1346109481634115588",
+        "conversation_id": "1346109481634115588",
+        "author_id": "707346268821913600",
+        "created_at": "2021-01-04T15:01:24.000Z",
+        "possibly_sensitive": false,
+        "text": "Ningensei848 さんの 2021/01/04 の contribution 数: 14\n #contributter_report",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 50,
+              "end": 70,
+              "tag": "contributter_report"
+            }
+          ]
+        }
+      },
+      {
+        "source": "Twitter for iPhone",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1345747064311975938"
+          },
+          {
+            "type": "replied_to",
+            "id": "1345385363695566849"
+          }
+        ],
+        "reply_settings": "everyone",
+        "id": "1345750634197254144",
+        "in_reply_to_user_id": "707346268821913600",
+        "conversation_id": "1345020610875777024",
+        "author_id": "707346268821913600",
+        "entities": {
+          "urls": [
+            {
+              "start": 102,
+              "end": 125,
+              "url": "https://t.co/L5fVdr7yPv",
+              "expanded_url": "https://twitter.com/Ningensei848/status/1345747064311975938",
+              "display_url": "twitter.com/Ningensei848/s…"
+            }
+          ]
+        },
+        "created_at": "2021-01-03T15:15:28.000Z",
+        "possibly_sensitive": false,
+        "text": "いや試行錯誤しすぎで草生えとる\n\n実質的な commit 数は3くらいなのでもうちょいきちんとやりましょう\nそろそろ profile いじるのもやめて、昨年のブツをまず整理しておきましょう(明日の予定) https://t.co/L5fVdr7yPv"
+      },
+      {
+        "source": "Twitter for Android",
+        "public_metrics": {
+          "retweet_count": 174,
+          "reply_count": 6,
+          "like_count": 906,
+          "quote_count": 7
+        },
+        "reply_settings": "everyone",
+        "id": "1346085324716273664",
+        "entities": {
+          "annotations": [
+            {
+              "start": 18,
+              "end": 24,
+              "probability": 0.493,
+              "type": "Person",
+              "normalized_text": "振れたら 博し"
+            }
+          ]
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847546154439000064",
+              "name": "Education",
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform."
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "852247095461371904",
+              "name": "Graduate school",
+              "description": "Graduate school"
+            }
+          }
+        ],
+        "conversation_id": "1346085324716273664",
+        "author_id": "1095705715",
+        "created_at": "2021-01-04T13:25:25.000Z",
+        "possibly_sensitive": false,
+        "text": "学士は打席に立てたら\n修士はバットが振れたら\n博しはヒットが打てたら\n\nなんて言葉があって学士は簡単に聞こえるのかもしれませんが、ルールブックに沿ったユニフォームとバットをきちんと装着して打席に立つことは難しいんだなあ。などとこの時期になると思う"
+      },
+      {
+        "source": "TweetDeck",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "id": "1346073205639843840",
+        "entities": {
+          "annotations": [
+            {
+              "start": 0,
+              "end": 13,
+              "probability": 0.4661,
+              "type": "Product",
+              "normalized_text": "Github Actions"
+            },
+            {
+              "start": 49,
+              "end": 54,
+              "probability": 0.6345,
+              "type": "Product",
+              "normalized_text": "Github"
+            }
+          ],
+          "urls": [
+            {
+              "start": 126,
+              "end": 149,
+              "url": "https://t.co/0Y6Udfi9fA",
+              "expanded_url": "https://twitter.com/Ningensei848/status/1346072539135578112",
+              "display_url": "twitter.com/Ningensei848/s…"
+            }
+          ]
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "848920371311001600",
+              "name": "Technology",
+              "description": "Technology and computing"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "848921413196984320",
+              "name": "Computer programming",
+              "description": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "id": "45",
+              "name": "Brand Vertical",
+              "description": "Top level entities that describe a Brands industry"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1346073205639843840",
+        "author_id": "707346268821913600",
+        "created_at": "2021-01-04T12:37:15.000Z",
+        "possibly_sensitive": false,
+        "text": "Github Actions がかなり良くて，流石は天下のMS様やなって思ったし，そもそもGitとGithubという仕組みが素晴らしいということを再認識できた（し，Git に対する苦手意識とか忌避してきた GUI 操作もなんとなくできるようになった） https://t.co/0Y6Udfi9fA"
+      },
+      {
+        "source": "Twitter for Android",
+        "public_metrics": {
+          "retweet_count": 13599,
+          "reply_count": 8,
+          "like_count": 41406,
+          "quote_count": 230
+        },
+        "reply_settings": "everyone",
+        "id": "1345862152150630400",
+        "entities": {
+          "annotations": [
+            {
+              "start": 0,
+              "end": 6,
+              "probability": 0.2507,
+              "type": "Person",
+              "normalized_text": "ヒロアカ29巻"
+            },
+            {
+              "start": 8,
+              "end": 14,
+              "probability": 0.1724,
+              "type": "Other",
+              "normalized_text": "呪術廻戦14巻"
+            }
+          ]
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "3",
+              "name": "TV Shows",
+              "description": "Television shows from around the world"
+            },
+            "entity": {
+              "id": "1309225658623508480",
+              "name": "呪術廻戦"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "1109139066430210048",
+              "name": "Shonen Jump"
+            }
+          },
+          {
+            "domain": {
+              "id": "84",
+              "name": "Book",
+              "description": "A book, like \"To Kill a Mockingbird\""
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "id": "130",
+              "name": "Multimedia Franchise",
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+            },
+            "entity": {
+              "id": "1207461450236563457",
+              "name": "My Hero Academia"
+            }
+          }
+        ],
+        "conversation_id": "1345862152150630400",
+        "author_id": "1032987282096017408",
+        "created_at": "2021-01-03T22:38:36.000Z",
+        "possibly_sensitive": false,
+        "text": "ヒロアカ29巻、呪術廻戦14巻、チェンソーマン10巻がジャンプ地獄セットって呼ばれてるの見てゲラゲラ笑った  連載完結で単行本発売日がズレたから同日発売になったの奇跡でしょ"
+      },
+      {
+        "source": "Twitter Web App",
+        "public_metrics": {
+          "retweet_count": 746,
+          "reply_count": 1,
+          "like_count": 2036,
+          "quote_count": 4
+        },
+        "reply_settings": "everyone",
+        "id": "1345753816063385600",
+        "entities": {
+          "annotations": [
+            {
+              "start": 9,
+              "end": 12,
+              "probability": 0.984,
+              "type": "Person",
+              "normalized_text": "浜田雅功"
+            }
+          ],
+          "urls": [
+            {
+              "start": 111,
+              "end": 134,
+              "url": "https://t.co/CZq6NIoqwc",
+              "expanded_url": "https://twitter.com/SAMEX_1u2y/status/1345753816063385600/photo/1",
+              "display_url": "pic.twitter.com/CZq6NIoqwc"
+            }
+          ]
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1345753699252015105"
+          ]
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "1012415187788316673",
+              "name": "Masatoshi Hamada",
+              "description": "Masatoshi Hamada (浜田雅功)"
+            }
+          },
+          {
+            "domain": {
+              "id": "58",
+              "name": "Entertainment Personality",
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+            },
+            "entity": {
+              "id": "1012415187788316673",
+              "name": "Masatoshi Hamada",
+              "description": "Masatoshi Hamada (浜田雅功)"
+            }
+          },
+          {
+            "domain": {
+              "id": "71",
+              "name": "Video Game",
+              "description": "A video game like Overwatch"
+            },
+            "entity": {
+              "id": "1128367253861175296",
+              "name": "Taiko no Tatsujin"
+            }
+          }
+        ],
+        "conversation_id": "1345753816063385600",
+        "author_id": "522457661",
+        "created_at": "2021-01-03T15:28:07.000Z",
+        "possibly_sensitive": false,
+        "text": "太鼓の達人だったら浜田雅功が「性癖発表ーーーーーーーーーーーーーーーーーーーッッッッッッッッッッッッッッッッッッッッッ！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！」って絶叫してる https://t.co/CZq6NIoqwc"
+      },
+      {
+        "source": "contributter",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "reply_settings": "everyone",
+        "id": "1345747064311975938",
+        "conversation_id": "1345747064311975938",
+        "author_id": "707346268821913600",
+        "created_at": "2021-01-03T15:01:17.000Z",
+        "possibly_sensitive": false,
+        "text": "Ningensei848 さんの 2021/01/03 の contribution 数: 15\n #contributter_report",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 50,
+              "end": 70,
+              "tag": "contributter_report"
+            }
+          ]
+        }
+      },
+      {
+        "source": "Twitter for iPad",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1345384705630339073"
+          },
+          {
+            "type": "replied_to",
+            "id": "1345025709396303873"
+          }
+        ],
+        "reply_settings": "everyone",
+        "id": "1345385363695566849",
+        "in_reply_to_user_id": "707346268821913600",
+        "conversation_id": "1345020610875777024",
+        "author_id": "707346268821913600",
+        "entities": {
+          "urls": [
+            {
+              "start": 40,
+              "end": 63,
+              "url": "https://t.co/9dD4wo0il7",
+              "expanded_url": "https://twitter.com/Ningensei848/status/1345384705630339073",
+              "display_url": "twitter.com/Ningensei848/s…"
+            }
+          ]
+        },
+        "created_at": "2021-01-02T15:04:01.000Z",
+        "possibly_sensitive": false,
+        "text": "うーんちょっとこだわりすぎてしまったのでまずはやってみる傾向をもっと強めたいね https://t.co/9dD4wo0il7"
+      }
+    ],
+    "media": [
+      {
+        "width": 719,
+        "url": "https://pbs.twimg.com/media/ErLOG9AU0AAyny0.jpg",
+        "type": "photo",
+        "height": 1032,
+        "media_key": "3_1347365857387663360"
+      },
+      {
+        "width": 726,
+        "url": "https://pbs.twimg.com/media/ErLOIlwUYAIqaPP.jpg",
+        "type": "photo",
+        "height": 1032,
+        "media_key": "3_1347365885506248706"
+      },
+      {
+        "width": 1438,
+        "url": "https://pbs.twimg.com/media/ErLOJ_pU0Acg4Zc.jpg",
+        "type": "photo",
+        "height": 1032,
+        "media_key": "3_1347365909636108295"
+      },
+      {
+        "width": 649,
+        "url": "https://pbs.twimg.com/media/ErHBSndUcAAQ5ws.jpg",
+        "type": "photo",
+        "height": 680,
+        "media_key": "3_1347070289134252032"
+      },
+      {
+        "width": 2048,
+        "url": "https://pbs.twimg.com/media/ErG1YgxVoAAsTvo.jpg",
+        "type": "photo",
+        "height": 2048,
+        "media_key": "3_1347057196278849536"
+      },
+      {
+        "width": 1536,
+        "url": "https://pbs.twimg.com/media/ErGstExVEAMlbsZ.jpg",
+        "type": "photo",
+        "height": 2048,
+        "media_key": "3_1347047653935222787"
+      },
+      {
+        "width": 1712,
+        "url": "https://pbs.twimg.com/media/ErC3ldvUcAEySUG.jpg",
+        "type": "photo",
+        "height": 547,
+        "media_key": "3_1346778142849921025"
+      },
+      {
+        "width": 2000,
+        "url": "https://pbs.twimg.com/media/Eq43i8FUYAEp0Eb.jpg",
+        "type": "photo",
+        "height": 1500,
+        "media_key": "3_1346074412013871105"
+      },
+      {
+        "width": 2000,
+        "url": "https://pbs.twimg.com/media/Eq43i8DUYAE_6zK.jpg",
+        "type": "photo",
+        "height": 1500,
+        "media_key": "3_1346074412005482497"
+      },
+      {
+        "width": 2000,
+        "url": "https://pbs.twimg.com/media/Eq43i8EVoAAKMfH.jpg",
+        "type": "photo",
+        "height": 1500,
+        "media_key": "3_1346074412009758720"
+      },
+      {
+        "width": 2000,
+        "url": "https://pbs.twimg.com/media/Eq43i8FVQAIL7bI.jpg",
+        "type": "photo",
+        "height": 1500,
+        "media_key": "3_1346074412013928450"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_0_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_100_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_25_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_50_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_75_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_0_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_100_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_25_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_50_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_75_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.view_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.view_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_0_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_100_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_25_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_50_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_75_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.view_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346803019447353353",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.view_count' on the media with attachments.media_keys : [7_1346803019447353353].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_0_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_100_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_25_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_50_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_75_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_0_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_100_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_25_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_50_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_75_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.view_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.view_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_0_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_100_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_25_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_50_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_75_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.view_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1346507369031684096",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.view_count' on the media with attachments.media_keys : [7_1346507369031684096].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    }
+  ],
+  "meta": {
+    "oldest_id": "1345713705116344320",
+    "newest_id": "1347509416979886083",
+    "result_count": 100,
+    "next_token": "7140dibdnow9c7btw3w2ooj5d2qdipkd0q2tngo26gcog"
+  }
+}
