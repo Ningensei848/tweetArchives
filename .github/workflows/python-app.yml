@@ -1,0 +1,75 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: tweetArchives
+
+on:
+  schedule:
+    # <!-- UTC --> 分　時　日　月　曜日（星期）/ min hour day month weekday
+    - cron: "25 15 * * *"
+  workflow_dispatch:
+
+jobs:
+  getTweet:
+    runs-on: ubuntu-latest
+    steps:
+      #----------------------------------------------
+      #       check-out repo and set-up python     
+      #----------------------------------------------
+    - uses: actions/checkout@v2
+    - uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+      #----------------------------------------------
+      #  -----  install & configure poetry  -----      
+      #----------------------------------------------
+    - name: Install Poetry
+      uses: snok/install-poetry@v1.1.1
+      with:
+        virtualenvs-create: true
+        virtualenvs-in-project: true
+      #----------------------------------------------
+      #       load cached venv if cache exists      
+      #----------------------------------------------
+    - name: Load cached venv
+      id: cached-poetry-dependencies
+      uses: actions/cache@v2
+      with:
+        path: .venv
+        key: venv-${{ runner.os }}-${{ hashFiles('**/poetry.lock') }}
+      #----------------------------------------------
+      # install dependencies if cache does not exist 
+      #----------------------------------------------
+    - name: Install dependencies
+      run: poetry install
+      if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
+      # ---------------------------------------------
+      # Run app and get request to twitter api v2
+      # ---------------------------------------------
+    - name: Running app
+      run: poetry run python src/main.py
+      env:
+        TWITTER_USER_ID: ${{ secrets.TWITTER_USER_ID }}
+        bearer_token: ${{ secrets.bearer_token }}
+      # ---------------------------------------------
+      # Extract branch name
+      # ---------------------------------------------
+    - name: Extract branch name  # cf. https://stackoverflow.com/questions/58033366/how-to-get-current-branch-within-github-actions
+      shell: bash
+      run: echo "##[set-output name=branch;]${GITHUB_REF#refs/heads/}"
+      id: extract_branch
+      # ---------------------------------------------
+      # Sync get setting
+      # ---------------------------------------------
+    - name: git setting
+      run: git pull origin ${BRANCH_NAME}
+      env:
+        BRANCH_NAME: ${{ steps.extract_branch.outputs.branch }}
+      # ---------------------------------------------
+      # Push
+      # ---------------------------------------------
+    - name: Push updates
+      uses: mikeal/publish-to-github-action@master
+      env:
+        BRANCH_NAME: ${{ steps.extract_branch.outputs.branch }}
+        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
