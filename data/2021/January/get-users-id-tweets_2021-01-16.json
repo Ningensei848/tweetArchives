@@ -1,0 +1,1112 @@
+{
+  "data": [
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "pomdog_home"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "created_at": "2021-01-16T14:07:51.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "in_reply_to_user_id": "851759244776947712",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1350443895763718144"
+        }
+      ],
+      "text": "@pomdog_home ありがとう見知らぬ子犬………………ッ",
+      "source": "TweetDeck",
+      "id": "1350444660548726784",
+      "conversation_id": "1350443804344557570",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "852262932607926273",
+            "name": "Pets",
+            "description": "Pets"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "853980498816679937",
+            "name": "Dogs",
+            "description": "Dogs"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "908752469164826625",
+            "name": "Puppies",
+            "description": "Puppies"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "908779324391571456",
+            "name": "Baby Animals",
+            "description": "Baby Animals"
+          }
+        }
+      ]
+    },
+    {
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "created_at": "2021-01-16T14:04:27.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "スゲ～時間かけて頑張ったという実感があるからなんとなく達成感があるけど，俯瞰してみるとただ単に設定ファイル組み直しただけの初心者環境構築セットぢゃん……つら…………",
+      "source": "TweetDeck",
+      "id": "1350443804344557570",
+      "conversation_id": "1350443804344557570",
+      "possibly_sensitive": false
+    },
+    {
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "created_at": "2021-01-16T13:50:33.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "in_reply_to_user_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1350439910872735745"
+        }
+      ],
+      "text": "まぁ結論としてはまとめられるんだけど，ひと手間かかるというか相対パスとか諸々試行錯誤と直感で色々やる必要があった部分があり，うーん",
+      "source": "TweetDeck",
+      "id": "1350440307293261826",
+      "conversation_id": "1350439910872735745",
+      "possibly_sensitive": false
+    },
+    {
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "created_at": "2021-01-16T13:48:59.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "ここ３日４日ほどフロントエンドの設定ファイルの最新状況をウゴゴゴゴとインストールしまくる日々だったわけですが，フツーにやるとルートディレクトリがクソほどドットファイルで埋まるの evil 感じちゃう，config フォルダにまとめさせろ",
+      "source": "TweetDeck",
+      "id": "1350439910872735745",
+      "conversation_id": "1350439910872735745",
+      "possibly_sensitive": false
+    },
+    {
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "created_at": "2021-01-16T12:51:41.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "in_reply_to_user_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1350425237851045888"
+        }
+      ],
+      "text": "webpack.config.ts, jest.config.ts が出来て快適になった気がする（commonJSで書くのがつらすぎたため）",
+      "source": "TweetDeck",
+      "id": "1350425492650823682",
+      "conversation_id": "1350425237851045888",
+      "possibly_sensitive": false
+    },
+    {
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 33,
+            "end": 56,
+            "url": "https://t.co/fFMnYJshhH",
+            "expanded_url": "https://github.com/facebook/jest/pull/10564",
+            "display_url": "github.com/facebook/jest/…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1350425247875436545/L-R-p6aG?format=png&name=orig",
+                "width": 355,
+                "height": 355
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1350425247875436545/L-R-p6aG?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "feat: Add support for the `jest.config.ts` configuration file by Gamote · Pull Request #10564 · facebook/jest",
+            "description": "Summary Allow developers to define the configuration file using Typescript. This allow a project to be written only in TypeScript and helps with auto-suggestions. This PR resolves #9636. Example //...",
+            "unwound_url": "https://github.com/facebook/jest/pull/10564"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-01-16T12:50:41.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "jest.config.ts，昨年の秋に実現していたらしいですね\nhttps://t.co/fFMnYJshhH",
+      "source": "TweetDeck",
+      "id": "1350425237851045888",
+      "conversation_id": "1350425237851045888",
+      "possibly_sensitive": false
+    },
+    {
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "created_at": "2021-01-16T11:34:59.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "純粋に自分のためにモノ作ってる時の思考と、自分以外の誰かが使うかもしれない可能性がわずかでも存在するモノを作る時の思考でかなり差があることに気づきました",
+      "source": "Twitter for iPad",
+      "id": "1350406190400827396",
+      "conversation_id": "1350406190400827396",
+      "possibly_sensitive": false
+    },
+    {
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 51,
+            "end": 74,
+            "url": "https://t.co/5jQ3Jzf8h5",
+            "expanded_url": "https://semver.org/lang/ja/",
+            "display_url": "semver.org/lang/ja/",
+            "status": 200,
+            "title": "セマンティック バージョニング 2.0.0",
+            "description": "Semantic Versioning spec and website",
+            "unwound_url": "https://semver.org/lang/ja/"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-01-16T07:56:18.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "今日の知見その２：セマンティック・ヴァージョニングっていう概念が定義されていて仕様書もある\n\ncf. https://t.co/5jQ3Jzf8h5\n\n（いままでなんとなくやっていて認識できてなかったゾ…）",
+      "source": "TweetDeck",
+      "id": "1350351156770340867",
+      "conversation_id": "1350351156770340867",
+      "possibly_sensitive": false
+    },
+    {
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "created_at": "2021-01-16T07:44:35.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "今日の知見：\"キャビア\" には「魚卵」ではなく，別の綴りで「強い警告」の意味を持つ語彙がある (caveat)",
+      "source": "TweetDeck",
+      "id": "1350348206127763456",
+      "conversation_id": "1350348206127763456",
+      "possibly_sensitive": false
+    },
+    {
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "created_at": "2021-01-16T06:04:02.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "気持ちよく寝た、こはる",
+      "source": "Twitter for iPhone",
+      "id": "1350322901795311618",
+      "conversation_id": "1350322901795311618",
+      "possibly_sensitive": false
+    },
+    {
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 5,
+            "end": 28,
+            "url": "https://t.co/TQIkpYgKkB",
+            "expanded_url": "https://open.spotify.com/track/6EzZn96uOc9JsVGNRpx06n?si=PySKfhLYTC-2P31PBdjXcQ",
+            "display_url": "open.spotify.com/track/6EzZn96u…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1350322807226339330/P_KQlDyp?format=jpg&name=orig",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1350322807226339330/P_KQlDyp?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "うっせぇわ",
+            "description": "Ado · Song · 2020",
+            "unwound_url": "https://open.spotify.com/track/6EzZn96uOc9JsVGNRpx06n?si=PySKfhLYTC-2P31PBdjXcQ"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-01-16T06:03:39.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "これです https://t.co/TQIkpYgKkB",
+      "source": "Twitter for iPhone",
+      "id": "1350322806852972545",
+      "conversation_id": "1350322806852972545",
+      "possibly_sensitive": false
+    },
+    {
+      "author_id": "707346268821913600",
+      "entities": {
+        "annotations": [
+          {
+            "start": 5,
+            "end": 9,
+            "probability": 0.4338,
+            "type": "Other",
+            "normalized_text": "うっせぇわ"
+          },
+          {
+            "start": 46,
+            "end": 52,
+            "probability": 0.715,
+            "type": "Product",
+            "normalized_text": "Spotify"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-01-16T05:06:03.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "ギリギリ『うっせぇわ』について知っていたし聴いていたけれども、能動的に探し求めたものではなくSpotifyでランダムに流れてきて引っかかっただけに過ぎないので、これはちょっと本当に感性が鈍化していってるのを感じる、ギリついていけるかいけないかの境目",
+      "source": "Twitter for iPhone",
+      "id": "1350308310608613377",
+      "conversation_id": "1350308310608613377",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597310615553",
+            "name": "Entertainment"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597222535168",
+            "name": "Online Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040276669",
+            "name": "Spotify"
+          }
+        }
+      ]
+    },
+    {
+      "author_id": "707346268821913600",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 5,
+            "probability": 0.4349,
+            "type": "Person",
+            "normalized_text": "小島よしおの"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-01-16T04:51:53.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "小島よしおのネタが呪術廻戦に刻み込まれていくの、すごい",
+      "source": "Twitter for iPad",
+      "id": "1350304746360377346",
+      "conversation_id": "1350304746360377346",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "1309225658623508480",
+            "name": "呪術廻戦"
+          }
+        },
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1346901380292775936",
+            "name": "Jujutsu Kaisen"
+          }
+        }
+      ]
+    },
+    {
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "created_at": "2021-01-16T02:39:29.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "お薬を日割りするとエゲツないことになるので、納税はそこそこに別の学術的価値とかで貢献したい、なんならもはや金で返せるものではないとも思うしサ",
+      "source": "Twitter for iPad",
+      "id": "1350271426104709121",
+      "conversation_id": "1350271426104709121",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847529762566230016",
+            "name": "Business and finance",
+            "description": "Business"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "847888632711061504",
+            "name": "Personal finance",
+            "description": "Personal finance"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "847894937601323008",
+            "name": "Tax planning",
+            "description": "Tax planning"
+          }
+        }
+      ]
+    },
+    {
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "created_at": "2021-01-16T02:35:56.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "ラップラネキお迎えした",
+      "source": "Twitter for iPad",
+      "id": "1350270533623898114",
+      "conversation_id": "1350270533623898114",
+      "possibly_sensitive": false
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 7,
+            "username": "izm"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 27,
+            "end": 33,
+            "probability": 0.5962,
+            "type": "Organization",
+            "normalized_text": "マイクロソフト"
+          },
+          {
+            "start": 46,
+            "end": 52,
+            "probability": 0.6754,
+            "type": "Organization",
+            "normalized_text": "マイクロソフト"
+          },
+          {
+            "start": 62,
+            "end": 68,
+            "probability": 0.6776,
+            "type": "Organization",
+            "normalized_text": "マイクロソフト"
+          },
+          {
+            "start": 73,
+            "end": 78,
+            "probability": 0.5704,
+            "type": "Organization",
+            "normalized_text": "Google"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "created_at": "2021-01-16T02:34:18.000Z",
+      "public_metrics": {
+        "retweet_count": 612,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1350132262159806464"
+        }
+      ],
+      "text": "RT @izm: （すごく簡略化すると）2000年代にマイクロソフトが邪悪とみなされた結果、マイクロソフトが欲しかった人材はマイクロソフトを嫌ってGoogleに行ってしまった。その結果何が起きたかみたいなことを考えると、邪悪であることのリスクは想像するより大きいです。",
+      "source": "Twitter for iPad",
+      "id": "1350270123693625344",
+      "conversation_id": "1350270123693625344",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026378521",
+            "name": "Google "
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10027232467",
+            "name": "Microsoft"
+          }
+        },
+        {
+          "domain": {
+            "id": "48",
+            "name": "Product",
+            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+          },
+          "entity": {
+            "id": "10043689816",
+            "name": "Microsoft Office"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848959158082617344",
+            "name": "Enterprise software",
+            "description": "Enterprise software"
+          }
+        }
+      ]
+    },
+    {
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "created_at": "2021-01-15T23:07:22.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "朝一番でコヒ入れながら寝る前に直せなかった部分について爆速で修正入れてコミットしてる時が最も人間をやれていると感じる",
+      "source": "TweetDeck",
+      "id": "1350218045948510208",
+      "conversation_id": "1350218045948510208",
+      "possibly_sensitive": false
+    },
+    {
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 43,
+            "end": 66,
+            "url": "https://t.co/Cjwscs9H6K",
+            "expanded_url": "https://twitter.com/ningensei848/status/1350099473024868352",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "created_at": "2021-01-15T22:05:48.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "in_reply_to_user_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1350099473024868352"
+        },
+        {
+          "type": "replied_to",
+          "id": "1349857486400937988"
+        }
+      ],
+      "text": "上司の期待を裏切らないように、未来の自分に胸を張れるように、今日もやっていきましょう https://t.co/Cjwscs9H6K",
+      "source": "Twitter for iPhone",
+      "id": "1350202552566968321",
+      "conversation_id": "1345020610875777024",
+      "possibly_sensitive": false
+    },
+    {
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "created_at": "2021-01-15T15:16:12.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "text": "Ningensei848 さんの 2021/01/15 の contribution 数: 5\n #contributter_report",
+      "source": "contributter",
+      "id": "1350099473024868352",
+      "conversation_id": "1350099473024868352",
+      "possibly_sensitive": false
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "pinned_tweet_id": "1345020610875777024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "username": "Ningensei848",
+        "verified": false,
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "description": "やる：電気工事士2種＆応用情報技術者試験，つくる：検索しやすいSPARQLのサービス",
+        "url": "https://t.co/KBXT0N3eAa",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 987,
+          "tweet_count": 57935,
+          "listed_count": 22
+        },
+        "location": "山梨県→茨城県つくば市",
+        "id": "707346268821913600",
+        "name": "きあい🌒",
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "pinned_tweet_id": "1314591369273327618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1308024222866796546/msMl_m53_normal.jpg",
+        "username": "pomdog_home",
+        "verified": false,
+        "created_at": "2017-04-11T11:30:03.000Z",
+        "description": "フォローしてくれてる人を褒めます！！たまにフォローしてない人も褒めます！！！",
+        "url": "",
+        "public_metrics": {
+          "followers_count": 3365,
+          "following_count": 742,
+          "tweet_count": 152451,
+          "listed_count": 8
+        },
+        "id": "851759244776947712",
+        "name": "ホメラニアン",
+        "protected": false
+      },
+      {
+        "pinned_tweet_id": "1336333094534594561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1152608854120656896/6vOkcJ-j_normal.jpg",
+        "username": "izm",
+        "verified": false,
+        "created_at": "2007-06-29T15:08:55.000Z",
+        "description": "僕の振り回す手が空に届いて あの星を盗み出せたら何か変わるのか  \nHaritora作ってます→ @HaritoraVR\nportfolio: https://t.co/BPnlhvuFAH",
+        "url": "https://t.co/gp9nNPCR8N",
+        "public_metrics": {
+          "followers_count": 9687,
+          "following_count": 3338,
+          "tweet_count": 262467,
+          "listed_count": 343
+        },
+        "location": "恵比寿のあたり",
+        "id": "7153532",
+        "name": "izm",
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/gp9nNPCR8N",
+                "expanded_url": "http://izm-11.hatenablog.com",
+                "display_url": "izm-11.hatenablog.com"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 72,
+                "end": 95,
+                "url": "https://t.co/BPnlhvuFAH",
+                "expanded_url": "https://github.com/neon-izm/Portfolio/",
+                "display_url": "github.com/neon-izm/Portf…"
+              }
+            ],
+            "mentions": [
+              {
+                "start": 49,
+                "end": 60,
+                "username": "HaritoraVR"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "tweets": [
+      {
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "Ningensei848"
+            }
+          ]
+        },
+        "author_id": "851759244776947712",
+        "reply_settings": "everyone",
+        "created_at": "2021-01-16T14:04:49.000Z",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "in_reply_to_user_id": "707346268821913600",
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1350443804344557570"
+          }
+        ],
+        "text": "@Ningensei848 お疲れ様！！！",
+        "source": "oh my tweet reseach",
+        "id": "1350443895763718144",
+        "conversation_id": "1350443804344557570",
+        "possibly_sensitive": false
+      },
+      {
+        "author_id": "707346268821913600",
+        "reply_settings": "everyone",
+        "created_at": "2021-01-16T13:48:59.000Z",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 2,
+          "quote_count": 0
+        },
+        "text": "ここ３日４日ほどフロントエンドの設定ファイルの最新状況をウゴゴゴゴとインストールしまくる日々だったわけですが，フツーにやるとルートディレクトリがクソほどドットファイルで埋まるの evil 感じちゃう，config フォルダにまとめさせろ",
+        "source": "TweetDeck",
+        "id": "1350439910872735745",
+        "conversation_id": "1350439910872735745",
+        "possibly_sensitive": false
+      },
+      {
+        "author_id": "707346268821913600",
+        "entities": {
+          "urls": [
+            {
+              "start": 33,
+              "end": 56,
+              "url": "https://t.co/fFMnYJshhH",
+              "expanded_url": "https://github.com/facebook/jest/pull/10564",
+              "display_url": "github.com/facebook/jest/…",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1350425247875436545/L-R-p6aG?format=png&name=orig",
+                  "width": 355,
+                  "height": 355
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1350425247875436545/L-R-p6aG?format=png&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "feat: Add support for the `jest.config.ts` configuration file by Gamote · Pull Request #10564 · facebook/jest",
+              "description": "Summary Allow developers to define the configuration file using Typescript. This allow a project to be written only in TypeScript and helps with auto-suggestions. This PR resolves #9636. Example //...",
+              "unwound_url": "https://github.com/facebook/jest/pull/10564"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "created_at": "2021-01-16T12:50:41.000Z",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "text": "jest.config.ts，昨年の秋に実現していたらしいですね\nhttps://t.co/fFMnYJshhH",
+        "source": "TweetDeck",
+        "id": "1350425237851045888",
+        "conversation_id": "1350425237851045888",
+        "possibly_sensitive": false
+      },
+      {
+        "author_id": "7153532",
+        "entities": {
+          "annotations": [
+            {
+              "start": 18,
+              "end": 24,
+              "probability": 0.5592,
+              "type": "Organization",
+              "normalized_text": "マイクロソフト"
+            },
+            {
+              "start": 37,
+              "end": 43,
+              "probability": 0.6648,
+              "type": "Organization",
+              "normalized_text": "マイクロソフト"
+            },
+            {
+              "start": 53,
+              "end": 59,
+              "probability": 0.6708,
+              "type": "Organization",
+              "normalized_text": "マイクロソフト"
+            },
+            {
+              "start": 64,
+              "end": 69,
+              "probability": 0.564,
+              "type": "Organization",
+              "normalized_text": "Google"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "created_at": "2021-01-15T17:26:30.000Z",
+        "public_metrics": {
+          "retweet_count": 612,
+          "reply_count": 6,
+          "like_count": 1742,
+          "quote_count": 25
+        },
+        "text": "（すごく簡略化すると）2000年代にマイクロソフトが邪悪とみなされた結果、マイクロソフトが欲しかった人材はマイクロソフトを嫌ってGoogleに行ってしまった。その結果何が起きたかみたいなことを考えると、邪悪であることのリスクは想像するより大きいです。",
+        "source": "Twitter Web App",
+        "id": "1350132262159806464",
+        "conversation_id": "1350132262159806464",
+        "possibly_sensitive": false,
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "id": "48",
+              "name": "Product",
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+            },
+            "entity": {
+              "id": "10043689816",
+              "name": "Microsoft Office"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "848920371311001600",
+              "name": "Technology",
+              "description": "Technology and computing"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "848959158082617344",
+              "name": "Enterprise software",
+              "description": "Enterprise software"
+            }
+          }
+        ]
+      },
+      {
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        },
+        "author_id": "707346268821913600",
+        "reply_settings": "everyone",
+        "created_at": "2021-01-15T15:16:12.000Z",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "text": "Ningensei848 さんの 2021/01/15 の contribution 数: 5\n #contributter_report",
+        "source": "contributter",
+        "id": "1350099473024868352",
+        "conversation_id": "1350099473024868352",
+        "possibly_sensitive": false
+      },
+      {
+        "author_id": "707346268821913600",
+        "entities": {
+          "urls": [
+            {
+              "start": 57,
+              "end": 80,
+              "url": "https://t.co/rAocNapMdW",
+              "expanded_url": "https://twitter.com/Ningensei848/status/1349733349120569348",
+              "display_url": "twitter.com/Ningensei848/s…"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "created_at": "2021-01-14T23:14:38.000Z",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "in_reply_to_user_id": "707346268821913600",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1349733349120569348"
+          },
+          {
+            "type": "replied_to",
+            "id": "1349374685406846978"
+          }
+        ],
+        "text": "う〜わ、もしかして忘れてたっけと思ったらギリギリやってた、よかったよかった(プロジェクトは亀の歩みなので良くない https://t.co/rAocNapMdW",
+        "source": "Twitter for iPhone",
+        "id": "1349857486400937988",
+        "conversation_id": "1345020610875777024",
+        "possibly_sensitive": false
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1350099473024868352",
+    "newest_id": "1350444660548726784",
+    "result_count": 19
+  }
+}
