@@ -1,0 +1,1000 @@
+{
+  "data": [
+    {
+      "id": "1351472655984074753",
+      "conversation_id": "1351472655984074753",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-19T10:12:44.000Z",
+      "possibly_sensitive": false,
+      "text": "どの辺りから困窮って判定がされるんだろ、って遠慮してしまう人は行かなくてもイイってことっすよねコレ(多くは留学生対象な気がするけど、困窮とまでは行かない学生もお裾分けいただきに行ってもイイのかしら)",
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone"
+    },
+    {
+      "id": "1351472216039256065",
+      "conversation_id": "1351472216039256065",
+      "public_metrics": {
+        "retweet_count": 30,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 17,
+            "end": 20,
+            "probability": 0.3967,
+            "type": "Place",
+            "normalized_text": "筑波大学"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 94,
+            "end": 99,
+            "tag": "筑波大学"
+          },
+          {
+            "start": 100,
+            "end": 108,
+            "tag": "コロナウイルス"
+          },
+          {
+            "start": 109,
+            "end": 114,
+            "tag": "食料支援"
+          },
+          {
+            "start": 115,
+            "end": 120,
+            "tag": "食事支援"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "Futureship1"
+          }
+        ]
+      },
+      "created_at": "2021-01-19T10:11:00.000Z",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "text": "RT @Futureship1: 筑波大学では新型コロナウイルス感染症拡大の影響で困窮する学生に対し食料支援を実施いたします。\n1月22日（金）10時～17時（食料品がなくなり次第終了）\n#筑波大学 #コロナウイルス #食料支援 #食事支援 https://t.co/sDA1t…",
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1348876840992063492"
+        }
+      ]
+    },
+    {
+      "id": "1351471929090142209",
+      "conversation_id": "1351471929090142209",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "created_at": "2021-01-19T10:09:51.000Z",
+      "possibly_sensitive": false,
+      "text": "食糧支援、具体的にどの層をターゲットとしているのかよくわからんと言う話がある",
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone"
+    },
+    {
+      "id": "1351436103887147010",
+      "conversation_id": "1351436103887147010",
+      "public_metrics": {
+        "retweet_count": 2989,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-19T07:47:30.000Z",
+      "possibly_sensitive": false,
+      "text": "RT @tarareba722: 思考があちこちに飛び回る人ほど「手元にノートを置いて、そこに【やること】と【順番】を書き出しておく→終わったら線を引っ張って消す」の効力は大きい。これをやると「次にやらなきゃいけないこと」を常に覚えておく必要がない。これがなにげにデカい。そのぶ…",
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1351409142200557568"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "tarareba722"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1351394583473606657",
+      "conversation_id": "1351394583473606657",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-19T05:02:31.000Z",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10047806188",
+            "name": "けものフレンズ",
+            "description": "サファリパーク型動物園「ジャパリパーク」を舞台に、\"フレンズ\"と呼ばれる少女たちの冒険を描いた人気作の第2期。フレンズのサーバルとカラカルは、森の中で出会ったヒトの子供と共に旅を始める。旅の途中、個性あふれるフレンズやパークの秘密、美味しい物、そして大ピンチに遭遇するなど、サーバルたちの新たなジャパリパークの物語が幕を開ける。\n\n@kemo_projectさんの画像"
+          }
+        },
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1004019391393030145",
+            "name": "Kemono Friends",
+            "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+          }
+        }
+      ],
+      "text": "けものフレンズでもここまでの初速は出せなかったはずで、今後に期待して見守るなど(モルカーはかわいいですね)",
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone"
+    },
+    {
+      "id": "1351390756708122627",
+      "conversation_id": "1351390756708122627",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 8,
+            "end": 18,
+            "probability": 0.7075,
+            "type": "Other",
+            "normalized_text": "傷だらけのピアノソナタ"
+          }
+        ],
+        "urls": [
+          {
+            "start": 29,
+            "end": 52,
+            "url": "https://t.co/GU1Zm8IeI0",
+            "expanded_url": "https://shonenjumpplus.com/red/content/SHSA_JP02PLUS00018649_57",
+            "display_url": "shonenjumpplus.com/red/content/SH…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1351182919923073027/J8VTv0J_?format=jpg&name=orig",
+                "width": 840,
+                "height": 420
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1351182919923073027/J8VTv0J_?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "[第12楽章]傷だらけのピアノソナタ - 齋藤勁吾 | 少年ジャンプ＋",
+            "description": "傷と絆の青春ピアノグラフィティ",
+            "unwound_url": "https://shonenjumpplus.com/episode/13933686331795990791"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 20,
+            "end": 28,
+            "tag": "ジャンププラス"
+          }
+        ]
+      },
+      "created_at": "2021-01-19T04:47:18.000Z",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "898268092110852096",
+            "name": "Piano",
+            "description": "Piano"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "1131990542198247424",
+            "name": "Musical instruments",
+            "description": "Musical Instruments"
+          }
+        }
+      ],
+      "text": "「[第12楽章]傷だらけのピアノソナタ」#ジャンププラス https://t.co/GU1Zm8IeI0\n\n見てくれ〜〜〜読んでくれ〜〜〜〜！！！！",
+      "source": "ジャンプ＋",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone"
+    },
+    {
+      "id": "1351365788356157440",
+      "conversation_id": "1351365788356157440",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-19T03:08:05.000Z",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        }
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 16,
+            "end": 39,
+            "url": "https://t.co/klqoG9yU8D",
+            "expanded_url": "https://qiita.com/paranishian/items/e3893aceb7dfec2c321e",
+            "display_url": "qiita.com/paranishian/it…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1351365789203402754/96vrOw1n?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1351365789203402754/96vrOw1n?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "TypeScriptで自己参照 - Qiita",
+            "description": "自己参照っていう言い方が正しいかわからないですが。。 たとえばこういうやつ 冗長なのでもっと楽したい。けどわざわざ型を追加したくもない。 interface Player { status: \"playing\" | \"st...",
+            "unwound_url": "https://qiita.com/paranishian/items/e3893aceb7dfec2c321e"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 40,
+            "end": 46,
+            "tag": "Qiita"
+          }
+        ]
+      },
+      "text": "TypeScriptで自己参照 https://t.co/klqoG9yU8D #Qiita",
+      "source": "Twitter Web App",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone"
+    },
+    {
+      "id": "1351345247490437124",
+      "conversation_id": "1351345247490437124",
+      "public_metrics": {
+        "retweet_count": 16,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-19T01:46:28.000Z",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "834828264786898945",
+            "name": "Drinks",
+            "description": "Drinks"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "867371273248047104",
+            "name": "Drink Novelty",
+            "description": "Drink Novelty"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "847861743699099649",
+            "name": "Nightlife",
+            "description": "Bars and nightlife"
+          }
+        }
+      ],
+      "text": "RT @UNIV_TSUKUBA_JP: 【今度、学長と飲まない？】\n卒業生×学長オンライン飲み会\n\n大学時代の旧友と集まり、昔話に花を咲かせませんか。\n是非、旧友とオンライン飲み会を開催するきっかけとして気軽にお申し込みください。\n学長も楽しみにしています！\n#筑波大学 #オ…",
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 131,
+            "end": 136,
+            "tag": "筑波大学"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 19,
+            "username": "UNIV_TSUKUBA_JP"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1351333641742217217"
+        }
+      ]
+    },
+    {
+      "id": "1351343932412633088",
+      "conversation_id": "1351342268263743491",
+      "in_reply_to_user_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-19T01:41:14.000Z",
+      "possibly_sensitive": false,
+      "text": "Wikipedia情報だけど、1000人に一人の割合で発症とか書いてあって予想を遥かに越える頻度で驚いている、そりゃあ表に出ないセンシティブすぎる情報だけど、あまりに高い…………",
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1351342268263743491"
+        }
+      ]
+    },
+    {
+      "id": "1351342268263743491",
+      "conversation_id": "1351342268263743491",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-19T01:34:38.000Z",
+      "possibly_sensitive": false,
+      "text": "BJの脳欠損胎児で両生類がダメになり、そこから両生類を想起するモノ全てがダメになってしまう人、俺です",
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone"
+    },
+    {
+      "id": "1351341615290347520",
+      "conversation_id": "1351341615290347520",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-19T01:32:02.000Z",
+      "possibly_sensitive": false,
+      "text": "内なる眼、眼球が口内にある遺伝子異常のやつ思い出しちゃってもう乗りたくなくなっちゃったナ……",
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone"
+    },
+    {
+      "id": "1351320321802977282",
+      "conversation_id": "1345020610875777024",
+      "in_reply_to_user_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-01-19T00:07:25.000Z",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "825047692124442624",
+            "name": "Food",
+            "description": "Food"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "1034860760093024257",
+            "name": "Meals",
+            "description": "Meals"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "1006588774304714753",
+            "name": "Brunch",
+            "description": "Brunch"
+          }
+        },
+        {
+          "domain": {
+            "id": "85",
+            "name": "Book Genre",
+            "description": "A genre for books, like Fiction"
+          },
+          "entity": {
+            "id": "859532072813158400",
+            "name": "Food inspiration",
+            "description": "Food"
+          }
+        }
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 114,
+            "end": 137,
+            "url": "https://t.co/26hHgynfZC",
+            "expanded_url": "https://twitter.com/ningensei848/status/1351182907751211008",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      },
+      "text": "やっぱ23時以降にコミットするとｺﾝﾄﾘﾋﾞｭｯﾀｰに反映されないっぽいいな、と思って自分のページ見に行ったんだけど、そっちでもサマリーには草が生えてなかった\nでも確実にプッシュしたはずなのでよく調べたら、ブランチの問題っぽい https://t.co/26hHgynfZC",
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1351182907751211008"
+        },
+        {
+          "type": "replied_to",
+          "id": "1350930923341099013"
+        }
+      ]
+    },
+    {
+      "id": "1351182907751211008",
+      "conversation_id": "1351182907751211008",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "created_at": "2021-01-18T15:01:23.000Z",
+      "possibly_sensitive": false,
+      "text": "Ningensei848 さんの 2021/01/18 の contribution 数: 0\n #contributter_report",
+      "source": "contributter",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      }
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "protected": false,
+        "name": "きあい🌓",
+        "description": "やる：電気工事士2種＆応用情報技術者試験，つくる：検索しやすいSPARQLのサービス",
+        "pinned_tweet_id": "1345020610875777024",
+        "verified": false,
+        "url": "https://t.co/KBXT0N3eAa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "username": "Ningensei848",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "location": "山梨県→茨城県つくば市",
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 987,
+          "tweet_count": 58004,
+          "listed_count": 22
+        },
+        "id": "707346268821913600",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "protected": false,
+        "name": "筑波大学futureship",
+        "description": "筑波大学の情報や卒業生のイベントや活躍等卒業生のための情報を配信。\n卒業生で発信してほしい情報がありましたらDMください！\n筑波大学は2023年に創基151年開学50年を迎えます！\n※事業開発推進室が運営する公式アカウント\nhttps://t.co/DgWqz4G0S2",
+        "pinned_tweet_id": "1343451372285353984",
+        "verified": false,
+        "url": "https://t.co/HHXJf5o2zH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1186180629186039809/U6uT7-Rm_normal.jpg",
+        "username": "Futureship1",
+        "created_at": "2019-10-21T07:20:51.000Z",
+        "location": "茨城県つくば市天王台1-1-1",
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 136,
+          "tweet_count": 920,
+          "listed_count": 9
+        },
+        "id": "1186179460346728448",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/HHXJf5o2zH",
+                "expanded_url": "https://futureship.sec.tsukuba.ac.jp/",
+                "display_url": "futureship.sec.tsukuba.ac.jp"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 112,
+                "end": 135,
+                "url": "https://t.co/DgWqz4G0S2",
+                "expanded_url": "https://www.facebook.com/univ.tsukuba.futureship",
+                "display_url": "facebook.com/univ.tsukuba.f…"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "protected": false,
+        "name": "たられば",
+        "description": "編集者／だいたいニコニコしています／Fav→／大屋雄裕／呉智英／鴻上尚史／高島俊男／東浩紀／士郎正宗／西原理恵子／伊坂幸太郎／みなもと太郎／瀧波ユカリ／中村珍／リアル脱出ゲーム／まどマギ／嵐／おかざき真里／ゆうきまさみ／羽海野チカ／末次由紀／小山宙哉／内藤泰弘／篠原健太／清少納言／羽生結弦／FGO／御用はリプ→DMで",
+        "verified": false,
+        "url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/583102148214296578/x-sAJjw__normal.jpg",
+        "username": "tarareba722",
+        "created_at": "2011-05-18T05:53:52.000Z",
+        "location": "東京",
+        "public_metrics": {
+          "followers_count": 192324,
+          "following_count": 786,
+          "tweet_count": 74340,
+          "listed_count": 3252
+        },
+        "id": "300688514"
+      },
+      {
+        "protected": false,
+        "name": "筑波大学",
+        "description": "筑波大学公式アカウントです。筑波大学のニュース、研究成果、イベントなどをご紹介します。ツイッターでの大学へのご意見・ご質問等はお受けすることが出来ませんのでご了承ください。",
+        "verified": false,
+        "url": "https://t.co/oyDfAq9xnQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1326394083191951360/ilCdDW5g_normal.png",
+        "username": "UNIV_TSUKUBA_JP",
+        "created_at": "2020-11-11T05:18:44.000Z",
+        "location": "茨城県つくば市",
+        "public_metrics": {
+          "followers_count": 3356,
+          "following_count": 1,
+          "tweet_count": 68,
+          "listed_count": 17
+        },
+        "id": "1326393695357243394",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/oyDfAq9xnQ",
+                "expanded_url": "http://www.tsukuba.ac.jp",
+                "display_url": "tsukuba.ac.jp"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "tweets": [
+      {
+        "id": "1348876840992063492",
+        "conversation_id": "1348876840992063492",
+        "public_metrics": {
+          "retweet_count": 30,
+          "reply_count": 0,
+          "like_count": 42,
+          "quote_count": 4
+        },
+        "entities": {
+          "annotations": [
+            {
+              "start": 0,
+              "end": 3,
+              "probability": 0.4268,
+              "type": "Organization",
+              "normalized_text": "筑波大学"
+            }
+          ],
+          "urls": [
+            {
+              "start": 104,
+              "end": 127,
+              "url": "https://t.co/sDA1tTWbn3",
+              "expanded_url": "https://twitter.com/Futureship1/status/1348876840992063492/photo/1",
+              "display_url": "pic.twitter.com/sDA1tTWbn3"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 77,
+              "end": 82,
+              "tag": "筑波大学"
+            },
+            {
+              "start": 83,
+              "end": 91,
+              "tag": "コロナウイルス"
+            },
+            {
+              "start": 92,
+              "end": 97,
+              "tag": "食料支援"
+            },
+            {
+              "start": 98,
+              "end": 103,
+              "tag": "食事支援"
+            }
+          ]
+        },
+        "created_at": "2021-01-12T06:17:54.000Z",
+        "possibly_sensitive": false,
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "123",
+              "name": "Ongoing News Story",
+              "description": "Ongoing News Stories like 'Brexit'"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
+        "text": "筑波大学では新型コロナウイルス感染症拡大の影響で困窮する学生に対し食料支援を実施いたします。\n1月22日（金）10時～17時（食料品がなくなり次第終了）\n#筑波大学 #コロナウイルス #食料支援 #食事支援 https://t.co/sDA1tTWbn3",
+        "source": "Twitter Web App",
+        "author_id": "1186179460346728448",
+        "reply_settings": "everyone",
+        "attachments": {
+          "media_keys": [
+            "3_1348875295701417986"
+          ]
+        }
+      },
+      {
+        "id": "1351409142200557568",
+        "conversation_id": "1351409142200557568",
+        "public_metrics": {
+          "retweet_count": 2989,
+          "reply_count": 15,
+          "like_count": 9616,
+          "quote_count": 195
+        },
+        "created_at": "2021-01-19T06:00:22.000Z",
+        "possibly_sensitive": false,
+        "text": "思考があちこちに飛び回る人ほど「手元にノートを置いて、そこに【やること】と【順番】を書き出しておく→終わったら線を引っ張って消す」の効力は大きい。これをやると「次にやらなきゃいけないこと」を常に覚えておく必要がない。これがなにげにデカい。そのぶんの脳のストレージを作業に使える。",
+        "source": "Twitter Web App",
+        "author_id": "300688514",
+        "reply_settings": "everyone"
+      },
+      {
+        "id": "1351333641742217217",
+        "conversation_id": "1351333641742217217",
+        "public_metrics": {
+          "retweet_count": 16,
+          "reply_count": 0,
+          "like_count": 44,
+          "quote_count": 5
+        },
+        "created_at": "2021-01-19T01:00:21.000Z",
+        "possibly_sensitive": false,
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "834828264786898945",
+              "name": "Drinks",
+              "description": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "867371273248047104",
+              "name": "Drink Novelty",
+              "description": "Drink Novelty"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "847861743699099649",
+              "name": "Nightlife",
+              "description": "Bars and nightlife"
+            }
+          }
+        ],
+        "entities": {
+          "urls": [
+            {
+              "start": 126,
+              "end": 149,
+              "url": "https://t.co/1sfjCyOX4G",
+              "expanded_url": "https://hcd.sec.tsukuba.ac.jp/tsukubaonline/",
+              "display_url": "hcd.sec.tsukuba.ac.jp/tsukubaonline/",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1349261665720627201/OC9supSc?format=jpg&name=orig",
+                  "width": 600,
+                  "height": 315
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1349261665720627201/OC9supSc?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "卒業生×学長 オンライン交流会",
+              "description": "久しぶりに筑波大学時代の仲間と集まって、昔話に花を咲かせませんか。学長と相互のコミュニケーションを取れるチャンス、またこのようなことを実施する大学は他にありません。昔話をするのも良し、近況報告するのも良し、学長にズバッと聞いてみるのも良しです。この機会に是非ご友人とお気軽にお申し込みください！",
+              "unwound_url": "https://hcd.sec.tsukuba.ac.jp/tsukubaonline/"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 110,
+              "end": 115,
+              "tag": "筑波大学"
+            },
+            {
+              "start": 116,
+              "end": 125,
+              "tag": "オンライン飲み会"
+            }
+          ]
+        },
+        "text": "【今度、学長と飲まない？】\n卒業生×学長オンライン飲み会\n\n大学時代の旧友と集まり、昔話に花を咲かせませんか。\n是非、旧友とオンライン飲み会を開催するきっかけとして気軽にお申し込みください。\n学長も楽しみにしています！\n#筑波大学 #オンライン飲み会\nhttps://t.co/1sfjCyOX4G",
+        "source": "Twitter Web App",
+        "author_id": "1326393695357243394",
+        "reply_settings": "everyone"
+      },
+      {
+        "id": "1351342268263743491",
+        "conversation_id": "1351342268263743491",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "created_at": "2021-01-19T01:34:38.000Z",
+        "possibly_sensitive": false,
+        "text": "BJの脳欠損胎児で両生類がダメになり、そこから両生類を想起するモノ全てがダメになってしまう人、俺です",
+        "source": "Twitter for iPad",
+        "author_id": "707346268821913600",
+        "reply_settings": "everyone"
+      },
+      {
+        "id": "1351182907751211008",
+        "conversation_id": "1351182907751211008",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "created_at": "2021-01-18T15:01:23.000Z",
+        "possibly_sensitive": false,
+        "text": "Ningensei848 さんの 2021/01/18 の contribution 数: 0\n #contributter_report",
+        "source": "contributter",
+        "author_id": "707346268821913600",
+        "reply_settings": "everyone",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1350930923341099013",
+        "conversation_id": "1345020610875777024",
+        "in_reply_to_user_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "created_at": "2021-01-17T22:20:05.000Z",
+        "possibly_sensitive": false,
+        "entities": {
+          "urls": [
+            {
+              "start": 21,
+              "end": 44,
+              "url": "https://t.co/v3Npka14wl",
+              "expanded_url": "https://twitter.com/ningensei848/status/1350820526281920512",
+              "display_url": "twitter.com/ningensei848/s…"
+            }
+          ]
+        },
+        "text": "日曜だったのにこんなに頑張っててえらいね https://t.co/v3Npka14wl",
+        "source": "Twitter for iPad",
+        "author_id": "707346268821913600",
+        "reply_settings": "everyone",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1350820526281920512"
+          },
+          {
+            "type": "replied_to",
+            "id": "1350703340590546949"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1351182907751211008",
+    "newest_id": "1351472655984074753",
+    "result_count": 13
+  }
+}
