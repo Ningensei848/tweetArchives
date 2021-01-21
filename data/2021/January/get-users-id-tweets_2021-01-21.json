@@ -1,0 +1,1163 @@
+{
+  "data": [
+    {
+      "public_metrics": {
+        "retweet_count": 12,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "entities": {
+        "annotations": [
+          {
+            "start": 16,
+            "end": 35,
+            "probability": 0.1497,
+            "type": "Organization",
+            "normalized_text": "名門筑波大学 ・指定国立大学法人筑波大学"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "thetsuki3"
+          }
+        ]
+      },
+      "conversation_id": "1352245487261286402",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1352229107736539137"
+        }
+      ],
+      "text": "RT @thetsuki3: ・名門筑波大学\n・指定国立大学法人筑波大学\n・天下の筑波大学←NEW！",
+      "created_at": "2021-01-21T13:23:42.000Z",
+      "id": "1352245487261286402"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1352233293354135554",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "text": "車を出して厨をやる男性に気をつけたいですね",
+      "created_at": "2021-01-21T12:35:15.000Z",
+      "id": "1352233293354135554"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "entities": {
+        "annotations": [
+          {
+            "start": 115,
+            "end": 118,
+            "probability": 0.9543,
+            "type": "Person",
+            "normalized_text": "永田恭介"
+          }
+        ]
+      },
+      "conversation_id": "1352232180265566209",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "text": "学生たち「えっ 今日は全員食糧配給貰っていいのか!!」\n副学長A「ああ…しっかり持ってけ」\n（もぐ もぐ もぐ）\n副学長B「おかわりもいいぞ!」\n学生たち「………」（信じられないといった表情ながら、こわごわとカレー皿を差し出す）\n永田恭介「遠慮するな 今までの分食え…」\n学生「うめ うめ うめ」",
+      "created_at": "2021-01-21T12:30:49.000Z",
+      "id": "1352232180265566209"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1352231491288264706",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "text": "おれは毒ガス実験がはじまる方を想像している（うめうめ……）",
+      "created_at": "2021-01-21T12:28:05.000Z",
+      "id": "1352231491288264706"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1352231354142920704",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "text": "ワロタ",
+      "created_at": "2021-01-21T12:27:32.000Z",
+      "id": "1352231354142920704"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "wkm2_87"
+          }
+        ]
+      },
+      "conversation_id": "1352231168461086723",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1352230888055078912"
+        }
+      ],
+      "text": "RT @wkm2_87: 笠地蔵のラスト",
+      "created_at": "2021-01-21T12:26:48.000Z",
+      "id": "1352231168461086723"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1352230666306375682",
+      "source": "Twitter Web App",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "text": "バカの大学で草わね",
+      "created_at": "2021-01-21T12:24:48.000Z",
+      "id": "1352230666306375682"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 492,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "Futureship1"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 114,
+            "end": 126,
+            "tag": "学生から支援者の皆様へ"
+          }
+        ]
+      },
+      "conversation_id": "1352230604524331010",
+      "source": "Twitter Web App",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1352229304608821249"
+        }
+      ],
+      "text": "RT @Futureship1: 特別に会場①の様子をちょっとお見せします。\nいよいよ明日10：00～17：00で食料支援実施いたします。\nマスク着用必須、学生証とキャリーケース持参でお願いします。車は控えてね！！\n明日は是非 #学生から支援者の皆様へ で感謝の気持ちをツイート…",
+      "created_at": "2021-01-21T12:24:34.000Z",
+      "id": "1352230604524331010"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 214,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "entities": {
+        "annotations": [
+          {
+            "start": 63,
+            "end": 68,
+            "probability": 0.5491,
+            "type": "Organization",
+            "normalized_text": "筑波大学病院"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 8,
+            "username": "95cb"
+          }
+        ]
+      },
+      "conversation_id": "1352230533976113156",
+      "source": "Twitter Web App",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1352116002532671489"
+        }
+      ],
+      "text": "RT @95cb: 情報によると20tを優に超えて30tに届くかという勢いらしい\n少しぐらい医療従事者にも分けてあげてほしい\n筑波大学病院に送ってあげてくれ",
+      "created_at": "2021-01-21T12:24:17.000Z",
+      "id": "1352230533976113156"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1352229761225904129",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "text": "こんなにも毎日頑張っているのに報われないことある？？って感じの進捗になってしまってな…",
+      "created_at": "2021-01-21T12:21:12.000Z",
+      "id": "1352229761225904129"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1352188818372247559",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "text": "7時間で2000人分、どうやって捌くのか(列整理のプロとかいそう)",
+      "created_at": "2021-01-21T09:38:31.000Z",
+      "id": "1352188818372247559"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1352176035484188672",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "text": "コメ7トンはマジで小国家じゃん",
+      "created_at": "2021-01-21T08:47:43.000Z",
+      "id": "1352176035484188672"
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 65,
+            "end": 88,
+            "url": "https://t.co/HaMDCzbO5j",
+            "expanded_url": "https://nlab.itmedia.co.jp/nl/articles/2101/21/news111.html",
+            "display_url": "nlab.itmedia.co.jp/nl/articles/21…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1352163290210684929/HH4kGlH3?format=jpg&name=orig",
+                "width": 1200,
+                "height": 900
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1352163290210684929/HH4kGlH3?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "筑波大学、合計20トン以上の食料を学生に支援　想像を超えるクソデカ配給に「笑うしかない」とうれしい悲鳴も",
+            "description": "IMAGINE THE FUTURE.",
+            "unwound_url": "https://nlab.itmedia.co.jp/nl/articles/2101/21/news111.html"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "itm_nlab"
+          },
+          {
+            "start": 89,
+            "end": 98,
+            "username": "itm_nlab"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 6482,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1352165682016763905",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1352163289707397130"
+        }
+      ],
+      "text": "RT @itm_nlab: 筑波大学、合計20トンの食料を学生に支援　想像を超えるクソデカ配給に「笑うしかない」とうれしい悲鳴も https://t.co/HaMDCzbO5j @itm_nlab \n\n IMAGINE THE FUTURE... https://t.co/2M…",
+      "created_at": "2021-01-21T08:06:35.000Z",
+      "id": "1352165682016763905"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1352165608314478594",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "text": "d3，ムズすぎワロチだけどできるとそれだけで仕事できそうワネ",
+      "created_at": "2021-01-21T08:06:17.000Z",
+      "id": "1352165608314478594"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1352133747030671361",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "text": "そもそも毎日報告するのが致命的にパフォーマンスへの影響を与えている気がしてきた，毎日の積み重ねが大事とは言うけれど，「積み重ねを崩さない」という前提が暗黙にある気がする（崩れないものしか積み上げられなくなっている）",
+      "created_at": "2021-01-21T05:59:41.000Z",
+      "id": "1352133747030671361"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1352088726701133824",
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "text": "余りを出すわけには行かないのできゃりーをぱみゅぱみゅしていくけれども",
+      "created_at": "2021-01-21T03:00:47.000Z",
+      "id": "1352088726701133824"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 2687,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "entities": {
+        "annotations": [
+          {
+            "start": 10,
+            "end": 13,
+            "probability": 0.493,
+            "type": "Organization",
+            "normalized_text": "筑波大学"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 8,
+            "username": "95cb"
+          }
+        ]
+      },
+      "conversation_id": "1352088603875106816",
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1352048596711997441"
+        }
+      ],
+      "text": "RT @95cb: 筑波大学の食糧支援事業、20tとか用意されてて学生一人あたり10kg以上になって受け取る側が若干引き気味なのウケるな",
+      "created_at": "2021-01-21T03:00:18.000Z",
+      "id": "1352088603875106816"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1352085190324019201",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "text": "ﾎｳがひとつ余計なtypoしちゃあ",
+      "created_at": "2021-01-21T02:46:44.000Z",
+      "id": "1352085190324019201"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1352084768737828864",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "text": "もっとOSS的な視座に立ってやってほしいけど，彼らにとってのそれはペーパーなんだよな",
+      "created_at": "2021-01-21T02:45:04.000Z",
+      "id": "1352084768737828864"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1352084658062721024",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "text": "これも競争的資金のせいなんですけど，目先のものを優先しすぎて完成してから放って置きすぎる",
+      "created_at": "2021-01-21T02:44:37.000Z",
+      "id": "1352084658062721024"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1352084468052291585",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "text": "なんか一人でﾄﾞｯﾎﾟｳﾎｳｼﾞﾝと戦うことになりそうな（というか進行形で戦ってる）んですけど，ぶっ殺してやるからなという気持ちでいます",
+      "created_at": "2021-01-21T02:43:52.000Z",
+      "id": "1352084468052291585"
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 47,
+            "end": 70,
+            "url": "https://t.co/jk3uyDtISp",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1351907669137883139",
+            "display_url": "twitter.com/Ningensei848/s…"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "in_reply_to_user_id": "707346268821913600",
+      "conversation_id": "1345020610875777024",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1351907669137883139"
+        },
+        {
+          "type": "replied_to",
+          "id": "1351562023956434950"
+        }
+      ],
+      "text": "どんだけ絶望的にできない実感があっても、少なくともコミットはしているという自己肯定、最後の砦 https://t.co/jk3uyDtISp",
+      "created_at": "2021-01-20T23:12:44.000Z",
+      "id": "1352031334626037761"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1351911087646511113",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "text": "マグマカタツムリくん、ヘラおじと汁おじとエイヤにモルテまで積んでoverkillしたけどその後もなかなか長ぇ",
+      "created_at": "2021-01-20T15:14:55.000Z",
+      "id": "1351911087646511113"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1351907669137883139",
+      "source": "contributter",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "text": "Ningensei848 さんの 2021/01/20 の contribution 数: 2\n #contributter_report",
+      "created_at": "2021-01-20T15:01:20.000Z",
+      "id": "1351907669137883139"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 986,
+          "tweet_count": 58052,
+          "listed_count": 22
+        },
+        "description": "やる：電気工事士2種＆応用情報技術者試験，つくる：検索しやすいSPARQLのサービス",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "pinned_tweet_id": "1345020610875777024",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "name": "きあい🌓",
+        "id": "707346268821913600",
+        "url": "https://t.co/KBXT0N3eAa",
+        "username": "Ningensei848",
+        "location": "山梨県→茨城県つくば市"
+      },
+      {
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 1126,
+          "tweet_count": 35921,
+          "listed_count": 10
+        },
+        "description": "蛇の道は蛇　ヘッダーは @BB_Bonze より　雑記帳→https://t.co/XuTaYOVEro",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/GSNUpesWT9",
+                "expanded_url": "https://peing.net/ja/thetsuki3",
+                "display_url": "peing.net/ja/thetsuki3"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 29,
+                "end": 52,
+                "url": "https://t.co/XuTaYOVEro",
+                "expanded_url": "http://note.com/itmtido",
+                "display_url": "note.com/itmtido"
+              }
+            ],
+            "mentions": [
+              {
+                "start": 12,
+                "end": 21,
+                "username": "BB_Bonze"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1309311093785804801/YrZy900e_normal.jpg",
+        "pinned_tweet_id": "1348726207236382720",
+        "created_at": "2018-03-30T14:18:07.000Z",
+        "name": "ティーカップ横綱",
+        "id": "979724454577123329",
+        "url": "https://t.co/GSNUpesWT9",
+        "username": "thetsuki3",
+        "location": "競争原理の呪縛に囚われ続けている哀れな生き物"
+      },
+      {
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 315,
+          "tweet_count": 27912,
+          "listed_count": 9
+        },
+        "description": "ITF.🥞 / ( CB223S )o。🏍🐜",
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297907070893584384/xhVfLmME_normal.jpg",
+        "pinned_tweet_id": "1231510874378031105",
+        "created_at": "2015-04-04T04:22:08.000Z",
+        "name": "とんりー",
+        "id": "3138424640",
+        "url": "",
+        "username": "wkm2_87"
+      },
+      {
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 136,
+          "tweet_count": 947,
+          "listed_count": 14
+        },
+        "description": "筑波大学の情報や卒業生のイベントや活躍等卒業生のための情報を配信。\n卒業生で発信してほしい情報がありましたらDMください！\n筑波大学は2023年に創基151年開学50年を迎えます！\n※事業開発推進室が運営する公式アカウント\nhttps://t.co/DgWqz4G0S2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/HHXJf5o2zH",
+                "expanded_url": "https://futureship.sec.tsukuba.ac.jp/",
+                "display_url": "futureship.sec.tsukuba.ac.jp"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 112,
+                "end": 135,
+                "url": "https://t.co/DgWqz4G0S2",
+                "expanded_url": "https://www.facebook.com/univ.tsukuba.futureship",
+                "display_url": "facebook.com/univ.tsukuba.f…"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1186180629186039809/U6uT7-Rm_normal.jpg",
+        "pinned_tweet_id": "1343451372285353984",
+        "created_at": "2019-10-21T07:20:51.000Z",
+        "name": "筑波大学futureship",
+        "id": "1186179460346728448",
+        "url": "https://t.co/HHXJf5o2zH",
+        "username": "Futureship1",
+        "location": "茨城県つくば市天王台1-1-1"
+      },
+      {
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 963,
+          "tweet_count": 68053,
+          "listed_count": 32
+        },
+        "description": "佐野市/ex-ITF./足の裏の米粒/茶道部和敬清寂社/Z/esys11 鍵@sano_pref 画像転載× SW-5218-9884-8782",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/NTBHzCSxKB",
+                "expanded_url": "https://www.kajima.co.jp/",
+                "display_url": "kajima.co.jp"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 38,
+                "end": 48,
+                "username": "sano_pref"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1112703147321913344/Tap3Z6Qk_normal.png",
+        "pinned_tweet_id": "1169837152697348098",
+        "created_at": "2011-12-29T15:36:47.000Z",
+        "name": "業務上過失博士",
+        "id": "449851356",
+        "url": "https://t.co/NTBHzCSxKB",
+        "username": "95cb",
+        "location": "ザ・パークハウスグラン南青山高樹町"
+      },
+      {
+        "verified": true,
+        "public_metrics": {
+          "followers_count": 219476,
+          "following_count": 13829,
+          "tweet_count": 236833,
+          "listed_count": 4467
+        },
+        "description": "ネット上の旬な情報を紹介するWebメディアです。記事更新情報は自社開発botやSocialInsightが、編集部からのお知らせなどは手動で投稿しています。情報提供もお待ちしております。\n\nねとらぼ生物部：@itm_nlabzoo／ねとらぼエンタ：@itm_nlabenta／ねとらぼ（募集用）：@nlab_boshu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/aDKmIqSfJl",
+                "expanded_url": "http://nlab.itmedia.co.jp/",
+                "display_url": "nlab.itmedia.co.jp"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 103,
+                "end": 115,
+                "username": "itm_nlabzoo"
+              },
+              {
+                "start": 124,
+                "end": 137,
+                "username": "itm_nlabenta"
+              },
+              {
+                "start": 148,
+                "end": 159,
+                "username": "nlab_boshu"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875585661222273024/__F5GwAW_normal.jpg",
+        "created_at": "2011-03-30T04:31:30.000Z",
+        "name": "ねとらぼ",
+        "id": "274331049",
+        "url": "https://t.co/aDKmIqSfJl",
+        "username": "itm_nlab",
+        "location": "東京都千代田区紀尾井町"
+      }
+    ],
+    "tweets": [
+      {
+        "public_metrics": {
+          "retweet_count": 12,
+          "reply_count": 0,
+          "like_count": 45,
+          "quote_count": 0
+        },
+        "author_id": "979724454577123329",
+        "entities": {
+          "annotations": [
+            {
+              "start": 9,
+              "end": 20,
+              "probability": 0.2589,
+              "type": "Organization",
+              "normalized_text": "指定国立大学法人筑波大学"
+            },
+            {
+              "start": 26,
+              "end": 29,
+              "probability": 0.371,
+              "type": "Organization",
+              "normalized_text": "筑波大学"
+            }
+          ]
+        },
+        "conversation_id": "1352229107736539137",
+        "source": "TweetDeck",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "text": "・名門筑波大学\n・指定国立大学法人筑波大学\n・天下の筑波大学←NEW！",
+        "created_at": "2021-01-21T12:18:37.000Z",
+        "id": "1352229107736539137"
+      },
+      {
+        "public_metrics": {
+          "retweet_count": 1,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "author_id": "3138424640",
+        "entities": {
+          "annotations": [
+            {
+              "start": 0,
+              "end": 2,
+              "probability": 0.2493,
+              "type": "Place",
+              "normalized_text": "笠地蔵"
+            }
+          ]
+        },
+        "conversation_id": "1352230888055078912",
+        "source": "Twitter for iPhone",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "text": "笠地蔵のラスト",
+        "created_at": "2021-01-21T12:25:41.000Z",
+        "id": "1352230888055078912"
+      },
+      {
+        "entities": {
+          "urls": [
+            {
+              "start": 145,
+              "end": 168,
+              "url": "https://t.co/WGmgbQo588",
+              "expanded_url": "https://twitter.com/Futureship1/status/1352229304608821249/video/1",
+              "display_url": "pic.twitter.com/WGmgbQo588"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 97,
+              "end": 109,
+              "tag": "学生から支援者の皆様へ"
+            },
+            {
+              "start": 127,
+              "end": 132,
+              "tag": "筑波大学"
+            },
+            {
+              "start": 133,
+              "end": 138,
+              "tag": "食料支援"
+            },
+            {
+              "start": 139,
+              "end": 144,
+              "tag": "食事支援"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 492,
+          "reply_count": 3,
+          "like_count": 925,
+          "quote_count": 109
+        },
+        "author_id": "1186179460346728448",
+        "conversation_id": "1352229304608821249",
+        "source": "Twitter Web App",
+        "attachments": {
+          "media_keys": [
+            "7_1352227311131652098"
+          ]
+        },
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "text": "特別に会場①の様子をちょっとお見せします。\nいよいよ明日10：00～17：00で食料支援実施いたします。\nマスク着用必須、学生証とキャリーケース持参でお願いします。車は控えてね！！\n明日は是非 #学生から支援者の皆様へ で感謝の気持ちをツイートしてね。\n#筑波大学 #食料支援 #食事支援 https://t.co/WGmgbQo588",
+        "created_at": "2021-01-21T12:19:24.000Z",
+        "id": "1352229304608821249"
+      },
+      {
+        "public_metrics": {
+          "retweet_count": 214,
+          "reply_count": 1,
+          "like_count": 658,
+          "quote_count": 1
+        },
+        "author_id": "449851356",
+        "in_reply_to_user_id": "449851356",
+        "entities": {
+          "annotations": [
+            {
+              "start": 53,
+              "end": 58,
+              "probability": 0.544,
+              "type": "Organization",
+              "normalized_text": "筑波大学病院"
+            }
+          ]
+        },
+        "conversation_id": "1352048596711997441",
+        "source": "TweetDeck",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1352115378000850944"
+          }
+        ],
+        "text": "情報によると20tを優に超えて30tに届くかという勢いらしい\n少しぐらい医療従事者にも分けてあげてほしい\n筑波大学病院に送ってあげてくれ",
+        "created_at": "2021-01-21T04:49:10.000Z",
+        "id": "1352116002532671489"
+      },
+      {
+        "entities": {
+          "urls": [
+            {
+              "start": 51,
+              "end": 74,
+              "url": "https://t.co/HaMDCzbO5j",
+              "expanded_url": "https://nlab.itmedia.co.jp/nl/articles/2101/21/news111.html",
+              "display_url": "nlab.itmedia.co.jp/nl/articles/21…",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1352163290210684929/HH4kGlH3?format=jpg&name=orig",
+                  "width": 1200,
+                  "height": 900
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1352163290210684929/HH4kGlH3?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "筑波大学、合計20トン以上の食料を学生に支援　想像を超えるクソデカ配給に「笑うしかない」とうれしい悲鳴も",
+              "description": "IMAGINE THE FUTURE.",
+              "unwound_url": "https://nlab.itmedia.co.jp/nl/articles/2101/21/news111.html"
+            },
+            {
+              "start": 110,
+              "end": 133,
+              "url": "https://t.co/2MBgevpiEV",
+              "expanded_url": "https://twitter.com/itm_nlab/status/1352163289707397130/photo/1",
+              "display_url": "pic.twitter.com/2MBgevpiEV"
+            },
+            {
+              "start": 110,
+              "end": 133,
+              "url": "https://t.co/2MBgevpiEV",
+              "expanded_url": "https://twitter.com/itm_nlab/status/1352163289707397130/photo/1",
+              "display_url": "pic.twitter.com/2MBgevpiEV"
+            },
+            {
+              "start": 110,
+              "end": 133,
+              "url": "https://t.co/2MBgevpiEV",
+              "expanded_url": "https://twitter.com/itm_nlab/status/1352163289707397130/photo/1",
+              "display_url": "pic.twitter.com/2MBgevpiEV"
+            },
+            {
+              "start": 110,
+              "end": 133,
+              "url": "https://t.co/2MBgevpiEV",
+              "expanded_url": "https://twitter.com/itm_nlab/status/1352163289707397130/photo/1",
+              "display_url": "pic.twitter.com/2MBgevpiEV"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 0,
+              "end": 3,
+              "probability": 0.4842,
+              "type": "Organization",
+              "normalized_text": "筑波大学"
+            }
+          ],
+          "mentions": [
+            {
+              "start": 75,
+              "end": 84,
+              "username": "itm_nlab"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 6482,
+          "reply_count": 25,
+          "like_count": 12080,
+          "quote_count": 545
+        },
+        "author_id": "274331049",
+        "conversation_id": "1352163289707397130",
+        "source": "Twitter Web App",
+        "attachments": {
+          "media_keys": [
+            "3_1352162956474085377",
+            "3_1352162956478349315",
+            "3_1352162956704841728",
+            "3_1352162957128466434"
+          ]
+        },
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "text": "筑波大学、合計20トンの食料を学生に支援　想像を超えるクソデカ配給に「笑うしかない」とうれしい悲鳴も https://t.co/HaMDCzbO5j @itm_nlab \n\n IMAGINE THE FUTURE... https://t.co/2MBgevpiEV",
+        "created_at": "2021-01-21T07:57:04.000Z",
+        "id": "1352163289707397130"
+      },
+      {
+        "public_metrics": {
+          "retweet_count": 2687,
+          "reply_count": 11,
+          "like_count": 9780,
+          "quote_count": 54
+        },
+        "author_id": "449851356",
+        "entities": {
+          "annotations": [
+            {
+              "start": 0,
+              "end": 3,
+              "probability": 0.5933,
+              "type": "Organization",
+              "normalized_text": "筑波大学"
+            }
+          ]
+        },
+        "conversation_id": "1352048596711997441",
+        "source": "TweetDeck",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "text": "筑波大学の食糧支援事業、20tとか用意されてて学生一人あたり10kg以上になって受け取る側が若干引き気味なのウケるな",
+        "created_at": "2021-01-21T00:21:19.000Z",
+        "id": "1352048596711997441"
+      },
+      {
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "author_id": "707346268821913600",
+        "conversation_id": "1351907669137883139",
+        "source": "contributter",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        },
+        "text": "Ningensei848 さんの 2021/01/20 の contribution 数: 2\n #contributter_report",
+        "created_at": "2021-01-20T15:01:20.000Z",
+        "id": "1351907669137883139"
+      },
+      {
+        "entities": {
+          "urls": [
+            {
+              "start": 41,
+              "end": 64,
+              "url": "https://t.co/u5NMcZSf4m",
+              "expanded_url": "https://twitter.com/Ningensei848/status/1351545353162645504?s=20",
+              "display_url": "twitter.com/Ningensei848/s…"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "author_id": "707346268821913600",
+        "in_reply_to_user_id": "707346268821913600",
+        "conversation_id": "1345020610875777024",
+        "source": "Twitter Web App",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1351545353162645504"
+          },
+          {
+            "type": "replied_to",
+            "id": "1351320321802977282"
+          }
+        ],
+        "text": "火曜日，頑張りましたね……水曜も頑張りましょう．すぐ一週間は過ぎてしまいますから\nhttps://t.co/u5NMcZSf4m",
+        "created_at": "2021-01-19T16:07:51.000Z",
+        "id": "1351562023956434950"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1351907669137883139",
+    "newest_id": "1352245487261286402",
+    "result_count": 24
+  }
+}
