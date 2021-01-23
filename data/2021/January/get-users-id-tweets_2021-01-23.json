@@ -1,0 +1,780 @@
+{
+  "data": [
+    {
+      "id": "1352906943161987072",
+      "public_metrics": {
+        "retweet_count": 776,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "created_at": "2021-01-23T09:12:05.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "kantei_vaccine"
+          }
+        ]
+      },
+      "conversation_id": "1352906943161987072",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "903303816698671104",
+            "name": "Wellness and health",
+            "description": "Wellness & Health"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "918538847302041600",
+            "name": "Community Health",
+            "description": "Community Health"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "920768310152593408",
+            "name": "Common Medication",
+            "description": "Common Medication"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "864925500627484672",
+            "name": "Family and life stages",
+            "description": "Family and Life Stages"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "847547735393710080",
+            "name": "Elder care",
+            "description": "Elder care"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1352903977373814784"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "text": "RT @kantei_vaccine: ワクチンの接種順位については、医療提供体制の確保等のため、まずは医療従事者等への接種、次に重症化リスクの大きさ等を踏まえ、高齢者、その次に高齢者以外で基礎疾患を有する者、高齢者施設等の従事者に接種することを検討中で、今後速やかに決定します…",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1352902913090183168",
+      "entities": {
+        "urls": [
+          {
+            "start": 13,
+            "end": 36,
+            "url": "https://t.co/yZ4hZMzt9X",
+            "expanded_url": "https://open.spotify.com/episode/1N1aHRH9ux5sJI1sGnRmmn?si=lryZEhDITiul0rd7WhKiWA&context=spotify%3Ashow%3A24s1gq2QNlYGwGLpGYYDuS",
+            "display_url": "open.spotify.com/episode/1N1aHR…",
+            "status": 502,
+            "unwound_url": "https://open.spotify.com/episode/1N1aHRH9ux5sJI1sGnRmmn?si=lryZEhDITiul0rd7WhKiWA&context=spotify%3Ashow%3A24s1gq2QNlYGwGLpGYYDuS"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "created_at": "2021-01-23T08:56:04.000Z",
+      "conversation_id": "1352902913090183168",
+      "reply_settings": "everyone",
+      "author_id": "707346268821913600",
+      "text": "呪のオタク、聞きなさい\n https://t.co/yZ4hZMzt9X",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1352888285685641217",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "created_at": "2021-01-23T07:57:57.000Z",
+      "conversation_id": "1352888285685641217",
+      "reply_settings": "everyone",
+      "author_id": "707346268821913600",
+      "text": "初めてテスト駆動でtsやってるけどテストを作るのとテストを通すのがめちゃくちゃに時間かかってしまう、一度通せればほーんつってあれもこれもとやれてイイのだけれど(多分何かを間違えている",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1352814839517732865",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "created_at": "2021-01-23T03:06:06.000Z",
+      "conversation_id": "1352814839517732865",
+      "reply_settings": "everyone",
+      "author_id": "707346268821913600",
+      "text": "あと世界、想像よりだいぶ平面になってしまうので立体視を編み出した先祖スゲェよ",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1352814288256212994",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "created_at": "2021-01-23T03:03:55.000Z",
+      "conversation_id": "1352813697236787200",
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1352813697236787200"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "text": "普段から補完して生きてるんだろうなという気づきがありました、あと多分ふだんきちんと使ってない脳の部位が動いています",
+      "in_reply_to_user_id": "707346268821913600",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1352813697236787200",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "created_at": "2021-01-23T03:01:34.000Z",
+      "conversation_id": "1352813697236787200",
+      "reply_settings": "everyone",
+      "author_id": "707346268821913600",
+      "text": "なんか右目が利き手ならぬ「利き目」っぽいなぁと思い、じゃあ逆の目だけで見るようにして生活したらどうなるのかな？つって目隠し被せて実践しているのですが、既にあるはずがないモノがふとした瞬間にチラッと見えて笑っている(なぜ？)",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1352811946332983296",
+      "public_metrics": {
+        "retweet_count": 880,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "created_at": "2021-01-23T02:54:36.000Z",
+      "entities": {
+        "annotations": [
+          {
+            "start": 38,
+            "end": 41,
+            "probability": 0.58,
+            "type": "Other",
+            "normalized_text": "淫獄団地"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 19,
+            "username": "98OzeBGDhZARIyj"
+          }
+        ]
+      },
+      "conversation_id": "1352811946332983296",
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1352531904654761984"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "text": "RT @98OzeBGDhZARIyj: あああああ！！暫く目を離してたら『淫獄団地』第一話の閲覧数が５９６３を過ぎてたぁあああ！！まぁいいかぁ！\n改めて、５・９・６・３！ごくろうさぁああああああああん！！！！！皆さんありがとうございまぁあああす！！ https://t.co/…",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1352787962287726592",
+      "public_metrics": {
+        "retweet_count": 651,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPhone",
+      "created_at": "2021-01-23T01:19:18.000Z",
+      "entities": {
+        "annotations": [
+          {
+            "start": 70,
+            "end": 84,
+            "probability": 0.438,
+            "type": "Person",
+            "normalized_text": "Mame Kurogouchi"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "uszksr"
+          }
+        ]
+      },
+      "conversation_id": "1352787962287726592",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "847869251595542528",
+            "name": "Drawing & illustration",
+            "description": "Drawing and sketching"
+          }
+        },
+        {
+          "domain": {
+            "id": "85",
+            "name": "Book Genre",
+            "description": "A genre for books, like Fiction"
+          },
+          "entity": {
+            "id": "847521144173350912",
+            "name": "Comics",
+            "description": "Comics"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1352784763996708864"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "text": "RT @uszksr: 【告知】本日 1/23(土) 発売のSPUR3月号に描き下ろしイラスト2枚とインタビューを載せていただいております！Mame Kurogouchiの春夏コレクションから3着描かせていただきました。ぜひチェックしてくださいね〜！",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1352730063746174976",
+      "entities": {
+        "urls": [
+          {
+            "start": 21,
+            "end": 44,
+            "url": "https://t.co/s75hFzaGO3",
+            "expanded_url": "https://twitter.com/ningensei848/status/1352632484555587586",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "created_at": "2021-01-22T21:29:14.000Z",
+      "conversation_id": "1345020610875777024",
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1352632484555587586"
+        },
+        {
+          "type": "replied_to",
+          "id": "1352418269777469442"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "text": "さぁ、土日返上で世界をぶっ壊していくわよ https://t.co/s75hFzaGO3",
+      "in_reply_to_user_id": "707346268821913600",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1352632484555587586",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "source": "contributter",
+      "created_at": "2021-01-22T15:01:29.000Z",
+      "conversation_id": "1352632484555587586",
+      "reply_settings": "everyone",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "text": "Ningensei848 さんの 2021/01/22 の contribution 数: 1\n #contributter_report",
+      "possibly_sensitive": false
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 988,
+          "tweet_count": 58110,
+          "listed_count": 22
+        },
+        "name": "きあい🌧",
+        "username": "Ningensei848",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "description": "やる：電気工事士2種＆応用情報技術者試験，つくる：検索しやすいSPARQLのサービス",
+        "url": "https://t.co/KBXT0N3eAa",
+        "pinned_tweet_id": "1345020610875777024",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "verified": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "protected": false,
+        "id": "707346268821913600",
+        "location": "山梨県→茨城県つくば市"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 80352,
+          "following_count": 2,
+          "tweet_count": 7,
+          "listed_count": 740
+        },
+        "name": "首相官邸（新型コロナワクチン情報）",
+        "username": "kantei_vaccine",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/YlmtZlwbSB",
+                "expanded_url": "https://www.kantei.go.jp/",
+                "display_url": "kantei.go.jp"
+              }
+            ]
+          }
+        },
+        "description": "本アカウントは首相官邸の公式アカウントです。首相官邸から新型コロナワクチンに関する情報をお届けいたします。",
+        "url": "https://t.co/YlmtZlwbSB",
+        "created_at": "2021-01-22T03:41:11.000Z",
+        "verified": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1352465572785655808/xMctU_-Z_normal.jpg",
+        "protected": false,
+        "id": "1352461223489486848"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 14856,
+          "following_count": 36,
+          "tweet_count": 318,
+          "listed_count": 117
+        },
+        "name": "搾精研究所（淫獄連載中！）",
+        "username": "98OzeBGDhZARIyj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/fD2tLzIXa2",
+                "expanded_url": "https://ci-en.dlsite.com/creator/4612",
+                "display_url": "ci-en.dlsite.com/creator/4612"
+              }
+            ]
+          }
+        },
+        "description": "いつも応援ありがとうございます！「無限射精拷問」「搾精病棟」など、主に成人向けCG集を制作してきました。お陰様で「搾精病棟」が小説化・AV化しました！現在「搾精学級⑤」絶賛発売中！また漫画「淫獄団地」の原作担当！ 18禁コンテンツなので未成年の方は閲覧しないで下さい。",
+        "url": "https://t.co/fD2tLzIXa2",
+        "pinned_tweet_id": "1348959575689424900",
+        "created_at": "2020-06-13T11:32:34.000Z",
+        "verified": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1271783473397657600/2Kx6o26O_normal.jpg",
+        "protected": false,
+        "id": "1271767381514153984",
+        "location": "所内"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 160404,
+          "following_count": 312,
+          "tweet_count": 2607,
+          "listed_count": 925
+        },
+        "name": "宇佐崎しろ",
+        "username": "uszksr",
+        "description": "",
+        "url": "",
+        "pinned_tweet_id": "1343404128815337472",
+        "created_at": "2011-06-27T15:25:19.000Z",
+        "verified": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1249760452445237250/G5tA4_IO_normal.jpg",
+        "protected": false,
+        "id": "324995059",
+        "location": "東京"
+      }
+    ],
+    "tweets": [
+      {
+        "id": "1352903977373814784",
+        "public_metrics": {
+          "retweet_count": 776,
+          "reply_count": 63,
+          "like_count": 2113,
+          "quote_count": 43
+        },
+        "source": "Twitter for iPhone",
+        "created_at": "2021-01-23T09:00:18.000Z",
+        "conversation_id": "1352903977373814784",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "903303816698671104",
+              "name": "Wellness and health",
+              "description": "Wellness & Health"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "918538847302041600",
+              "name": "Community Health",
+              "description": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "920768310152593408",
+              "name": "Common Medication",
+              "description": "Common Medication"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "864925500627484672",
+              "name": "Family and life stages",
+              "description": "Family and Life Stages"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "847547735393710080",
+              "name": "Elder care",
+              "description": "Elder care"
+            }
+          }
+        ],
+        "reply_settings": "everyone",
+        "author_id": "1352461223489486848",
+        "text": "ワクチンの接種順位については、医療提供体制の確保等のため、まずは医療従事者等への接種、次に重症化リスクの大きさ等を踏まえ、高齢者、その次に高齢者以外で基礎疾患を有する者、高齢者施設等の従事者に接種することを検討中で、今後速やかに決定します。（1/2）",
+        "possibly_sensitive": false
+      },
+      {
+        "id": "1352813697236787200",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0
+        },
+        "source": "Twitter for iPad",
+        "created_at": "2021-01-23T03:01:34.000Z",
+        "conversation_id": "1352813697236787200",
+        "reply_settings": "everyone",
+        "author_id": "707346268821913600",
+        "text": "なんか右目が利き手ならぬ「利き目」っぽいなぁと思い、じゃあ逆の目だけで見るようにして生活したらどうなるのかな？つって目隠し被せて実践しているのですが、既にあるはずがないモノがふとした瞬間にチラッと見えて笑っている(なぜ？)",
+        "possibly_sensitive": false
+      },
+      {
+        "id": "1352531904654761984",
+        "entities": {
+          "urls": [
+            {
+              "start": 105,
+              "end": 128,
+              "url": "https://t.co/C9qt1sV3SV",
+              "expanded_url": "https://twitter.com/98OzeBGDhZARIyj/status/1352531904654761984/photo/1",
+              "display_url": "pic.twitter.com/C9qt1sV3SV"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 17,
+              "end": 20,
+              "probability": 0.6229,
+              "type": "Other",
+              "normalized_text": "淫獄団地"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 880,
+          "reply_count": 3,
+          "like_count": 1664,
+          "quote_count": 4
+        },
+        "source": "Twitter Web App",
+        "created_at": "2021-01-22T08:21:49.000Z",
+        "attachments": {
+          "media_keys": [
+            "3_1352531302839271426"
+          ]
+        },
+        "conversation_id": "1352531904654761984",
+        "reply_settings": "everyone",
+        "author_id": "1271767381514153984",
+        "text": "あああああ！！暫く目を離してたら『淫獄団地』第一話の閲覧数が５９６３を過ぎてたぁあああ！！まぁいいかぁ！\n改めて、５・９・６・３！ごくろうさぁああああああああん！！！！！皆さんありがとうございまぁあああす！！ https://t.co/C9qt1sV3SV",
+        "possibly_sensitive": true
+      },
+      {
+        "id": "1352784763996708864",
+        "entities": {
+          "urls": [
+            {
+              "start": 114,
+              "end": 137,
+              "url": "https://t.co/zwsyljJoes",
+              "expanded_url": "https://twitter.com/spur_magazine/status/1352527298164097026",
+              "display_url": "twitter.com/spur_magazine/…"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 58,
+              "end": 72,
+              "probability": 0.467,
+              "type": "Person",
+              "normalized_text": "Mame Kurogouchi"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 651,
+          "reply_count": 20,
+          "like_count": 3460,
+          "quote_count": 9
+        },
+        "source": "Twitter for iPhone",
+        "created_at": "2021-01-23T01:06:35.000Z",
+        "conversation_id": "1352784763996708864",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847868745150119936",
+              "name": "Home & family",
+              "description": "Hobbies and interests"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "847869251595542528",
+              "name": "Drawing & illustration",
+              "description": "Drawing and sketching"
+            }
+          },
+          {
+            "domain": {
+              "id": "85",
+              "name": "Book Genre",
+              "description": "A genre for books, like Fiction"
+            },
+            "entity": {
+              "id": "847521144173350912",
+              "name": "Comics",
+              "description": "Comics"
+            }
+          }
+        ],
+        "reply_settings": "everyone",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1352527298164097026"
+          }
+        ],
+        "author_id": "324995059",
+        "text": "【告知】本日 1/23(土) 発売のSPUR3月号に描き下ろしイラスト2枚とインタビューを載せていただいております！Mame Kurogouchiの春夏コレクションから3着描かせていただきました。ぜひチェックしてくださいね〜！ https://t.co/zwsyljJoes",
+        "possibly_sensitive": false
+      },
+      {
+        "id": "1352632484555587586",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "source": "contributter",
+        "created_at": "2021-01-22T15:01:29.000Z",
+        "conversation_id": "1352632484555587586",
+        "reply_settings": "everyone",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        },
+        "author_id": "707346268821913600",
+        "text": "Ningensei848 さんの 2021/01/22 の contribution 数: 1\n #contributter_report",
+        "possibly_sensitive": false
+      },
+      {
+        "id": "1352418269777469442",
+        "entities": {
+          "urls": [
+            {
+              "start": 35,
+              "end": 58,
+              "url": "https://t.co/DztLFuY2Yq",
+              "expanded_url": "https://twitter.com/ningensei848/status/1352270066746855424",
+              "display_url": "twitter.com/ningensei848/s…"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0
+        },
+        "source": "Twitter for iPhone",
+        "created_at": "2021-01-22T00:50:16.000Z",
+        "conversation_id": "1345020610875777024",
+        "reply_settings": "everyone",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1352270066746855424"
+          },
+          {
+            "type": "replied_to",
+            "id": "1352031334626037761"
+          }
+        ],
+        "author_id": "707346268821913600",
+        "text": "朝イチでミーティングしたら上司の要求が思ったより高かったでござるの巻 https://t.co/DztLFuY2Yq",
+        "in_reply_to_user_id": "707346268821913600",
+        "possibly_sensitive": false
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1352632484555587586",
+    "newest_id": "1352906943161987072",
+    "result_count": 10
+  }
+}
