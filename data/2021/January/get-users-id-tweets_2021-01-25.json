@@ -1,0 +1,260 @@
+{
+  "data": [
+    {
+      "created_at": "2021-01-25T14:23:37.000Z",
+      "possibly_sensitive": false,
+      "id": "1353710116470624258",
+      "source": "TweetDeck",
+      "conversation_id": "1353710116470624258",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "† Fatalpulse † しかかたん（え？）",
+      "reply_settings": "everyone",
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-01-25T14:22:35.000Z",
+      "possibly_sensitive": false,
+      "id": "1353709855945547776",
+      "source": "TweetDeck",
+      "conversation_id": "1353709855945547776",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "えっち画像生成みて2021年のトレンドは四肢欠損かァ～～～つってる，朝凪の登場を待ちますけど…………",
+      "reply_settings": "everyone",
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-01-25T13:50:00.000Z",
+      "possibly_sensitive": false,
+      "id": "1353701659646418946",
+      "source": "TweetDeck",
+      "conversation_id": "1353701659646418946",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "JSONを編集して次の関数の引数に渡したいんすけど，その編集をどうにかGUIでできないか，言い換えればユーザからプレーンテキストの入力なしに手続きをJSのコード化出来ないだろうか？というのを考えています（無理っぽい）",
+      "reply_settings": "everyone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        }
+      ],
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-01-25T10:49:17.000Z",
+      "possibly_sensitive": false,
+      "id": "1353656179960934400",
+      "source": "TweetDeck",
+      "conversation_id": "1353656179960934400",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "仕様が爆発して半年以上死んでいたのにも関わらず，ここに来て爆縮してしまった（？）",
+      "reply_settings": "everyone",
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-01-25T04:58:21.000Z",
+      "possibly_sensitive": false,
+      "id": "1353567863882215426",
+      "source": "Twitter for iPad",
+      "conversation_id": "1353567863882215426",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "別に我慢できるんだけど、我慢の閾値を間違えた時に死が跳ね返ってくるのでできるだけ我慢しないほうがいいんだよな、自分の命でギャンブリングしとうない",
+      "reply_settings": "everyone",
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-01-25T03:09:12.000Z",
+      "possibly_sensitive": false,
+      "id": "1353540397339979782",
+      "entities": {
+        "annotations": [
+          {
+            "start": 6,
+            "end": 9,
+            "probability": 0.7068,
+            "type": "Person",
+            "normalized_text": "松井優征"
+          }
+        ]
+      },
+      "source": "Twitter for iPad",
+      "conversation_id": "1353540397339979782",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "2021年は松井優征が居るから辛うじて生き延びる感じになってきたな………そしてアンデラ、カラー枠ということはマジに結果を出す運命しか残されてないわゾ……………",
+      "reply_settings": "everyone",
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-01-25T02:37:07.000Z",
+      "possibly_sensitive": false,
+      "id": "1353532319441637376",
+      "in_reply_to_user_id": "707346268821913600",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1353385434022174720",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1353385434022174720"
+        }
+      ],
+      "text": "生還したけど原因不明のまま痛みは消えて違和感だけが残った回(帰宅しました)",
+      "reply_settings": "everyone",
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-01-24T16:53:26.000Z",
+      "possibly_sensitive": false,
+      "id": "1353385434022174720",
+      "source": "Twitter for iPad",
+      "conversation_id": "1353385434022174720",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "終わった、無理です、夜間叩きます",
+      "reply_settings": "everyone",
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-01-24T15:01:17.000Z",
+      "possibly_sensitive": false,
+      "id": "1353357210135486466",
+      "source": "contributter",
+      "conversation_id": "1353357210135486466",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "Ningensei848 さんの 2021/01/24 の contribution 数: 1\n #contributter_report",
+      "reply_settings": "everyone",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "author_id": "707346268821913600"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "url": "https://t.co/KBXT0N3eAa",
+        "pinned_tweet_id": "1345020610875777024",
+        "name": "きあい🌔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "description": "やる：電気工事士2種＆応用情報技術者試験，つくる：検索しやすいSPARQLのサービス",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "username": "Ningensei848",
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 988,
+          "tweet_count": 58139,
+          "listed_count": 22
+        },
+        "protected": false,
+        "id": "707346268821913600",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "location": "山梨県→茨城県つくば市",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "created_at": "2021-01-24T16:53:26.000Z",
+        "possibly_sensitive": false,
+        "id": "1353385434022174720",
+        "source": "Twitter for iPad",
+        "conversation_id": "1353385434022174720",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "text": "終わった、無理です、夜間叩きます",
+        "reply_settings": "everyone",
+        "author_id": "707346268821913600"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1353357210135486466",
+    "newest_id": "1353710116470624258",
+    "result_count": 9
+  }
+}
