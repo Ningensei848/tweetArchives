@@ -1,0 +1,880 @@
+{
+  "data": [
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1354030775193137153",
+      "conversation_id": "1354030775193137153",
+      "possibly_sensitive": false,
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 9,
+            "probability": 0.7709,
+            "type": "Person",
+            "normalized_text": "traefik くん"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "traefik くん完全に理解した",
+      "source": "TweetDeck",
+      "created_at": "2021-01-26T11:37:48.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1353966192701050880",
+      "conversation_id": "1353965292670513152",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1353965292670513152"
+        }
+      ],
+      "possibly_sensitive": false,
+      "in_reply_to_user_id": "707346268821913600",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "権威ある誰かに認められて初めて独創性が生じるのか，はたまた定性的定量的な指標があるのか（この辺はもしかすると意匠審査官とかそういう資格でもって示せるのかな）",
+      "source": "TweetDeck",
+      "created_at": "2021-01-26T07:21:10.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1353965292670513152",
+      "conversation_id": "1353965292670513152",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "今回の面談は，個人としては完全に失敗で終わったのだけれど，先方の「君の言う独創性とは何を指しているのか？」というコメントにはシビレましたね……咄嗟に「検索しても出てこないこと」と答えたけど，そこには検索能力について暗黙の前提がある",
+      "source": "TweetDeck",
+      "created_at": "2021-01-26T07:17:35.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1353961227983089665",
+      "conversation_id": "1353961227983089665",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "もうなんか電気工事士をガチって副業でウェッブとオープンデータやればいい気がしてきたな",
+      "source": "TweetDeck",
+      "created_at": "2021-01-26T07:01:26.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1353960314446901249",
+      "conversation_id": "1353960314446901249",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "まぁ相対的に同郷の彼の株を上げたわけだし慈善",
+      "source": "TweetDeck",
+      "created_at": "2021-01-26T06:57:48.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1353959999660167168",
+      "conversation_id": "1353959999660167168",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "最低限，「自分の長所と短所」「専門領域」「人と協力して成し遂げたこと（他そういう系のエピソード）」というのを話せるようにしないと駄目っぽい",
+      "source": "TweetDeck",
+      "created_at": "2021-01-26T06:56:33.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1353959328772886530",
+      "conversation_id": "1353957933369806848",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1353957933369806848"
+        }
+      ],
+      "possibly_sensitive": false,
+      "in_reply_to_user_id": "707346268821913600",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "唐突な質問への瞬発力が鍛えられていいね（よくない）",
+      "source": "TweetDeck",
+      "created_at": "2021-01-26T06:53:53.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 5,
+        "quote_count": 0
+      },
+      "id": "1353957933369806848",
+      "conversation_id": "1353957933369806848",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10045225402",
+            "name": "Twitter"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "teamsで面談しながら twitter，背徳",
+      "source": "TweetDeck",
+      "created_at": "2021-01-26T06:48:21.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1353957351154274304",
+      "conversation_id": "1353957351154274304",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847544972781826048",
+            "name": "Careers",
+            "description": "Careers"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "850073441055133696",
+            "name": "Job search",
+            "description": "Job search"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "就活，無理っぽいしﾍﾄﾞﾊﾝ街姿勢",
+      "source": "TweetDeck",
+      "created_at": "2021-01-26T06:46:02.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1353956883078410240",
+      "conversation_id": "1353956883078410240",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "もっとラフな感じかと思ったらガチで草(面接でボコられています)",
+      "source": "Twitter for iPad",
+      "created_at": "2021-01-26T06:44:10.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1353945144362295296",
+      "conversation_id": "1353945144362295296",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "やる気のなさ、確実に食ってないことが原因なんだけど、満たされるまで食うとそのあと腹痛でやる気は消しとばされるため、詰み",
+      "source": "Twitter for iPhone",
+      "created_at": "2021-01-26T05:57:32.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1353929622682001408",
+      "conversation_id": "1353929622682001408",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "午後に予定があると午前の段階から精神摩耗するやつやってるけど",
+      "source": "Twitter for iPad",
+      "created_at": "2021-01-26T04:55:51.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1353926223567568896",
+      "conversation_id": "1353926223567568896",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "こういうときに決断するの良くない！！！！！！！！！！！！！黙って黙ります",
+      "source": "Twitter for iPhone",
+      "created_at": "2021-01-26T04:42:21.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1353926106663907329",
+      "conversation_id": "1353926106663907329",
+      "possibly_sensitive": false,
+      "entities": {
+        "annotations": [
+          {
+            "start": 25,
+            "end": 30,
+            "probability": 0.4318,
+            "type": "Organization",
+            "normalized_text": "weeeek"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "腹の終わりとともに体調とメンタルが終わってしまったweeeekですね",
+      "source": "Twitter for iPhone",
+      "created_at": "2021-01-26T04:41:53.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1353911582925836288",
+      "conversation_id": "1353911582925836288",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "exploit させたくないけど jsのテキストを受け入れて実行させたい，という需要が世間に無さすぎてア",
+      "source": "TweetDeck",
+      "created_at": "2021-01-26T03:44:10.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1353910645574557696",
+      "conversation_id": "1353909962976583682",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1353909962976583682"
+        }
+      ],
+      "possibly_sensitive": false,
+      "in_reply_to_user_id": "707346268821913600",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "例えば実行時間制限とか，メモリ制限やら通信制限をかけられればある程度防止出来る気がするんだけど，それをjsのプロセス内部でやるのどうやるんや……？の気持ちです",
+      "source": "TweetDeck",
+      "created_at": "2021-01-26T03:40:27.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1353909962976583682",
+      "conversation_id": "1353909962976583682",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "例えばユーザが入力したJSスクリプトをサーバ側で評価・実行したいというとき，exploit されると困るのでどうにか対策したいんだけど，具体的にどうすればいいのかわからない（ので俺もCTFせねばならんのか……？）",
+      "source": "TweetDeck",
+      "created_at": "2021-01-26T03:37:44.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1353908840912195584",
+      "conversation_id": "1353908840912195584",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "AP落ち情報系大学院生，カスなんだよな（自覚）",
+      "source": "TweetDeck",
+      "created_at": "2021-01-26T03:33:16.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1353906433696309249",
+      "conversation_id": "1353904287722598400",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1353904287722598400"
+        }
+      ],
+      "possibly_sensitive": false,
+      "in_reply_to_user_id": "707346268821913600",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "もう一つの柱にしてたAPには落ちるという失態やらかしてるのでギリマイナスがプラスに転じた感じ、やっていきましょう",
+      "source": "Twitter for iPhone",
+      "created_at": "2021-01-26T03:23:42.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 7,
+        "quote_count": 0
+      },
+      "id": "1353904287722598400",
+      "conversation_id": "1353904287722598400",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "無事通知ハガキが届いて、電気工事士二種試験合格できたらしいね💮",
+      "source": "Twitter for iPhone",
+      "created_at": "2021-01-26T03:15:11.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1353894725107912704",
+      "entities": {
+        "urls": [
+          {
+            "start": 50,
+            "end": 73,
+            "url": "https://t.co/QP3ECdzUFy",
+            "expanded_url": "https://www.yamanashishi-kankou.com/nature/%E5%B8%AF%E9%82%A3%E5%B1%B1/",
+            "display_url": "yamanashishi-kankou.com/nature/%E5%B8%…",
+            "status": 200,
+            "title": "帯那山｜山梨市観光協会",
+            "description": "山梨市おすすめのモデルコース＆スポットをはじめ、イベント情報、観光・体験施設、グルメ、お土産など、山梨の旅に役立つ情報を紹介します！",
+            "unwound_url": "https://www.yamanashishi-kankou.com/nature/%E5%B8%AF%E9%82%A3%E5%B1%B1/"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 16,
+            "end": 19,
+            "probability": 0.5263,
+            "type": "Place",
+            "normalized_text": "乙女高原"
+          }
+        ]
+      },
+      "conversation_id": "1353894725107912704",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "ただの貯水湖に富士山景と帯那山、乙女高原というロケーションが組み合わさると世界一になるのイイわね\n\nhttps://t.co/QP3ECdzUFy",
+      "source": "Twitter for iPad",
+      "created_at": "2021-01-26T02:37:11.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 13,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1353892201378406400",
+      "conversation_id": "1353892201378406400",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1353888799638474753"
+        }
+      ],
+      "possibly_sensitive": false,
+      "entities": {
+        "annotations": [
+          {
+            "start": 20,
+            "end": 29,
+            "probability": 0.2279,
+            "type": "Place",
+            "normalized_text": "山梨市牧丘町・乙女湖"
+          },
+          {
+            "start": 40,
+            "end": 44,
+            "probability": 0.2692,
+            "type": "Other",
+            "normalized_text": "ホトリニテ"
+          },
+          {
+            "start": 94,
+            "end": 100,
+            "probability": 0.7248,
+            "type": "Person",
+            "normalized_text": "ホトリニテさん"
+          },
+          {
+            "start": 102,
+            "end": 108,
+            "probability": 0.5092,
+            "type": "Product",
+            "normalized_text": "Twitter"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "yamanashikanko"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10045225402",
+            "name": "Twitter"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10041893684",
+            "name": "Instagram"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "RT @yamanashikanko: 山梨市牧丘町・乙女湖のホトリに佇むお宿『ホトリニテ』さんがＬＴＧグローバルアワードで世界一👑を受賞せれました😊✨おめでとうございます‼️‼️\n\nホトリニテさんのTwitterやInstagramで写真を見るだけでも癒されます＊",
+      "source": "Twitter for iPad",
+      "created_at": "2021-01-26T02:27:09.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "id": "1353719604925902852",
+      "conversation_id": "1353719604925902852",
+      "possibly_sensitive": false,
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "Ningensei848 さんの 2021/01/25 の contribution 数: 0\n #contributter_report",
+      "source": "contributter",
+      "created_at": "2021-01-25T15:01:19.000Z"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "location": "山梨県→茨城県つくば市",
+        "protected": false,
+        "pinned_tweet_id": "1345020610875777024",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "username": "Ningensei848",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 988,
+          "tweet_count": 58165,
+          "listed_count": 22
+        },
+        "name": "きあい🌔",
+        "url": "https://t.co/KBXT0N3eAa",
+        "id": "707346268821913600",
+        "verified": false
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1277802995388829698/NdFDBNoZ_normal.jpg",
+        "location": "山梨県山梨市",
+        "protected": false,
+        "pinned_tweet_id": "1353570894593937408",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/40GCseQARO",
+                "expanded_url": "https://www.yamanashishi-kankou.com/",
+                "display_url": "yamanashishi-kankou.com"
+              }
+            ]
+          }
+        },
+        "created_at": "2010-09-09T01:23:38.000Z",
+        "username": "yamanashikanko",
+        "description": "山梨県山梨市の観光情報をつぶやいていきます🍇🍑旅行雑誌・公式HPでは取り上げないようなニュース盛りだくさんで、山梨市の今をお届けします!!⛰",
+        "public_metrics": {
+          "followers_count": 15016,
+          "following_count": 195,
+          "tweet_count": 8825,
+          "listed_count": 223
+        },
+        "name": "山梨市観光協会",
+        "url": "https://t.co/40GCseQARO",
+        "id": "188565199",
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0
+        },
+        "id": "1353965292670513152",
+        "conversation_id": "1353965292670513152",
+        "possibly_sensitive": false,
+        "author_id": "707346268821913600",
+        "reply_settings": "everyone",
+        "text": "今回の面談は，個人としては完全に失敗で終わったのだけれど，先方の「君の言う独創性とは何を指しているのか？」というコメントにはシビレましたね……咄嗟に「検索しても出てこないこと」と答えたけど，そこには検索能力について暗黙の前提がある",
+        "source": "TweetDeck",
+        "created_at": "2021-01-26T07:17:35.000Z"
+      },
+      {
+        "public_metrics": {
+          "retweet_count": 1,
+          "reply_count": 1,
+          "like_count": 5,
+          "quote_count": 0
+        },
+        "id": "1353957933369806848",
+        "conversation_id": "1353957933369806848",
+        "possibly_sensitive": false,
+        "author_id": "707346268821913600",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "Twitter"
+            }
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "teamsで面談しながら twitter，背徳",
+        "source": "TweetDeck",
+        "created_at": "2021-01-26T06:48:21.000Z"
+      },
+      {
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "id": "1353909962976583682",
+        "conversation_id": "1353909962976583682",
+        "possibly_sensitive": false,
+        "author_id": "707346268821913600",
+        "reply_settings": "everyone",
+        "text": "例えばユーザが入力したJSスクリプトをサーバ側で評価・実行したいというとき，exploit されると困るのでどうにか対策したいんだけど，具体的にどうすればいいのかわからない（ので俺もCTFせねばならんのか……？）",
+        "source": "TweetDeck",
+        "created_at": "2021-01-26T03:37:44.000Z"
+      },
+      {
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 7,
+          "quote_count": 0
+        },
+        "id": "1353904287722598400",
+        "conversation_id": "1353904287722598400",
+        "possibly_sensitive": false,
+        "author_id": "707346268821913600",
+        "reply_settings": "everyone",
+        "text": "無事通知ハガキが届いて、電気工事士二種試験合格できたらしいね💮",
+        "source": "Twitter for iPhone",
+        "created_at": "2021-01-26T03:15:11.000Z"
+      },
+      {
+        "public_metrics": {
+          "retweet_count": 13,
+          "reply_count": 0,
+          "like_count": 43,
+          "quote_count": 1
+        },
+        "id": "1353888799638474753",
+        "entities": {
+          "urls": [
+            {
+              "start": 114,
+              "end": 137,
+              "url": "https://t.co/rxdvbaR3uK",
+              "expanded_url": "https://twitter.com/hotorinite2/status/1353835583127183367",
+              "display_url": "twitter.com/hotorinite2/st…"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 0,
+              "end": 9,
+              "probability": 0.2262,
+              "type": "Place",
+              "normalized_text": "山梨市牧丘町・乙女湖"
+            },
+            {
+              "start": 20,
+              "end": 24,
+              "probability": 0.3022,
+              "type": "Other",
+              "normalized_text": "ホトリニテ"
+            },
+            {
+              "start": 74,
+              "end": 80,
+              "probability": 0.7131,
+              "type": "Person",
+              "normalized_text": "ホトリニテさん"
+            },
+            {
+              "start": 82,
+              "end": 88,
+              "probability": 0.5119,
+              "type": "Product",
+              "normalized_text": "Twitter"
+            }
+          ]
+        },
+        "conversation_id": "1353888799638474753",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1353835583127183367"
+          }
+        ],
+        "possibly_sensitive": false,
+        "author_id": "188565199",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "Twitter"
+            }
+          },
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10041893684",
+              "name": "Instagram"
+            }
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "山梨市牧丘町・乙女湖のホトリに佇むお宿『ホトリニテ』さんがＬＴＧグローバルアワードで世界一👑を受賞せれました😊✨おめでとうございます‼️‼️\n\nホトリニテさんのTwitterやInstagramで写真を見るだけでも癒されます＊ https://t.co/rxdvbaR3uK",
+        "source": "Twitter for iPhone",
+        "created_at": "2021-01-26T02:13:38.000Z"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1353719604925902852",
+    "newest_id": "1354030775193137153",
+    "result_count": 23
+  }
+}
