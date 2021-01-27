@@ -1,0 +1,863 @@
+{
+  "data": [
+    {
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "conversation_id": "1354375759201136642",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1346901380292775936",
+            "name": "Jujutsu Kaisen"
+          }
+        }
+      ],
+      "text": "呪術二次創作、天国と地獄の落差激し過ぎてアレルギー反応出たけど",
+      "created_at": "2021-01-27T10:28:38.000Z",
+      "id": "1354375759201136642"
+    },
+    {
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "conversation_id": "1354350964015210500",
+      "attachments": {
+        "media_keys": [
+          "3_1354084780212711425"
+        ]
+      },
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 17,
+            "end": 40,
+            "url": "https://t.co/lErIilk7nW",
+            "expanded_url": "https://twitter.com/imaitetsuya/status/1354084783542972427/photo/1",
+            "display_url": "pic.twitter.com/lErIilk7nW"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "imaitetsuya"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 68,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1354084783542972427"
+        }
+      ],
+      "text": "RT @imaitetsuya: https://t.co/lErIilk7nW",
+      "created_at": "2021-01-27T08:50:07.000Z",
+      "id": "1354350964015210500"
+    },
+    {
+      "source": "TweetDeck",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "conversation_id": "1354350311616376837",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "docker便利だけどプロキシ下だったり共有サーバだったりに入ったときに途端に狂気の器になるから嫌い，リーダーシップ取れる人が管理せんとゴミなる",
+      "created_at": "2021-01-27T08:47:31.000Z",
+      "id": "1354350311616376837"
+    },
+    {
+      "source": "TweetDeck",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "conversation_id": "1354349975065354240",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "node_modules のキャッシュ効いてるはずなのにバカ遅いなぁと思ったらマルチステージで握り潰してた回（アホ）",
+      "created_at": "2021-01-27T08:46:11.000Z",
+      "id": "1354349975065354240"
+    },
+    {
+      "source": "TweetDeck",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "conversation_id": "1354341368324186115",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "けんきうと向き合うときが近づいている，うん",
+      "created_at": "2021-01-27T08:11:59.000Z",
+      "id": "1354341368324186115",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.5021,
+            "type": "Person",
+            "normalized_text": "けんきう"
+          }
+        ]
+      }
+    },
+    {
+      "source": "TweetDeck",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "conversation_id": "1354340768719101957",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "しうかつの人事視点で見たときに，本名で検索すると一発でユニークツモるのでマジやめたいね，社会",
+      "created_at": "2021-01-27T08:09:36.000Z",
+      "id": "1354340768719101957"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "conversation_id": "1354334769631227904",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "903303816698671104",
+            "name": "Wellness and health",
+            "description": "Wellness & Health"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "918538775055048704",
+            "name": "Physical Wellness",
+            "description": "Physical Wellness"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "920390208708788225",
+            "name": "Working Out",
+            "description": "Working Out"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "872553326499422208",
+            "name": "Fitness",
+            "description": "Fitness"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "872554146750017536",
+            "name": "Exercises",
+            "description": "Exercises"
+          }
+        }
+      ],
+      "text": "なんかマジでもう運動しないと死ぬ感じになってきたし運動する、けどやっぱり耳が寂しい😞\n(無線イヤホンがない貧民)",
+      "created_at": "2021-01-27T07:45:46.000Z",
+      "id": "1354334769631227904"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "conversation_id": "1354325142201987073",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "面白そう以外の価値がなさそうという直感、おおよそ正しいっぽい(3m以内の人間関係で満足出来ない人のための場ではないかという推測)",
+      "created_at": "2021-01-27T07:07:30.000Z",
+      "id": "1354325142201987073"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "conversation_id": "1354317785569009667",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10052312868",
+            "name": "ゆるキャン△"
+          }
+        },
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1296310920889606144",
+            "name": "Laid-Back Camp"
+          }
+        }
+      ],
+      "text": "ゆるキャン(冬季雪上キャンプ)",
+      "created_at": "2021-01-27T06:38:16.000Z",
+      "id": "1354317785569009667"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "conversation_id": "1354317665263738880",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 2748,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1353996955609747456"
+        }
+      ],
+      "text": "RT @hito_horobe: ゆるキャンでエロやるために雪山で矛盾脱衣させる発想、倫理観なさすぎてすごい",
+      "created_at": "2021-01-27T06:37:48.000Z",
+      "id": "1354317665263738880",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "hito_horobe"
+          }
+        ]
+      }
+    },
+    {
+      "source": "Twitter Web App",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "conversation_id": "1354104778310049794",
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 49,
+            "end": 72,
+            "url": "https://t.co/IqbbExse2A",
+            "expanded_url": "https://takahiro0914.hatenablog.com/entry/2019/04/24/174541",
+            "display_url": "takahiro0914.hatenablog.com/entry/2019/04/…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1354104779312484352/kGeYXQdN?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1354104779312484352/kGeYXQdN?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Git Submoduleを使うと，.gitがディレクトリじゃなくなる - それでも気分は高専生",
+            "description": "やっていたこと あるアプリケーションをDockerで動くようにDockerfile，およびローカル実行のためのdocker-compose.ymlを書いていた． ビルド時にアプリケーションをイメージに含めたいので，サブディレクトリにアプリケーションのリポジトリをサブモジュールとして置いた． 実行時はこんな手順で手軽にで…",
+            "unwound_url": "https://takahiro0914.hatenablog.com/entry/2019/04/24/174541"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "Git Submoduleを使うと，.gitがディレクトリじゃなくなる - それでも気分は高専生 https://t.co/IqbbExse2A \n\nこれと完全に同じの踏んだ，どうにかならんのかな",
+      "created_at": "2021-01-26T16:31:51.000Z",
+      "id": "1354104778310049794"
+    },
+    {
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "conversation_id": "1345020610875777024",
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 62,
+            "end": 85,
+            "url": "https://t.co/5DDTWIecJA",
+            "expanded_url": "https://twitter.com/ningensei848/status/1354082017181388801",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1354082017181388801"
+        },
+        {
+          "type": "replied_to",
+          "id": "1354088458134958081"
+        }
+      ],
+      "text": "打って変わって火曜日はめっちゃ進捗がありサイコーになった日\nしうかつ対策もして社会をやっていかねばならんなどと感じた日…… https://t.co/5DDTWIecJA",
+      "created_at": "2021-01-26T15:28:05.000Z",
+      "id": "1354088729866977280",
+      "in_reply_to_user_id": "707346268821913600"
+    },
+    {
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "conversation_id": "1345020610875777024",
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 45,
+            "end": 68,
+            "url": "https://t.co/Hus4TD6xCw",
+            "expanded_url": "https://twitter.com/ningensei848/status/1353719604925902852",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1353719604925902852"
+        },
+        {
+          "type": "replied_to",
+          "id": "1354088136704483329"
+        }
+      ],
+      "text": "しかし月曜朝にかけて謎の腹痛に倒れる、新年初の完全コミット無し人権無しデー(致し方無し) https://t.co/Hus4TD6xCw",
+      "created_at": "2021-01-26T15:27:00.000Z",
+      "id": "1354088458134958081",
+      "in_reply_to_user_id": "707346268821913600"
+    },
+    {
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "conversation_id": "1345020610875777024",
+      "author_id": "707346268821913600",
+      "entities": {
+        "urls": [
+          {
+            "start": 26,
+            "end": 49,
+            "url": "https://t.co/Bqo7IJ8Bxx",
+            "expanded_url": "https://twitter.com/ningensei848/status/1353357210135486466",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1353357210135486466"
+        },
+        {
+          "type": "replied_to",
+          "id": "1353134472498057216"
+        }
+      ],
+      "text": "メンタルはボロボロだけどギリギリコミット出来てた日 https://t.co/Bqo7IJ8Bxx",
+      "created_at": "2021-01-26T15:25:44.000Z",
+      "id": "1354088136704483329",
+      "in_reply_to_user_id": "707346268821913600"
+    },
+    {
+      "source": "contributter",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "conversation_id": "1354082017181388801",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "text": "Ningensei848 さんの 2021/01/26 の contribution 数: 9\n #contributter_report",
+      "created_at": "2021-01-26T15:01:25.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "id": "1354082017181388801"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "url": "https://t.co/KBXT0N3eAa",
+        "username": "Ningensei848",
+        "location": "山梨県→茨城県つくば市",
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 988,
+          "tweet_count": 58179,
+          "listed_count": 22
+        },
+        "verified": false,
+        "pinned_tweet_id": "1345020610875777024",
+        "protected": false,
+        "name": "きあい🌕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "id": "707346268821913600",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "created_at": "2016-03-08T23:24:27.000Z"
+      },
+      {
+        "url": "https://t.co/m5KOszYRXs",
+        "username": "imaitetsuya",
+        "location": "東京都新宿区",
+        "public_metrics": {
+          "followers_count": 20195,
+          "following_count": 4710,
+          "tweet_count": 58312,
+          "listed_count": 833
+        },
+        "verified": false,
+        "pinned_tweet_id": "947123475533111297",
+        "protected": false,
+        "name": "今井哲也",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/871688108743434244/3XC-wNEX_normal.jpg",
+        "id": "66159353",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/m5KOszYRXs",
+                "expanded_url": "http://bobyuka.sakura.ne.jp/",
+                "display_url": "bobyuka.sakura.ne.jp"
+              }
+            ]
+          }
+        },
+        "description": "おいしい",
+        "created_at": "2009-08-16T18:05:25.000Z"
+      },
+      {
+        "url": "",
+        "username": "hito_horobe",
+        "public_metrics": {
+          "followers_count": 4478,
+          "following_count": 3346,
+          "tweet_count": 17375,
+          "listed_count": 45
+        },
+        "verified": false,
+        "pinned_tweet_id": "1255140132321030145",
+        "protected": false,
+        "name": "hito_horobe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/881066106382766080/XsnR-GUF_normal.jpg",
+        "id": "881058671303704576",
+        "description": "ロボット、倫理、SF、電子工作、めし、廃墟、治安が悪い風景などに関心があります VRChat ID→hito_horobe",
+        "created_at": "2017-07-01T07:55:31.000Z"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/Esqs7vBXcAE1SYl.jpg",
+        "type": "photo",
+        "width": 1080,
+        "height": 2220,
+        "media_key": "3_1354084780212711425"
+      }
+    ],
+    "tweets": [
+      {
+        "source": "Twitter for Android",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "conversation_id": "1354084783542972427",
+        "attachments": {
+          "media_keys": [
+            "3_1354084780212711425"
+          ]
+        },
+        "author_id": "66159353",
+        "entities": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/lErIilk7nW",
+              "expanded_url": "https://twitter.com/imaitetsuya/status/1354084783542972427/photo/1",
+              "display_url": "pic.twitter.com/lErIilk7nW"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 68,
+          "reply_count": 1,
+          "like_count": 190,
+          "quote_count": 0
+        },
+        "text": "https://t.co/lErIilk7nW",
+        "created_at": "2021-01-26T15:12:24.000Z",
+        "id": "1354084783542972427"
+      },
+      {
+        "source": "TweetDeck",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "conversation_id": "1353996955609747456",
+        "author_id": "881058671303704576",
+        "public_metrics": {
+          "retweet_count": 2748,
+          "reply_count": 18,
+          "like_count": 10456,
+          "quote_count": 45
+        },
+        "text": "ゆるキャンでエロやるために雪山で矛盾脱衣させる発想、倫理観なさすぎてすごい",
+        "created_at": "2021-01-26T09:23:24.000Z",
+        "id": "1353996955609747456"
+      },
+      {
+        "source": "contributter",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "conversation_id": "1354082017181388801",
+        "author_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "text": "Ningensei848 さんの 2021/01/26 の contribution 数: 9\n #contributter_report",
+        "created_at": "2021-01-26T15:01:25.000Z",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        },
+        "id": "1354082017181388801"
+      },
+      {
+        "source": "Twitter for iPad",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "conversation_id": "1345020610875777024",
+        "author_id": "707346268821913600",
+        "entities": {
+          "urls": [
+            {
+              "start": 45,
+              "end": 68,
+              "url": "https://t.co/Hus4TD6xCw",
+              "expanded_url": "https://twitter.com/ningensei848/status/1353719604925902852",
+              "display_url": "twitter.com/ningensei848/s…"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1353719604925902852"
+          },
+          {
+            "type": "replied_to",
+            "id": "1354088136704483329"
+          }
+        ],
+        "text": "しかし月曜朝にかけて謎の腹痛に倒れる、新年初の完全コミット無し人権無しデー(致し方無し) https://t.co/Hus4TD6xCw",
+        "created_at": "2021-01-26T15:27:00.000Z",
+        "id": "1354088458134958081",
+        "in_reply_to_user_id": "707346268821913600"
+      },
+      {
+        "source": "contributter",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "conversation_id": "1353719604925902852",
+        "author_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "text": "Ningensei848 さんの 2021/01/25 の contribution 数: 0\n #contributter_report",
+        "created_at": "2021-01-25T15:01:19.000Z",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        },
+        "id": "1353719604925902852"
+      },
+      {
+        "source": "Twitter for iPad",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "conversation_id": "1345020610875777024",
+        "author_id": "707346268821913600",
+        "entities": {
+          "urls": [
+            {
+              "start": 26,
+              "end": 49,
+              "url": "https://t.co/Bqo7IJ8Bxx",
+              "expanded_url": "https://twitter.com/ningensei848/status/1353357210135486466",
+              "display_url": "twitter.com/ningensei848/s…"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1353357210135486466"
+          },
+          {
+            "type": "replied_to",
+            "id": "1353134472498057216"
+          }
+        ],
+        "text": "メンタルはボロボロだけどギリギリコミット出来てた日 https://t.co/Bqo7IJ8Bxx",
+        "created_at": "2021-01-26T15:25:44.000Z",
+        "id": "1354088136704483329",
+        "in_reply_to_user_id": "707346268821913600"
+      },
+      {
+        "source": "contributter",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "conversation_id": "1353357210135486466",
+        "author_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "text": "Ningensei848 さんの 2021/01/24 の contribution 数: 1\n #contributter_report",
+        "created_at": "2021-01-24T15:01:17.000Z",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        },
+        "id": "1353357210135486466"
+      },
+      {
+        "source": "Twitter for iPhone",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "conversation_id": "1345020610875777024",
+        "author_id": "707346268821913600",
+        "entities": {
+          "urls": [
+            {
+              "start": 46,
+              "end": 69,
+              "url": "https://t.co/y6LkmD1G2l",
+              "expanded_url": "https://twitter.com/ningensei848/status/1352994837902065665",
+              "display_url": "twitter.com/ningensei848/s…"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1352994837902065665"
+          },
+          {
+            "type": "replied_to",
+            "id": "1352730063746174976"
+          }
+        ],
+        "text": "またやっちまった！ローカルにはコミットログあるはずなのであとから草が生えてくるかと思います https://t.co/y6LkmD1G2l",
+        "created_at": "2021-01-24T00:16:12.000Z",
+        "id": "1353134472498057216",
+        "in_reply_to_user_id": "707346268821913600"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1354082017181388801",
+    "newest_id": "1354375759201136642",
+    "result_count": 15
+  }
+}
