@@ -1,0 +1,1085 @@
+{
+  "data": [
+    {
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-28T14:29:13.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "流血鬼（SF短編）\nhttps://t.co/XRkSRZz9ZB \n\nタイトルが秀逸すぎる",
+      "entities": {
+        "urls": [
+          {
+            "start": 10,
+            "end": 33,
+            "url": "https://t.co/XRkSRZz9ZB",
+            "expanded_url": "https://dorachan.tameshiyo.me/WIN2021O",
+            "display_url": "dorachan.tameshiyo.me/WIN2021O",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1354600089612820486/-LNzwDrz?format=jpg&name=orig",
+                "width": 828,
+                "height": 1200
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1354600089612820486/-LNzwDrz?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "流血鬼（SF短編）",
+            "unwound_url": "https://dorachan.tameshiyo.me/WIN2021O"
+          }
+        ]
+      },
+      "conversation_id": "1354798689252859905",
+      "source": "Twitter Web App",
+      "id": "1354798689252859905"
+    },
+    {
+      "possibly_sensitive": false,
+      "entities": {
+        "annotations": [
+          {
+            "start": 13,
+            "end": 19,
+            "probability": 0.8238,
+            "type": "Other",
+            "normalized_text": "ファイトクラブ"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "834828264786898945",
+            "name": "Drinks",
+            "description": "Drinks"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "867371273248047104",
+            "name": "Drink Novelty",
+            "description": "Drink Novelty"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "847861743699099649",
+            "name": "Nightlife",
+            "description": "Bars and nightlife"
+          }
+        }
+      ],
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-28T13:46:10.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "そろそろ『セッション』と『ファイトクラブ』を観る時期が近づいて来た気がする",
+      "conversation_id": "1354787856959475716",
+      "source": "TweetDeck",
+      "id": "1354787856959475716"
+    },
+    {
+      "possibly_sensitive": false,
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 4,
+            "probability": 0.5708,
+            "type": "Product",
+            "normalized_text": "nginx"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-28T13:40:23.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "nginxの末尾スラッシュつけると表示できて消すと80番にリダイレクトされる現象，どうにもならないので誰かご存知だったら助けて",
+      "conversation_id": "1354786403180105739",
+      "source": "TweetDeck",
+      "id": "1354786403180105739"
+    },
+    {
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "world_nabechan"
+          }
+        ]
+      },
+      "created_at": "2021-01-28T09:51:57.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1354724509157216259"
+        }
+      ],
+      "text": "@world_nabechan 救っていこう，世界を",
+      "conversation_id": "1354712462973493251",
+      "in_reply_to_user_id": "1242056558051086336",
+      "source": "TweetDeck",
+      "id": "1354728915818881028"
+    },
+    {
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-28T09:01:16.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "あるソフトのリポジトリが絶賛開発中なんだけど，それをフォークして手元に置きたいという欲求があり，しかしそのフォークも最新版のものと同期したい\n\nこういう場合はどうするのがいいんだろ（Actionを使うしかない？）",
+      "conversation_id": "1354716161061998599",
+      "source": "TweetDeck",
+      "id": "1354716161061998599"
+    },
+    {
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-28T08:47:30.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "尋常じゃない痛みがあったらそれは病院だし尋常じゃない痛みがなくても病院だよ，放置すると人はすぐ死ぬ",
+      "conversation_id": "1354712696747216901",
+      "source": "TweetDeck",
+      "id": "1354712696747216901"
+    },
+    {
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-28T08:46:35.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "悩みがあればスノボに駆ける生活したいです",
+      "conversation_id": "1354712462973493251",
+      "source": "TweetDeck",
+      "id": "1354712462973493251"
+    },
+    {
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-28T08:15:24.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "絶対に間違わない・間違えないやり方でしか手続きを踏めないようにするためには………",
+      "conversation_id": "1354704614856171520",
+      "source": "TweetDeck",
+      "id": "1354704614856171520"
+    },
+    {
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-28T08:14:50.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "しょうもないミスで午後が溶けたけど，ほんとに自分の手続きの正当性を確かめるには自分が時間を掛けるしかないのどうにかしたいね，これこそ技術で解決すべきことでしょう",
+      "conversation_id": "1354704473738756105",
+      "source": "TweetDeck",
+      "id": "1354704473738756105"
+    },
+    {
+      "possibly_sensitive": false,
+      "entities": {
+        "annotations": [
+          {
+            "start": 31,
+            "end": 35,
+            "probability": 0.7159,
+            "type": "Person",
+            "normalized_text": "ｶｯｽくん"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-28T06:18:54.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "支払いは全てrevolutに集約したい気持ちがあるが、今まではｶｯｽくんが間に挟まってた所をどうにか代替してくれるやつあるのん？",
+      "conversation_id": "1354675298164301828",
+      "source": "Twitter for iPhone",
+      "id": "1354675298164301828"
+    },
+    {
+      "possibly_sensitive": false,
+      "entities": {
+        "annotations": [
+          {
+            "start": 73,
+            "end": 77,
+            "probability": 0.366,
+            "type": "Organization",
+            "normalized_text": "Kyash"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "kyashjp"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-28T06:11:29.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 93,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1352872194632683521"
+        }
+      ],
+      "text": "RT @kyashjp: 【🎉おかげさまで6周年🎉】\nいつもKyashをご利用いただき誠にありがとうございます！\n本日1月23日をもちまして、Kyashは創業6周年を迎えました🔥\n沢山のお客様にご利用いただき、この日を迎えることができましたことを、心よりお礼申し上げます🙏✨\n今…",
+      "conversation_id": "1354673432969940992",
+      "source": "Twitter for iPhone",
+      "id": "1354673432969940992"
+    },
+    {
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-28T05:48:08.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "いや外雪でワロタ",
+      "conversation_id": "1354667555244261378",
+      "source": "Twitter for iPhone",
+      "id": "1354667555244261378"
+    },
+    {
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-28T02:43:38.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "apacheなんもわからんけど……",
+      "conversation_id": "1354621125343334401",
+      "source": "TweetDeck",
+      "id": "1354621125343334401"
+    },
+    {
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-28T02:42:42.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "人類，プロキシ下のリバースプロキシやら多段プロキシについていつどのように学ぶのか",
+      "conversation_id": "1354620890818863110",
+      "source": "TweetDeck",
+      "id": "1354620890818863110"
+    },
+    {
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-28T00:34:10.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1354444420582617090"
+        },
+        {
+          "type": "replied_to",
+          "id": "1354088729866977280"
+        }
+      ],
+      "text": "Apacheわからんすぎてダメだったけどコミットはした、よし https://t.co/vO7d2C4Lq9",
+      "entities": {
+        "urls": [
+          {
+            "start": 31,
+            "end": 54,
+            "url": "https://t.co/vO7d2C4Lq9",
+            "expanded_url": "https://twitter.com/ningensei848/status/1354444420582617090",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      },
+      "conversation_id": "1345020610875777024",
+      "in_reply_to_user_id": "707346268821913600",
+      "source": "Twitter for iPhone",
+      "id": "1354588542366699522"
+    },
+    {
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1070721107232153602",
+            "name": "Mie Sonozaki",
+            "description": "Japanese actress"
+          }
+        },
+        {
+          "domain": {
+            "id": "56",
+            "name": "Actor",
+            "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+          },
+          "entity": {
+            "id": "1070721107232153602",
+            "name": "Mie Sonozaki",
+            "description": "Japanese actress"
+          }
+        }
+      ],
+      "author_id": "707346268821913600",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "Sonozaki_mie"
+          }
+        ]
+      },
+      "created_at": "2021-01-27T15:35:56.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 41792,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1354271651664281608"
+        }
+      ],
+      "text": "RT @Sonozaki_mie: そういえば対応してくれた某量販店の店員さんに教えてもらったんだけど、SIMロック解除とかで端末のシリアル番号必要な時、Webであっちこっち探したり端末開けたり色々手間じゃん？でもね通話のキーパッドで\n＊#06#\nて打つだけでその端末のシリアル…",
+      "conversation_id": "1354453092993929217",
+      "source": "Twitter for iPhone",
+      "id": "1354453092993929217"
+    },
+    {
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1070721107232153602",
+            "name": "Mie Sonozaki",
+            "description": "Japanese actress"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974596706635776",
+            "name": "Retail"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596715024385",
+            "name": "Apparel/Accessories"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "1168966919472345088",
+            "name": "Shimamura "
+          }
+        },
+        {
+          "domain": {
+            "id": "56",
+            "name": "Actor",
+            "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+          },
+          "entity": {
+            "id": "1070721107232153602",
+            "name": "Mie Sonozaki",
+            "description": "Japanese actress"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "825047692124442624",
+            "name": "Food",
+            "description": "Food"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "860133563332648963",
+            "name": "Cuisines",
+            "description": "Cuisines"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "860141411483635712",
+            "name": "Japanese cuisine",
+            "description": "Japanese Cuisine"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "824777229892661248",
+            "name": "Generic Food",
+            "description": "Generic Food"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "842486778841849856",
+            "name": "Pork",
+            "description": "Pork"
+          }
+        }
+      ],
+      "author_id": "707346268821913600",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "Sonozaki_mie"
+          }
+        ]
+      },
+      "created_at": "2021-01-27T15:35:52.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 5144,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1354414641011548169"
+        }
+      ],
+      "text": "RT @Sonozaki_mie: 大事なことを忘れていた。\n\n牛めし松屋\nと\nとんかつ松のや\nの\n店内放送と券売機の声は\nわたしだよ！！！\n\nあとファッションセンターしまむら！！！",
+      "conversation_id": "1354453073947553793",
+      "source": "Twitter for iPhone",
+      "id": "1354453073947553793"
+    },
+    {
+      "possibly_sensitive": false,
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "created_at": "2021-01-27T15:01:28.000Z",
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "text": "Ningensei848 さんの 2021/01/27 の contribution 数: 1\n #contributter_report",
+      "conversation_id": "1354444420582617090",
+      "source": "contributter",
+      "id": "1354444420582617090"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "pinned_tweet_id": "1345020610875777024",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "name": "きあい🌕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "url": "https://t.co/KBXT0N3eAa",
+        "username": "Ningensei848",
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 988,
+          "tweet_count": 58195,
+          "listed_count": 22
+        },
+        "location": "山梨県→茨城県つくば市",
+        "protected": false,
+        "id": "707346268821913600"
+      },
+      {
+        "description": "デジタルバンキングアプリ「Kyash」を提供する株式会社Kyash 公式アカウントです。 #Kyash に関するお問い合わせはこちらから→https://t.co/Q4CjY2Fq6q",
+        "pinned_tweet_id": "1352872194632683521",
+        "created_at": "2015-06-04T16:01:27.000Z",
+        "name": "Kyash - デジタルバンキングアプリ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/2XTR0hbFDc",
+                "expanded_url": "https://kyash.co/",
+                "display_url": "kyash.co"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 69,
+                "end": 92,
+                "url": "https://t.co/Q4CjY2Fq6q",
+                "expanded_url": "https://support.kyash.co/hc/ja/requests/new",
+                "display_url": "support.kyash.co/hc/ja/requests…"
+              }
+            ],
+            "hashtags": [
+              {
+                "start": 45,
+                "end": 51,
+                "tag": "Kyash"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1151748020276350977/MKVNESTK_normal.png",
+        "url": "https://t.co/2XTR0hbFDc",
+        "username": "kyashjp",
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 15442,
+          "following_count": 1,
+          "tweet_count": 3298,
+          "listed_count": 246
+        },
+        "location": "東京都 港区",
+        "protected": false,
+        "id": "3236181434"
+      },
+      {
+        "description": "声とお芝居。本人です。未恵の漢字は未来の恵。日々の蛇足の懐疑諧謔偕楽的雑記。ついった界誤字はご愛嬌。お返事気まぐれ、いいね厨のツイ廃。着物と喫茶店が心の友。カレー愛。中国茶初級茶藝師、温泉ソムリエ、温泉入浴指導員。生トマト無理勢。杉と檜と甲殻類がアレルギー。お仕事お知らせ→ @snzk00A1 固定ツイも見てね。",
+        "pinned_tweet_id": "1345749240547479552",
+        "created_at": "2009-10-07T10:25:02.000Z",
+        "name": "園 崎 未 恵＊ThisIsUs4/ワールドトリガー2/sk∞/WW発進しますっ！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/DG4sJRUx0B",
+                "expanded_url": "http://twpf.jp/Sonozaki_mie",
+                "display_url": "twpf.jp/Sonozaki_mie"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 138,
+                "end": 147,
+                "username": "snzk00A1"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1280518475958517760/H9rnuiFP_normal.jpg",
+        "url": "https://t.co/DG4sJRUx0B",
+        "username": "Sonozaki_mie",
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 51852,
+          "following_count": 3487,
+          "tweet_count": 151795,
+          "listed_count": 2871
+        },
+        "location": "松屋・しまむらの天井付近",
+        "protected": false,
+        "id": "80544545"
+      }
+    ],
+    "tweets": [
+      {
+        "possibly_sensitive": false,
+        "entities": {
+          "annotations": [
+            {
+              "start": 60,
+              "end": 64,
+              "probability": 0.3739,
+              "type": "Organization",
+              "normalized_text": "Kyash"
+            }
+          ],
+          "urls": [
+            {
+              "start": 153,
+              "end": 176,
+              "url": "https://t.co/QIJpzYUcY3",
+              "expanded_url": "https://twitter.com/kyashjp/status/1352872194632683521/photo/1",
+              "display_url": "pic.twitter.com/QIJpzYUcY3"
+            }
+          ]
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1352872190891290625"
+          ]
+        },
+        "author_id": "3236181434",
+        "created_at": "2021-01-23T06:54:01.000Z",
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 93,
+          "reply_count": 25,
+          "like_count": 322,
+          "quote_count": 16
+        },
+        "text": "【🎉おかげさまで6周年🎉】\nいつもKyashをご利用いただき誠にありがとうございます！\n本日1月23日をもちまして、Kyashは創業6周年を迎えました🔥\n沢山のお客様にご利用いただき、この日を迎えることができましたことを、心よりお礼申し上げます🙏✨\n今後ともKyashを何卒宜しくお願い申し上げます☺️✨ https://t.co/QIJpzYUcY3",
+        "conversation_id": "1352872194632683521",
+        "source": "Twitter for iPhone",
+        "id": "1352872194632683521"
+      },
+      {
+        "possibly_sensitive": false,
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        },
+        "author_id": "707346268821913600",
+        "created_at": "2021-01-27T15:01:28.000Z",
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "text": "Ningensei848 さんの 2021/01/27 の contribution 数: 1\n #contributter_report",
+        "conversation_id": "1354444420582617090",
+        "source": "contributter",
+        "id": "1354444420582617090"
+      },
+      {
+        "possibly_sensitive": false,
+        "author_id": "707346268821913600",
+        "created_at": "2021-01-26T15:28:05.000Z",
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1354082017181388801"
+          },
+          {
+            "type": "replied_to",
+            "id": "1354088458134958081"
+          }
+        ],
+        "text": "打って変わって火曜日はめっちゃ進捗がありサイコーになった日\nしうかつ対策もして社会をやっていかねばならんなどと感じた日…… https://t.co/5DDTWIecJA",
+        "entities": {
+          "urls": [
+            {
+              "start": 62,
+              "end": 85,
+              "url": "https://t.co/5DDTWIecJA",
+              "expanded_url": "https://twitter.com/ningensei848/status/1354082017181388801",
+              "display_url": "twitter.com/ningensei848/s…"
+            }
+          ]
+        },
+        "conversation_id": "1345020610875777024",
+        "in_reply_to_user_id": "707346268821913600",
+        "source": "Twitter for iPad",
+        "id": "1354088729866977280"
+      },
+      {
+        "possibly_sensitive": false,
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "1070721107232153602",
+              "name": "Mie Sonozaki",
+              "description": "Japanese actress"
+            }
+          },
+          {
+            "domain": {
+              "id": "56",
+              "name": "Actor",
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+            },
+            "entity": {
+              "id": "1070721107232153602",
+              "name": "Mie Sonozaki",
+              "description": "Japanese actress"
+            }
+          }
+        ],
+        "author_id": "80544545",
+        "created_at": "2021-01-27T03:34:57.000Z",
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 41792,
+          "reply_count": 124,
+          "like_count": 164382,
+          "quote_count": 1243
+        },
+        "text": "そういえば対応してくれた某量販店の店員さんに教えてもらったんだけど、SIMロック解除とかで端末のシリアル番号必要な時、Webであっちこっち探したり端末開けたり色々手間じゃん？でもね通話のキーパッドで\n＊#06#\nて打つだけでその端末のシリアル番号がでるねん…。\nどの会社の端末もそうなんやて…",
+        "conversation_id": "1354271651664281608",
+        "source": "Twitter for iPhone",
+        "id": "1354271651664281608"
+      },
+      {
+        "possibly_sensitive": false,
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "1070721107232153602",
+              "name": "Mie Sonozaki",
+              "description": "Japanese actress"
+            }
+          },
+          {
+            "domain": {
+              "id": "45",
+              "name": "Brand Vertical",
+              "description": "Top level entities that describe a Brands industry"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail"
+            }
+          },
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974596715024385",
+              "name": "Apparel/Accessories"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "1168966919472345088",
+              "name": "Shimamura "
+            }
+          },
+          {
+            "domain": {
+              "id": "56",
+              "name": "Actor",
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+            },
+            "entity": {
+              "id": "1070721107232153602",
+              "name": "Mie Sonozaki",
+              "description": "Japanese actress"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "825047692124442624",
+              "name": "Food",
+              "description": "Food"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "860133563332648963",
+              "name": "Cuisines",
+              "description": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "860141411483635712",
+              "name": "Japanese cuisine",
+              "description": "Japanese Cuisine"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "824777229892661248",
+              "name": "Generic Food",
+              "description": "Generic Food"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "842486778841849856",
+              "name": "Pork",
+              "description": "Pork"
+            }
+          }
+        ],
+        "author_id": "80544545",
+        "created_at": "2021-01-27T13:03:08.000Z",
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 5144,
+          "reply_count": 77,
+          "like_count": 12979,
+          "quote_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1354412498707828737"
+          }
+        ],
+        "text": "大事なことを忘れていた。\n\n牛めし松屋\nと\nとんかつ松のや\nの\n店内放送と券売機の声は\nわたしだよ！！！\n\nあとファッションセンターしまむら！！！",
+        "conversation_id": "1354271651664281608",
+        "in_reply_to_user_id": "80544545",
+        "source": "Twitter for iPhone",
+        "id": "1354414641011548169"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "value": "world_nabechan",
+      "parameter": "entities.mentions.username",
+      "resource_type": "user",
+      "section": "includes",
+      "title": "Authorization Error",
+      "detail": "Sorry, you are not authorized to see the user with entities.mentions.username: [world_nabechan].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    },
+    {
+      "value": "1242056558051086336",
+      "parameter": "in_reply_to_user_id",
+      "resource_type": "user",
+      "section": "includes",
+      "title": "Authorization Error",
+      "detail": "Sorry, you are not authorized to see the user with in_reply_to_user_id: [1242056558051086336].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1354724509157216259].",
+      "title": "Not Found Error",
+      "resource_type": "tweet",
+      "parameter": "referenced_tweets.id",
+      "value": "1354724509157216259",
+      "type": "https://api.twitter.com/2/problems/resource-not-found"
+    }
+  ],
+  "meta": {
+    "oldest_id": "1354444420582617090",
+    "newest_id": "1354798689252859905",
+    "result_count": 18
+  }
+}
