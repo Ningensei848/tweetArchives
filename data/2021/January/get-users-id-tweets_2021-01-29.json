@@ -1,0 +1,1139 @@
+{
+  "data": [
+    {
+      "id": "1355161382820306949",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "ヴンダーカンマー、知っている人は知っているけど知らん人からするとインド人が踊り出す文字列",
+      "created_at": "2021-01-29T14:30:26.000Z",
+      "conversation_id": "1355161382820306949",
+      "possibly_sensitive": false
+    },
+    {
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1010244637770985472",
+            "name": "Neon Genesis Evangelion",
+            "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)"
+          }
+        }
+      ],
+      "id": "1355156888229269504",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "エヴァ解釈一致おじさん",
+      "created_at": "2021-01-29T14:12:34.000Z",
+      "conversation_id": "1355156888229269504",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1355155584203411459",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "窓更新したら異様に電池の減りが遅くなっってビビってるけど（早くヘタるようになったのではなく逆に長持ちするようになり謎）",
+      "created_at": "2021-01-29T14:07:23.000Z",
+      "conversation_id": "1355155584203411459",
+      "possibly_sensitive": false
+    },
+    {
+      "entities": {
+        "annotations": [
+          {
+            "start": 26,
+            "end": 46,
+            "probability": 0.461,
+            "type": "Product",
+            "normalized_text": "Dynamic configuration"
+          }
+        ]
+      },
+      "id": "1355048589752295427",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "もしかして：traefikの起動タイミングに酔ってはDynamic configuration が読み込まれない",
+      "created_at": "2021-01-29T07:02:14.000Z",
+      "conversation_id": "1355048589752295427",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1355029769998360579",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "履歴書が必要になったため，見栄を張って「図書館司書（2020年3月 取得）」「ICT支援員能力認定者（2020年度 後期）」「電気工事士二種（免状申請中）」って書いたけど3月末までに「小型船舶免許（特殊・一級）」「危険物取扱者（乙種第4類）」が追加される予定なの相変わらず訳わかんなくて草",
+      "created_at": "2021-01-29T05:47:27.000Z",
+      "conversation_id": "1355029769998360579",
+      "possibly_sensitive": false
+    },
+    {
+      "entities": {
+        "annotations": [
+          {
+            "start": 4,
+            "end": 6,
+            "probability": 0.7677,
+            "type": "Place",
+            "normalized_text": "つくば"
+          }
+        ]
+      },
+      "id": "1355028012392058881",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "ゆるぼ：つくば整体",
+      "created_at": "2021-01-29T05:40:28.000Z",
+      "conversation_id": "1355028012392058881",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1355027969777913859",
+      "in_reply_to_user_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1355027678412242944"
+        }
+      ],
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "視界の水平を保つために，普段から首を傾げて生活しているらしい（たぶん連動して肩もズレており，かなりまずい）",
+      "created_at": "2021-01-29T05:40:17.000Z",
+      "conversation_id": "1355027678412242944",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1355027678412242944",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "体の軸が歪みすぎていて，主観的に見たときの顔面パーツの配置がヤバいんだけど，どうにもならん…………（両目水平であってほしいところ，右目が二段階くらい高いところにある）",
+      "created_at": "2021-01-29T05:39:08.000Z",
+      "conversation_id": "1355027678412242944",
+      "possibly_sensitive": false
+    },
+    {
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692468",
+            "name": "GitHub"
+          }
+        }
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 15,
+            "end": 20,
+            "probability": 0.5812,
+            "type": "Product",
+            "normalized_text": "GitHub"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "shyouhei"
+          }
+        ]
+      },
+      "id": "1354987381246447618",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1354982235003215872"
+        }
+      ],
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 224,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "RT @shyouhei: ×GitHubが悪い、インターネットをやめろ\n○多重請負が悪い、外注をやめろ",
+      "created_at": "2021-01-29T02:59:00.000Z",
+      "conversation_id": "1354987381246447618",
+      "possibly_sensitive": false
+    },
+    {
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847544972781826048",
+            "name": "Careers",
+            "description": "Careers"
+          }
+        }
+      ],
+      "id": "1354955413410643986",
+      "in_reply_to_user_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1354954420715360257"
+        }
+      ],
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "コード解析というよりは単にプロファイルの言語統計ぶっこ抜いてコントリビューション数とかを言語ごとに係数掛けただけっぽいし，年収予測は自己申告の経歴に基づく決定木みたいな感覚だった（まぁこれに飛びつくような人々に対してそこまで厳密にやる必要もないし，夢を見させるほうがUXとして大事）",
+      "created_at": "2021-01-29T00:51:59.000Z",
+      "conversation_id": "1354954420715360257",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1354954420715360257",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "エンジニア偏差値とかいうの算出して年収までみたけど「算出の仕組み」みたいなリンク押したらこの記事が出てきて完全に無理になった（退会した）\nhttps://t.co/yTcDCrUYHC",
+      "created_at": "2021-01-29T00:48:02.000Z",
+      "conversation_id": "1354954420715360257",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 69,
+            "end": 92,
+            "url": "https://t.co/yTcDCrUYHC",
+            "expanded_url": "https://findy-code.io/engineer-lab/skill-deviation-value",
+            "display_url": "findy-code.io/engineer-lab/s…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1354943575847407623/mJIg8WQ1?format=jpg&name=orig",
+                "width": 500,
+                "height": 500
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1354943575847407623/mJIg8WQ1?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Findyの「スキル偏差値」関する今後の改善方針まとめ | Findyブログ",
+            "description": "Findyの「スキル偏差値」を今後どのように改善していくかについてまとめました。",
+            "unwound_url": "https://findy-code.io/engineer-lab/skill-deviation-value"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1354947901596733452",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "ギるって方言なのマジ",
+      "created_at": "2021-01-29T00:22:08.000Z",
+      "conversation_id": "1354947901596733452",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1354947758835159042",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "盗人中心(ｷﾞｯﾄﾊﾌﾞ)",
+      "created_at": "2021-01-29T00:21:34.000Z",
+      "conversation_id": "1354947758835159042",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1354945671783059464",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "てかアラフォーゴミカスおじさんでも300〜400もらえてるんだし、俺でも完全週休4日でそのくらいもらえねぇかな",
+      "created_at": "2021-01-29T00:13:16.000Z",
+      "conversation_id": "1354945671783059464",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1354943706877464576",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "全部貧乏が悪いんだよ！",
+      "created_at": "2021-01-29T00:05:28.000Z",
+      "conversation_id": "1354943706877464576",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1354943647158964229",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "個人が救うのは無理なので自治体単位で政治からエンヤコラするしかない……がそれを政治に要請するのもまた無数の個人………悲しきかな彼らは無益なおじさんにエサをやるほど豊かではない………",
+      "created_at": "2021-01-29T00:05:13.000Z",
+      "conversation_id": "1354943647158964229",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1354943142642950149",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1354835394315997187"
+        }
+      ],
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "起きたらマジでコレになってて草なんすよ、誰の役にも立てない40代借金ネトゲ低収入おじさんをどうやって救えるのか https://t.co/qXZTS1zSse",
+      "created_at": "2021-01-29T00:03:13.000Z",
+      "conversation_id": "1354943142642950149",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 56,
+            "end": 79,
+            "url": "https://t.co/qXZTS1zSse",
+            "expanded_url": "https://twitter.com/ningensei848/status/1354835394315997187",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      }
+    },
+    {
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10045225402",
+            "name": "Twitter"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "834828264786898945",
+            "name": "Drinks",
+            "description": "Drinks"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "834828445238431744",
+            "name": "Generic Drinks",
+            "description": "Generic Drinks"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "850142258871418880",
+            "name": "Beer",
+            "description": "Beer"
+          }
+        }
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 30,
+            "end": 36,
+            "probability": 0.6766,
+            "type": "Product",
+            "normalized_text": "Twitter"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "totori_coms"
+          }
+        ]
+      },
+      "id": "1354941731834273793",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1354864757765939200"
+        }
+      ],
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 1125,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "RT @totori_coms: 何度でも繰り返しますが、\nTwitter！！上げるな！！\nfork！！するな！！\n掲示板！！上げるな！！\ngit clone！！するな！！\n罪に問われるぞ！！絶対するな！！\n証拠を押さえたら！！すぐIPAに通報！！\nそれ以外は！！アナタも！！…",
+      "created_at": "2021-01-28T23:57:37.000Z",
+      "conversation_id": "1354941731834273793",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1354941143725686795",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "ウワ、企業同士のお約束って片方が倒産した後はそこに所属してた社員が反故にしても責任問えないのか(個人とは契約関係にない)",
+      "created_at": "2021-01-28T23:55:16.000Z",
+      "conversation_id": "1354941143725686795",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1354837167000829953",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "ギットハブのギは「ギる」のギ",
+      "created_at": "2021-01-28T17:02:06.000Z",
+      "conversation_id": "1354837167000829953",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1354835394315997187",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "author_id": "707346268821913600",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 50,
+            "end": 60,
+            "tag": "えんとつ町のプペル"
+          },
+          {
+            "start": 61,
+            "end": 65,
+            "tag": "さぶれ"
+          }
+        ]
+      },
+      "text": "反面教師でも、誰かの役にたつなら、それで結構\n世の中には、反面教師に\nすらなれない人は山ほどいる。\n#えんとつ町のプペル #さぶれ",
+      "created_at": "2021-01-28T16:55:04.000Z",
+      "conversation_id": "1354835394315997187",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1354820495036751874",
+      "in_reply_to_user_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1354806846058467331"
+        },
+        {
+          "type": "replied_to",
+          "id": "1354588542366699522"
+        }
+      ],
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "完全にやらかした、区切りのいいとこを探りすぎて日付変わってしまったあ(完) https://t.co/237H7dwXAS",
+      "created_at": "2021-01-28T15:55:52.000Z",
+      "conversation_id": "1345020610875777024",
+      "possibly_sensitive": false,
+      "entities": {
+        "urls": [
+          {
+            "start": 38,
+            "end": 61,
+            "url": "https://t.co/237H7dwXAS",
+            "expanded_url": "https://twitter.com/ningensei848/status/1354806846058467331",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1354806846058467331",
+      "reply_settings": "everyone",
+      "source": "contributter",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "author_id": "707346268821913600",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "text": "Ningensei848 さんの 2021/01/28 の contribution 数: 0\n #contributter_report",
+      "created_at": "2021-01-28T15:01:37.000Z",
+      "conversation_id": "1354806846058467331",
+      "possibly_sensitive": false
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "verified": false,
+        "name": "きあい🌕",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "username": "Ningensei848",
+        "location": "山梨県→茨城県つくば市",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "pinned_tweet_id": "1345020610875777024",
+        "id": "707346268821913600",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 988,
+          "tweet_count": 58218,
+          "listed_count": 22
+        },
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "url": "https://t.co/KBXT0N3eAa"
+      },
+      {
+        "verified": false,
+        "name": "7594591200220899443",
+        "created_at": "2007-06-12T14:23:45.000Z",
+        "username": "shyouhei",
+        "location": "https://goo.gl/maps/v1gMV4qW4Y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/459710955748732928/jBjYAHBT_normal.jpeg",
+        "pinned_tweet_id": "180250405878497280",
+        "id": "6767562",
+        "public_metrics": {
+          "followers_count": 10271,
+          "following_count": 463,
+          "tweet_count": 24058,
+          "listed_count": 396
+        },
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 22,
+                "url": "http://t.co/wVbzHhrLPo",
+                "expanded_url": "http://shyouhei.tumblr.com",
+                "display_url": "shyouhei.tumblr.com"
+              }
+            ]
+          }
+        },
+        "description": "最近の趣味はアジテーションです",
+        "url": "http://t.co/wVbzHhrLPo"
+      },
+      {
+        "verified": false,
+        "name": "totori@Next_Generation»»",
+        "created_at": "2014-10-07T16:39:28.000Z",
+        "username": "totori_coms",
+        "location": "埼玉 札幌市北区",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1247513031455592449/cWwEFdtG_normal.png",
+        "pinned_tweet_id": "1288546746876882944",
+        "id": "2843767476",
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 1936,
+          "tweet_count": 196109,
+          "listed_count": 68
+        },
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/rA9LVT991f",
+                "expanded_url": "https://torinosubako.sakura.ne.jp",
+                "display_url": "torinosubako.sakura.ne.jp"
+              }
+            ]
+          }
+        },
+        "description": "システム＆ハードウェア開発とVitz RS TRD Sportivo Versionを爆走させながらアカデメイアに飛び込んだ、生体同期型プロセッサによるマルチミッション(交通政策・情報通信・デザイン・安全保障・地球科学・モビリティ)hiE。",
+        "url": "https://t.co/rA9LVT991f"
+      }
+    ],
+    "tweets": [
+      {
+        "id": "1355027678412242944",
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "author_id": "707346268821913600",
+        "text": "体の軸が歪みすぎていて，主観的に見たときの顔面パーツの配置がヤバいんだけど，どうにもならん…………（両目水平であってほしいところ，右目が二段階くらい高いところにある）",
+        "created_at": "2021-01-29T05:39:08.000Z",
+        "conversation_id": "1355027678412242944",
+        "possibly_sensitive": false
+      },
+      {
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "848920371311001600",
+              "name": "Technology",
+              "description": "Technology and computing"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "848921413196984320",
+              "name": "Computer programming",
+              "description": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "id": "45",
+              "name": "Brand Vertical",
+              "description": "Top level entities that describe a Brands industry"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "start": 1,
+              "end": 6,
+              "probability": 0.5819,
+              "type": "Product",
+              "normalized_text": "GitHub"
+            }
+          ]
+        },
+        "id": "1354982235003215872",
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "public_metrics": {
+          "retweet_count": 224,
+          "reply_count": 0,
+          "like_count": 475,
+          "quote_count": 5
+        },
+        "author_id": "6767562",
+        "text": "×GitHubが悪い、インターネットをやめろ\n○多重請負が悪い、外注をやめろ",
+        "created_at": "2021-01-29T02:38:33.000Z",
+        "conversation_id": "1354982235003215872",
+        "possibly_sensitive": false
+      },
+      {
+        "id": "1354954420715360257",
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "author_id": "707346268821913600",
+        "text": "エンジニア偏差値とかいうの算出して年収までみたけど「算出の仕組み」みたいなリンク押したらこの記事が出てきて完全に無理になった（退会した）\nhttps://t.co/yTcDCrUYHC",
+        "created_at": "2021-01-29T00:48:02.000Z",
+        "conversation_id": "1354954420715360257",
+        "possibly_sensitive": false,
+        "entities": {
+          "urls": [
+            {
+              "start": 69,
+              "end": 92,
+              "url": "https://t.co/yTcDCrUYHC",
+              "expanded_url": "https://findy-code.io/engineer-lab/skill-deviation-value",
+              "display_url": "findy-code.io/engineer-lab/s…",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1354943575847407623/mJIg8WQ1?format=jpg&name=orig",
+                  "width": 500,
+                  "height": 500
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1354943575847407623/mJIg8WQ1?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "Findyの「スキル偏差値」関する今後の改善方針まとめ | Findyブログ",
+              "description": "Findyの「スキル偏差値」を今後どのように改善していくかについてまとめました。",
+              "unwound_url": "https://findy-code.io/engineer-lab/skill-deviation-value"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1354835394315997187",
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "author_id": "707346268821913600",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 50,
+              "end": 60,
+              "tag": "えんとつ町のプペル"
+            },
+            {
+              "start": 61,
+              "end": 65,
+              "tag": "さぶれ"
+            }
+          ]
+        },
+        "text": "反面教師でも、誰かの役にたつなら、それで結構\n世の中には、反面教師に\nすらなれない人は山ほどいる。\n#えんとつ町のプペル #さぶれ",
+        "created_at": "2021-01-28T16:55:04.000Z",
+        "conversation_id": "1354835394315997187",
+        "possibly_sensitive": false
+      },
+      {
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "Twitter"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "834828264786898945",
+              "name": "Drinks",
+              "description": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "834828445238431744",
+              "name": "Generic Drinks",
+              "description": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "850142258871418880",
+              "name": "Beer",
+              "description": "Beer"
+            }
+          }
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "start": 13,
+              "end": 19,
+              "probability": 0.6659,
+              "type": "Product",
+              "normalized_text": "Twitter"
+            }
+          ],
+          "urls": [
+            {
+              "start": 148,
+              "end": 171,
+              "url": "https://t.co/HyLr9jWeSa",
+              "expanded_url": "https://twitter.com/totori_coms/status/1354845065990918144",
+              "display_url": "twitter.com/totori_coms/st…"
+            }
+          ]
+        },
+        "id": "1354864757765939200",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1354845065990918144"
+          }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "public_metrics": {
+          "retweet_count": 1125,
+          "reply_count": 2,
+          "like_count": 882,
+          "quote_count": 14
+        },
+        "author_id": "2843767476",
+        "text": "何度でも繰り返しますが、\nTwitter！！上げるな！！\nfork！！するな！！\n掲示板！！上げるな！！\ngit clone！！するな！！\n罪に問われるぞ！！絶対するな！！\n証拠を押さえたら！！すぐIPAに通報！！\nそれ以外は！！アナタも！！\n罪に問われる！！可能性が！！\n絶対に！！するな！！ https://t.co/HyLr9jWeSa",
+        "created_at": "2021-01-28T18:51:45.000Z",
+        "conversation_id": "1354864757765939200",
+        "possibly_sensitive": false
+      },
+      {
+        "id": "1354806846058467331",
+        "reply_settings": "everyone",
+        "source": "contributter",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "author_id": "707346268821913600",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        },
+        "text": "Ningensei848 さんの 2021/01/28 の contribution 数: 0\n #contributter_report",
+        "created_at": "2021-01-28T15:01:37.000Z",
+        "conversation_id": "1354806846058467331",
+        "possibly_sensitive": false
+      },
+      {
+        "id": "1354588542366699522",
+        "in_reply_to_user_id": "707346268821913600",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1354444420582617090"
+          },
+          {
+            "type": "replied_to",
+            "id": "1354088729866977280"
+          }
+        ],
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "author_id": "707346268821913600",
+        "text": "Apacheわからんすぎてダメだったけどコミットはした、よし https://t.co/vO7d2C4Lq9",
+        "created_at": "2021-01-28T00:34:10.000Z",
+        "conversation_id": "1345020610875777024",
+        "possibly_sensitive": false,
+        "entities": {
+          "urls": [
+            {
+              "start": 31,
+              "end": 54,
+              "url": "https://t.co/vO7d2C4Lq9",
+              "expanded_url": "https://twitter.com/ningensei848/status/1354444420582617090",
+              "display_url": "twitter.com/ningensei848/s…"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1354806846058467331",
+    "newest_id": "1355161382820306949",
+    "result_count": 23
+  }
+}
