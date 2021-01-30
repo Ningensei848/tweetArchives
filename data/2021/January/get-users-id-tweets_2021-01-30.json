@@ -1,0 +1,1151 @@
+{
+  "data": [
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "id": "1355505241085538305",
+      "created_at": "2021-01-30T13:16:48.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355505241085538305",
+      "possibly_sensitive": false,
+      "text": "まじで毎日毎日パソコンと向かい合うことしかしてないけど，それでも一向に何か上達している感じがしないんだが，なんかもっと達成感というか報酬があっても良くない？（と思う一方でそれは地獄の釜の蓋でしょという感覚もある）"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 5,
+            "probability": 0.5179,
+            "type": "Product",
+            "normalized_text": "Github"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692468",
+            "name": "GitHub"
+          }
+        }
+      ],
+      "id": "1355503801818521601",
+      "created_at": "2021-01-30T13:11:05.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355503801818521601",
+      "possibly_sensitive": false,
+      "text": "Github の利用を免許制にしよう！"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "entities": {
+        "annotations": [
+          {
+            "start": 75,
+            "end": 80,
+            "probability": 0.4671,
+            "type": "Product",
+            "normalized_text": "github"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "kunihirotanaka"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692468",
+            "name": "GitHub"
+          }
+        }
+      ],
+      "id": "1355503230315192325",
+      "created_at": "2021-01-30T13:08:48.000Z",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1355345589722992641"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 396,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355503230315192325",
+      "possibly_sensitive": false,
+      "text": "RT @kunihirotanaka: 車はたくさんの人が事故で亡くなってるけど有益性が勝る、電車は人身事故で何人も人亡くなってるけど有益性が勝る。\ngithubは誰も殺してないけど、委託先のおもらしで、有益なのに禁止される。\nソフトウェアへの無理解がこんだけ強いのは、ほんとま…"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "id": "1355470802146140160",
+      "created_at": "2021-01-30T10:59:57.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355470802146140160",
+      "possibly_sensitive": false,
+      "text": "スケジュール調整ちゃんとしろ各位"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "id": "1355433777070174214",
+      "created_at": "2021-01-30T08:32:49.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355433777070174214",
+      "entities": {
+        "urls": [
+          {
+            "start": 5,
+            "end": 28,
+            "url": "https://t.co/Cckr6kf08f",
+            "expanded_url": "https://open.spotify.com/track/0OnpzaKEnUJHuGb7gyEXbk?si=5jiXQGeZRhGYkp7LfnmoGw",
+            "display_url": "open.spotify.com/track/0OnpzaKE…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1355433777443467264/dn_DXp93?format=jpg&name=orig",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1355433777443467264/dn_DXp93?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Rain for flower, Song for you",
+            "description": "THE BINARY · Song · 2020",
+            "unwound_url": "https://open.spotify.com/track/0OnpzaKEnUJHuGb7gyEXbk?si=5jiXQGeZRhGYkp7LfnmoGw"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "text": "よさそう https://t.co/Cckr6kf08f"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1346901380292775936",
+            "name": "Jujutsu Kaisen"
+          }
+        }
+      ],
+      "id": "1355369502091870208",
+      "created_at": "2021-01-30T04:17:25.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355369502091870208",
+      "possibly_sensitive": false,
+      "text": "呪術、いつ何時もゲラゲラポイント貯まってくのウケる"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.9267,
+            "type": "Person",
+            "normalized_text": "永田恭介"
+          }
+        ]
+      },
+      "id": "1355360764165464066",
+      "created_at": "2021-01-30T03:42:42.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "conversation_id": "1355360764165464066",
+      "possibly_sensitive": false,
+      "text": "永田恭介の銅像を立てよう！"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "id": "1355360700533628929",
+      "created_at": "2021-01-30T03:42:27.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355360700533628929",
+      "possibly_sensitive": false,
+      "text": "いいツイート"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "id": "1355360670154326022",
+      "created_at": "2021-01-30T03:42:19.000Z",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1355347058358591491"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "wkm2_87"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355360670154326022",
+      "possibly_sensitive": false,
+      "text": "RT @wkm2_87: 統治者クソデカ銅像は建ってるだけじゃただの物体で、引き倒されて初めて芸術作品として完成するみたいなとこある"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "in_reply_to_user_id": "707346268821913600",
+      "id": "1355359732911890436",
+      "created_at": "2021-01-30T03:38:36.000Z",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1355358803391201280"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355358803391201280",
+      "possibly_sensitive": false,
+      "text": "typoで documentation がおかしなことになってしまったけどそれは置いといて，MkDocsかDocusaurusじゃないと目が受け付けなくなってしまった（お前のことやぞ ReadTheDocs）"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "id": "1355358803391201280",
+      "created_at": "2021-01-30T03:34:54.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355358803391201280",
+      "possibly_sensitive": false,
+      "text": "documents のサイトがきちんと整備されていないOSSは当然のように選択肢から外れることになってしまった（過去の遺物を精算できていない体質のCommunityが開発したものは信頼できないため）"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "id": "1355347129351323648",
+      "created_at": "2021-01-30T02:48:31.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355347129351323648",
+      "possibly_sensitive": false,
+      "text": "うわ，Python で下書きして Rust でリファクタリングしてるのかこれ（目指すべき未来）"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "872553326499422208",
+            "name": "Fitness",
+            "description": "Fitness"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "903303816698671104",
+            "name": "Wellness and health",
+            "description": "Wellness & Health"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "872554146750017536",
+            "name": "Exercises",
+            "description": "Exercises"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "918538775055048704",
+            "name": "Physical Wellness",
+            "description": "Physical Wellness"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "917493759486566400",
+            "name": "Weight training",
+            "description": "Weight Training"
+          }
+        }
+      ],
+      "id": "1355340136410533889",
+      "created_at": "2021-01-30T02:20:44.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355340136410533889",
+      "possibly_sensitive": false,
+      "text": "こんな会社のCTOとかどんなクソ野郎なんかなと思って調べたらベンチプレス115kgとか書いてあるし筋肉のことしか発信していなかったしそれ以上追求できなくなってしまった（筋肉はすべてを解決する）"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "id": "1355339055093825537",
+      "created_at": "2021-01-30T02:16:26.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355339055093825537",
+      "possibly_sensitive": false,
+      "text": "人が判断すると信じられないのに「AIが判断します！」っていうと信じてしまう人，個人的な問題というよりは人類に埋め込まれた認識バグな可能性が高い"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "in_reply_to_user_id": "707346268821913600",
+      "id": "1355338786519937024",
+      "created_at": "2021-01-30T02:15:22.000Z",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1355337801697427460"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355337801697427460",
+      "possibly_sensitive": false,
+      "text": "あと収入予測と偏差値については独立っぽいことが既に分かってるっぽくて，前者は自己申告の職歴 / 後者はAPI連携でREADだけ許可して統計情報ぶっこ抜いてるだけ（素直に考えると言語の市場価値×コミット数で計算するのが実装簡単）"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847529762566230016",
+            "name": "Business and finance",
+            "description": "Business"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847544972781826048",
+            "name": "Careers",
+            "description": "Careers"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "850073441055133696",
+            "name": "Job search",
+            "description": "Job search"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "857878402157629440",
+            "name": "Investors and patents",
+            "description": "Investors and patents"
+          }
+        }
+      ],
+      "id": "1355337801697427460",
+      "created_at": "2021-01-30T02:11:27.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355337801697427460",
+      "possibly_sensitive": false,
+      "text": "「コードを解析して偏差値算出！」のことをみんなして「パブリックリポジトリのコードを読み取ってる」と思い込んでるの不思議すぎる，自分が実装する立場になったときに素直にそれをやろうとしたらどれだけ苦労すると思ってるの（それだけの技術や投資は転職サービス風情にはない）（ペイしないので）"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "in_reply_to_user_id": "707346268821913600",
+      "id": "1355336378616143873",
+      "created_at": "2021-01-30T02:05:48.000Z",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1355169197156950025"
+        },
+        {
+          "type": "replied_to",
+          "id": "1354820495036751874"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1345020610875777024",
+      "entities": {
+        "urls": [
+          {
+            "start": 40,
+            "end": 63,
+            "url": "https://t.co/jVgxMzfgXQ",
+            "expanded_url": "https://twitter.com/ningensei848/status/1355169197156950025",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "text": "traefik がわかるようになってきてイイ感じなんだけど、、コミットの粒度よ https://t.co/jVgxMzfgXQ"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "id": "1355328933370097664",
+      "created_at": "2021-01-30T01:36:13.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355328933370097664",
+      "possibly_sensitive": false,
+      "text": "創造的休暇"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "id": "1355327696515960837",
+      "created_at": "2021-01-30T01:31:18.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355327696515960837",
+      "possibly_sensitive": false,
+      "text": "今日は書類を書く、午後から"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "id": "1355325007451197442",
+      "created_at": "2021-01-30T01:20:37.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355325007451197442",
+      "possibly_sensitive": false,
+      "text": "あまりにも清々しい晴れなので太陽見てる🌞"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "in_reply_to_user_id": "1242056558051086336",
+      "id": "1355319113799794690",
+      "created_at": "2021-01-30T00:57:11.000Z",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1355254866071805953"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "world_nabechan"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355029769998360579",
+      "possibly_sensitive": false,
+      "text": "@world_nabechan はい人生のプロ、中高生たちの憧れのマト、目指すべき指導者の姿、説得力がダンチ"
+    },
+    {
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "source": "contributter",
+      "id": "1355169197156950025",
+      "created_at": "2021-01-29T15:01:29.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "conversation_id": "1355169197156950025",
+      "possibly_sensitive": false,
+      "text": "Ningensei848 さんの 2021/01/29 の contribution 数: 1\n #contributter_report"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "verified": false,
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "name": "きあい🌕",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "id": "707346268821913600",
+        "location": "山梨県→茨城県つくば市",
+        "username": "Ningensei848",
+        "pinned_tweet_id": "1345020610875777024",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 988,
+          "tweet_count": 58238,
+          "listed_count": 22
+        },
+        "url": "https://t.co/KBXT0N3eAa"
+      },
+      {
+        "verified": false,
+        "created_at": "2009-04-30T02:01:48.000Z",
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/Kb939Gm97W",
+                "expanded_url": "http://tanaka.sakura.ad.jp",
+                "display_url": "tanaka.sakura.ad.jp"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1337987523809738752/cmR1h6Je_normal.jpg",
+        "name": "田中邦裕@さくらインターネット社長",
+        "description": "1978年大阪生まれ、沖縄在住。舞鶴高専でロボコン出場。高専在学中18歳でさくらインターネットを学生起業し、2015年に東証一部上場。趣味はプログラミングとダイビング。アイモバイル /i-Plug/ABEJA/JDCC副理事長/CSAJ副会長/JAIPA常任理事/未踏PM/EMS第1期 犬猫四つ足動物好き",
+        "id": "36560854",
+        "location": "小笠原村父島",
+        "username": "kunihirotanaka",
+        "public_metrics": {
+          "followers_count": 17160,
+          "following_count": 355,
+          "tweet_count": 12501,
+          "listed_count": 754
+        },
+        "url": "https://t.co/Kb939Gm97W"
+      },
+      {
+        "verified": false,
+        "created_at": "2015-04-04T04:22:08.000Z",
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297907070893584384/xhVfLmME_normal.jpg",
+        "name": "とんりー",
+        "description": "ITF.🥞 / ( CB223S )o。🏍🐜",
+        "id": "3138424640",
+        "username": "wkm2_87",
+        "pinned_tweet_id": "1353577919587606528",
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 315,
+          "tweet_count": 28061,
+          "listed_count": 9
+        },
+        "url": ""
+      }
+    ],
+    "tweets": [
+      {
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "entities": {
+          "annotations": [
+            {
+              "start": 55,
+              "end": 60,
+              "probability": 0.4646,
+              "type": "Product",
+              "normalized_text": "github"
+            }
+          ]
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "848920371311001600",
+              "name": "Technology",
+              "description": "Technology and computing"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "848921413196984320",
+              "name": "Computer programming",
+              "description": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "id": "45",
+              "name": "Brand Vertical",
+              "description": "Top level entities that describe a Brands industry"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "id": "1355345589722992641",
+        "created_at": "2021-01-30T02:42:24.000Z",
+        "author_id": "36560854",
+        "public_metrics": {
+          "retweet_count": 396,
+          "reply_count": 7,
+          "like_count": 1514,
+          "quote_count": 28
+        },
+        "conversation_id": "1355345589722992641",
+        "possibly_sensitive": false,
+        "text": "車はたくさんの人が事故で亡くなってるけど有益性が勝る、電車は人身事故で何人も人亡くなってるけど有益性が勝る。\ngithubは誰も殺してないけど、委託先のおもらしで、有益なのに禁止される。\nソフトウェアへの無理解がこんだけ強いのは、ほんとまずいと思う。\n安全に使うにはと考えよう！"
+      },
+      {
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "id": "1355347058358591491",
+        "created_at": "2021-01-30T02:48:14.000Z",
+        "author_id": "3138424640",
+        "public_metrics": {
+          "retweet_count": 3,
+          "reply_count": 0,
+          "like_count": 15,
+          "quote_count": 1
+        },
+        "conversation_id": "1355347058358591491",
+        "possibly_sensitive": false,
+        "text": "統治者クソデカ銅像は建ってるだけじゃただの物体で、引き倒されて初めて芸術作品として完成するみたいなとこある"
+      },
+      {
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "id": "1355358803391201280",
+        "created_at": "2021-01-30T03:34:54.000Z",
+        "author_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "conversation_id": "1355358803391201280",
+        "possibly_sensitive": false,
+        "text": "documents のサイトがきちんと整備されていないOSSは当然のように選択肢から外れることになってしまった（過去の遺物を精算できていない体質のCommunityが開発したものは信頼できないため）"
+      },
+      {
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847529762566230016",
+              "name": "Business and finance",
+              "description": "Business"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847544972781826048",
+              "name": "Careers",
+              "description": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847868745150119936",
+              "name": "Home & family",
+              "description": "Hobbies and interests"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "850073441055133696",
+              "name": "Job search",
+              "description": "Job search"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "857878402157629440",
+              "name": "Investors and patents",
+              "description": "Investors and patents"
+            }
+          }
+        ],
+        "id": "1355337801697427460",
+        "created_at": "2021-01-30T02:11:27.000Z",
+        "author_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "conversation_id": "1355337801697427460",
+        "possibly_sensitive": false,
+        "text": "「コードを解析して偏差値算出！」のことをみんなして「パブリックリポジトリのコードを読み取ってる」と思い込んでるの不思議すぎる，自分が実装する立場になったときに素直にそれをやろうとしたらどれだけ苦労すると思ってるの（それだけの技術や投資は転職サービス風情にはない）（ペイしないので）"
+      },
+      {
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "source": "contributter",
+        "id": "1355169197156950025",
+        "created_at": "2021-01-29T15:01:29.000Z",
+        "author_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "conversation_id": "1355169197156950025",
+        "possibly_sensitive": false,
+        "text": "Ningensei848 さんの 2021/01/29 の contribution 数: 1\n #contributter_report"
+      },
+      {
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "in_reply_to_user_id": "707346268821913600",
+        "id": "1354820495036751874",
+        "created_at": "2021-01-28T15:55:52.000Z",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1354806846058467331"
+          },
+          {
+            "type": "replied_to",
+            "id": "1354588542366699522"
+          }
+        ],
+        "author_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "conversation_id": "1345020610875777024",
+        "entities": {
+          "urls": [
+            {
+              "start": 38,
+              "end": 61,
+              "url": "https://t.co/237H7dwXAS",
+              "expanded_url": "https://twitter.com/Ningensei848/status/1354806846058467331",
+              "display_url": "twitter.com/Ningensei848/s…"
+            }
+          ]
+        },
+        "possibly_sensitive": false,
+        "text": "完全にやらかした、区切りのいいとこを探りすぎて日付変わってしまったあ(完) https://t.co/237H7dwXAS"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "value": "world_nabechan",
+      "parameter": "entities.mentions.username",
+      "resource_type": "user",
+      "section": "includes",
+      "title": "Authorization Error",
+      "detail": "Sorry, you are not authorized to see the user with entities.mentions.username: [world_nabechan].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    },
+    {
+      "value": "1242056558051086336",
+      "parameter": "in_reply_to_user_id",
+      "resource_type": "user",
+      "section": "includes",
+      "title": "Authorization Error",
+      "detail": "Sorry, you are not authorized to see the user with in_reply_to_user_id: [1242056558051086336].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1355254866071805953].",
+      "title": "Not Found Error",
+      "resource_type": "tweet",
+      "parameter": "referenced_tweets.id",
+      "value": "1355254866071805953",
+      "type": "https://api.twitter.com/2/problems/resource-not-found"
+    }
+  ],
+  "meta": {
+    "oldest_id": "1355169197156950025",
+    "newest_id": "1355505241085538305",
+    "result_count": 22
+  }
+}
