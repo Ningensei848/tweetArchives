@@ -1,0 +1,682 @@
+{
+  "data": [
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 21,
+            "end": 44,
+            "url": "https://t.co/Lo72dtZ3SO",
+            "expanded_url": "https://youtu.be/uqeU5a6YgCs",
+            "display_url": "youtu.be/uqeU5a6YgCs",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1355343800793591808/ViExUD3X?format=jpg&name=orig",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1355343800793591808/ViExUD3X?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "よい子のれきしアニメ おおきなカブ(株)",
+            "description": "株式会社カラー創業10周年記念作品　「よい子のれきしアニメ おおきなカブ(株)」2016年11月に開催した『10周年記念展』及び『10周年記念冊子』のために安野モヨコが描き下ろした漫画をアニメーション化。同展覧会場にて上映。原作漫画はこちらからご覧いただけます！→http://annomoyoco.com/new...",
+            "unwound_url": "https://www.youtube.com/watch?v=uqeU5a6YgCs&feature=youtu.be"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 45,
+            "end": 53,
+            "username": "YouTube"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "source": "Twitter for iPad",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355872315653849098",
+      "text": "よい子のれきしアニメ おおきなカブ(株) https://t.co/Lo72dtZ3SO @YouTubeより\n\nどれだけデケェカブになってるのか",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "839543165002506240",
+            "name": "Anime"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10029382357",
+            "name": "YouTube"
+          }
+        }
+      ],
+      "created_at": "2021-01-31T13:35:25.000Z",
+      "reply_settings": "everyone",
+      "id": "1355872315653849098"
+    },
+    {
+      "author_id": "707346268821913600",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 5,
+            "probability": 0.3609,
+            "type": "Organization",
+            "normalized_text": "apache"
+          }
+        ]
+      },
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355847241601228801",
+      "text": "apacheの気持ちがわからない、なぜ",
+      "possibly_sensitive": false,
+      "created_at": "2021-01-31T11:55:47.000Z",
+      "reply_settings": "everyone",
+      "id": "1355847241601228801"
+    },
+    {
+      "author_id": "707346268821913600",
+      "entities": {
+        "annotations": [
+          {
+            "start": 47,
+            "end": 50,
+            "probability": 0.8688,
+            "type": "Place",
+            "normalized_text": "つくば市"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "igarashitatsuo"
+          }
+        ]
+      },
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 69,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355839283140063236",
+      "text": "RT @igarashitatsuo: 【PayPayで30％還元！】\n2/1〜2/28まで、つくば市とPayPayコラボで30％還元キャンペーンを行います。市内中小企業と市民生活の応援のため、小売店・飲食店・理美容店、タクシーなど、PayPayを導入しているお店が対象です。(…",
+      "possibly_sensitive": false,
+      "created_at": "2021-01-31T11:24:10.000Z",
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1355836665877565440"
+        }
+      ],
+      "id": "1355839283140063236"
+    },
+    {
+      "author_id": "707346268821913600",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355800744050319363",
+      "text": "年収900マンくらい貰って完全週休４日で生きるのを求めてるだけなんですけど",
+      "possibly_sensitive": false,
+      "created_at": "2021-01-31T08:51:01.000Z",
+      "reply_settings": "everyone",
+      "id": "1355800744050319363"
+    },
+    {
+      "author_id": "707346268821913600",
+      "source": "TweetDeck",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "conversation_id": "1355800541868134401",
+      "text": "今月中にやらねばならないことに取り組んでたら土日消えてウケるね，来世に期待",
+      "possibly_sensitive": false,
+      "created_at": "2021-01-31T08:50:13.000Z",
+      "reply_settings": "everyone",
+      "id": "1355800541868134401"
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 15,
+            "end": 38,
+            "url": "https://t.co/Z6F9FccoLT",
+            "expanded_url": "https://twitter.com/ningensei848/status/1355531556325101570",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "in_reply_to_user_id": "707346268821913600",
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1345020610875777024",
+      "text": "まぁ土曜も動いててえらいねー https://t.co/Z6F9FccoLT",
+      "possibly_sensitive": false,
+      "created_at": "2021-01-30T23:47:13.000Z",
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1355531556325101570"
+        },
+        {
+          "type": "replied_to",
+          "id": "1355336378616143873"
+        }
+      ],
+      "id": "1355663891003363333"
+    },
+    {
+      "author_id": "707346268821913600",
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355532909743009798",
+      "text": "語尾にパーレン付けて発言をファンクションにするタイプの人類、自身の\"\"速度\"\"に対して周りがついていけてないことに無自覚がち",
+      "possibly_sensitive": false,
+      "created_at": "2021-01-30T15:06:44.000Z",
+      "reply_settings": "everyone",
+      "id": "1355532909743009798"
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 53,
+            "end": 76,
+            "url": "https://t.co/HDdbGlw0cT",
+            "expanded_url": "https://twitter.com/seventhseven/status/1355079696388476929/photo/1",
+            "display_url": "pic.twitter.com/HDdbGlw0cT"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "seventhseven"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "source": "Twitter for iPhone",
+      "public_metrics": {
+        "retweet_count": 201,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1355532384943304710",
+      "attachments": {
+        "media_keys": [
+          "3_1355079692777181185"
+        ]
+      },
+      "text": "RT @seventhseven: これホンマ？\n今からエンジニア転職するのハードルしんどすぎないか…… https://t.co/HDdbGlw0cT",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847544972781826048",
+            "name": "Careers",
+            "description": "Careers"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "850073441055133696",
+            "name": "Job search",
+            "description": "Job search"
+          }
+        }
+      ],
+      "created_at": "2021-01-30T15:04:39.000Z",
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1355079696388476929"
+        }
+      ],
+      "id": "1355532384943304710"
+    },
+    {
+      "author_id": "707346268821913600",
+      "source": "contributter",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "conversation_id": "1355531556325101570",
+      "text": "Ningensei848 さんの 2021/01/30 の contribution 数: 5\n #contributter_report",
+      "possibly_sensitive": false,
+      "created_at": "2021-01-30T15:01:22.000Z",
+      "reply_settings": "everyone",
+      "id": "1355531556325101570",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      }
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "location": "山梨県→茨城県つくば市",
+        "url": "https://t.co/KBXT0N3eAa",
+        "id": "707346268821913600",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 988,
+          "tweet_count": 58244,
+          "listed_count": 22
+        },
+        "name": "きあい🌖",
+        "verified": false,
+        "protected": false,
+        "pinned_tweet_id": "1345020610875777024",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "username": "Ningensei848",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境"
+      },
+      {
+        "created_at": "2007-11-13T21:43:46.000Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1308106203860529152/yOwTDF9G_normal.jpg",
+        "location": "San Bruno, CA",
+        "url": "https://t.co/qkVaJFk2CG",
+        "id": "10228272",
+        "public_metrics": {
+          "followers_count": 72854395,
+          "following_count": 1200,
+          "tweet_count": 30873,
+          "listed_count": 78875
+        },
+        "name": "YouTube",
+        "verified": true,
+        "protected": false,
+        "pinned_tweet_id": "1348981773192060930",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/qkVaJFk2CG",
+                "expanded_url": "https://www.youtube.com/",
+                "display_url": "youtube.com"
+              }
+            ]
+          }
+        },
+        "username": "YouTube",
+        "description": "Like and subscribe."
+      },
+      {
+        "created_at": "2010-05-24T13:38:40.000Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1317463812581158912/nP6UYOXG_normal.jpg",
+        "location": "Tsukuba, Ibaraki, Japan",
+        "url": "https://t.co/uc58uupKy8",
+        "id": "147568506",
+        "public_metrics": {
+          "followers_count": 13879,
+          "following_count": 70,
+          "tweet_count": 6141,
+          "listed_count": 239
+        },
+        "name": "五十嵐 立青（つくば市長）",
+        "verified": false,
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/uc58uupKy8",
+                "expanded_url": "https://igarashitatsuo.com/",
+                "display_url": "igarashitatsuo.com"
+              }
+            ]
+          }
+        },
+        "username": "igarashitatsuo",
+        "description": "つくば市（桜村）生れ。42歳。並木小・中、土浦一高、筑波大卒業。ロンドン大学UCL修士課程を経て、筑波大学大学院修了。博士（国際政治経済学）。ごきげんファームで障害のある人の就労支援、いがらしコーチングオフィス㈱で企業のリーダーシップ開発。つくば市議2期、2016年つくば市長。14歳、12歳、9歳、6歳の三男一女の父。"
+      },
+      {
+        "created_at": "2009-08-08T02:37:26.000Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1103663752451252225/iZv-rBGS_normal.jpg",
+        "location": "GitHub",
+        "url": "https://t.co/tUNtFnseqD",
+        "id": "63886474",
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 271,
+          "tweet_count": 85514,
+          "listed_count": 15
+        },
+        "name": "Shumpei🪁",
+        "verified": false,
+        "protected": false,
+        "pinned_tweet_id": "1339368672649887746",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/tUNtFnseqD",
+                "expanded_url": "https://github.com/Shumpei0111",
+                "display_url": "github.com/Shumpei0111"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 45,
+                "end": 68,
+                "url": "https://t.co/zhcY94EyNa",
+                "expanded_url": "https://qiita.com/Shumpei0111",
+                "display_url": "qiita.com/Shumpei0111"
+              }
+            ]
+          }
+        },
+        "username": "seventhseven",
+        "description": "東京 / フロントエンドエンジニア / グラフィックデザイン / 同人作家 / 子持ち/ https://t.co/zhcY94EyNa / Nuxt.js"
+      }
+    ],
+    "tweets": [
+      {
+        "entities": {
+          "urls": [
+            {
+              "start": 124,
+              "end": 147,
+              "url": "https://t.co/UTIgC6FKkj",
+              "expanded_url": "https://twitter.com/igarashitatsuo/status/1355836665877565440/photo/1",
+              "display_url": "pic.twitter.com/UTIgC6FKkj"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 27,
+              "end": 30,
+              "probability": 0.8681,
+              "type": "Place",
+              "normalized_text": "つくば市"
+            }
+          ]
+        },
+        "author_id": "147568506",
+        "source": "Twitter Web App",
+        "public_metrics": {
+          "retweet_count": 69,
+          "reply_count": 1,
+          "like_count": 206,
+          "quote_count": 17
+        },
+        "conversation_id": "1355836665877565440",
+        "attachments": {
+          "media_keys": [
+            "3_1355834603475353600"
+          ]
+        },
+        "text": "【PayPayで30％還元！】\n2/1〜2/28まで、つくば市とPayPayコラボで30％還元キャンペーンを行います。市内中小企業と市民生活の応援のため、小売店・飲食店・理美容店、タクシーなど、PayPayを導入しているお店が対象です。(1/2→ https://t.co/UTIgC6FKkj",
+        "possibly_sensitive": false,
+        "created_at": "2021-01-31T11:13:46.000Z",
+        "reply_settings": "everyone",
+        "id": "1355836665877565440"
+      },
+      {
+        "author_id": "707346268821913600",
+        "source": "contributter",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "conversation_id": "1355531556325101570",
+        "text": "Ningensei848 さんの 2021/01/30 の contribution 数: 5\n #contributter_report",
+        "possibly_sensitive": false,
+        "created_at": "2021-01-30T15:01:22.000Z",
+        "reply_settings": "everyone",
+        "id": "1355531556325101570",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        }
+      },
+      {
+        "entities": {
+          "urls": [
+            {
+              "start": 40,
+              "end": 63,
+              "url": "https://t.co/jVgxMzfgXQ",
+              "expanded_url": "https://twitter.com/ningensei848/status/1355169197156950025",
+              "display_url": "twitter.com/ningensei848/s…"
+            }
+          ]
+        },
+        "author_id": "707346268821913600",
+        "in_reply_to_user_id": "707346268821913600",
+        "source": "Twitter for iPad",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "conversation_id": "1345020610875777024",
+        "text": "traefik がわかるようになってきてイイ感じなんだけど、、コミットの粒度よ https://t.co/jVgxMzfgXQ",
+        "possibly_sensitive": false,
+        "created_at": "2021-01-30T02:05:48.000Z",
+        "reply_settings": "everyone",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1355169197156950025"
+          },
+          {
+            "type": "replied_to",
+            "id": "1354820495036751874"
+          }
+        ],
+        "id": "1355336378616143873"
+      },
+      {
+        "entities": {
+          "urls": [
+            {
+              "start": 35,
+              "end": 58,
+              "url": "https://t.co/HDdbGlw0cT",
+              "expanded_url": "https://twitter.com/seventhseven/status/1355079696388476929/photo/1",
+              "display_url": "pic.twitter.com/HDdbGlw0cT"
+            }
+          ]
+        },
+        "author_id": "63886474",
+        "source": "Twitter for iPhone",
+        "public_metrics": {
+          "retweet_count": 201,
+          "reply_count": 32,
+          "like_count": 846,
+          "quote_count": 127
+        },
+        "conversation_id": "1355079696388476929",
+        "attachments": {
+          "media_keys": [
+            "3_1355079692777181185"
+          ]
+        },
+        "text": "これホンマ？\n今からエンジニア転職するのハードルしんどすぎないか…… https://t.co/HDdbGlw0cT",
+        "possibly_sensitive": false,
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847544972781826048",
+              "name": "Careers",
+              "description": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847868745150119936",
+              "name": "Home & family",
+              "description": "Hobbies and interests"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "850073441055133696",
+              "name": "Job search",
+              "description": "Job search"
+            }
+          }
+        ],
+        "created_at": "2021-01-29T09:05:50.000Z",
+        "reply_settings": "everyone",
+        "id": "1355079696388476929"
+      }
+    ],
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_1355079692777181185",
+        "width": 932,
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Es41zRJUUAE48J7.jpg"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1355531556325101570",
+    "newest_id": "1355872315653849098",
+    "result_count": 9
+  }
+}
