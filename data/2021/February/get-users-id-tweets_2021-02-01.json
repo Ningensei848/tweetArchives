@@ -1,0 +1,948 @@
+{
+  "data": [
+    {
+      "reply_settings": "everyone",
+      "text": "提言は尊重するとして、じゃあ東大卒とfラン卒も同じ大卒にするのやめましょうと責められてしまい",
+      "id": "1356219735482884097",
+      "author_id": "707346268821913600",
+      "conversation_id": "1356219735482884097",
+      "source": "Twitter for iPhone",
+      "entities": {
+        "annotations": [
+          {
+            "start": 14,
+            "end": 16,
+            "probability": 0.6614,
+            "type": "Organization",
+            "normalized_text": "東大卒"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "created_at": "2021-02-01T12:35:56.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "RT @lawkus: 理想としてはわかるが、現代日本における大学の社会的機能からは遊離してると思う。この考えに忠実にやるならいわゆるFラン大学もその教員も不要となりそうだが（現にそう主張する人も多いが）、勉強の習慣ないまま18歳になった子の再教育というのも大学の役割として正面…",
+      "id": "1356219504120852484",
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1356032385528152064"
+        }
+      ],
+      "conversation_id": "1356219504120852484",
+      "source": "Twitter for iPhone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "lawkus"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "created_at": "2021-02-01T12:35:01.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847546154439000064",
+            "name": "Education",
+            "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform."
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 89,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "RT @kaiju_no_kodomo: 本日よりNetflixにて『#海獣の子供』の配信がスタート🐳\n\n#五十嵐大介\n#芦田愛菜\n#石橋陽彩\n#浦上晟周\n#森崎ウィン\n#久石譲\n#米津玄師\n\nhttps://t.co/Fec07METNr",
+      "id": "1356193726884810752",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 35,
+            "end": 41,
+            "tag": "海獣の子供"
+          },
+          {
+            "start": 53,
+            "end": 59,
+            "tag": "五十嵐大介"
+          },
+          {
+            "start": 60,
+            "end": 65,
+            "tag": "芦田愛菜"
+          },
+          {
+            "start": 66,
+            "end": 71,
+            "tag": "石橋陽彩"
+          },
+          {
+            "start": 72,
+            "end": 77,
+            "tag": "浦上晟周"
+          },
+          {
+            "start": 78,
+            "end": 84,
+            "tag": "森崎ウィン"
+          },
+          {
+            "start": 85,
+            "end": 89,
+            "tag": "久石譲"
+          },
+          {
+            "start": 90,
+            "end": 95,
+            "tag": "米津玄師"
+          }
+        ],
+        "urls": [
+          {
+            "start": 97,
+            "end": 120,
+            "url": "https://t.co/Fec07METNr",
+            "expanded_url": "https://www.netflix.com/jp/title/81208104",
+            "display_url": "netflix.com/jp/title/81208…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1356065046183501829/SUL2qKWj?format=jpg&name=orig",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1356065046183501829/SUL2qKWj?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "海獣の子供 | Netflix",
+            "description": "夏のある日、水族館を訪れた琉花の前に現れたのは、海中で育ったという不思議な兄弟。2人と心を通わせる琉花はやがて、海という壮大な世界に飲み込まれていく。",
+            "unwound_url": "https://www.netflix.com/jp/title/81208104"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 19,
+            "username": "kaiju_no_kodomo"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 25,
+            "end": 31,
+            "probability": 0.3424,
+            "type": "Product",
+            "normalized_text": "Netflix"
+          },
+          {
+            "start": 35,
+            "end": 40,
+            "probability": 0.4155,
+            "type": "Other",
+            "normalized_text": "#海獣の子供"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1356132025388814337"
+        }
+      ],
+      "conversation_id": "1356193726884810752",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-01T10:52:36.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1082288068311146504",
+            "name": "Kenshi Yonezu"
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1194330493312847872",
+            "name": "Mana Ashida"
+          }
+        },
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1297733845672816640",
+            "name": "Joe Hisaishi"
+          }
+        },
+        {
+          "domain": {
+            "id": "54",
+            "name": "Musician",
+            "description": "A musician in the world, like Adele or Bob Dylan"
+          },
+          "entity": {
+            "id": "1082288068311146504",
+            "name": "Kenshi Yonezu"
+          }
+        },
+        {
+          "domain": {
+            "id": "54",
+            "name": "Musician",
+            "description": "A musician in the world, like Adele or Bob Dylan"
+          },
+          "entity": {
+            "id": "1297733845672816640",
+            "name": "Joe Hisaishi"
+          }
+        },
+        {
+          "domain": {
+            "id": "55",
+            "name": "Music Genre",
+            "description": "A category for a musical style, like Pop, Rock, or Rap"
+          },
+          "entity": {
+            "id": "810938095772123136",
+            "name": "J-pop",
+            "description": "J-POP"
+          }
+        },
+        {
+          "domain": {
+            "id": "56",
+            "name": "Actor",
+            "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+          },
+          "entity": {
+            "id": "1194330493312847872",
+            "name": "Mana Ashida"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597310615553",
+            "name": "Entertainment"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597105094656",
+            "name": "TV/Movies Related"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026367762",
+            "name": "Netflix"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 881,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "車、平べったいのは座位を強制されているからであり、シートベルトから解き放たれたらルネッサンスですよね",
+      "id": "1356158325352669185",
+      "author_id": "707346268821913600",
+      "conversation_id": "1356158325352669185",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-01T08:31:55.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "キンクリじゃん（何もしなかったという結果だけが残る）",
+      "id": "1356154702132506627",
+      "author_id": "707346268821913600",
+      "conversation_id": "1356154702132506627",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-01T08:17:31.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "え，1月が消し飛んでる…………………………",
+      "id": "1356154594573750272",
+      "author_id": "707346268821913600",
+      "conversation_id": "1356154594573750272",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-01T08:17:06.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "面倒なこと，なぜ面倒なのか一度考えてみて自分のせいならすぐ取り組んで，誰かのせいなら誰かにすぐやらせるといいっぽい（面倒なことはいずれ取り組まねばならないため）（？）",
+      "id": "1356147339447029760",
+      "author_id": "707346268821913600",
+      "conversation_id": "1356147339447029760",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-01T07:48:16.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "メールが爆速で行き交うくらいには躁やってる（乱文が心配）",
+      "id": "1356146908587155458",
+      "author_id": "707346268821913600",
+      "conversation_id": "1356146908587155458",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-01T07:46:33.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "リバースプロキシへの怨嗟がたまりすぎて渋谷で百鬼夜行出来るレベルだけど",
+      "id": "1356054861469544449",
+      "author_id": "707346268821913600",
+      "conversation_id": "1356054861469544449",
+      "source": "TweetDeck",
+      "entities": {
+        "annotations": [
+          {
+            "start": 19,
+            "end": 20,
+            "probability": 0.7956,
+            "type": "Place",
+            "normalized_text": "渋谷"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "created_at": "2021-02-01T01:40:47.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "終わりが始まった",
+      "id": "1355928629830709249",
+      "author_id": "707346268821913600",
+      "conversation_id": "1355928629830709249",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "created_at": "2021-01-31T17:19:11.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "まだ本誌読んでないけど",
+      "id": "1355912831678308356",
+      "author_id": "707346268821913600",
+      "conversation_id": "1355912831678308356",
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false,
+      "created_at": "2021-01-31T16:16:25.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "Ningensei848 さんの 2021/01/31 の contribution 数: 3\n #contributter_report",
+      "id": "1355893947994877952",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "conversation_id": "1355893947994877952",
+      "source": "contributter",
+      "possibly_sensitive": false,
+      "created_at": "2021-01-31T15:01:23.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      }
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "url": "https://t.co/KBXT0N3eAa",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "location": "山梨県→茨城県つくば市",
+        "id": "707346268821913600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "verified": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 989,
+          "tweet_count": 58256,
+          "listed_count": 22
+        },
+        "username": "Ningensei848",
+        "pinned_tweet_id": "1345020610875777024",
+        "protected": false,
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "name": "きあい🌖"
+      },
+      {
+        "url": "https://t.co/X4EM8zp7vt",
+        "description": "弁護士。仕事の話はほぼしません。DM開放してますがDMでの法律相談はお受けできません（相談予約希望のご連絡はDMでも可）。ブログはこちら→ https://t.co/DB96XMaQc7\n千葉県弁護士会所属 三浦義隆",
+        "location": "流山おおたかの森、志津",
+        "id": "70834319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/415977429329403905/9VuwO5ty_normal.png",
+        "verified": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/X4EM8zp7vt",
+                "expanded_url": "http://otakalaw.com/",
+                "display_url": "otakalaw.com"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 70,
+                "end": 93,
+                "url": "https://t.co/DB96XMaQc7",
+                "expanded_url": "http://miurayoshitaka.hatenablog.com",
+                "display_url": "miurayoshitaka.hatenablog.com"
+              }
+            ]
+          }
+        },
+        "public_metrics": {
+          "followers_count": 34343,
+          "following_count": 1005,
+          "tweet_count": 164650,
+          "listed_count": 1043
+        },
+        "username": "lawkus",
+        "pinned_tweet_id": "1355431876912062465",
+        "protected": false,
+        "created_at": "2009-09-02T00:36:13.000Z",
+        "name": "ystk"
+      },
+      {
+        "url": "https://t.co/XnaV3OGOPM",
+        "description": "BD&DVD発売中／各プラットフォームにて配信中！　映画『 #海獣の子供 』公式アカウント 原作 #五十嵐大介 キャスト #芦田愛菜 #石橋陽彩 #浦上晟周 #森崎ウィン #稲垣吾郎 #蒼井優 #渡辺徹 #田中泯 #富司純子 監督 #渡辺歩 音楽 #久石譲 主題歌 #米津玄師 アニメーション制作 #STUDIO4C",
+        "id": "1082530196144570370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1100213480492154880/mx4LRXfR_normal.png",
+        "verified": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/XnaV3OGOPM",
+                "expanded_url": "https://www.kaijunokodomo.com/",
+                "display_url": "kaijunokodomo.com"
+              }
+            ]
+          },
+          "description": {
+            "hashtags": [
+              {
+                "start": 30,
+                "end": 36,
+                "tag": "海獣の子供"
+              },
+              {
+                "start": 49,
+                "end": 55,
+                "tag": "五十嵐大介"
+              },
+              {
+                "start": 61,
+                "end": 66,
+                "tag": "芦田愛菜"
+              },
+              {
+                "start": 67,
+                "end": 72,
+                "tag": "石橋陽彩"
+              },
+              {
+                "start": 73,
+                "end": 78,
+                "tag": "浦上晟周"
+              },
+              {
+                "start": 79,
+                "end": 85,
+                "tag": "森崎ウィン"
+              },
+              {
+                "start": 86,
+                "end": 91,
+                "tag": "稲垣吾郎"
+              },
+              {
+                "start": 92,
+                "end": 96,
+                "tag": "蒼井優"
+              },
+              {
+                "start": 97,
+                "end": 101,
+                "tag": "渡辺徹"
+              },
+              {
+                "start": 102,
+                "end": 106,
+                "tag": "田中泯"
+              },
+              {
+                "start": 107,
+                "end": 112,
+                "tag": "富司純子"
+              },
+              {
+                "start": 116,
+                "end": 120,
+                "tag": "渡辺歩"
+              },
+              {
+                "start": 124,
+                "end": 128,
+                "tag": "久石譲"
+              },
+              {
+                "start": 133,
+                "end": 138,
+                "tag": "米津玄師"
+              },
+              {
+                "start": 149,
+                "end": 158,
+                "tag": "STUDIO4C"
+              }
+            ]
+          }
+        },
+        "public_metrics": {
+          "followers_count": 17128,
+          "following_count": 18,
+          "tweet_count": 1067,
+          "listed_count": 169
+        },
+        "username": "kaiju_no_kodomo",
+        "pinned_tweet_id": "1222356396819116033",
+        "protected": false,
+        "created_at": "2019-01-08T06:51:26.000Z",
+        "name": "映画『海獣の子供』公式"
+      }
+    ],
+    "tweets": [
+      {
+        "reply_settings": "everyone",
+        "text": "理想としてはわかるが、現代日本における大学の社会的機能からは遊離してると思う。この考えに忠実にやるならいわゆるFラン大学もその教員も不要となりそうだが（現にそう主張する人も多いが）、勉強の習慣ないまま18歳になった子の再教育というのも大学の役割として正面から認めるべきではないか。 https://t.co/rlMqYiEKHn",
+        "id": "1356032385528152064",
+        "author_id": "70834319",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1355923120100528130"
+          }
+        ],
+        "conversation_id": "1356032385528152064",
+        "source": "TwitPanePlus",
+        "entities": {
+          "urls": [
+            {
+              "start": 141,
+              "end": 164,
+              "url": "https://t.co/rlMqYiEKHn",
+              "expanded_url": "https://twitter.com/loveKAKIPEANUTS/status/1355923120100528130",
+              "display_url": "twitter.com/loveKAKIPEANUT…"
+            }
+          ]
+        },
+        "possibly_sensitive": false,
+        "created_at": "2021-02-01T00:11:29.000Z",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847546154439000064",
+              "name": "Education",
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform."
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847868745150119936",
+              "name": "Home & family",
+              "description": "Hobbies and interests"
+            }
+          }
+        ],
+        "public_metrics": {
+          "retweet_count": 89,
+          "reply_count": 0,
+          "like_count": 219,
+          "quote_count": 7
+        }
+      },
+      {
+        "reply_settings": "everyone",
+        "text": "本日よりNetflixにて『#海獣の子供』の配信がスタート🐳\n\n#五十嵐大介\n#芦田愛菜\n#石橋陽彩\n#浦上晟周\n#森崎ウィン\n#久石譲\n#米津玄師\n\nhttps://t.co/Fec07METNr",
+        "id": "1356132025388814337",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 14,
+              "end": 20,
+              "tag": "海獣の子供"
+            },
+            {
+              "start": 32,
+              "end": 38,
+              "tag": "五十嵐大介"
+            },
+            {
+              "start": 39,
+              "end": 44,
+              "tag": "芦田愛菜"
+            },
+            {
+              "start": 45,
+              "end": 50,
+              "tag": "石橋陽彩"
+            },
+            {
+              "start": 51,
+              "end": 56,
+              "tag": "浦上晟周"
+            },
+            {
+              "start": 57,
+              "end": 63,
+              "tag": "森崎ウィン"
+            },
+            {
+              "start": 64,
+              "end": 68,
+              "tag": "久石譲"
+            },
+            {
+              "start": 69,
+              "end": 74,
+              "tag": "米津玄師"
+            }
+          ],
+          "urls": [
+            {
+              "start": 76,
+              "end": 99,
+              "url": "https://t.co/Fec07METNr",
+              "expanded_url": "https://www.netflix.com/jp/title/81208104",
+              "display_url": "netflix.com/jp/title/81208…",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1356065046183501829/SUL2qKWj?format=jpg&name=orig",
+                  "width": 1280,
+                  "height": 720
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1356065046183501829/SUL2qKWj?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "海獣の子供 | Netflix",
+              "description": "夏のある日、水族館を訪れた琉花の前に現れたのは、海中で育ったという不思議な兄弟。2人と心を通わせる琉花はやがて、海という壮大な世界に飲み込まれていく。",
+              "unwound_url": "https://www.netflix.com/jp/title/81208104"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 4,
+              "end": 10,
+              "probability": 0.3391,
+              "type": "Product",
+              "normalized_text": "Netflix"
+            },
+            {
+              "start": 14,
+              "end": 19,
+              "probability": 0.4377,
+              "type": "Other",
+              "normalized_text": "#海獣の子供"
+            }
+          ]
+        },
+        "author_id": "1082530196144570370",
+        "conversation_id": "1356132025388814337",
+        "source": "Twitter for iPhone",
+        "possibly_sensitive": false,
+        "created_at": "2021-02-01T06:47:25.000Z",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "1194330493312847872",
+              "name": "Mana Ashida"
+            }
+          },
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "1297733845672816640",
+              "name": "Joe Hisaishi"
+            }
+          },
+          {
+            "domain": {
+              "id": "54",
+              "name": "Musician",
+              "description": "A musician in the world, like Adele or Bob Dylan"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "id": "54",
+              "name": "Musician",
+              "description": "A musician in the world, like Adele or Bob Dylan"
+            },
+            "entity": {
+              "id": "1297733845672816640",
+              "name": "Joe Hisaishi"
+            }
+          },
+          {
+            "domain": {
+              "id": "55",
+              "name": "Music Genre",
+              "description": "A category for a musical style, like Pop, Rock, or Rap"
+            },
+            "entity": {
+              "id": "810938095772123136",
+              "name": "J-pop",
+              "description": "J-POP"
+            }
+          },
+          {
+            "domain": {
+              "id": "56",
+              "name": "Actor",
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+            },
+            "entity": {
+              "id": "1194330493312847872",
+              "name": "Mana Ashida"
+            }
+          },
+          {
+            "domain": {
+              "id": "45",
+              "name": "Brand Vertical",
+              "description": "Top level entities that describe a Brands industry"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          }
+        ],
+        "public_metrics": {
+          "retweet_count": 881,
+          "reply_count": 5,
+          "like_count": 2010,
+          "quote_count": 73
+        }
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1355893947994877952",
+    "newest_id": "1356219735482884097",
+    "result_count": 12
+  }
+}
