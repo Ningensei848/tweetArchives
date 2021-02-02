@@ -1,0 +1,1635 @@
+{
+  "data": [
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "id": "1356591466181664768",
+      "created_at": "2021-02-02T13:13:04.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356591466181664768",
+      "possibly_sensitive": false,
+      "text": "学長も巻き込まれた！ひどい！ってまぁ心情としてそれはわかるけど、ごじょせんとゆーじクンだけ取り除いても原因がいなくなっただけだし、周囲の納得のためには責を引き受ける人柱が必要になるのはまぁ掟っぽい(今更ツイート)"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "id": "1356587479923478534",
+      "created_at": "2021-02-02T12:57:14.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356587479923478534",
+      "possibly_sensitive": false,
+      "text": "✅ そうだ今日はまだ草生やしてない，などといってこの時間からエディタ開くのをやめる"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "id": "1356585212453343233",
+      "created_at": "2021-02-02T12:48:13.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356585212453343233",
+      "possibly_sensitive": false,
+      "text": "五年前にコケてなければ俺もトンペーでぇがくでスキーしながら空飛んでたのかな（あり得たかも知れない未来）"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "in_reply_to_user_id": "707346268821913600",
+      "id": "1356584618393182209",
+      "created_at": "2021-02-02T12:45:51.000Z",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1356584078791766022"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356584078791766022",
+      "possibly_sensitive": false,
+      "text": "今の俺が一切の驕りなしに小学生ぐらいの子に教えを請うのとほぼ同じっぽいことを考えると，俺は未だ到底その領域には到達出来ていない"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "id": "1356584078791766022",
+      "created_at": "2021-02-02T12:43:43.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356584078791766022",
+      "possibly_sensitive": false,
+      "text": "実るほど頭を垂れる稲穂かな\n\n↑\n\nこれはガチガチのガチ，実りすぎてるし垂れる（ンだけども絶対に倒れないし病にもかからないのでヤバ）"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "id": "1356583579103358976",
+      "created_at": "2021-02-02T12:41:44.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356583579103358976",
+      "possibly_sensitive": false,
+      "text": "京都大学大学院工学研究科 博士後期課程航空宇宙工学専攻 修了……………………京都大学大学院工学研究科 博士後期課程航空宇宙工学専攻 修了？！？？！？？！？！？？！？！？！？！？？！？！？！ｗｗｗｗｗｗｗｗｗｗｗｗｗｗ"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "in_reply_to_user_id": "4709533183",
+      "id": "1356561327821479939",
+      "created_at": "2021-02-02T11:13:18.000Z",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1356561021201129473"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "hydrogenLABO1"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "conversation_id": "1356560895124463619",
+      "possibly_sensitive": false,
+      "text": "@hydrogenLABO1 アー違うとこに飛び火（業績的な文脈でヤバい）（そういう方から何故かお声がけいただきご説明することになり……）"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "id": "1356560895124463619",
+      "created_at": "2021-02-02T11:11:35.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "conversation_id": "1356560895124463619",
+      "possibly_sensitive": false,
+      "text": "バ先，軽率にヤベェ人材が溢れており俺の諸々がまずい，助けてくれ……"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "824777229892661248",
+            "name": "Generic Food",
+            "description": "Generic Food"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "825049331975589888",
+            "name": "Chicken",
+            "description": "Chicken"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "824777229892661248",
+            "name": "Generic Food",
+            "description": "Generic Food"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "825049331975589888",
+            "name": "Chicken",
+            "description": "Chicken"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "825054072516419584",
+            "name": "Salad",
+            "description": "Salad"
+          }
+        }
+      ],
+      "id": "1356554808530886659",
+      "created_at": "2021-02-02T10:47:24.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356554808530886659",
+      "possibly_sensitive": false,
+      "text": "コメと魚食ったけど何か足りねぇなと思い、冷蔵庫を開けてサラダチキンを手に取ったよね"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "attachments": {
+        "media_keys": [
+          "3_1356553201110011906"
+        ]
+      },
+      "id": "1356553205971181571",
+      "created_at": "2021-02-02T10:41:02.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356553205971181571",
+      "entities": {
+        "urls": [
+          {
+            "start": 15,
+            "end": 38,
+            "url": "https://t.co/r7LUzd3rcT",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1356553205971181571/photo/1",
+            "display_url": "pic.twitter.com/r7LUzd3rcT"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "text": "俺が向いた先が吉方なんだよね https://t.co/r7LUzd3rcT"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "id": "1356502565664419840",
+      "created_at": "2021-02-02T07:19:48.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356502565664419840",
+      "possibly_sensitive": false,
+      "text": "思考がクリエイティブモードにならない，もっと苦しまねば（は？）"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "id": "1356502014293725186",
+      "created_at": "2021-02-02T07:17:37.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356502014293725186",
+      "possibly_sensitive": false,
+      "text": "もうダメだ，心が🍣に支配されてしまった"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "id": "1356473616691392512",
+      "created_at": "2021-02-02T05:24:46.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356473616691392512",
+      "possibly_sensitive": false,
+      "text": "面倒だと思っていること、認識できているうちにやらないと忘れたところにデッドラインがありすぐ死にかける"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "in_reply_to_user_id": "707346268821913600",
+      "id": "1356445487767851008",
+      "created_at": "2021-02-02T03:33:00.000Z",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1356445256309383168"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356445256309383168",
+      "possibly_sensitive": false,
+      "text": "そもそもとしてSEO的なアレがクソ雑魚すぎるネーミングが悪(というかそれを意図してる説もあるけど"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "id": "1356445256309383168",
+      "created_at": "2021-02-02T03:32:05.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356445256309383168",
+      "possibly_sensitive": false,
+      "text": "みんな蟹🦀って言ってるけど外資で働いてる人も海外に居る人もそのように言っており、同調圧力が強すぎる最悪ソーシャルっぽいことがわかってきた"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "id": "1356444016359788546",
+      "created_at": "2021-02-02T03:27:09.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356444016359788546",
+      "possibly_sensitive": false,
+      "text": "有志の二次創作かと思ったらゴリゴリ公式でワロタ"
+    },
+    {
+      "entities": {
+        "hashtags": [
+          {
+            "start": 24,
+            "end": 29,
+            "tag": "モルカー"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 39,
+            "end": 45,
+            "probability": 0.594,
+            "type": "Other",
+            "normalized_text": "ゾンビとランチ"
+          },
+          {
+            "start": 95,
+            "end": 101,
+            "probability": 0.7132,
+            "type": "Other",
+            "normalized_text": "きんだーてれび"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "molcar_anime"
+          }
+        ],
+        "urls": [
+          {
+            "start": 48,
+            "end": 71,
+            "url": "https://t.co/S78MKyfBQ0",
+            "expanded_url": "https://youtu.be/zWZyZ_abdOg",
+            "display_url": "youtu.be/zWZyZ_abdOg",
+            "status": 200,
+            "title": "- YouTube",
+            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+            "unwound_url": "https://www.youtube.com/watch?v=zWZyZ_abdOg&feature=youtu.be"
+          },
+          {
+            "start": 111,
+            "end": 134,
+            "url": "https://t.co/0LI6goGtLP",
+            "expanded_url": "https://twitter.com/molcar_anime/status/1356437186967650304/video/1",
+            "display_url": "pic.twitter.com/0LI6goGtLP"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10046397681",
+            "name": "きんだーてれび"
+          }
+        },
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "1351618812265656320",
+            "name": "PUI PUI モルカー"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "1034860760093024257",
+            "name": "Meals",
+            "description": "Meals"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "1006588701193879552",
+            "name": "Lunch",
+            "description": "This entity tracks all conversations that mention lunch."
+          }
+        }
+      ],
+      "attachments": {
+        "media_keys": [
+          "7_1356171500055744512"
+        ]
+      },
+      "id": "1356443941076303875",
+      "created_at": "2021-02-02T03:26:51.000Z",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1356437186967650304"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 37498,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356443941076303875",
+      "possibly_sensitive": false,
+      "text": "RT @molcar_anime: 【こんどの #モルカー は❓】\n\n第６話「ゾンビとランチ」\nhttps://t.co/S78MKyfBQ0\n\n2月9日（火）あさ7:30～\nテレビ東京系「きんだーてれび」にて放送🥕🚙💨 https://t.co/0LI6goGtLP"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "id": "1356442011780349952",
+      "created_at": "2021-02-02T03:19:11.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356442011780349952",
+      "entities": {
+        "urls": [
+          {
+            "start": 0,
+            "end": 23,
+            "url": "https://t.co/JYSS1vW4A1",
+            "expanded_url": "https://open.spotify.com/track/5xt0Ml7fufhcpLaFTV1Hb3?si=qvuzOSXUSR25WRSLwZG9dw",
+            "display_url": "open.spotify.com/track/5xt0Ml7f…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1356442012153573376/xzhhrByO?format=jpg&name=orig",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1356442012153573376/xzhhrByO?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Unmei Kaika",
+            "description": "Kuhakugokko · Song · 2021",
+            "unwound_url": "https://open.spotify.com/track/5xt0Ml7fufhcpLaFTV1Hb3?si=qvuzOSXUSR25WRSLwZG9dw"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "text": "https://t.co/JYSS1vW4A1"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "attachments": {
+        "media_keys": [
+          "3_1288799527344848902"
+        ]
+      },
+      "id": "1356440108438675457",
+      "created_at": "2021-02-02T03:11:37.000Z",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1288799553878020101"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "nomorehole2"
+          }
+        ],
+        "urls": [
+          {
+            "start": 17,
+            "end": 40,
+            "url": "https://t.co/QStZqACdXo",
+            "expanded_url": "https://twitter.com/nomorehole2/status/1288799553878020101/photo/1",
+            "display_url": "pic.twitter.com/QStZqACdXo"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 13986,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356440108438675457",
+      "possibly_sensitive": false,
+      "text": "RT @nomorehole2: https://t.co/QStZqACdXo"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "entities": {
+        "annotations": [
+          {
+            "start": 84,
+            "end": 85,
+            "probability": 0.9147,
+            "type": "Place",
+            "normalized_text": "埼玉"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "824777229892661248",
+            "name": "Generic Food",
+            "description": "Generic Food"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "842797798626009088",
+            "name": "Vegetables",
+            "description": "Vegetables"
+          }
+        }
+      ],
+      "id": "1356438144766275584",
+      "created_at": "2021-02-02T03:03:49.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356438144766275584",
+      "possibly_sensitive": false,
+      "text": "兎は本来四つ足だけど実は鳥なので一羽二羽と数えるし憐れみの令は鳥を除くので食える、そして実は2010年後半頃に複数の野菜が融合した「キメラ・ベジタブル」を開発した企業が埼玉の奥地に存在するがそのまま店頭に並ぶと風評被害が著しくなってしまったため細切れにして袋詰めするようになった"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 5,
+            "probability": 0.6208,
+            "type": "Product",
+            "normalized_text": "GitHub"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692468",
+            "name": "GitHub"
+          }
+        }
+      ],
+      "id": "1356434137691774976",
+      "created_at": "2021-02-02T02:47:54.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356434137691774976",
+      "possibly_sensitive": false,
+      "text": "GitHubのforkは単にその時のバージョンの塩漬けしてるだけのイメージだけど、そこに何らかのポジティブな印象を付与すると辛くなりそう(精力的な人は開発に関与するというだけと思ってた"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "id": "1356433628691976192",
+      "created_at": "2021-02-02T02:45:53.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356433628691976192",
+      "possibly_sensitive": false,
+      "text": "股関節オワッとるけど"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "id": "1356433544600457219",
+      "created_at": "2021-02-02T02:45:33.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356433544600457219",
+      "possibly_sensitive": false,
+      "text": "身体のメンテしないと人は死にます、生きているうちは死まで一直線なので"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "id": "1356403628886482944",
+      "created_at": "2021-02-02T00:46:40.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356403628886482944",
+      "possibly_sensitive": false,
+      "text": "世の中には入院はおろか手術を受けたことがないみたいな健常者もいてすごい、俺らの分の医療費まで頑張って納めてくれている"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "id": "1356403407230169090",
+      "created_at": "2021-02-02T00:45:47.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356403407230169090",
+      "possibly_sensitive": false,
+      "text": "年末に轢かれる人間もいるし、年度始めに小腸が破裂する人間もいる(術後一年半は様々なことに苦しむので気をつけてください"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 6,
+            "probability": 0.4,
+            "type": "Other",
+            "normalized_text": "バイオハザード"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "847527946864607232",
+            "name": "Mobile gaming",
+            "description": "Mobile gaming"
+          }
+        },
+        {
+          "domain": {
+            "id": "71",
+            "name": "Video Game",
+            "description": "A video game like Overwatch"
+          },
+          "entity": {
+            "id": "10045383005",
+            "name": "Resident Evil",
+            "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+          }
+        }
+      ],
+      "id": "1356268053567205377",
+      "created_at": "2021-02-01T15:47:56.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356268053567205377",
+      "possibly_sensitive": false,
+      "text": "バイオハザードでも有名なあのマーク、私のお注射にも描いてあるワヨ(朝目覚めると異形へと変わっているかもしれん"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "id": "1356267391219425282",
+      "created_at": "2021-02-01T15:45:18.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356267391219425282",
+      "possibly_sensitive": false,
+      "text": "自己注射薬ミスって静脈に当てたかもしれん、みるみる体調不良急降下"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "in_reply_to_user_id": "707346268821913600",
+      "id": "1356259441700610049",
+      "created_at": "2021-02-01T15:13:43.000Z",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1356256387169476608"
+        },
+        {
+          "type": "replied_to",
+          "id": "1356259291984850944"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1345020610875777024",
+      "entities": {
+        "urls": [
+          {
+            "start": 26,
+            "end": 49,
+            "url": "https://t.co/ZCRMsnLAk7",
+            "expanded_url": "https://twitter.com/ningensei848/status/1356256387169476608",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "text": "今日も今日とて、それなりに継続している、チカラです https://t.co/ZCRMsnLAk7"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "in_reply_to_user_id": "707346268821913600",
+      "id": "1356259291984850944",
+      "created_at": "2021-02-01T15:13:07.000Z",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1355893947994877952"
+        },
+        {
+          "type": "replied_to",
+          "id": "1355663891003363333"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1345020610875777024",
+      "entities": {
+        "urls": [
+          {
+            "start": 21,
+            "end": 44,
+            "url": "https://t.co/lf0budgUnd",
+            "expanded_url": "https://twitter.com/ningensei848/status/1355893947994877952",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "text": "日曜はちょろっと頑張ってたらしい、イイね https://t.co/lf0budgUnd"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "id": "1356258996135501828",
+      "created_at": "2021-02-01T15:11:57.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356258996135501828",
+      "possibly_sensitive": false,
+      "text": "さも自分がそれを選択したかのように言っているが、本当は選択される側にならないと参加できないという共通点があり、それは…"
+    },
+    {
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "id": "1356258728211750912",
+      "created_at": "2021-02-01T15:10:53.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1356258728211750912",
+      "possibly_sensitive": false,
+      "text": "あもんがすといいかにはうすといい、名は知っているしやってみたいけれどそれが自分ものではないとわかる大衆ウケが良いものへの回避力が高まりすぎてしまった"
+    },
+    {
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "source": "contributter",
+      "id": "1356256387169476608",
+      "created_at": "2021-02-01T15:01:35.000Z",
+      "author_id": "707346268821913600",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "conversation_id": "1356256387169476608",
+      "possibly_sensitive": false,
+      "text": "Ningensei848 さんの 2021/02/01 の contribution 数: 1\n #contributter_report"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "verified": false,
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "name": "きあい🌖",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "id": "707346268821913600",
+        "location": "山梨県→茨城県つくば市",
+        "username": "Ningensei848",
+        "pinned_tweet_id": "1345020610875777024",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 989,
+          "tweet_count": 58286,
+          "listed_count": 22
+        },
+        "url": "https://t.co/KBXT0N3eAa"
+      },
+      {
+        "verified": false,
+        "created_at": "2020-11-24T11:39:03.000Z",
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/usbvwVndE0",
+                "expanded_url": "http://molcar-anime.com",
+                "display_url": "molcar-anime.com"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 89,
+                "end": 112,
+                "url": "https://t.co/4Dg885DSBR",
+                "expanded_url": "http://instagram.com/molcar_anime/",
+                "display_url": "instagram.com/molcar_anime/"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1332155026349846532/TJf7zkvI_normal.jpg",
+        "name": "PUI PUI モルカー【公式】",
+        "description": "2021年1月期 テレビアニメ『PUI PUI モルカー』公式アカウントです。テレビ東京系「きんだーてれび」にて毎週火曜あさ7時30分 ※原則個別リプライは行なっておりません。 https://t.co/4Dg885DSBR (c)見里朝希JGH・シンエイ動画／モルカーズ",
+        "id": "1331200522448080896",
+        "username": "molcar_anime",
+        "pinned_tweet_id": "1356376786938957824",
+        "public_metrics": {
+          "followers_count": 317778,
+          "following_count": 3,
+          "tweet_count": 226,
+          "listed_count": 942
+        },
+        "url": "https://t.co/usbvwVndE0"
+      },
+      {
+        "verified": false,
+        "created_at": "2016-11-06T15:20:15.000Z",
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/pi2mU4sRVp",
+                "expanded_url": "https://note.mu/paper_kamikiri",
+                "display_url": "note.mu/paper_kamikiri"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1172101164369760256/tjxQeNK2_normal.jpg",
+        "name": "けん",
+        "description": "４月１１日、漫画、雑な生活発売予定。他著作あり。その他雑多な漫画をツイッターに載せてます。なんか仕事あったらください paperkamikiri@gmail.com",
+        "id": "795284666995470336",
+        "location": "東京",
+        "username": "nomorehole2",
+        "pinned_tweet_id": "1286871241526108160",
+        "public_metrics": {
+          "followers_count": 105348,
+          "following_count": 3008,
+          "tweet_count": 7861,
+          "listed_count": 833
+        },
+        "url": "https://t.co/pi2mU4sRVp"
+      }
+    ],
+    "tweets": [
+      {
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "id": "1356584078791766022",
+        "created_at": "2021-02-02T12:43:43.000Z",
+        "author_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "conversation_id": "1356584078791766022",
+        "possibly_sensitive": false,
+        "text": "実るほど頭を垂れる稲穂かな\n\n↑\n\nこれはガチガチのガチ，実りすぎてるし垂れる（ンだけども絶対に倒れないし病にもかからないのでヤバ）"
+      },
+      {
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "id": "1356445256309383168",
+        "created_at": "2021-02-02T03:32:05.000Z",
+        "author_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "conversation_id": "1356445256309383168",
+        "possibly_sensitive": false,
+        "text": "みんな蟹🦀って言ってるけど外資で働いてる人も海外に居る人もそのように言っており、同調圧力が強すぎる最悪ソーシャルっぽいことがわかってきた"
+      },
+      {
+        "entities": {
+          "hashtags": [
+            {
+              "start": 6,
+              "end": 11,
+              "tag": "モルカー"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 21,
+              "end": 27,
+              "probability": 0.6537,
+              "type": "Other",
+              "normalized_text": "ゾンビとランチ"
+            },
+            {
+              "start": 77,
+              "end": 83,
+              "probability": 0.7295,
+              "type": "Other",
+              "normalized_text": "きんだーてれび"
+            }
+          ],
+          "urls": [
+            {
+              "start": 30,
+              "end": 53,
+              "url": "https://t.co/S78MKyfBQ0",
+              "expanded_url": "https://youtu.be/zWZyZ_abdOg",
+              "display_url": "youtu.be/zWZyZ_abdOg",
+              "status": 200,
+              "title": "- YouTube",
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "unwound_url": "https://www.youtube.com/watch?v=zWZyZ_abdOg&feature=youtu.be"
+            },
+            {
+              "start": 93,
+              "end": 116,
+              "url": "https://t.co/0LI6goGtLP",
+              "expanded_url": "https://twitter.com/molcar_anime/status/1356437186967650304/video/1",
+              "display_url": "pic.twitter.com/0LI6goGtLP"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "3",
+              "name": "TV Shows",
+              "description": "Television shows from around the world"
+            },
+            "entity": {
+              "id": "10046397681",
+              "name": "きんだーてれび"
+            }
+          },
+          {
+            "domain": {
+              "id": "3",
+              "name": "TV Shows",
+              "description": "Television shows from around the world"
+            },
+            "entity": {
+              "id": "1351618812265656320",
+              "name": "PUI PUI モルカー"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "1034860760093024257",
+              "name": "Meals",
+              "description": "Meals"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "1006588701193879552",
+              "name": "Lunch",
+              "description": "This entity tracks all conversations that mention lunch."
+            }
+          }
+        ],
+        "attachments": {
+          "media_keys": [
+            "7_1356171500055744512"
+          ]
+        },
+        "id": "1356437186967650304",
+        "created_at": "2021-02-02T03:00:01.000Z",
+        "author_id": "1331200522448080896",
+        "public_metrics": {
+          "retweet_count": 37498,
+          "reply_count": 179,
+          "like_count": 53918,
+          "quote_count": 1989
+        },
+        "conversation_id": "1356437186967650304",
+        "possibly_sensitive": false,
+        "text": "【こんどの #モルカー は❓】\n\n第６話「ゾンビとランチ」\nhttps://t.co/S78MKyfBQ0\n\n2月9日（火）あさ7:30～\nテレビ東京系「きんだーてれび」にて放送🥕🚙💨 https://t.co/0LI6goGtLP"
+      },
+      {
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "attachments": {
+          "media_keys": [
+            "3_1288799527344848902"
+          ]
+        },
+        "id": "1288799553878020101",
+        "created_at": "2020-07-30T11:32:13.000Z",
+        "author_id": "795284666995470336",
+        "public_metrics": {
+          "retweet_count": 13986,
+          "reply_count": 49,
+          "like_count": 74629,
+          "quote_count": 107
+        },
+        "conversation_id": "1288799553878020101",
+        "entities": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/QStZqACdXo",
+              "expanded_url": "https://twitter.com/nomorehole2/status/1288799553878020101/photo/1",
+              "display_url": "pic.twitter.com/QStZqACdXo"
+            }
+          ]
+        },
+        "possibly_sensitive": false,
+        "text": "https://t.co/QStZqACdXo"
+      },
+      {
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "source": "contributter",
+        "id": "1356256387169476608",
+        "created_at": "2021-02-01T15:01:35.000Z",
+        "author_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "conversation_id": "1356256387169476608",
+        "possibly_sensitive": false,
+        "text": "Ningensei848 さんの 2021/02/01 の contribution 数: 1\n #contributter_report"
+      },
+      {
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad",
+        "in_reply_to_user_id": "707346268821913600",
+        "id": "1356259291984850944",
+        "created_at": "2021-02-01T15:13:07.000Z",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1355893947994877952"
+          },
+          {
+            "type": "replied_to",
+            "id": "1355663891003363333"
+          }
+        ],
+        "author_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "conversation_id": "1345020610875777024",
+        "entities": {
+          "urls": [
+            {
+              "start": 21,
+              "end": 44,
+              "url": "https://t.co/lf0budgUnd",
+              "expanded_url": "https://twitter.com/ningensei848/status/1355893947994877952",
+              "display_url": "twitter.com/ningensei848/s…"
+            }
+          ]
+        },
+        "possibly_sensitive": false,
+        "text": "日曜はちょろっと頑張ってたらしい、イイね https://t.co/lf0budgUnd"
+      },
+      {
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "source": "contributter",
+        "id": "1355893947994877952",
+        "created_at": "2021-01-31T15:01:23.000Z",
+        "author_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "conversation_id": "1355893947994877952",
+        "possibly_sensitive": false,
+        "text": "Ningensei848 さんの 2021/01/31 の contribution 数: 3\n #contributter_report"
+      },
+      {
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "in_reply_to_user_id": "707346268821913600",
+        "id": "1355663891003363333",
+        "created_at": "2021-01-30T23:47:13.000Z",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1355531556325101570"
+          },
+          {
+            "type": "replied_to",
+            "id": "1355336378616143873"
+          }
+        ],
+        "author_id": "707346268821913600",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "conversation_id": "1345020610875777024",
+        "entities": {
+          "urls": [
+            {
+              "start": 15,
+              "end": 38,
+              "url": "https://t.co/Z6F9FccoLT",
+              "expanded_url": "https://twitter.com/ningensei848/status/1355531556325101570",
+              "display_url": "twitter.com/ningensei848/s…"
+            }
+          ]
+        },
+        "possibly_sensitive": false,
+        "text": "まぁ土曜も動いててえらいねー https://t.co/Z6F9FccoLT"
+      }
+    ],
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EtNx8vcU0AI9Her.jpg",
+        "width": 1536,
+        "height": 2048,
+        "media_key": "3_1356553201110011906"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EeK8V34UwAYtBoG.jpg",
+        "width": 877,
+        "height": 2396,
+        "media_key": "3_1288799527344848902"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "value": "hydrogenLABO1",
+      "parameter": "entities.mentions.username",
+      "resource_type": "user",
+      "section": "includes",
+      "title": "Authorization Error",
+      "detail": "Sorry, you are not authorized to see the user with entities.mentions.username: [hydrogenLABO1].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    },
+    {
+      "value": "4709533183",
+      "parameter": "in_reply_to_user_id",
+      "resource_type": "user",
+      "section": "includes",
+      "title": "Authorization Error",
+      "detail": "Sorry, you are not authorized to see the user with in_reply_to_user_id: [4709533183].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1356561021201129473].",
+      "title": "Not Found Error",
+      "resource_type": "tweet",
+      "parameter": "referenced_tweets.id",
+      "value": "1356561021201129473",
+      "type": "https://api.twitter.com/2/problems/resource-not-found"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_0_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_100_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_25_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_50_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_75_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_0_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_100_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_25_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_50_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_75_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.view_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.view_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_0_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_100_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_25_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_50_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_75_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.view_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1356171500055744512",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.view_count' on the media with attachments.media_keys : [7_1356171500055744512].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    }
+  ],
+  "meta": {
+    "oldest_id": "1356256387169476608",
+    "newest_id": "1356591466181664768",
+    "result_count": 32
+  }
+}
