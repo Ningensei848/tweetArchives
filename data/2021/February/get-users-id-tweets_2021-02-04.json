@@ -1,0 +1,1451 @@
+{
+  "data": [
+    {
+      "reply_settings": "everyone",
+      "text": "まーた新しい言葉を作って浸透させたら勝ちゲームやってるテレビのおっさんが居るな",
+      "created_at": "2021-02-04T14:34:51.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357336825409380353",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357336825409380353",
+      "possibly_sensitive": false,
+      "source": "Twitter Web App"
+    },
+    {
+      "in_reply_to_user_id": "1020670581803397121",
+      "reply_settings": "everyone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 13,
+            "username": "HaRu20835392"
+          }
+        ]
+      },
+      "text": "@HaRu20835392 他の人が開けたことの証明ができないのでガバ",
+      "created_at": "2021-02-04T14:33:01.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1357336361011802113",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357331623184789506",
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1357331623184789506"
+        }
+      ],
+      "source": "Twitter Web App"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "二十も半ばになるとしに、住所を手書きするとき馬鹿正直に「〜〜宛」とそのまま手書きしてしまったでござるよ(セキュアでは無いので宛名書きという文化を滅ぼし全てQRか電子タグで管理されるようにしてくれ河野太郎",
+      "created_at": "2021-02-04T13:30:45.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "900162286538469376",
+            "name": "Taro Kono",
+            "description": "Taro Kono (河野太郎)"
+          }
+        },
+        {
+          "domain": {
+            "id": "35",
+            "name": "Politician",
+            "description": "Politicians in the world, like Joe Biden"
+          },
+          "entity": {
+            "id": "900162286538469376",
+            "name": "Taro Kono",
+            "description": "Taro Kono (河野太郎)"
+          }
+        }
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 97,
+            "end": 100,
+            "probability": 0.9141,
+            "type": "Person",
+            "normalized_text": "河野太郎"
+          }
+        ]
+      },
+      "id": "1357320692446810112",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357320692446810112",
+      "possibly_sensitive": false,
+      "source": "Twitter for iPad"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "https://t.co/E5PTCDPgJJ",
+      "created_at": "2021-02-04T11:54:05.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357296365072621569",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357296365072621569",
+      "entities": {
+        "urls": [
+          {
+            "start": 0,
+            "end": 23,
+            "url": "https://t.co/E5PTCDPgJJ",
+            "expanded_url": "https://open.spotify.com/track/4zO9QdJrLK2s5f0xg9JiA9?si=hBPz8Pp7TmeHOwmFqJcuEQ",
+            "display_url": "open.spotify.com/track/4zO9QdJr…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1357296365466841088/sSkXnZMU?format=jpg&name=orig",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1357296365466841088/sSkXnZMU?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda",
+            "description": "Oishi Masayoshi · Song · 2020",
+            "unwound_url": "https://open.spotify.com/track/4zO9QdJrLK2s5f0xg9JiA9?si=hBPz8Pp7TmeHOwmFqJcuEQ"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "最近食事がちょっとヤバくて、なんらかのアラートが出てる可能性がある",
+      "created_at": "2021-02-04T11:51:39.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "825047692124442624",
+            "name": "Food",
+            "description": "Food"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "1034860760093024257",
+            "name": "Meals",
+            "description": "Meals"
+          }
+        }
+      ],
+      "id": "1357295754931392516",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357295754931392516",
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "悪い大人ばかりなので定時過ぎてから話が動く(やめましょう)",
+      "created_at": "2021-02-04T11:48:58.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1357295077870116865",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357295077870116865",
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "営業しなくても無限にタスクが降ってきてどうにか倒していれば生活できる，SIerは悪と言われがちだけどこういう流れがきちんとあって食いっぱぐれないならまぁいいのかなァ",
+      "created_at": "2021-02-04T10:04:19.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357268740652453888",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357268740652453888",
+      "possibly_sensitive": false,
+      "source": "TweetDeck"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "持病を悪くしてぶっ倒れたことがきっかけで色々流れが変わった可能性がある，良くも悪くも",
+      "created_at": "2021-02-04T10:00:53.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357267876764209160",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357267876764209160",
+      "possibly_sensitive": false,
+      "source": "TweetDeck"
+    },
+    {
+      "in_reply_to_user_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "これ別に別コンテナでドキュメント立てればいいじゃんとあとから気づいてなるほど～～～ってなったけど，できるだけ同じリポジトリ内に共通のコンフィグファイルでやれたほうがよくない？という謎のコダワリでやってしまた～～",
+      "created_at": "2021-02-04T09:32:20.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357260693540511745",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357260284507824128",
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1357260284507824128"
+        }
+      ],
+      "source": "TweetDeck"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "すべての typescript プロジェクトにはドキュメントが必要だと思って docusaurus に任意のプロジェクトをはめ込めるように苦労してたら午後終わってた",
+      "created_at": "2021-02-04T09:30:43.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        }
+      ],
+      "id": "1357260284507824128",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357260284507824128",
+      "possibly_sensitive": false,
+      "source": "TweetDeck"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "【実績解除】Github pages を自動デプロイ【Docusaurus】",
+      "created_at": "2021-02-04T09:28:23.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692468",
+            "name": "GitHub"
+          }
+        }
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 6,
+            "end": 17,
+            "probability": 0.3,
+            "type": "Product",
+            "normalized_text": "Github pages"
+          }
+        ]
+      },
+      "id": "1357259699956011010",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357259699956011010",
+      "possibly_sensitive": false,
+      "source": "TweetDeck"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "取り敢えず仮眠して、過集中をやります",
+      "created_at": "2021-02-04T05:07:00.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357193918736072710",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357193918736072710",
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "ずっと何かあった違和感、スッキリ解決",
+      "created_at": "2021-02-04T04:49:10.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357189430507806720",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357189430507806720",
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "あ！コレかぁ！",
+      "created_at": "2021-02-04T04:48:29.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357189258562310144",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357189258562310144",
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone"
+    },
+    {
+      "reply_settings": "everyone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "ASVKVN"
+          }
+        ]
+      },
+      "text": "RT @ASVKVN: クラブ・ハウス 　ルールその1、クラブ・ハウスのことを決して口外するな",
+      "created_at": "2021-02-04T04:48:21.000Z",
+      "public_metrics": {
+        "retweet_count": 12,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "834828264786898945",
+            "name": "Drinks",
+            "description": "Drinks"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "867371273248047104",
+            "name": "Drink Novelty",
+            "description": "Drink Novelty"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "847861743699099649",
+            "name": "Nightlife",
+            "description": "Bars and nightlife"
+          }
+        }
+      ],
+      "id": "1357189225708285952",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357189225708285952",
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1357098420578648064"
+        }
+      ],
+      "source": "Twitter for iPhone"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "未だにbabelとwebpackの関係が説明できない，なんとなくやっている",
+      "created_at": "2021-02-04T03:29:24.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 3,
+            "end": 7,
+            "probability": 0.3051,
+            "type": "Organization",
+            "normalized_text": "babel"
+          },
+          {
+            "start": 9,
+            "end": 15,
+            "probability": 0.3833,
+            "type": "Product",
+            "normalized_text": "webpack"
+          }
+        ]
+      },
+      "id": "1357169359454539776",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357169359454539776",
+      "possibly_sensitive": false,
+      "source": "TweetDeck"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "流血鬼",
+      "created_at": "2021-02-04T02:35:14.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357155726993420289",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357155726993420289",
+      "possibly_sensitive": false,
+      "source": "Twitter for iPad"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "絶対に誰かが割りを食わないといけないってのは確定事項なわけで、コレを覆せない限り、未来ある若者たちを磨り潰すよりも老い先短い人々に引導を渡すのが社会のあるべき姿でしょ、幸いにもそういうムーヴメントが未だ無いだけで半年後に世論が変わっててもおかしく無い",
+      "created_at": "2021-02-04T02:20:30.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357152018578640901",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357152018578640901",
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "なに！？就活で席がない？？\n\nいまなら「積極的に外出してキャリアになる」だけで空席をつくることができるボーナスチャンス！マスクを外して書を捨てよ！\n\n※席が用意されるわけではありません\n※多くの方に自覚症状はありませんが、重篤化する可能性もあります",
+      "created_at": "2021-02-04T02:17:14.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847544972781826048",
+            "name": "Careers",
+            "description": "Careers"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "1045046778876153856",
+            "name": "Going Out",
+            "description": "This entity tracks all conversations about going out."
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847544972781826048",
+            "name": "Careers",
+            "description": "Careers"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "850073441055133696",
+            "name": "Job search",
+            "description": "Job search"
+          }
+        }
+      ],
+      "id": "1357151194313936899",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357151194313936899",
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "森が引責辞任したら、じゃあ誰がやるのということになるし、誰かが代わりにやらねばならなくなるのでこのまま自然s…消滅を待つほか無いよ",
+      "created_at": "2021-02-04T01:51:29.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357144714718285828",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357144714718285828",
+      "possibly_sensitive": false,
+      "source": "Twitter for iPad"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "https://t.co/Xid59d77f3",
+      "created_at": "2021-02-04T00:35:02.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357125477941403649",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357125477941403649",
+      "entities": {
+        "urls": [
+          {
+            "start": 0,
+            "end": 23,
+            "url": "https://t.co/Xid59d77f3",
+            "expanded_url": "https://open.spotify.com/track/3emx1043Yu9a1UboU6G6lb?si=v5pXa-XfQR-UKkbPt_NZ9g",
+            "display_url": "open.spotify.com/track/3emx1043…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1357125478214103040/eqW7Ved6?format=jpg&name=orig",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1357125478214103040/eqW7Ved6?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Time to renew",
+            "description": "Pasocom Music Club · Song · 2019",
+            "unwound_url": "https://open.spotify.com/track/3emx1043Yu9a1UboU6G6lb?si=v5pXa-XfQR-UKkbPt_NZ9g"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "ジジイにヘイトを集めて突然死させて英霊化する、これがクールジャパンだしアベが糸引いてるんすよね実は",
+      "created_at": "2021-02-04T00:22:18.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357122271379247104",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357122271379247104",
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone"
+    },
+    {
+      "reply_settings": "everyone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 9,
+            "username": "yagi_"
+          }
+        ]
+      },
+      "text": "RT @yagi_: 森は森なりのやり方でオリンピックを中止させようとしている",
+      "created_at": "2021-02-04T00:21:09.000Z",
+      "public_metrics": {
+        "retweet_count": 9478,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "6",
+            "name": "Sports Event"
+          },
+          "entity": {
+            "id": "1103026158382141440",
+            "name": "Tokyo 2021 Summer Olympics",
+            "description": "Tokyo 2020 Summer Olympics "
+          }
+        },
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ],
+      "id": "1357121982689513472",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357121982689513472",
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1356961963251654663"
+        }
+      ],
+      "source": "Twitter for iPhone"
+    },
+    {
+      "in_reply_to_user_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "黎明期にクソ雑魚国産機でハードウェア的な悪評があり、ここにきてさらにソフトウェア的な追い打ちも喰らう日本のスマホ関連産業、もう🍎に全部託してもイイのでは(最悪)",
+      "created_at": "2021-02-03T22:37:09.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357095809829883904",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357095013729988608",
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1357095013729988608"
+        }
+      ],
+      "source": "Twitter for iPad"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "日本のモバイルアプリの恩恵を得る上で、同時期にAndroidはクソという情報が溢れてしまった今、敢えてAndroidを選ぶ理由がマジで価格しか無くなってしまった(🦀🏠と☕️)\n\n消極的な採用理由なら「iOSではない」というのもあるけど、それもヘビーユーザーや開発者でも無い限りほぼ制約にならない",
+      "created_at": "2021-02-03T22:33:59.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026820777",
+            "name": "Android"
+          }
+        },
+        {
+          "domain": {
+            "id": "48",
+            "name": "Product",
+            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+          },
+          "entity": {
+            "id": "10044903039",
+            "name": "Apple - iOS"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848985956778561538",
+            "name": "Mobile",
+            "description": "Mobile"
+          }
+        }
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 1,
+            "probability": 0.8972,
+            "type": "Place",
+            "normalized_text": "日本"
+          },
+          {
+            "start": 23,
+            "end": 29,
+            "probability": 0.832,
+            "type": "Product",
+            "normalized_text": "Android"
+          },
+          {
+            "start": 51,
+            "end": 57,
+            "probability": 0.8338,
+            "type": "Product",
+            "normalized_text": "Android"
+          },
+          {
+            "start": 102,
+            "end": 104,
+            "probability": 0.5693,
+            "type": "Product",
+            "normalized_text": "iOS"
+          }
+        ]
+      },
+      "id": "1357095013729988608",
+      "author_id": "707346268821913600",
+      "conversation_id": "1357095013729988608",
+      "possibly_sensitive": false,
+      "source": "Twitter for iPad"
+    },
+    {
+      "in_reply_to_user_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "text": "今日もやっていきましょうね、昨日はそれなりに頑張れたので https://t.co/wBShY8nCLz",
+      "created_at": "2021-02-03T21:48:47.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357083636726566913",
+      "author_id": "707346268821913600",
+      "conversation_id": "1345020610875777024",
+      "entities": {
+        "urls": [
+          {
+            "start": 29,
+            "end": 52,
+            "url": "https://t.co/wBShY8nCLz",
+            "expanded_url": "https://twitter.com/ningensei848/status/1356981129467883520",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1356981129467883520"
+        },
+        {
+          "type": "replied_to",
+          "id": "1356721898927738880"
+        }
+      ],
+      "source": "Twitter for iPhone"
+    },
+    {
+      "reply_settings": "everyone",
+      "text": "Ningensei848 さんの 2021/02/03 の contribution 数: 2\n #contributter_report",
+      "created_at": "2021-02-03T15:01:27.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "id": "1356981129467883520",
+      "author_id": "707346268821913600",
+      "conversation_id": "1356981129467883520",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 49,
+            "end": 69,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "source": "contributter"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "verified": false,
+        "pinned_tweet_id": "1345020610875777024",
+        "username": "Ningensei848",
+        "id": "707346268821913600",
+        "location": "山梨県→茨城県つくば市",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "url": "https://t.co/KBXT0N3eAa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "protected": false,
+        "name": "きあい🌗",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 990,
+          "tweet_count": 58343,
+          "listed_count": 22
+        }
+      },
+      {
+        "verified": false,
+        "pinned_tweet_id": "1337561831217405952",
+        "username": "HaRu20835392",
+        "id": "1020670581803397121",
+        "location": "きっとたぶん明日のわたしは今日より幸せ",
+        "created_at": "2018-07-21T14:03:24.000Z",
+        "description": "klis16 でした /",
+        "url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325447797907181570/QdeGPn-D_normal.jpg",
+        "protected": false,
+        "name": "Yukida(Lu)〽️",
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 65,
+          "tweet_count": 3524,
+          "listed_count": 1
+        }
+      },
+      {
+        "verified": false,
+        "pinned_tweet_id": "1329773516896387074",
+        "username": "ASVKVN",
+        "id": "1285158549580988418",
+        "created_at": "2020-07-20T10:24:41.000Z",
+        "description": "Asukun(@AsukunMelodeath):全部 / Galundo Tenvulance(@GalundoTenv):コンポーザー、リズムギター",
+        "url": "",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "start": 7,
+                "end": 23,
+                "username": "AsukunMelodeath"
+              },
+              {
+                "start": 49,
+                "end": 61,
+                "username": "GalundoTenv"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1287044105927704576/XjvI0JHT_normal.jpg",
+        "protected": false,
+        "name": "明日くん",
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 511,
+          "tweet_count": 2985,
+          "listed_count": 7
+        }
+      },
+      {
+        "verified": false,
+        "username": "yagi_",
+        "id": "6758552",
+        "created_at": "2007-06-12T04:44:36.000Z",
+        "description": "/どうぞご自由に/",
+        "url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/666969903145054208/Hlo2hRGU_normal.jpg",
+        "protected": false,
+        "name": "八木の野郎",
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 519,
+          "tweet_count": 62068,
+          "listed_count": 58
+        }
+      }
+    ],
+    "tweets": [
+      {
+        "reply_settings": "everyone",
+        "text": "宛名をつけると他の人が開けたことに対して法的措置を考慮可能なのでセキュアなんですよ https://t.co/Ygv0EWMWYO",
+        "created_at": "2021-02-04T14:14:11.000Z",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "900162286538469376",
+              "name": "Taro Kono",
+              "description": "Taro Kono (河野太郎)"
+            }
+          },
+          {
+            "domain": {
+              "id": "35",
+              "name": "Politician",
+              "description": "Politicians in the world, like Joe Biden"
+            },
+            "entity": {
+              "id": "900162286538469376",
+              "name": "Taro Kono",
+              "description": "Taro Kono (河野太郎)"
+            }
+          }
+        ],
+        "id": "1357331623184789506",
+        "author_id": "1020670581803397121",
+        "conversation_id": "1357331623184789506",
+        "entities": {
+          "urls": [
+            {
+              "start": 42,
+              "end": 65,
+              "url": "https://t.co/Ygv0EWMWYO",
+              "expanded_url": "https://twitter.com/Ningensei848/status/1357320692446810112",
+              "display_url": "twitter.com/Ningensei848/s…"
+            }
+          ]
+        },
+        "possibly_sensitive": false,
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1357320692446810112"
+          }
+        ],
+        "source": "Twitter for Android"
+      },
+      {
+        "reply_settings": "everyone",
+        "text": "すべての typescript プロジェクトにはドキュメントが必要だと思って docusaurus に任意のプロジェクトをはめ込めるように苦労してたら午後終わってた",
+        "created_at": "2021-02-04T09:30:43.000Z",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "848920371311001600",
+              "name": "Technology",
+              "description": "Technology and computing"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "848921413196984320",
+              "name": "Computer programming",
+              "description": "Computer programming"
+            }
+          }
+        ],
+        "id": "1357260284507824128",
+        "author_id": "707346268821913600",
+        "conversation_id": "1357260284507824128",
+        "possibly_sensitive": false,
+        "source": "TweetDeck"
+      },
+      {
+        "reply_settings": "everyone",
+        "text": "クラブ・ハウス 　ルールその1、クラブ・ハウスのことを決して口外するな",
+        "created_at": "2021-02-03T22:47:31.000Z",
+        "public_metrics": {
+          "retweet_count": 12,
+          "reply_count": 1,
+          "like_count": 43,
+          "quote_count": 1
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "834828264786898945",
+              "name": "Drinks",
+              "description": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "867371273248047104",
+              "name": "Drink Novelty",
+              "description": "Drink Novelty"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "847861743699099649",
+              "name": "Nightlife",
+              "description": "Bars and nightlife"
+            }
+          }
+        ],
+        "id": "1357098420578648064",
+        "author_id": "1285158549580988418",
+        "conversation_id": "1357098420578648064",
+        "possibly_sensitive": false,
+        "source": "Twitter for iPhone"
+      },
+      {
+        "reply_settings": "everyone",
+        "text": "森は森なりのやり方でオリンピックを中止させようとしている",
+        "created_at": "2021-02-03T13:45:17.000Z",
+        "public_metrics": {
+          "retweet_count": 9478,
+          "reply_count": 114,
+          "like_count": 50653,
+          "quote_count": 643
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1103026158382141440",
+              "name": "Tokyo 2021 Summer Olympics",
+              "description": "Tokyo 2020 Summer Olympics "
+            }
+          },
+          {
+            "domain": {
+              "id": "123",
+              "name": "Ongoing News Story",
+              "description": "Ongoing News Stories like 'Brexit'"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
+        "id": "1356961963251654663",
+        "author_id": "6758552",
+        "conversation_id": "1356961963251654663",
+        "possibly_sensitive": false,
+        "source": "TweetDeck"
+      },
+      {
+        "reply_settings": "everyone",
+        "text": "日本のモバイルアプリの恩恵を得る上で、同時期にAndroidはクソという情報が溢れてしまった今、敢えてAndroidを選ぶ理由がマジで価格しか無くなってしまった(🦀🏠と☕️)\n\n消極的な採用理由なら「iOSではない」というのもあるけど、それもヘビーユーザーや開発者でも無い限りほぼ制約にならない",
+        "created_at": "2021-02-03T22:33:59.000Z",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "id": "48",
+              "name": "Product",
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "848920371311001600",
+              "name": "Technology",
+              "description": "Technology and computing"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "848985956778561538",
+              "name": "Mobile",
+              "description": "Mobile"
+            }
+          }
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "start": 0,
+              "end": 1,
+              "probability": 0.8972,
+              "type": "Place",
+              "normalized_text": "日本"
+            },
+            {
+              "start": 23,
+              "end": 29,
+              "probability": 0.832,
+              "type": "Product",
+              "normalized_text": "Android"
+            },
+            {
+              "start": 51,
+              "end": 57,
+              "probability": 0.8338,
+              "type": "Product",
+              "normalized_text": "Android"
+            },
+            {
+              "start": 102,
+              "end": 104,
+              "probability": 0.5693,
+              "type": "Product",
+              "normalized_text": "iOS"
+            }
+          ]
+        },
+        "id": "1357095013729988608",
+        "author_id": "707346268821913600",
+        "conversation_id": "1357095013729988608",
+        "possibly_sensitive": false,
+        "source": "Twitter for iPad"
+      },
+      {
+        "reply_settings": "everyone",
+        "text": "Ningensei848 さんの 2021/02/03 の contribution 数: 2\n #contributter_report",
+        "created_at": "2021-02-03T15:01:27.000Z",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "id": "1356981129467883520",
+        "author_id": "707346268821913600",
+        "conversation_id": "1356981129467883520",
+        "entities": {
+          "hashtags": [
+            {
+              "start": 49,
+              "end": 69,
+              "tag": "contributter_report"
+            }
+          ]
+        },
+        "possibly_sensitive": false,
+        "source": "contributter"
+      },
+      {
+        "in_reply_to_user_id": "707346268821913600",
+        "reply_settings": "everyone",
+        "text": "毎日毎日偉いなぁ、続けることそれ自体に強力な価値があることを実感している https://t.co/lFUjBBtM64",
+        "created_at": "2021-02-02T21:51:22.000Z",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "id": "1356721898927738880",
+        "author_id": "707346268821913600",
+        "conversation_id": "1345020610875777024",
+        "entities": {
+          "urls": [
+            {
+              "start": 37,
+              "end": 60,
+              "url": "https://t.co/lFUjBBtM64",
+              "expanded_url": "https://twitter.com/Ningensei848/status/1356618807943561227",
+              "display_url": "twitter.com/Ningensei848/s…"
+            }
+          ]
+        },
+        "possibly_sensitive": false,
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1356618807943561227"
+          },
+          {
+            "type": "replied_to",
+            "id": "1356259441700610049"
+          }
+        ],
+        "source": "Twitter for iPad"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1356981129467883520",
+    "newest_id": "1357336825409380353",
+    "result_count": 27
+  }
+}
