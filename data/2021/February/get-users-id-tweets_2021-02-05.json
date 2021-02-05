@@ -1,0 +1,634 @@
+{
+  "data": [
+    {
+      "possibly_sensitive": false,
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "miltz_326"
+          }
+        ],
+        "urls": [
+          {
+            "start": 15,
+            "end": 38,
+            "url": "https://t.co/0TsBs8mcqR",
+            "expanded_url": "https://twitter.com/miltz_326/status/1357511968735731716/photo/1",
+            "display_url": "pic.twitter.com/0TsBs8mcqR"
+          }
+        ]
+      },
+      "text": "RT @miltz_326: https://t.co/0TsBs8mcqR",
+      "public_metrics": {
+        "retweet_count": 59,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357700060952203270",
+      "attachments": {
+        "media_keys": [
+          "3_1357511956001824770"
+        ]
+      },
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "conversation_id": "1357700060952203270",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1357511968735731716"
+        }
+      ],
+      "created_at": "2021-02-05T14:38:14.000Z"
+    },
+    {
+      "possibly_sensitive": false,
+      "text": "まじで新卒入社キビしい感じになってきて不適合マシマシ，救いが必要",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1357693827234992129",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "conversation_id": "1357693827234992129",
+      "created_at": "2021-02-05T14:13:27.000Z"
+    },
+    {
+      "possibly_sensitive": false,
+      "text": "「まっさらな自由帳」，書き込み放題ですね（笑）",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357691652970696707",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "conversation_id": "1357691652970696707",
+      "created_at": "2021-02-05T14:04:49.000Z"
+    },
+    {
+      "possibly_sensitive": false,
+      "text": "webテストくん90分ちょっとで終了！！！！！！！！！！！！！！！！！！！！！！！！！あほしね！！！！！！！！！！！！！！！！！！！！！！！！",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357691501149519872",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "conversation_id": "1357691501149519872",
+      "created_at": "2021-02-05T14:04:13.000Z"
+    },
+    {
+      "possibly_sensitive": false,
+      "text": "履歴書書いたけどリジェクトされて，理由が「みんなテニュアだから君が正直に複数箇所でバイトしてるのを見て職歴を勘違いした」とのことらしい（同じものを再提出した）",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357568555747708931",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "conversation_id": "1357568555747708931",
+      "created_at": "2021-02-05T05:55:40.000Z"
+    },
+    {
+      "possibly_sensitive": false,
+      "text": "某店、無い(内輪向けツイート)",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357553700999294978",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1357553700999294978",
+      "created_at": "2021-02-05T04:56:39.000Z"
+    },
+    {
+      "possibly_sensitive": false,
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "yuikijp"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 13,
+            "end": 16,
+            "probability": 0.914,
+            "type": "Place",
+            "normalized_text": "つくば市"
+          }
+        ],
+        "urls": [
+          {
+            "start": 54,
+            "end": 77,
+            "url": "https://t.co/cVPOWKxSr6",
+            "expanded_url": "https://twitter.com/yuikijp/status/1357524730538905601/photo/1",
+            "display_url": "pic.twitter.com/cVPOWKxSr6"
+          }
+        ]
+      },
+      "text": "RT @yuikijp: つくば市どこでPayPay30%還元受けられるかわからないので、即席マップ作った https://t.co/cVPOWKxSr6",
+      "public_metrics": {
+        "retweet_count": 18,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357553613380354048",
+      "attachments": {
+        "media_keys": [
+          "3_1357524630529929217"
+        ]
+      },
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1357553613380354048",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1357524730538905601"
+        }
+      ],
+      "created_at": "2021-02-05T04:56:18.000Z"
+    },
+    {
+      "possibly_sensitive": false,
+      "text": "アレ、こんとりびゅったー死んでしまったか？\n#contributter_report",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1357492172874895361",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 22,
+            "end": 42,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "conversation_id": "1357492172874895361",
+      "created_at": "2021-02-05T00:52:09.000Z"
+    },
+    {
+      "possibly_sensitive": false,
+      "text": "参考文献で薄い本を出す卒論、いいですね(狂うのでまだ手を出しておらず具体的な作家名は出せないことに気づいた)",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357479227688316928",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1357479227688316928",
+      "created_at": "2021-02-05T00:00:43.000Z"
+    },
+    {
+      "possibly_sensitive": false,
+      "text": "ヨーロッパの神話系(クソデカ括り)で論考がありそう(アンドロギュノス)",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1357478612836880384",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 4,
+            "probability": 0.916,
+            "type": "Place",
+            "normalized_text": "ヨーロッパ"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1357478612836880384",
+      "created_at": "2021-02-04T23:58:16.000Z"
+    },
+    {
+      "possibly_sensitive": false,
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "thetsuki3"
+          }
+        ]
+      },
+      "text": "RT @thetsuki3: ふたなりについての卒論ってまだ世の中にない？",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357478298582884352",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1357478298582884352",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1357430641722236928"
+        }
+      ],
+      "created_at": "2021-02-04T23:57:01.000Z"
+    },
+    {
+      "possibly_sensitive": false,
+      "text": "もりもりオーロックスみて完全に笑顔、良い一日",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357469526061813761",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "conversation_id": "1357469526061813761",
+      "created_at": "2021-02-04T23:22:10.000Z"
+    },
+    {
+      "possibly_sensitive": false,
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "mojikeri"
+          }
+        ]
+      },
+      "text": "RT @mojikeri: あすいません…コメントで他の配信者様の名前を出すのは控えてほしいです…\nあと下ネタにもちょっと反応しづらいのと…プレイしてないゲームの話題も答えにくいかな…\nあとは死にまつわる16の事柄と、生に関する24の疑問、昼と夜聞こえる音、気と喜、火と悲、水と…",
+      "public_metrics": {
+        "retweet_count": 12,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1357361859230195717",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1357361859230195717",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1357188947915407366"
+        }
+      ],
+      "created_at": "2021-02-04T16:14:20.000Z"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "url": "https://pbs.twimg.com/media/EtbZ7nvVoAIdkM-.jpg",
+        "width": 848,
+        "media_key": "3_1357511956001824770",
+        "type": "photo"
+      },
+      {
+        "height": 1896,
+        "url": "https://pbs.twimg.com/media/EtbldYCUcAEV6Ef.jpg",
+        "width": 3360,
+        "media_key": "3_1357524630529929217",
+        "type": "photo"
+      }
+    ],
+    "users": [
+      {
+        "id": "707346268821913600",
+        "verified": false,
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "protected": false,
+        "location": "山梨県→茨城県つくば市",
+        "pinned_tweet_id": "1345020610875777024",
+        "name": "きあい🌗",
+        "username": "Ningensei848",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "url": "https://t.co/KBXT0N3eAa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 990,
+          "tweet_count": 58356,
+          "listed_count": 22
+        },
+        "created_at": "2016-03-08T23:24:27.000Z"
+      },
+      {
+        "id": "94384961",
+        "verified": false,
+        "description": "CONTACT : https://t.co/H4uEhpv3dq",
+        "protected": false,
+        "location": "東京都 JP",
+        "pinned_tweet_id": "1243515615647805441",
+        "name": "MILTZ",
+        "username": "miltz_326",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/f2JfSfj0S8",
+                "expanded_url": "https://www.behance.net/miltz",
+                "display_url": "behance.net/miltz"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 10,
+                "end": 33,
+                "url": "https://t.co/H4uEhpv3dq",
+                "expanded_url": "http://miltz.myportfolio.com/contact",
+                "display_url": "miltz.myportfolio.com/contact"
+              }
+            ]
+          }
+        },
+        "url": "https://t.co/f2JfSfj0S8",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/885673365712715776/9DZo_0eo_normal.jpg",
+        "public_metrics": {
+          "followers_count": 4570,
+          "following_count": 1579,
+          "tweet_count": 11946,
+          "listed_count": 86
+        },
+        "created_at": "2009-12-03T18:30:36.000Z"
+      },
+      {
+        "id": "762656606",
+        "verified": false,
+        "description": "Android書いたりReact書いたり",
+        "protected": false,
+        "name": "ゆいき",
+        "username": "yuikijp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/2Sd0DwEsBI",
+                "expanded_url": "https://www.yuiki.jp/",
+                "display_url": "yuiki.jp"
+              }
+            ]
+          }
+        },
+        "url": "https://t.co/2Sd0DwEsBI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1082885726625095680/npho4Aww_normal.jpg",
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 769,
+          "tweet_count": 14712,
+          "listed_count": 15
+        },
+        "created_at": "2012-08-17T00:48:31.000Z"
+      },
+      {
+        "id": "979724454577123329",
+        "verified": false,
+        "description": "蛇の道は蛇　ヘッダーは @BB_Bonze より　雑記帳→https://t.co/XuTaYOVEro",
+        "protected": false,
+        "location": "競争原理の呪縛に囚われ続けている哀れな生き物",
+        "pinned_tweet_id": "1259329547029241856",
+        "name": "ティーカップ横綱",
+        "username": "thetsuki3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/GSNUpesWT9",
+                "expanded_url": "https://peing.net/ja/thetsuki3",
+                "display_url": "peing.net/ja/thetsuki3"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 29,
+                "end": 52,
+                "url": "https://t.co/XuTaYOVEro",
+                "expanded_url": "http://note.com/itmtido",
+                "display_url": "note.com/itmtido"
+              }
+            ],
+            "mentions": [
+              {
+                "start": 12,
+                "end": 21,
+                "username": "BB_Bonze"
+              }
+            ]
+          }
+        },
+        "url": "https://t.co/GSNUpesWT9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1309311093785804801/YrZy900e_normal.jpg",
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 1127,
+          "tweet_count": 36859,
+          "listed_count": 10
+        },
+        "created_at": "2018-03-30T14:18:07.000Z"
+      },
+      {
+        "id": "60303778",
+        "verified": false,
+        "description": "こんなにもかわいい",
+        "protected": false,
+        "location": "清流",
+        "name": "もじけり",
+        "username": "mojikeri",
+        "url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1103369968/___normal.PNG",
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 371,
+          "tweet_count": 30325,
+          "listed_count": 5
+        },
+        "created_at": "2009-07-26T13:25:28.000Z"
+      }
+    ],
+    "tweets": [
+      {
+        "possibly_sensitive": false,
+        "text": "https://t.co/0TsBs8mcqR",
+        "public_metrics": {
+          "retweet_count": 59,
+          "reply_count": 2,
+          "like_count": 640,
+          "quote_count": 1
+        },
+        "id": "1357511968735731716",
+        "entities": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/0TsBs8mcqR",
+              "expanded_url": "https://twitter.com/miltz_326/status/1357511968735731716/photo/1",
+              "display_url": "pic.twitter.com/0TsBs8mcqR"
+            }
+          ]
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1357511956001824770"
+          ]
+        },
+        "author_id": "94384961",
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "conversation_id": "1357511968735731716",
+        "created_at": "2021-02-05T02:10:49.000Z"
+      },
+      {
+        "possibly_sensitive": false,
+        "text": "つくば市どこでPayPay30%還元受けられるかわからないので、即席マップ作った https://t.co/cVPOWKxSr6",
+        "public_metrics": {
+          "retweet_count": 18,
+          "reply_count": 3,
+          "like_count": 84,
+          "quote_count": 2
+        },
+        "id": "1357524730538905601",
+        "entities": {
+          "annotations": [
+            {
+              "start": 0,
+              "end": 3,
+              "probability": 0.8715,
+              "type": "Place",
+              "normalized_text": "つくば市"
+            }
+          ],
+          "urls": [
+            {
+              "start": 41,
+              "end": 64,
+              "url": "https://t.co/cVPOWKxSr6",
+              "expanded_url": "https://twitter.com/yuikijp/status/1357524730538905601/photo/1",
+              "display_url": "pic.twitter.com/cVPOWKxSr6"
+            }
+          ]
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1357524630529929217"
+          ]
+        },
+        "author_id": "762656606",
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "conversation_id": "1357524730538905601",
+        "created_at": "2021-02-05T03:01:32.000Z"
+      },
+      {
+        "possibly_sensitive": false,
+        "text": "ふたなりについての卒論ってまだ世の中にない？",
+        "public_metrics": {
+          "retweet_count": 1,
+          "reply_count": 0,
+          "like_count": 3,
+          "quote_count": 0
+        },
+        "id": "1357430641722236928",
+        "author_id": "979724454577123329",
+        "reply_settings": "everyone",
+        "source": "TweetDeck",
+        "conversation_id": "1357430641722236928",
+        "created_at": "2021-02-04T20:47:39.000Z"
+      },
+      {
+        "possibly_sensitive": false,
+        "text": "あすいません…コメントで他の配信者様の名前を出すのは控えてほしいです…\nあと下ネタにもちょっと反応しづらいのと…プレイしてないゲームの話題も答えにくいかな…\nあとは死にまつわる16の事柄と、生に関する24の疑問、昼と夜聞こえる音、気と喜、火と悲、水と衰の話題はスルーさせてもらってます…",
+        "public_metrics": {
+          "retweet_count": 12,
+          "reply_count": 0,
+          "like_count": 82,
+          "quote_count": 1
+        },
+        "id": "1357188947915407366",
+        "author_id": "60303778",
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "conversation_id": "1357188947915407366",
+        "created_at": "2021-02-04T04:47:15.000Z"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1357361859230195717",
+    "newest_id": "1357700060952203270",
+    "result_count": 13
+  }
+}
