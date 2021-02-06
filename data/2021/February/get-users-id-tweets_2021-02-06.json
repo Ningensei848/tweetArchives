@@ -1,0 +1,584 @@
+{
+  "data": [
+    {
+      "source": "TweetDeck",
+      "id": "1357962673258860546",
+      "conversation_id": "1357962673258860546",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "CrowdInというものがある、なるほど～～～～～～（すごい）\nhttps://t.co/CUiHLwhdPH",
+      "entities": {
+        "urls": [
+          {
+            "start": 32,
+            "end": 55,
+            "url": "https://t.co/CUiHLwhdPH",
+            "expanded_url": "https://crowdin.com/",
+            "display_url": "crowdin.com",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1357335627268726785/KmVTObmC?format=png&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1357335627268726785/KmVTObmC?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Crowdin | Localization Management Platform for agile teams",
+            "description": "Crowdin's localization management platform is a technology solution for your team.",
+            "unwound_url": "https://crowdin.com/"
+          }
+        ]
+      },
+      "created_at": "2021-02-06T08:01:45.000Z"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "id": "1357932824104366081",
+      "conversation_id": "1357932824104366081",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "土曜日の、午後3時",
+      "created_at": "2021-02-06T06:03:09.000Z"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "id": "1357906637281894401",
+      "conversation_id": "1357906637281894401",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "1000年後の荒野でどうなっているのか気になってきた、一代だけ強い形質を持っててもそれが疎まれて次世代が生まれなければ淘汰されるはずなので",
+      "created_at": "2021-02-06T04:19:05.000Z"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "id": "1357905904062984192",
+      "conversation_id": "1357905904062984192",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "自由ではっきりとものを言い男性と競い負けないだけの能力がある、ことが「男性に制限されているから実現できていない」ってロジックになってしまうの、怖",
+      "created_at": "2021-02-06T04:16:10.000Z"
+    },
+    {
+      "source": "Twitter for iPad",
+      "id": "1357882405432958976",
+      "conversation_id": "1357882405432958976",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1357629476415410178"
+        }
+      ],
+      "possibly_sensitive": false,
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "KFC_ES"
+          }
+        ],
+        "urls": [
+          {
+            "start": 12,
+            "end": 35,
+            "url": "https://t.co/FhSlCq36ir",
+            "expanded_url": "https://twitter.com/KFC_ES/status/1357629476415410178/video/1",
+            "display_url": "pic.twitter.com/FhSlCq36ir"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 50013,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "RT @KFC_ES: https://t.co/FhSlCq36ir",
+      "attachments": {
+        "media_keys": [
+          "7_1357629380068069377"
+        ]
+      },
+      "created_at": "2021-02-06T02:42:48.000Z"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "id": "1357881125490728962",
+      "conversation_id": "1357881125490728962",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "人が死ぬ、和邇はわらう",
+      "created_at": "2021-02-06T02:37:43.000Z"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "id": "1357880987829428224",
+      "conversation_id": "1357880987829428224",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1357604823621722115"
+        }
+      ],
+      "possibly_sensitive": false,
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "DAIGATANA"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 1880,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "RT @DAIGATANA: 「アニオリのエピソードが欲しいです！！」\n「詳細は言えんけど粗暴な格闘青年が道場主の娘の喘息を看病する内に更生して夫婦になる物語とかたっぷり2時間かけて放映するのどうすか？？」",
+      "created_at": "2021-02-06T02:37:10.000Z"
+    },
+    {
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1346901380292775936",
+            "name": "Jujutsu Kaisen"
+          }
+        }
+      ],
+      "source": "Twitter for iPhone",
+      "id": "1357880667493736450",
+      "conversation_id": "1357880667493736450",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "707346268821913600",
+      "text": "呪術、地獄すぎる(2年前から分かっていたことですが……",
+      "created_at": "2021-02-06T02:35:53.000Z"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "username": "Ningensei848",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "pinned_tweet_id": "1345020610875777024",
+        "url": "https://t.co/KBXT0N3eAa",
+        "name": "きあい🌗",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 990,
+          "tweet_count": 58364,
+          "listed_count": 22
+        },
+        "id": "707346268821913600",
+        "protected": false,
+        "location": "山梨県→茨城県つくば市",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "verified": false
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1149648213311291394/gYt10lNZ_normal.png",
+        "created_at": "2015-05-04T16:49:23.000Z",
+        "username": "KFC_ES",
+        "description": "Kentucky Fried Chicken. El #PolloPollo 🍗🍗 se hace en Kentucky.",
+        "pinned_tweet_id": "1356602799329599489",
+        "url": "https://t.co/IQ4Pwt6jK8",
+        "name": "KFC",
+        "public_metrics": {
+          "followers_count": 323772,
+          "following_count": 362,
+          "tweet_count": 11312,
+          "listed_count": 109
+        },
+        "id": "3233838112",
+        "protected": false,
+        "location": "Spain",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/IQ4Pwt6jK8",
+                "expanded_url": "http://kfc.es",
+                "display_url": "kfc.es"
+              }
+            ]
+          },
+          "description": {
+            "hashtags": [
+              {
+                "start": 27,
+                "end": 38,
+                "tag": "PolloPollo"
+              }
+            ]
+          }
+        },
+        "verified": true
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/941869629353291778/1djtJPwx_normal.jpg",
+        "created_at": "2010-05-16T01:37:53.000Z",
+        "username": "DAIGATANA",
+        "description": "人呼んで、斬馬大刀 \n\n同人誌委託 \n🍈　https://t.co/ybu8Nj3uor　🐯　https://t.co/nnzuuWesQ5　COMIC ZIN　https://t.co/3VXgkV2oAC\n「https://t.co/a9CMR3Cudlアソシエイト」参加中",
+        "pinned_tweet_id": "1319973509301325824",
+        "url": "https://t.co/QMU3MLE9eR",
+        "name": "大刀🔞・ザ・ヒュージザンバー",
+        "public_metrics": {
+          "followers_count": 37411,
+          "following_count": 391,
+          "tweet_count": 364805,
+          "listed_count": 755
+        },
+        "id": "144345285",
+        "protected": false,
+        "location": "風が知っている",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/QMU3MLE9eR",
+                "expanded_url": "https://note.com/huge_zamber",
+                "display_url": "note.com/huge_zamber"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 21,
+                "end": 44,
+                "url": "https://t.co/ybu8Nj3uor",
+                "expanded_url": "http://bit.ly/3mPrJCa",
+                "display_url": "bit.ly/3mPrJCa"
+              },
+              {
+                "start": 47,
+                "end": 70,
+                "url": "https://t.co/nnzuuWesQ5",
+                "expanded_url": "http://bit.ly/2TKfTNs",
+                "display_url": "bit.ly/2TKfTNs"
+              },
+              {
+                "start": 81,
+                "end": 104,
+                "url": "https://t.co/3VXgkV2oAC",
+                "expanded_url": "http://bit.ly/2TPC2tQ",
+                "display_url": "bit.ly/2TPC2tQ"
+              },
+              {
+                "start": 106,
+                "end": 129,
+                "url": "https://t.co/a9CMR3Cudl",
+                "expanded_url": "http://Amazon.co.jp",
+                "display_url": "Amazon.co.jp"
+              }
+            ]
+          }
+        },
+        "verified": false
+      }
+    ],
+    "tweets": [
+      {
+        "source": "Twitter Web App",
+        "id": "1357629476415410178",
+        "conversation_id": "1357629476415410178",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 50013,
+          "reply_count": 1371,
+          "like_count": 154399,
+          "quote_count": 7232
+        },
+        "author_id": "3233838112",
+        "text": "https://t.co/FhSlCq36ir",
+        "attachments": {
+          "media_keys": [
+            "7_1357629380068069377"
+          ]
+        },
+        "entities": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/FhSlCq36ir",
+              "expanded_url": "https://twitter.com/KFC_ES/status/1357629476415410178/video/1",
+              "display_url": "pic.twitter.com/FhSlCq36ir"
+            }
+          ]
+        },
+        "created_at": "2021-02-05T09:57:45.000Z"
+      },
+      {
+        "source": "Twitter for iPad",
+        "id": "1357604823621722115",
+        "conversation_id": "1357604823621722115",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 1880,
+          "reply_count": 27,
+          "like_count": 4052,
+          "quote_count": 77
+        },
+        "author_id": "144345285",
+        "text": "「アニオリのエピソードが欲しいです！！」\n「詳細は言えんけど粗暴な格闘青年が道場主の娘の喘息を看病する内に更生して夫婦になる物語とかたっぷり2時間かけて放映するのどうすか？？」",
+        "created_at": "2021-02-05T08:19:47.000Z"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_0_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_100_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_25_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_50_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_75_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_0_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_100_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_25_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_50_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_75_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.view_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.view_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_0_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_100_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_25_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_50_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_75_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.view_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357629380068069377",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.view_count' on the media with attachments.media_keys : [7_1357629380068069377].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    }
+  ],
+  "meta": {
+    "oldest_id": "1357880667493736450",
+    "newest_id": "1357962673258860546",
+    "result_count": 8
+  }
+}
