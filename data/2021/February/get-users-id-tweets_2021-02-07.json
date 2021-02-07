@@ -1,0 +1,1167 @@
+{
+  "data": [
+    {
+      "source": "Twitter for iPhone",
+      "text": "金で解決できることは金で解決したほうがいい、わかっていたつもりでわかってなかった",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1358424458537537538",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T14:36:43.000Z",
+      "conversation_id": "1358424458537537538",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "これは予感なんですけど、嗅覚オワッてません？マジ？(鼻詰まりだと思いたい) https://t.co/Ie6soHYJKN",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1358382719374221313",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T11:50:52.000Z",
+      "entities": {
+        "urls": [
+          {
+            "start": 38,
+            "end": 61,
+            "url": "https://t.co/Ie6soHYJKN",
+            "expanded_url": "https://twitter.com/ningensei848/status/1358346584904392705",
+            "display_url": "twitter.com/ningensei848/s…"
+          }
+        ]
+      },
+      "conversation_id": "1358382719374221313",
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1358346584904392705"
+        }
+      ],
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "やっぱ渋滞は誰かが解決しないといけなくて、それが解決する方法には破壊的な確信が含まれてると俺は思うんだけど",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1358369125848936450",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T10:56:51.000Z",
+      "conversation_id": "1358369125848936450",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "当たり外れがあって当然なのに、自分だけは当たりを引き続けると思い込んでしまいがち",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1358350922271793152",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T09:44:31.000Z",
+      "conversation_id": "1358350922271793152",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Foursquare Swarm",
+      "text": "端っこにあってまだ生きてるから美味いはず、と思ったけど海老の主張がチープ過ぎるし飽きがすぐ来るし『麺や蒼』に勝てるところはひとつもない、隣のオムライス食えばよかった……！ (@ えびそば一幻 in 中央区, 東京都) https://t.co/1CDS0iQug6 https://t.co/vxltZJAMSs",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 1
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 99,
+            "end": 101,
+            "probability": 0.7225,
+            "type": "Place",
+            "normalized_text": "中央区"
+          },
+          {
+            "start": 104,
+            "end": 106,
+            "probability": 0.8601,
+            "type": "Place",
+            "normalized_text": "東京都"
+          }
+        ],
+        "urls": [
+          {
+            "start": 109,
+            "end": 132,
+            "url": "https://t.co/1CDS0iQug6",
+            "expanded_url": "https://www.swarmapp.com/c/aTJp0yjC16L",
+            "display_url": "swarmapp.com/c/aTJp0yjC16L"
+          },
+          {
+            "start": 133,
+            "end": 156,
+            "url": "https://t.co/vxltZJAMSs",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1358346584904392705/photo/1",
+            "display_url": "pic.twitter.com/vxltZJAMSs"
+          }
+        ]
+      },
+      "id": "1358346584904392705",
+      "author_id": "707346268821913600",
+      "attachments": {
+        "media_keys": [
+          "3_1358346583146958850"
+        ]
+      },
+      "created_at": "2021-02-07T09:27:17.000Z",
+      "conversation_id": "1358346584904392705",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "心構えが完全に麺や蒼になってたから、いまから頑張っても営業時間に間に合わないの悔し過ぎて八重洲地下の海老のとこに来た",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 44,
+            "end": 48,
+            "probability": 0.3787,
+            "type": "Place",
+            "normalized_text": "八重洲地下"
+          }
+        ]
+      },
+      "id": "1358342958852890625",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T09:12:52.000Z",
+      "conversation_id": "1358342958852890625",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "目元バチバチにキメてモリモリに盛ってる方全員アデノイド顔貌だと思ってみてる(酸っぱい葡萄)",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1358340031950168064",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T09:01:15.000Z",
+      "conversation_id": "1358340031950168064",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 13,
+            "username": "HaRu20835392"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 14,
+            "end": 16,
+            "probability": 0.8672,
+            "type": "Place",
+            "normalized_text": "東京駅"
+          }
+        ]
+      },
+      "text": "@HaRu20835392 東京駅にいるのでそこで食って帰る(富豪ムーブ)",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "in_reply_to_user_id": "1020670581803397121",
+      "id": "1358336491840106496",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T08:47:10.000Z",
+      "conversation_id": "1358335498251509760",
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1358336372088524800"
+        }
+      ],
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "アー、この時間からつくば号のると着いてから夕食難民になる",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 9,
+            "end": 11,
+            "probability": 0.8963,
+            "type": "Place",
+            "normalized_text": "つくば"
+          }
+        ]
+      },
+      "id": "1358335498251509760",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T08:43:14.000Z",
+      "conversation_id": "1358335498251509760",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "東京　メシ　冬　[検索]",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 1,
+            "probability": 0.3416,
+            "type": "Place",
+            "normalized_text": "東京"
+          }
+        ]
+      },
+      "id": "1358328487635869697",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T08:15:22.000Z",
+      "conversation_id": "1358328487635869697",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "人酔いして一人",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1358327299171524608",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T08:10:39.000Z",
+      "conversation_id": "1358327299171524608",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "佐藤可士和展キャンパスメンバーズで当日ブチ込んで1000円(多少待つけど)なの良すぎる、本当は事前予約だけども(当日券もあるがより待たされるかもしれない)",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 1,
+            "probability": 0.4431,
+            "type": "Person",
+            "normalized_text": "佐藤"
+          }
+        ]
+      },
+      "id": "1358313656035909633",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T07:16:26.000Z",
+      "conversation_id": "1358313656035909633",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "エロ同人脳が抜けず、一見カス男にもカネかチンポという一点突破の良さがあるんだなｧなどと思って観察している",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1358311775117078529",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T07:08:58.000Z",
+      "conversation_id": "1358311775117078529",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "東京付近にいると週末にふらっと美術館博物館に行けたり、なんなら企画展を梯子できたりするわけで、そういう文化的な利便性はどう足掻いても地方では勝てないわけですよ",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.4836,
+            "type": "Place",
+            "normalized_text": "東京付近"
+          },
+          {
+            "start": 11,
+            "end": 20,
+            "probability": 0.4273,
+            "type": "Place",
+            "normalized_text": "ふらっと美術館博物館"
+          }
+        ]
+      },
+      "id": "1358310313326571520",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T07:03:09.000Z",
+      "conversation_id": "1358310313326571520",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Foursquare Swarm",
+      "text": "イケイケなナオンと小汚ねぇ一見カス男の組み合わせが飽和している (@ 国立新美術館 in 港区, 東京都) https://t.co/BV4VusGzdz https://t.co/Re2xemWTWv",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 45,
+            "end": 46,
+            "probability": 0.8117,
+            "type": "Place",
+            "normalized_text": "港区"
+          },
+          {
+            "start": 49,
+            "end": 51,
+            "probability": 0.849,
+            "type": "Place",
+            "normalized_text": "東京都"
+          }
+        ],
+        "urls": [
+          {
+            "start": 54,
+            "end": 77,
+            "url": "https://t.co/BV4VusGzdz",
+            "expanded_url": "https://www.swarmapp.com/c/9ZlWtKjtvCM",
+            "display_url": "swarmapp.com/c/9ZlWtKjtvCM",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1358309190599651328/sOuoR1fP?format=jpg&name=orig",
+                "width": 600,
+                "height": 600
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1358309190599651328/sOuoR1fP?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "気合の鬼 | The National Art Center",
+            "description": "Get out. Explore. Download Swarm and live your life more checked in.",
+            "unwound_url": "https://www.swarmapp.com/c/9ZlWtKjtvCM"
+          },
+          {
+            "start": 78,
+            "end": 101,
+            "url": "https://t.co/Re2xemWTWv",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1358309188842184704/photo/1",
+            "display_url": "pic.twitter.com/Re2xemWTWv"
+          }
+        ]
+      },
+      "id": "1358309188842184704",
+      "author_id": "707346268821913600",
+      "attachments": {
+        "media_keys": [
+          "3_1358309187105742848"
+        ]
+      },
+      "created_at": "2021-02-07T06:58:41.000Z",
+      "conversation_id": "1358309188842184704",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "「次」と言ったときに方向が一意じゃないから解釈が分かれるのでは？相対的な位置を示す言葉を使うときは同時に基準も明らかになっていないと誤解を生んでしまうと思う(素直に数列を見たら昇順を想像すると思う)(「〜に次ぐ大きさ」と表現したとき初めて『大きさ順』つまり降順に定まる気がしており",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1358305570684497921",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T06:44:18.000Z",
+      "conversation_id": "1358305570684497921",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "えっ、リツイートしようとしたら「センシティブ画像です」ってでたけど",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1358301609092993024",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T06:28:34.000Z",
+      "conversation_id": "1358301609092993024",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "nyamph_pf"
+          }
+        ],
+        "urls": [
+          {
+            "start": 40,
+            "end": 63,
+            "url": "https://t.co/44bmEwFWqI",
+            "expanded_url": "https://gamingchahan.com/ecchi/",
+            "display_url": "gamingchahan.com/ecchi/"
+          },
+          {
+            "start": 93,
+            "end": 116,
+            "url": "https://t.co/iq9HhNkFuh",
+            "expanded_url": "https://twitter.com/nyamph_pf/status/1357715271784361987/video/1",
+            "display_url": "pic.twitter.com/iq9HhNkFuh"
+          }
+        ]
+      },
+      "text": "RT @nyamph_pf: 遺伝的アルゴリズムで最高にエッチな画像を作ろう！ https://t.co/44bmEwFWqI \n\n0～10190世代目まで動画にした 進化の過程を見よ https://t.co/iq9HhNkFuh",
+      "public_metrics": {
+        "retweet_count": 13253,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1358301512657555456",
+      "author_id": "707346268821913600",
+      "attachments": {
+        "media_keys": [
+          "7_1357714657138470912"
+        ]
+      },
+      "created_at": "2021-02-07T06:28:11.000Z",
+      "conversation_id": "1358301512657555456",
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1357715271784361987"
+        }
+      ],
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 19,
+            "username": "miura_librarian"
+          }
+        ],
+        "urls": [
+          {
+            "start": 87,
+            "end": 110,
+            "url": "https://t.co/ahiAQrh0Tf",
+            "expanded_url": "https://news.yahoo.co.jp/articles/295047cdba2e492f0e0fd6967a659352d9a28d99",
+            "display_url": "news.yahoo.co.jp/articles/29504…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1357621112188801024/kc2kjVSd?format=jpg&name=orig",
+                "width": 1654,
+                "height": 1032
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1357621112188801024/kc2kjVSd?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "嘘でつくられた歴史で町おこし　200年前のフェイク「椿井文書」に困惑する人たち（Yahoo!ニュース 特集）",
+            "description": "歴史的事実の検証に必要な古文書。だが、その中に嘘が含まれているものもある。そんな偽文書の一つが、江戸時代後期に国学者の椿井政隆によって作られた「椿井文書（つばいもんじょ）」だ。京都や滋賀を拠点に偽の",
+            "unwound_url": "https://news.yahoo.co.jp/articles/295047cdba2e492f0e0fd6967a659352d9a28d99"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 76,
+            "end": 86,
+            "tag": "Yahooニュース"
+          }
+        ]
+      },
+      "text": "RT @miura_librarian: 嘘でつくられた歴史で町おこし　200年前のフェイク「椿井文書」に困惑する人たち(Yahoo!ニュース 特集)\n#Yahooニュース\nhttps://t.co/ahiAQrh0Tf \n\n昔に書かれた古文書だから正しいとは限りません。国信大…",
+      "public_metrics": {
+        "retweet_count": 34,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10027474933",
+            "name": "Yahoo!"
+          }
+        }
+      ],
+      "id": "1358246423859372033",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T02:49:17.000Z",
+      "conversation_id": "1358246423859372033",
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1357901650485157889"
+        }
+      ],
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "バスを撮るタイプの鉄(鉄？)も居るのかァ(全力オタクダッシュキメててこちらも笑顔になった)(好きに全力)",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1358235471365632001",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-07T02:05:45.000Z",
+      "conversation_id": "1358235471365632001",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "username": "Ningensei848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "pinned_tweet_id": "1345020610875777024",
+        "verified": false,
+        "name": "きあい🌘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "protected": false,
+        "url": "https://t.co/KBXT0N3eAa",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "location": "山梨県→茨城県つくば市",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 989,
+          "tweet_count": 58384,
+          "listed_count": 0
+        },
+        "id": "707346268821913600"
+      },
+      {
+        "username": "HaRu20835392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325447797907181570/QdeGPn-D_normal.jpg",
+        "pinned_tweet_id": "1337561831217405952",
+        "verified": false,
+        "name": "Yukida(Lu)〽️",
+        "created_at": "2018-07-21T14:03:24.000Z",
+        "protected": false,
+        "url": "",
+        "description": "klis16 でした /",
+        "location": "きっとたぶん明日のわたしは今日より幸せ",
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 65,
+          "tweet_count": 3547,
+          "listed_count": 1
+        },
+        "id": "1020670581803397121"
+      },
+      {
+        "username": "nyamph_pf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/706513426755907584/ftwZHmPA_normal.jpg",
+        "pinned_tweet_id": "1353996597210750976",
+        "verified": false,
+        "name": "にゃんふ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/dEWu0Dm0RG",
+                "expanded_url": "https://www.youtube.com/watch?v=XFspdThBHqM",
+                "display_url": "youtube.com/watch?v=XFspdT…"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 120,
+                "end": 129,
+                "username": "yuemashi"
+              }
+            ]
+          }
+        },
+        "created_at": "2010-01-23T14:19:44.000Z",
+        "protected": false,
+        "url": "https://t.co/dEWu0Dm0RG",
+        "description": "Perfume(P.T.A.) 中田ヤスタカさん 上坂すみれさん(コル玉) 小倉唯さん(ゆいこむ)  ポータブルオーディオ(SA700, AK70 MKII Yui Ogura Edition, KL-SIRIUS)\r\n\r\nIcon by @yuemashi",
+        "location": "SEVENTH HEAVEN",
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 563,
+          "tweet_count": 423541,
+          "listed_count": 232
+        },
+        "id": "107723928"
+      },
+      {
+        "username": "miura_librarian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/994791923989741569/tWKoKN6__normal.jpg",
+        "verified": false,
+        "name": "国際信州学院大学附属図書館",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/t8Tca3v4RT",
+                "expanded_url": "https://kokushin-u.jp/",
+                "display_url": "kokushin-u.jp"
+              }
+            ]
+          }
+        },
+        "created_at": "2018-01-30T07:32:25.000Z",
+        "protected": false,
+        "url": "https://t.co/t8Tca3v4RT",
+        "description": "国際信州学院大学附属図書館の公式ツイッターです。ツイートは第五図書館職員の安藤が主に担当しています。\nLes choses sur cette page sont fictives.",
+        "location": "安雲野市（あうんの-し）",
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 315,
+          "tweet_count": 264,
+          "listed_count": 30
+        },
+        "id": "958241475598344192"
+      }
+    ],
+    "tweets": [
+      {
+        "source": "Foursquare Swarm",
+        "text": "端っこにあってまだ生きてるから美味いはず、と思ったけど海老の主張がチープ過ぎるし飽きがすぐ来るし『麺や蒼』に勝てるところはひとつもない、隣のオムライス食えばよかった……！ (@ えびそば一幻 in 中央区, 東京都) https://t.co/1CDS0iQug6 https://t.co/vxltZJAMSs",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 1,
+          "quote_count": 1
+        },
+        "entities": {
+          "annotations": [
+            {
+              "start": 99,
+              "end": 101,
+              "probability": 0.7225,
+              "type": "Place",
+              "normalized_text": "中央区"
+            },
+            {
+              "start": 104,
+              "end": 106,
+              "probability": 0.8601,
+              "type": "Place",
+              "normalized_text": "東京都"
+            }
+          ],
+          "urls": [
+            {
+              "start": 109,
+              "end": 132,
+              "url": "https://t.co/1CDS0iQug6",
+              "expanded_url": "https://www.swarmapp.com/c/aTJp0yjC16L",
+              "display_url": "swarmapp.com/c/aTJp0yjC16L"
+            },
+            {
+              "start": 133,
+              "end": 156,
+              "url": "https://t.co/vxltZJAMSs",
+              "expanded_url": "https://twitter.com/Ningensei848/status/1358346584904392705/photo/1",
+              "display_url": "pic.twitter.com/vxltZJAMSs"
+            }
+          ]
+        },
+        "id": "1358346584904392705",
+        "author_id": "707346268821913600",
+        "attachments": {
+          "media_keys": [
+            "3_1358346583146958850"
+          ]
+        },
+        "created_at": "2021-02-07T09:27:17.000Z",
+        "conversation_id": "1358346584904392705",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone"
+      },
+      {
+        "source": "Twitter for Android",
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "Ningensei848"
+            }
+          ]
+        },
+        "text": "@Ningensei848 この間それになったけど松屋で買ってスプファクの外席でたべてて少し風流感じました🐥\nオススメ",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "in_reply_to_user_id": "707346268821913600",
+        "id": "1358336372088524800",
+        "author_id": "1020670581803397121",
+        "created_at": "2021-02-07T08:46:42.000Z",
+        "conversation_id": "1358335498251509760",
+        "possibly_sensitive": false,
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1358335498251509760"
+          }
+        ],
+        "reply_settings": "everyone"
+      },
+      {
+        "source": "Twitter Web App",
+        "text": "遺伝的アルゴリズムで最高にエッチな画像を作ろう！ https://t.co/44bmEwFWqI \n\n0～10190世代目まで動画にした 進化の過程を見よ https://t.co/iq9HhNkFuh",
+        "public_metrics": {
+          "retweet_count": 13253,
+          "reply_count": 79,
+          "like_count": 24884,
+          "quote_count": 638
+        },
+        "id": "1357715271784361987",
+        "author_id": "107723928",
+        "attachments": {
+          "media_keys": [
+            "7_1357714657138470912"
+          ]
+        },
+        "created_at": "2021-02-05T15:38:40.000Z",
+        "entities": {
+          "urls": [
+            {
+              "start": 25,
+              "end": 48,
+              "url": "https://t.co/44bmEwFWqI",
+              "expanded_url": "https://gamingchahan.com/ecchi/",
+              "display_url": "gamingchahan.com/ecchi/",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1358360098029121538/J1jpP6oh?format=jpg&name=orig",
+                  "width": 600,
+                  "height": 314
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1358360098029121538/J1jpP6oh?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "遺伝的アルゴリズムでエッチな画像を作ろう！",
+              "description": "みんなの好みを教え込んでエッチな画像を作るシステムです。",
+              "unwound_url": "https://gamingchahan.com/ecchi/"
+            },
+            {
+              "start": 78,
+              "end": 101,
+              "url": "https://t.co/iq9HhNkFuh",
+              "expanded_url": "https://twitter.com/nyamph_pf/status/1357715271784361987/video/1",
+              "display_url": "pic.twitter.com/iq9HhNkFuh"
+            }
+          ]
+        },
+        "conversation_id": "1357715271784361987",
+        "possibly_sensitive": true,
+        "reply_settings": "everyone"
+      },
+      {
+        "source": "Twitter Web App",
+        "text": "嘘でつくられた歴史で町おこし　200年前のフェイク「椿井文書」に困惑する人たち(Yahoo!ニュース 特集)\n#Yahooニュース\nhttps://t.co/ahiAQrh0Tf \n\n昔に書かれた古文書だから正しいとは限りません。国信大の皆さんはフェイクに惑わされずに真実を追求し世の中に広めていってくださいね。",
+        "public_metrics": {
+          "retweet_count": 34,
+          "reply_count": 0,
+          "like_count": 52,
+          "quote_count": 5
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          }
+        ],
+        "id": "1357901650485157889",
+        "author_id": "958241475598344192",
+        "created_at": "2021-02-06T03:59:16.000Z",
+        "entities": {
+          "urls": [
+            {
+              "start": 66,
+              "end": 89,
+              "url": "https://t.co/ahiAQrh0Tf",
+              "expanded_url": "https://news.yahoo.co.jp/articles/295047cdba2e492f0e0fd6967a659352d9a28d99",
+              "display_url": "news.yahoo.co.jp/articles/29504…",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1357621112188801024/kc2kjVSd?format=jpg&name=orig",
+                  "width": 1654,
+                  "height": 1032
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1357621112188801024/kc2kjVSd?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "嘘でつくられた歴史で町おこし　200年前のフェイク「椿井文書」に困惑する人たち（Yahoo!ニュース 特集）",
+              "description": "歴史的事実の検証に必要な古文書。だが、その中に嘘が含まれているものもある。そんな偽文書の一つが、江戸時代後期に国学者の椿井政隆によって作られた「椿井文書（つばいもんじょ）」だ。京都や滋賀を拠点に偽の",
+              "unwound_url": "https://news.yahoo.co.jp/articles/295047cdba2e492f0e0fd6967a659352d9a28d99"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 55,
+              "end": 65,
+              "tag": "Yahooニュース"
+            }
+          ]
+        },
+        "conversation_id": "1357901650485157889",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/EtnRBUJXEAIDTWE.jpg",
+        "type": "photo",
+        "height": 1920,
+        "media_key": "3_1358346583146958850",
+        "width": 1440
+      },
+      {
+        "url": "https://pbs.twimg.com/media/EtmvAlCWYAA-dJi.jpg",
+        "type": "photo",
+        "height": 1920,
+        "media_key": "3_1358309187105742848",
+        "width": 1440
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_0_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_100_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_25_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_50_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_75_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_0_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_100_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_25_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_50_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_75_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.view_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.view_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_0_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_100_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_25_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_50_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_75_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.view_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1357714657138470912",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.view_count' on the media with attachments.media_keys : [7_1357714657138470912].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    }
+  ],
+  "meta": {
+    "oldest_id": "1358235471365632001",
+    "newest_id": "1358424458537537538",
+    "result_count": 20
+  }
+}
