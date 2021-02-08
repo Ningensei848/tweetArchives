@@ -1,0 +1,1127 @@
+{
+  "data": [
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358790222285213696",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "text": "誤ったことを仮定してそこから論述で矛盾を見出し仮定を覆す、みたいなノリじゃなくて、(一般人からは見えない努力の積み重ねがあった結果)それは正しいことは自分だけがわかっていてその正しさを延々と補強しているイメージ、無論反対意見は敵なので殺すくらいの勢いで",
+      "author_id": "707346268821913600",
+      "in_reply_to_user_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1358790222285213696"
+        }
+      ],
+      "id": "1358791408652406785",
+      "created_at": "2021-02-08T14:54:51.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358790222285213696",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "text": "社会学者さん、基本的に「本を読め(≒そうすれば俺の言っていることの正しさがわかる)」としか言わないから嫌われるんだと思っていますが、お前どう？",
+      "author_id": "707346268821913600",
+      "id": "1358790222285213696",
+      "created_at": "2021-02-08T14:50:08.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358779224690053123",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "text": "WAIS4、境界人類全員受けて絶望してほしい、お前は健常者で少し怠惰なだけです",
+      "author_id": "707346268821913600",
+      "id": "1358779224690053123",
+      "created_at": "2021-02-08T14:06:26.000Z"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "kopo_adhd"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 25,
+            "end": 28,
+            "probability": 0.5991,
+            "type": "Organization",
+            "normalized_text": "筑波大学"
+          }
+        ],
+        "urls": [
+          {
+            "start": 78,
+            "end": 101,
+            "url": "https://t.co/DLSBxIxGoU",
+            "expanded_url": "https://twitter.com/kopo_adhd/status/1358769644169908228/photo/1",
+            "display_url": "pic.twitter.com/DLSBxIxGoU"
+          },
+          {
+            "start": 78,
+            "end": 101,
+            "url": "https://t.co/DLSBxIxGoU",
+            "expanded_url": "https://twitter.com/kopo_adhd/status/1358769644169908228/photo/1",
+            "display_url": "pic.twitter.com/DLSBxIxGoU"
+          },
+          {
+            "start": 78,
+            "end": 101,
+            "url": "https://t.co/DLSBxIxGoU",
+            "expanded_url": "https://twitter.com/kopo_adhd/status/1358769644169908228/photo/1",
+            "display_url": "pic.twitter.com/DLSBxIxGoU"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "conversation_id": "1358779008213651456",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 58,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1358769640411860993",
+          "3_1358769640449536002",
+          "3_1358769640722206727"
+        ]
+      },
+      "source": "Twitter for iPad",
+      "text": "RT @kopo_adhd: 噂には聞いていたが、筑波大学の発達障害学生支援めちゃくちゃ進んでる。しっかりアウトリーチしてて、グレーの人にも対応している。 https://t.co/DLSBxIxGoU",
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1358769644169908228"
+        }
+      ],
+      "id": "1358779008213651456",
+      "created_at": "2021-02-08T14:05:35.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358761214566834176",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "TweetDeck",
+      "text": "２の労力を消すために10の時間と５の回りくどいやり方を取るとかなんとか言われつつ，その２は一人じゃなくて数百人数千人（述べ人数）になるので全然ペイするはずなんだよな～の気持ち（これはそれだけの人数か自分が繰り返し使うことを前提としている）",
+      "author_id": "707346268821913600",
+      "id": "1358761214566834176",
+      "created_at": "2021-02-08T12:54:52.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358760693688803328",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "TweetDeck",
+      "text": "ひと手間入れなきゃ動かないスクリプトはゴミカスや",
+      "author_id": "707346268821913600",
+      "id": "1358760693688803328",
+      "created_at": "2021-02-08T12:52:48.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358746210861871110",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "TweetDeck",
+      "text": "肉食いてぇ！！！！！！！！！！！！！！！！！！！！！！！！！！！",
+      "author_id": "707346268821913600",
+      "id": "1358746210861871110",
+      "created_at": "2021-02-08T11:55:15.000Z"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 17,
+            "username": "loquat_priest"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "conversation_id": "1358742170954440705",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 483,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "text": "RT @loquat_priest: リボ払い（RNAで払う）",
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1358630251908136960"
+        }
+      ],
+      "id": "1358742170954440705",
+      "created_at": "2021-02-08T11:39:12.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358707017183989760",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "TweetDeck",
+      "text": "エイヤと汁おじとﾃﾝﾆﾝｶﾁｬﾝの特化３やってアホほど持ってかれたのつら",
+      "author_id": "707346268821913600",
+      "id": "1358707017183989760",
+      "created_at": "2021-02-08T09:19:31.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358706555252731905",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "TweetDeck",
+      "text": "危機契約18等級終わり！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！ウワ！！！！！！！！！！！！！！！！！！！！！！",
+      "author_id": "707346268821913600",
+      "id": "1358706555252731905",
+      "created_at": "2021-02-08T09:17:40.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358703169149169664",
+      "possibly_sensitive": false,
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 2,
+            "probability": 0.8392,
+            "type": "Place",
+            "normalized_text": "つくば"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "text": "つくば号減便マジ？",
+      "author_id": "707346268821913600",
+      "id": "1358703169149169664",
+      "created_at": "2021-02-08T09:04:13.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358701438742851590",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "text": "アンデラの話しかしたくなくなってきた",
+      "author_id": "707346268821913600",
+      "id": "1358701438742851590",
+      "created_at": "2021-02-08T08:57:21.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358683332733665281",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "text": "アンデラのバックナンバーを一気読みして情緒がオワってしまったので一回休み",
+      "author_id": "707346268821913600",
+      "id": "1358683332733665281",
+      "created_at": "2021-02-08T07:45:24.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358663759019999233",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPhone",
+      "text": "何かやればやる気出るとかじゃなくて、「何にもやることのない状態」をやりてぇんだよな多分",
+      "author_id": "707346268821913600",
+      "id": "1358663759019999233",
+      "created_at": "2021-02-08T06:27:37.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358662410697990144",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPhone",
+      "text": "やっていくか、生存を………",
+      "author_id": "707346268821913600",
+      "id": "1358662410697990144",
+      "created_at": "2021-02-08T06:22:16.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358662161241804802",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPhone",
+      "text": "炭水化物やタンパク質のどちらに偏り過ぎてもいけないしビタミンは取るべきだし鉄分はあり過ぎて困ることはない(ありすぎることはないため)",
+      "author_id": "707346268821913600",
+      "id": "1358662161241804802",
+      "created_at": "2021-02-08T06:21:16.000Z"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "_99cafe_1"
+          }
+        ],
+        "urls": [
+          {
+            "start": 28,
+            "end": 51,
+            "url": "https://t.co/h9vrJkdcAp",
+            "expanded_url": "https://twitter.com/_99cafe_1/status/1358446268310188033/photo/1",
+            "display_url": "pic.twitter.com/h9vrJkdcAp"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "conversation_id": "1358629882343772160",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 6227,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1358446158239072256"
+        ]
+      },
+      "source": "Twitter for iPhone",
+      "text": "RT @_99cafe_1: 遺伝的アルゴリズムちゃん https://t.co/h9vrJkdcAp",
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1358446268310188033"
+        }
+      ],
+      "id": "1358629882343772160",
+      "created_at": "2021-02-08T04:13:00.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358614858741149698",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPhone",
+      "text": "シャワって買い出しして諸々片付けてスケジュール立て直して昼寝したかったらして次の世界へ",
+      "author_id": "707346268821913600",
+      "id": "1358614858741149698",
+      "created_at": "2021-02-08T03:13:18.000Z"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 9,
+            "username": "IPAjp"
+          }
+        ],
+        "urls": [
+          {
+            "start": 81,
+            "end": 104,
+            "url": "https://t.co/G1fWCnv5TY",
+            "expanded_url": "https://www.jitec.ipa.go.jp/1_01mosikomi/_index_mosikomi.html",
+            "display_url": "jitec.ipa.go.jp/1_01mosikomi/_…",
+            "status": 200,
+            "title": "IPA 独立行政法人 情報処理推進機構：受験申込み",
+            "description": "お知らせ 令和2年度10月試験（応用情報技術者試験・高度試験・情報処理安全確保支援士試験）の合格証書、午前Ⅰ通過者番号通知書は、1月18日（月）に発送済です。 (1)～(3)をご承知おきの上、受験申込みいただきますようお願いいたします。 受理した受験手数料は、理由のいかんにかかわらず返還できませんので、ご注意ください。なお、(1) のように経済産業省及び当機構の判断で試験実施を中止した場合などには、代替措置等を講じる場合もあります。 また、 新型コロナウイルス感染症拡大防止の観点から、早期の受験を迫られていない方につきましては、なるべく今回の受験申込みを自粛していただきますよう、ご協力をお願いします。 (1) 試験の中止について 新型コロナウイルス感染症の感染状況によっては、受験申込みを受け付けた後でも、試験を中止する場合があります。 (2) 試験地について 新型コロナウイルス感染症の拡大防止対策などにより、試験地によっては、希望する試験地で受験できない可能性があります。その場合、宿泊等が必要になることもあります。あらかじめご了承ください。 (3) 試験会場の場所について 同一都道府県内の他地域に設置された",
+            "unwound_url": "https://www.jitec.ipa.go.jp/1_01mosikomi/_index_mosikomi.html"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 105,
+            "end": 115,
+            "tag": "情報処理技術者試験"
+          },
+          {
+            "start": 116,
+            "end": 130,
+            "tag": "情報処理安全確保支援士試験"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847546154439000064",
+            "name": "Education",
+            "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform."
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "1188908088570470400",
+            "name": "School Entrance Exams"
+          }
+        }
+      ],
+      "conversation_id": "1358614636392636416",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 76,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPhone",
+      "text": "RT @IPAjp: 4/18（日）実施の令和3年度春期試験の申込み受付締切は【本日（2/8（月））18時】です。受験を希望される方はお早めにお申込みください。\nhttps://t.co/G1fWCnv5TY\n#情報処理技術者試験\n#情報処理安全確保支援士試験 https://…",
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1358611512357761026"
+        }
+      ],
+      "id": "1358614636392636416",
+      "created_at": "2021-02-08T03:12:25.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358594360007266310",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "text": "返信の内容どうこうじゃなくてまず爆速返信することこそが信頼関係の前提っぽいんだよね、おれわかってきたよ",
+      "author_id": "707346268821913600",
+      "id": "1358594360007266310",
+      "created_at": "2021-02-08T01:51:51.000Z"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "cyd____"
+          }
+        ],
+        "urls": [
+          {
+            "start": 13,
+            "end": 36,
+            "url": "https://t.co/kigzdSHbLM",
+            "expanded_url": "https://twitter.com/cyd____/status/1358350873957523456/photo/1",
+            "display_url": "pic.twitter.com/kigzdSHbLM"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "conversation_id": "1358581842371174400",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 220,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1358350868102356994"
+        ]
+      },
+      "source": "Twitter for iPhone",
+      "text": "RT @cyd____: https://t.co/kigzdSHbLM",
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1358350873957523456"
+        }
+      ],
+      "id": "1358581842371174400",
+      "created_at": "2021-02-08T01:02:07.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358580978952802305",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPhone",
+      "text": "勘違いでなければ、一度例の部屋を訪れたときに聞いた爆発音はあの人の出力音(同じ部屋の別の住人かな",
+      "author_id": "707346268821913600",
+      "in_reply_to_user_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1358580978952802305"
+        }
+      ],
+      "id": "1358581342087172096",
+      "created_at": "2021-02-08T01:00:07.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358580978952802305",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPhone",
+      "text": "登大遊のタイピング音、地上波で出ましたか………？",
+      "author_id": "707346268821913600",
+      "id": "1358580978952802305",
+      "created_at": "2021-02-08T00:58:41.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358575418102583297",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "text": "こんとりびゅったーが死んだの地味にツライ",
+      "author_id": "707346268821913600",
+      "id": "1358575418102583297",
+      "created_at": "2021-02-08T00:36:35.000Z"
+    },
+    {
+      "reply_settings": "everyone",
+      "conversation_id": "1358575281921871872",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "text": "やることいっぱいあるしやってくか",
+      "author_id": "707346268821913600",
+      "id": "1358575281921871872",
+      "created_at": "2021-02-08T00:36:02.000Z"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "verified": false,
+        "id": "707346268821913600",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 989,
+          "tweet_count": 58408,
+          "listed_count": 0
+        },
+        "url": "https://t.co/KBXT0N3eAa",
+        "username": "Ningensei848",
+        "location": "山梨県→茨城県つくば市",
+        "name": "きあい🌘",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "pinned_tweet_id": "1345020610875777024",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "verified": false,
+        "id": "851798922049617921",
+        "created_at": "2017-04-11T14:07:43.000Z",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8719,
+          "following_count": 591,
+          "tweet_count": 3599,
+          "listed_count": 62
+        },
+        "url": "https://t.co/cDM2BcpWJ5",
+        "username": "kopo_adhd",
+        "location": "国際協力→貧困問題→虐待問題→心理学(今ココ)",
+        "name": "ADHDなコッピー / ブラインド当事者会",
+        "description": "東大心理学落ちこぼれ博士課程👩🏻‍🎓ADHD者の適応プロセスがテーマ／クセだらけの自分を観察して楽しむ🐟マイノリティ×心理学のゼミを持つのが夢／研究協力者の募集たまにする／返信は気まぐれ／相談DM対応できません／お仕事関連はこちらまで☞kopo.adhd@gmail.com",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1355519976719806468/7xvRlNfN_normal.jpg",
+        "pinned_tweet_id": "1358370672494350339",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/cDM2BcpWJ5",
+                "expanded_url": "https://note.com/adhd_kopo/n/n77b748453c4c",
+                "display_url": "note.com/adhd_kopo/n/n7…"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "verified": false,
+        "id": "1415656938",
+        "created_at": "2013-05-09T14:32:40.000Z",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4092,
+          "following_count": 327,
+          "tweet_count": 58958,
+          "listed_count": 120
+        },
+        "url": "https://t.co/Yk3EYLVpI2",
+        "username": "loquat_priest",
+        "location": "温室",
+        "name": "枇杷",
+        "description": "ゲーム、ランジェリー、クライミングについて語りダジャレを言うアカウントです。稀に真面目なことを口走りますがそっとしてください。ガーターを崇めソングに帰依せよ。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/873901098653818881/JuLKaHS6_normal.jpg",
+        "pinned_tweet_id": "1214482103733108736",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/Yk3EYLVpI2",
+                "expanded_url": "http://twilog.org/loquat_priest/norep",
+                "display_url": "twilog.org/loquat_priest/…"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "verified": false,
+        "id": "3770317280",
+        "created_at": "2015-10-03T13:15:56.000Z",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 387,
+          "tweet_count": 75593,
+          "listed_count": 45
+        },
+        "url": "https://t.co/BMrufQiSTo",
+        "username": "_99cafe_1",
+        "location": "荊60,空69",
+        "name": "いちかわ つよし",
+        "description": "足が4本生えてる【コミッション▷受付休止中】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1352665400996028416/poaM-twq_normal.jpg",
+        "pinned_tweet_id": "1353694431346532354",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/BMrufQiSTo",
+                "expanded_url": "https://1-99cafe.tumblr.com/",
+                "display_url": "1-99cafe.tumblr.com"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "verified": false,
+        "id": "2978242225",
+        "created_at": "2015-01-13T02:22:47.000Z",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31461,
+          "following_count": 23,
+          "tweet_count": 1145,
+          "listed_count": 763
+        },
+        "url": "http://t.co/XHD9whtoLR",
+        "username": "IPAjp",
+        "location": "東京都文京区本駒込",
+        "name": "IPA（情報処理推進機構）",
+        "description": "IPAの公式アカウントです。IPAは、皆様にIPAが取り組む活動の最新情報をお届けし、皆様との相互理解を深めていくことを目的に@IPAjpを運営しています。※情報発信専用のアカウントです\nhttps://t.co/C4G9BDKlzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/554915215804887040/TTFTugWW_normal.png",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 22,
+                "url": "http://t.co/XHD9whtoLR",
+                "expanded_url": "http://www.ipa.go.jp/",
+                "display_url": "ipa.go.jp"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 94,
+                "end": 117,
+                "url": "https://t.co/C4G9BDKlzy",
+                "expanded_url": "https://www.ipa.go.jp/about/twitter_policy/ipajp.html",
+                "display_url": "ipa.go.jp/about/twitter_…"
+              }
+            ],
+            "mentions": [
+              {
+                "start": 63,
+                "end": 69,
+                "username": "IPAjp"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "verified": false,
+        "id": "526179692",
+        "created_at": "2012-03-16T08:38:44.000Z",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3567,
+          "following_count": 1090,
+          "tweet_count": 5646,
+          "listed_count": 59
+        },
+        "url": "https://t.co/oLPNDB1fPL",
+        "username": "cyd____",
+        "location": "マンガワン",
+        "name": "漫画編集ちよだ",
+        "description": "小学館マンガワン編集部／27歳なりに漫画を編集しています／担当作→チ。 －地球の運動について－ ／映像研には手を出すな！／ストメント",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1352557326486491136/oD_ZhIJL_normal.jpg",
+        "pinned_tweet_id": "1354356349874835458",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/oLPNDB1fPL",
+                "expanded_url": "https://chiyodadada.tumblr.com",
+                "display_url": "chiyodadada.tumblr.com"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "tweets": [
+      {
+        "reply_settings": "everyone",
+        "conversation_id": "1358790222285213696",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0
+        },
+        "source": "Twitter for iPad",
+        "text": "社会学者さん、基本的に「本を読め(≒そうすれば俺の言っていることの正しさがわかる)」としか言わないから嫌われるんだと思っていますが、お前どう？",
+        "author_id": "707346268821913600",
+        "id": "1358790222285213696",
+        "created_at": "2021-02-08T14:50:08.000Z"
+      },
+      {
+        "reply_settings": "everyone",
+        "conversation_id": "1358769644169908228",
+        "possibly_sensitive": false,
+        "entities": {
+          "annotations": [
+            {
+              "start": 10,
+              "end": 13,
+              "probability": 0.6015,
+              "type": "Organization",
+              "normalized_text": "筑波大学"
+            }
+          ],
+          "urls": [
+            {
+              "start": 63,
+              "end": 86,
+              "url": "https://t.co/DLSBxIxGoU",
+              "expanded_url": "https://twitter.com/kopo_adhd/status/1358769644169908228/photo/1",
+              "display_url": "pic.twitter.com/DLSBxIxGoU"
+            },
+            {
+              "start": 63,
+              "end": 86,
+              "url": "https://t.co/DLSBxIxGoU",
+              "expanded_url": "https://twitter.com/kopo_adhd/status/1358769644169908228/photo/1",
+              "display_url": "pic.twitter.com/DLSBxIxGoU"
+            },
+            {
+              "start": 63,
+              "end": 86,
+              "url": "https://t.co/DLSBxIxGoU",
+              "expanded_url": "https://twitter.com/kopo_adhd/status/1358769644169908228/photo/1",
+              "display_url": "pic.twitter.com/DLSBxIxGoU"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 58,
+          "reply_count": 1,
+          "like_count": 219,
+          "quote_count": 10
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1358769640411860993",
+            "3_1358769640449536002",
+            "3_1358769640722206727"
+          ]
+        },
+        "source": "Twitter for iPhone",
+        "text": "噂には聞いていたが、筑波大学の発達障害学生支援めちゃくちゃ進んでる。しっかりアウトリーチしてて、グレーの人にも対応している。 https://t.co/DLSBxIxGoU",
+        "author_id": "851798922049617921",
+        "id": "1358769644169908228",
+        "created_at": "2021-02-08T13:28:22.000Z"
+      },
+      {
+        "reply_settings": "everyone",
+        "conversation_id": "1358630251908136960",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 483,
+          "reply_count": 7,
+          "like_count": 1873,
+          "quote_count": 15
+        },
+        "source": "Twitter Web App",
+        "text": "リボ払い（RNAで払う）",
+        "author_id": "1415656938",
+        "id": "1358630251908136960",
+        "created_at": "2021-02-08T04:14:28.000Z"
+      },
+      {
+        "reply_settings": "everyone",
+        "conversation_id": "1358446268310188033",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 6227,
+          "reply_count": 20,
+          "like_count": 22263,
+          "quote_count": 61
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1358446158239072256"
+          ]
+        },
+        "source": "Twitter Web App",
+        "text": "遺伝的アルゴリズムちゃん https://t.co/h9vrJkdcAp",
+        "author_id": "3770317280",
+        "entities": {
+          "urls": [
+            {
+              "start": 13,
+              "end": 36,
+              "url": "https://t.co/h9vrJkdcAp",
+              "expanded_url": "https://twitter.com/_99cafe_1/status/1358446268310188033/photo/1",
+              "display_url": "pic.twitter.com/h9vrJkdcAp"
+            }
+          ]
+        },
+        "id": "1358446268310188033",
+        "created_at": "2021-02-07T16:03:23.000Z"
+      },
+      {
+        "reply_settings": "everyone",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847546154439000064",
+              "name": "Education",
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform."
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "1188908088570470400",
+              "name": "School Entrance Exams"
+            }
+          }
+        ],
+        "conversation_id": "1358611512357761026",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 76,
+          "reply_count": 0,
+          "like_count": 76,
+          "quote_count": 13
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1358588943852216320"
+          ]
+        },
+        "source": "Twitter Web App",
+        "text": "4/18（日）実施の令和3年度春期試験の申込み受付締切は【本日（2/8（月））18時】です。受験を希望される方はお早めにお申込みください。\nhttps://t.co/G1fWCnv5TY\n#情報処理技術者試験\n#情報処理安全確保支援士試験 https://t.co/HzY7QGz2CG",
+        "author_id": "2978242225",
+        "entities": {
+          "urls": [
+            {
+              "start": 70,
+              "end": 93,
+              "url": "https://t.co/G1fWCnv5TY",
+              "expanded_url": "https://www.jitec.ipa.go.jp/1_01mosikomi/_index_mosikomi.html",
+              "display_url": "jitec.ipa.go.jp/1_01mosikomi/_…",
+              "status": 200,
+              "title": "IPA 独立行政法人 情報処理推進機構：受験申込み",
+              "description": "お知らせ 令和2年度10月試験（応用情報技術者試験・高度試験・情報処理安全確保支援士試験）の合格証書、午前Ⅰ通過者番号通知書は、1月18日（月）に発送済です。 (1)～(3)をご承知おきの上、受験申込みいただきますようお願いいたします。 受理した受験手数料は、理由のいかんにかかわらず返還できませんので、ご注意ください。なお、(1) のように経済産業省及び当機構の判断で試験実施を中止した場合などには、代替措置等を講じる場合もあります。 また、 新型コロナウイルス感染症拡大防止の観点から、早期の受験を迫られていない方につきましては、なるべく今回の受験申込みを自粛していただきますよう、ご協力をお願いします。 (1) 試験の中止について 新型コロナウイルス感染症の感染状況によっては、受験申込みを受け付けた後でも、試験を中止する場合があります。 (2) 試験地について 新型コロナウイルス感染症の拡大防止対策などにより、試験地によっては、希望する試験地で受験できない可能性があります。その場合、宿泊等が必要になることもあります。あらかじめご了承ください。 (3) 試験会場の場所について 同一都道府県内の他地域に設置された",
+              "unwound_url": "https://www.jitec.ipa.go.jp/1_01mosikomi/_index_mosikomi.html"
+            },
+            {
+              "start": 120,
+              "end": 143,
+              "url": "https://t.co/HzY7QGz2CG",
+              "expanded_url": "https://twitter.com/IPAjp/status/1358611512357761026/photo/1",
+              "display_url": "pic.twitter.com/HzY7QGz2CG"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 94,
+              "end": 104,
+              "tag": "情報処理技術者試験"
+            },
+            {
+              "start": 105,
+              "end": 119,
+              "tag": "情報処理安全確保支援士試験"
+            }
+          ]
+        },
+        "id": "1358611512357761026",
+        "created_at": "2021-02-08T03:00:00.000Z"
+      },
+      {
+        "reply_settings": "everyone",
+        "conversation_id": "1358350873957523456",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 220,
+          "reply_count": 4,
+          "like_count": 1171,
+          "quote_count": 7
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1358350868102356994"
+          ]
+        },
+        "source": "Twitter for iPhone",
+        "text": "https://t.co/kigzdSHbLM",
+        "author_id": "526179692",
+        "entities": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/kigzdSHbLM",
+              "expanded_url": "https://twitter.com/cyd____/status/1358350873957523456/photo/1",
+              "display_url": "pic.twitter.com/kigzdSHbLM"
+            }
+          ]
+        },
+        "id": "1358350873957523456",
+        "created_at": "2021-02-07T09:44:19.000Z"
+      },
+      {
+        "reply_settings": "everyone",
+        "conversation_id": "1358580978952802305",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "source": "Twitter for iPhone",
+        "text": "登大遊のタイピング音、地上波で出ましたか………？",
+        "author_id": "707346268821913600",
+        "id": "1358580978952802305",
+        "created_at": "2021-02-08T00:58:41.000Z"
+      }
+    ],
+    "media": [
+      {
+        "height": 1448,
+        "type": "photo",
+        "media_key": "3_1358769640411860993",
+        "url": "https://pbs.twimg.com/media/EttRyfRVkAEosOh.jpg",
+        "width": 827
+      },
+      {
+        "height": 827,
+        "type": "photo",
+        "media_key": "3_1358769640449536002",
+        "url": "https://pbs.twimg.com/media/EttRyfaUcAIO298.jpg",
+        "width": 827
+      },
+      {
+        "height": 1171,
+        "type": "photo",
+        "media_key": "3_1358769640722206727",
+        "url": "https://pbs.twimg.com/media/EttRygbVEAcHLgS.jpg",
+        "width": 827
+      },
+      {
+        "height": 2000,
+        "type": "photo",
+        "media_key": "3_1358446158239072256",
+        "url": "https://pbs.twimg.com/media/EtorlWRVgAAzZus.jpg",
+        "width": 2370
+      },
+      {
+        "height": 1113,
+        "type": "photo",
+        "media_key": "3_1358350868102356994",
+        "url": "https://pbs.twimg.com/media/EtnU6u2VoAIsaT9.jpg",
+        "width": 827
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1358575281921871872",
+    "newest_id": "1358791408652406785",
+    "result_count": 25
+  }
+}
