@@ -1,0 +1,1663 @@
+{
+  "data": [
+    {
+      "source": "Twitter Web App",
+      "text": "今日までしか読めない056話をお前もすぐ読め！！！！！！！！！！！！！！！！！！！！！\nhttps://t.co/72ljxHk4Iy #WEBコミックガンマ #メイドインアビス #つくしあきひと",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10050189708",
+            "name": "メイドインアビス"
+          }
+        }
+      ],
+      "id": "1359130059362082817",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T13:20:32.000Z",
+      "entities": {
+        "urls": [
+          {
+            "start": 44,
+            "end": 67,
+            "url": "https://t.co/72ljxHk4Iy",
+            "expanded_url": "https://webcomicgamma.takeshobo.co.jp/manga/madeinabyss/",
+            "display_url": "webcomicgamma.takeshobo.co.jp/manga/madeinab…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1357647743267733506/iSLWo3dR?format=jpg&name=orig",
+                "width": 655,
+                "height": 350
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1357647743267733506/iSLWo3dR?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "メイドインアビス｜WEBコミックガンマ 公式サイト",
+            "description": "隅々まで探索されつくした世界に、唯一残された秘境の大穴『アビス』。どこまで続くとも知れない深く巨大なその縦穴には、奇妙奇怪な生物たちが生息し、今の人類では作りえない貴重な遺物が眠っている。「アビス」の不可思議に満ちた姿は人々を魅了し、冒険へと駆り立てた。そうして幾度も大穴に挑戦する冒険者たちは、次第に『探窟家』呼ばれるようになっていった。 アビスの縁に築かれた街『オース』に暮らす孤児のリコは、いつか母のような偉大な探窟家になり、アビスの謎を解き明かすことを夢見ていた。そんなある日、リコはアビスを探窟中に、少年の姿をしたロボットを拾い…？",
+            "unwound_url": "https://webcomicgamma.takeshobo.co.jp/manga/madeinabyss/"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 68,
+            "end": 79,
+            "tag": "WEBコミックガンマ"
+          },
+          {
+            "start": 80,
+            "end": 89,
+            "tag": "メイドインアビス"
+          },
+          {
+            "start": 90,
+            "end": 98,
+            "tag": "つくしあきひと"
+          }
+        ]
+      },
+      "conversation_id": "1359130059362082817",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter Web App",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "tukushiA"
+          }
+        ]
+      },
+      "text": "RT @tukushiA: 57話の更新は2/10でございます。",
+      "public_metrics": {
+        "retweet_count": 2411,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1359126026765275141",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T13:04:30.000Z",
+      "conversation_id": "1359126026765275141",
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1358468591025221634"
+        }
+      ],
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPad",
+      "text": "「弁えろ」といわれて言外の意図を取れる人と取れない人がいるんじゃ(天才博士)",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1359093837839306753",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T10:56:36.000Z",
+      "conversation_id": "1359093837839306753",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "創造的休暇、やっていきましょう",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1359089152185180165",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T10:37:59.000Z",
+      "conversation_id": "1359089152185180165",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 17,
+            "username": "Rainmaker1973"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 41,
+            "end": 52,
+            "probability": 0.9991,
+            "type": "Person",
+            "normalized_text": "Isaac Newton"
+          },
+          {
+            "start": 93,
+            "end": 105,
+            "probability": 0.3708,
+            "type": "Organization",
+            "normalized_text": "Royal Society"
+          },
+          {
+            "start": 110,
+            "end": 115,
+            "probability": 0.9836,
+            "type": "Place",
+            "normalized_text": "London"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 33,
+            "end": 39,
+            "tag": "Today"
+          }
+        ]
+      },
+      "text": "RT @Rainmaker1973: 378 years ago #Today, Isaac Newton read his first Optics paper before the Royal Society in London. He was 29 [read more:…",
+      "public_metrics": {
+        "retweet_count": 113,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "854692455005921281",
+            "name": "Science",
+            "description": "Science"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "847899195566510080",
+            "name": "Physics",
+            "description": "Physics"
+          }
+        }
+      ],
+      "id": "1359089104365920258",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T10:37:47.000Z",
+      "conversation_id": "1359089104365920258",
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1358745484228251649"
+        }
+      ],
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "ぶっちゃけ社会学者の肩書を持つ人々の逆張りしてれば大体のことは正しい(というか多数派意見)んじゃないのと思っていますし、観測範囲だと大体そうなっている気がしますね(?)",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1359086510750900230",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T10:27:29.000Z",
+      "conversation_id": "1359086510750900230",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "秘書、バカではなれないものだとは思っていたけれど、ハサミだったら誰でもいい感じなんすね",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1359084028104593418",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T10:17:37.000Z",
+      "conversation_id": "1359084028104593418",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "TweetDeck",
+      "text": "業務１と個人開発と業務２と思考整理のすべてで Docusaurus を駆使してドキュメントをまとめようとするやつやってる，取り敢えずスタイリングとか検索は後回しで",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1359058988034187266",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T08:38:07.000Z",
+      "conversation_id": "1359058988034187266",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter Web App",
+      "text": ":keshikaran: スタンプが某所にあるらしいね",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1359058047214047234",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T08:34:23.000Z",
+      "conversation_id": "1359058047214047234",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter Web App",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "dnobori"
+          }
+        ]
+      },
+      "text": "RT @dnobori: ２月最終週のテレビ東京ＢＳの１時間のドキュメンタリー番組は、テレビで正面から真剣に通信設備やＩＣＴ技術開発を扱った、史上初のけしからん番組になると思います。今、体を張って撮影をしています。あの話題のけしからん会議の続編も あるのです。 https://…",
+      "public_metrics": {
+        "retweet_count": 413,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1359057953530081280",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T08:34:00.000Z",
+      "conversation_id": "1359057953530081280",
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1359040794699567104"
+        }
+      ],
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter Web App",
+      "text": "CrowdIn ってやつを使うらしいので参加してくれ（Githubのアカウント等と連携ログインが出来るので簡単）\nhttps://t.co/rNgq89thP6",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692468",
+            "name": "GitHub"
+          }
+        }
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 27,
+            "end": 32,
+            "probability": 0.6,
+            "type": "Product",
+            "normalized_text": "Github"
+          }
+        ],
+        "urls": [
+          {
+            "start": 57,
+            "end": 80,
+            "url": "https://t.co/rNgq89thP6",
+            "expanded_url": "https://crowdin.com/project/docusaurus-v2",
+            "display_url": "crowdin.com/project/docusa…",
+            "status": 200,
+            "unwound_url": "https://crowdin.com/project/docusaurus-v2"
+          }
+        ]
+      },
+      "in_reply_to_user_id": "707346268821913600",
+      "id": "1359057857652563974",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T08:33:37.000Z",
+      "conversation_id": "1358930000989220864",
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1358930000989220864"
+        }
+      ],
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "TweetDeck",
+      "text": "開発盛んなOSSに質問すいっと投げたら二時間かからずに返答があるのすごい，俺たちは場所も時間も文化も言語も違うけど同じものを見ている",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1359049458189668355",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T08:00:15.000Z",
+      "conversation_id": "1359049458189668355",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "GitLabをオンプレにできなくてギットハブを使っている企業の皆さん",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692488",
+            "name": "GitLab"
+          }
+        }
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 5,
+            "probability": 0.3065,
+            "type": "Product",
+            "normalized_text": "GitLab"
+          }
+        ]
+      },
+      "id": "1359038200430305283",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T07:15:31.000Z",
+      "conversation_id": "1359038200430305283",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "佐賀県には縁があるので(笑) 😎",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 2,
+            "probability": 0.8743,
+            "type": "Place",
+            "normalized_text": "佐賀県"
+          }
+        ]
+      },
+      "id": "1359037938122727424",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T07:14:28.000Z",
+      "conversation_id": "1359037938122727424",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "livedoornews"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 23,
+            "end": 24,
+            "probability": 0.921,
+            "type": "Place",
+            "normalized_text": "佐賀"
+          },
+          {
+            "start": 37,
+            "end": 40,
+            "probability": 0.9763,
+            "type": "Person",
+            "normalized_text": "宮野真守"
+          },
+          {
+            "start": 72,
+            "end": 81,
+            "probability": 0.5609,
+            "type": "Other",
+            "normalized_text": "23時の佐賀飯アニメ"
+          },
+          {
+            "start": 85,
+            "end": 87,
+            "probability": 0.8573,
+            "type": "Place",
+            "normalized_text": "佐賀県"
+          },
+          {
+            "start": 113,
+            "end": 114,
+            "probability": 0.4741,
+            "type": "Person",
+            "normalized_text": "宮野"
+          },
+          {
+            "start": 117,
+            "end": 119,
+            "probability": 0.8874,
+            "type": "Place",
+            "normalized_text": "佐賀県"
+          }
+        ],
+        "urls": [
+          {
+            "start": 46,
+            "end": 69,
+            "url": "https://t.co/vMjdlNIWDW",
+            "expanded_url": "https://news.livedoor.com/lite/article_detail/19667891/",
+            "display_url": "news.livedoor.com/lite/article_d…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1358955805530226689/AlD_hCJd?format=jpg&name=orig",
+                "width": 454,
+                "height": 639
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1358955805530226689/AlD_hCJd?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "宮野真守が胃袋に訴えてくる　超短尺『23時の佐賀飯アニメ』で食材の旨さを発信(KAI-YOU.net)",
+            "description": "宮野真守さん、佐賀飯声優になる。【宮野真守が胃袋に訴えてくる超短尺『23時の佐賀飯アニメ』で食材の旨さを発信の画像・動画をすべて見る】声優・宮野真守さんが声をつとめる超短尺アニメ『23時の佐賀飯アニメ』",
+            "unwound_url": "https://news.livedoor.com/lite/article_detail/19667891/"
+          }
+        ]
+      },
+      "text": "RT @livedoornews: 【飯テロ】佐賀の食材を発信するアニメ、宮野真守が主演に\nhttps://t.co/vMjdlNIWDW\n\n『23時の佐賀飯アニメ』は、佐賀県・地方創生プロジェクト「サプライズ！」による企画。宮野は「佐賀県には縁があるので（笑）お声がけいただい…",
+      "public_metrics": {
+        "retweet_count": 1836,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1070726185749897216",
+            "name": "Mamoru Miyano",
+            "description": "Japanese actor, voice actor and singer"
+          }
+        },
+        {
+          "domain": {
+            "id": "56",
+            "name": "Actor",
+            "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+          },
+          "entity": {
+            "id": "1070726185749897216",
+            "name": "Mamoru Miyano",
+            "description": "Japanese actor, voice actor and singer"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "839543165002506240",
+            "name": "Anime"
+          }
+        }
+      ],
+      "id": "1359037854945431555",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T07:14:08.000Z",
+      "conversation_id": "1359037854945431555",
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1358955805211385856"
+        }
+      ],
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "ダメな奴には金も地位もあげないようにすればいいジャンと思う瞬間はあるけど、ジャッジするのがダメな奴だとハックされて崩壊するだけなので、真に目指すべきはより公平でハックされない人物評価システムなんじゃあないか",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "id": "1358994253108580353",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T04:20:53.000Z",
+      "conversation_id": "1358994253108580353",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPad",
+      "text": "美味しいんだけど心の底から楽しめていない感じがある、やはり食後に自死を選んでもいいくらいの満足感ある体験が必要",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1358989932396617729",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T04:03:43.000Z",
+      "conversation_id": "1358989932396617729",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPad",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "conpeto"
+          }
+        ]
+      },
+      "text": "RT @conpeto: ノスタル爺で一番ヤバいのはこの内容にノスタル爺ってタイトル付ける作者",
+      "public_metrics": {
+        "retweet_count": 2522,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1358988898592903169",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T03:59:36.000Z",
+      "conversation_id": "1358988898592903169",
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1358961210989813766"
+        }
+      ],
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPad",
+      "text": "きちんとバランスよく食べないと食欲が暴走しがち、というわけで今暴飲暴食をやっています、寿命を引き換えていくゾ〜〜^ ^",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1358979321302425605",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T03:21:33.000Z",
+      "conversation_id": "1358979321302425605",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "TweetDeck",
+      "text": "中抜きとピンハネ同じ意味じゃないのかよワロタ（いやでも第一義的にはあってるのか？）（内部をくり抜くことじゃない？）\nhttps://t.co/lrWUazXeq0",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1358977294358831106",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T03:13:30.000Z",
+      "entities": {
+        "urls": [
+          {
+            "start": 58,
+            "end": 81,
+            "url": "https://t.co/lrWUazXeq0",
+            "expanded_url": "https://kotobank.jp/word/%E4%B8%AD%E6%8A%9C%E3%81%8D-587964",
+            "display_url": "kotobank.jp/word/%E4%B8%AD…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1358977299316498434/q3DlAnTE?format=png&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1358977299316498434/q3DlAnTE?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "中抜きとは - コトバンク",
+            "description": "デジタル大辞泉 - 中抜きの用語解説 - １ 中を抜きとること。内部をくりぬくこと。また、そのもの。２ 商品の流通経路で、卸売など中間業者を抜かして生産者と小売業または消費者が直接に取引すること。「産直という名の―に問屋は打撃」３ 野菜や草花を一度間引いたあとで更にもう...",
+            "unwound_url": "https://kotobank.jp/word/%E4%B8%AD%E6%8A%9C%E3%81%8D-587964"
+          }
+        ]
+      },
+      "conversation_id": "1358977294358831106",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPad",
+      "text": "Docusaurus良すぎると思って公式に和訳させろつっったら快諾された、和訳しましょう　＠各位",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1358930000989220864",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T00:05:34.000Z",
+      "conversation_id": "1358930000989220864",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPad",
+      "text": "今日はガス点検でおっさんが自宅侵入(同意の上)してくるので掃除せんとならん、します",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1358929549879242753",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-09T00:03:47.000Z",
+      "conversation_id": "1358929549879242753",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "minpurimapi"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 27,
+            "end": 34,
+            "probability": 0.6131,
+            "type": "Other",
+            "normalized_text": "ハンターハンター"
+          },
+          {
+            "start": 36,
+            "end": 41,
+            "probability": 0.4159,
+            "type": "Person",
+            "normalized_text": "ゼパイルさん"
+          },
+          {
+            "start": 60,
+            "end": 65,
+            "probability": 0.7954,
+            "type": "Person",
+            "normalized_text": "ゼパイルさん"
+          },
+          {
+            "start": 67,
+            "end": 71,
+            "probability": 0.7721,
+            "type": "Person",
+            "normalized_text": "AKIRA"
+          }
+        ]
+      },
+      "text": "RT @minpurimapi: 今週のロボコ読んで「ハンターハンターのゼパイルさんのパロディだ」と思って調べたら、このゼパイルさんもAKIRAのパロディということをさっき初めて知った。\nなんかハンターハンターっぽくない効果音で違和感すごいなって当時から印象に残ってたけど理由が…",
+      "public_metrics": {
+        "retweet_count": 2928,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1268927285739941888",
+            "name": "Hunter × Hunter"
+          }
+        },
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1268927285739941888",
+            "name": "Hunter × Hunter"
+          }
+        }
+      ],
+      "id": "1358923966996389890",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-08T23:41:35.000Z",
+      "conversation_id": "1358923966996389890",
+      "possibly_sensitive": false,
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1358711255846985731"
+        }
+      ],
+      "reply_settings": "everyone"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "username": "Ningensei848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "pinned_tweet_id": "1345020610875777024",
+        "verified": false,
+        "name": "きあい🌘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "protected": false,
+        "url": "https://t.co/KBXT0N3eAa",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "location": "山梨県→茨城県つくば市",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 990,
+          "tweet_count": 58432,
+          "listed_count": 22
+        },
+        "id": "707346268821913600"
+      },
+      {
+        "username": "tukushiA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/843532233474375680/DsDrnXKP_normal.jpg",
+        "pinned_tweet_id": "1310120183260876800",
+        "verified": false,
+        "name": "つくしあきひと",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/2TwE0iGkCB",
+                "expanded_url": "http://webcomicgamma.takeshobo.co.jp/manga/madeinabyss/",
+                "display_url": "webcomicgamma.takeshobo.co.jp/manga/madeinab…"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 43,
+                "end": 66,
+                "url": "https://t.co/qH4b0rckrV",
+                "expanded_url": "http://miabyss.com",
+                "display_url": "miabyss.com"
+              }
+            ]
+          }
+        },
+        "created_at": "2009-03-15T03:55:07.000Z",
+        "protected": false,
+        "url": "https://t.co/2TwE0iGkCB",
+        "description": "辛いものだいすき。穴もぐりまんが「メイドインアビス」アニメの新作劇場版もよろしくね。 https://t.co/qH4b0rckrV まんが9巻でました。",
+        "location": "相模大野",
+        "public_metrics": {
+          "followers_count": 208580,
+          "following_count": 1672,
+          "tweet_count": 45590,
+          "listed_count": 2072
+        },
+        "id": "24482962"
+      },
+      {
+        "username": "Rainmaker1973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+        "pinned_tweet_id": "1201111176740057089",
+        "verified": false,
+        "name": "Massimo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/p999QzDjSI",
+                "expanded_url": "https://www.facebook.com/Rainmaker1973/",
+                "display_url": "facebook.com/Rainmaker1973/"
+              }
+            ]
+          },
+          "description": {
+            "hashtags": [
+              {
+                "start": 116,
+                "end": 124,
+                "tag": "science"
+              }
+            ],
+            "mentions": [
+              {
+                "start": 47,
+                "end": 59,
+                "username": "Coelum_news"
+              }
+            ]
+          }
+        },
+        "created_at": "2010-08-11T07:13:13.000Z",
+        "protected": false,
+        "url": "https://t.co/p999QzDjSI",
+        "description": "Astronomy, astronautics, meteorology, physics. @Coelum_news columnist. Engineer, trying to build the big picture of #science via pics, videos & links",
+        "location": "Italy, North by Northwest",
+        "public_metrics": {
+          "followers_count": 207905,
+          "following_count": 301,
+          "tweet_count": 170857,
+          "listed_count": 1864
+        },
+        "id": "177101260"
+      },
+      {
+        "username": "dnobori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1126835181921263616/vPqbtXZm_normal.jpg",
+        "verified": false,
+        "name": "Daiyuu Nobori (登 大遊)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/GrTYVeOisM",
+                "expanded_url": "http://dnobori.cs.tsukuba.ac.jp/ja/",
+                "display_url": "dnobori.cs.tsukuba.ac.jp/ja/"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 133,
+                "end": 156,
+                "url": "https://t.co/3FdqEaJdJ0",
+                "expanded_url": "http://dnobori.cs.tsukuba.ac.jp",
+                "display_url": "dnobori.cs.tsukuba.ac.jp"
+              }
+            ]
+          }
+        },
+        "created_at": "2009-06-27T02:30:37.000Z",
+        "protected": false,
+        "url": "https://t.co/GrTYVeOisM",
+        "description": "SoftEther VPNやシン・テレワークシステムを開発。あのけしからん GREAT FIREWALL をやっつける研究にも従事。NTT東日本/独立行政法人情報処理推進機構/筑波大学/ソフトイーサに所属。筑波大学 産学連携准教授/医学博士課程の学生。博士(工学)。https://t.co/3FdqEaJdJ0",
+        "location": "Bunkyo, Tokyo, JAPAN.",
+        "public_metrics": {
+          "followers_count": 23098,
+          "following_count": 253,
+          "tweet_count": 13574,
+          "listed_count": 410
+        },
+        "id": "51317994"
+      },
+      {
+        "username": "livedoornews",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1273893604637896705/dGaMqg94_normal.png",
+        "verified": true,
+        "name": "ライブドアニュース",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/VtLtjdqlKC",
+                "expanded_url": "http://news.livedoor.com/",
+                "display_url": "news.livedoor.com"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 64,
+                "end": 87,
+                "url": "https://t.co/N2sQK2czYN",
+                "expanded_url": "http://news.livedoor.com/interview/",
+                "display_url": "news.livedoor.com/interview/"
+              },
+              {
+                "start": 94,
+                "end": 117,
+                "url": "https://t.co/W0YI6EaTWD",
+                "expanded_url": "http://bit.ly/2MsmtGD",
+                "display_url": "bit.ly/2MsmtGD"
+              }
+            ]
+          }
+        },
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "protected": false,
+        "url": "https://t.co/VtLtjdqlKC",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。 ■特集・インタビューhttps://t.co/N2sQK2czYN ■公式アプリhttps://t.co/W0YI6EaTWD",
+        "public_metrics": {
+          "followers_count": 1337808,
+          "following_count": 88,
+          "tweet_count": 291071,
+          "listed_count": 9722
+        },
+        "id": "17306975"
+      },
+      {
+        "username": "conpeto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1293164489127280641/LdQAiJCF_normal.jpg",
+        "pinned_tweet_id": "1117031242321387520",
+        "verified": false,
+        "name": "ぺと",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/RYGzP3JYfA",
+                "expanded_url": "http://www.pixiv.net/member.php?id=16494",
+                "display_url": "pixiv.net/member.php?id=…"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 16,
+                "end": 39,
+                "url": "https://t.co/KwnN5j7LLu",
+                "expanded_url": "https://twitter.com/pt03terminal",
+                "display_url": "twitter.com/pt03terminal"
+              },
+              {
+                "start": 93,
+                "end": 116,
+                "url": "https://t.co/B9RtESBTDs",
+                "expanded_url": "https://skeb.jp/@conpeto",
+                "display_url": "skeb.jp/@conpeto"
+              }
+            ]
+          }
+        },
+        "created_at": "2009-09-27T15:25:27.000Z",
+        "protected": false,
+        "url": "https://t.co/RYGzP3JYfA",
+        "description": "■同人情報・イラスト等はこちらでhttps://t.co/KwnN5j7LLu　\n■連絡用メールアドレス\n[oshikiri555@gmail.com]　\n■skebリクエストはこちら\nhttps://t.co/B9RtESBTDs\n■当アカウントのツイートには論理性・整合性はございません。",
+        "location": "自宅",
+        "public_metrics": {
+          "followers_count": 6215,
+          "following_count": 1297,
+          "tweet_count": 268823,
+          "listed_count": 169
+        },
+        "id": "77758161"
+      },
+      {
+        "username": "minpurimapi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1292272080537317376/MrzxoU9J_normal.jpg",
+        "pinned_tweet_id": "1281148294454841344",
+        "verified": false,
+        "name": "ライフガ—ド",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "start": 20,
+                "end": 31,
+                "tag": "この熱狂をもっと外へ"
+              }
+            ]
+          }
+        },
+        "created_at": "2014-01-17T06:53:45.000Z",
+        "protected": false,
+        "url": "",
+        "description": "Mリーグと週刊少年ジャンプが好きです。 #この熱狂をもっと外へ",
+        "public_metrics": {
+          "followers_count": 3468,
+          "following_count": 2780,
+          "tweet_count": 100752,
+          "listed_count": 70
+        },
+        "id": "2295634688"
+      }
+    ],
+    "tweets": [
+      {
+        "source": "Twitter Web App",
+        "text": "57話の更新は2/10でございます。",
+        "public_metrics": {
+          "retweet_count": 2411,
+          "reply_count": 86,
+          "like_count": 6332,
+          "quote_count": 136
+        },
+        "id": "1358468591025221634",
+        "author_id": "24482962",
+        "created_at": "2021-02-07T17:32:05.000Z",
+        "conversation_id": "1358468591025221634",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone"
+      },
+      {
+        "source": "Twitter Web App",
+        "text": "378 years ago #Today, Isaac Newton read his first Optics paper before the Royal Society in London. He was 29 [read more: https://t.co/0ySCY795tb] https://t.co/L8eKilabR1",
+        "public_metrics": {
+          "retweet_count": 113,
+          "reply_count": 6,
+          "like_count": 518,
+          "quote_count": 13
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "854692455005921281",
+              "name": "Science",
+              "description": "Science"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "847899195566510080",
+              "name": "Physics",
+              "description": "Physics"
+            }
+          }
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "start": 22,
+              "end": 33,
+              "probability": 0.9987,
+              "type": "Person",
+              "normalized_text": "Isaac Newton"
+            },
+            {
+              "start": 74,
+              "end": 86,
+              "probability": 0.3747,
+              "type": "Organization",
+              "normalized_text": "Royal Society"
+            },
+            {
+              "start": 91,
+              "end": 96,
+              "probability": 0.9824,
+              "type": "Place",
+              "normalized_text": "London"
+            }
+          ],
+          "urls": [
+            {
+              "start": 121,
+              "end": 144,
+              "url": "https://t.co/0ySCY795tb",
+              "expanded_url": "http://buff.ly/2ksLJgE",
+              "display_url": "buff.ly/2ksLJgE",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1358745485004189696/548d9aDy?format=jpg&name=orig",
+                  "width": 135,
+                  "height": 170
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1358745485004189696/548d9aDy?format=jpg&name=150x150",
+                  "width": 135,
+                  "height": 135
+                }
+              ],
+              "status": 200,
+              "title": "February 8: Sir Isaac Newton and Optics",
+              "description": "On 8 February 1672, Sir Isaac Newton read his first Optics paper before the Royal Society in London. This paper dealt with color, light, and optics. Although he is recognized as an incredibly influ…",
+              "unwound_url": "http://www.stevenlberg.info/today/2780?utm_content=buffer4dd0f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+            },
+            {
+              "start": 146,
+              "end": 169,
+              "url": "https://t.co/L8eKilabR1",
+              "expanded_url": "https://twitter.com/Rainmaker1973/status/1358745484228251649/photo/1",
+              "display_url": "pic.twitter.com/L8eKilabR1"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 14,
+              "end": 20,
+              "tag": "Today"
+            }
+          ]
+        },
+        "id": "1358745484228251649",
+        "author_id": "177101260",
+        "attachments": {
+          "media_keys": [
+            "3_1358745435234594818"
+          ]
+        },
+        "created_at": "2021-02-08T11:52:22.000Z",
+        "conversation_id": "1358745484228251649",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone"
+      },
+      {
+        "source": "TweetDeck",
+        "text": "２月最終週のテレビ東京ＢＳの１時間のドキュメンタリー番組は、テレビで正面から真剣に通信設備やＩＣＴ技術開発を扱った、史上初のけしからん番組になると思います。今、体を張って撮影をしています。あの話題のけしからん会議の続編も あるのです。 https://t.co/ihFfHAMSgQ",
+        "public_metrics": {
+          "retweet_count": 413,
+          "reply_count": 6,
+          "like_count": 1281,
+          "quote_count": 24
+        },
+        "id": "1359040794699567104",
+        "author_id": "51317994",
+        "attachments": {
+          "media_keys": [
+            "3_1359040371204915202",
+            "3_1359040391610208258",
+            "3_1359040442671656964"
+          ]
+        },
+        "created_at": "2021-02-09T07:25:49.000Z",
+        "entities": {
+          "urls": [
+            {
+              "start": 118,
+              "end": 141,
+              "url": "https://t.co/ihFfHAMSgQ",
+              "expanded_url": "https://twitter.com/dnobori/status/1359040794699567104/photo/1",
+              "display_url": "pic.twitter.com/ihFfHAMSgQ"
+            },
+            {
+              "start": 118,
+              "end": 141,
+              "url": "https://t.co/ihFfHAMSgQ",
+              "expanded_url": "https://twitter.com/dnobori/status/1359040794699567104/photo/1",
+              "display_url": "pic.twitter.com/ihFfHAMSgQ"
+            },
+            {
+              "start": 118,
+              "end": 141,
+              "url": "https://t.co/ihFfHAMSgQ",
+              "expanded_url": "https://twitter.com/dnobori/status/1359040794699567104/photo/1",
+              "display_url": "pic.twitter.com/ihFfHAMSgQ"
+            }
+          ]
+        },
+        "conversation_id": "1359040794699567104",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone"
+      },
+      {
+        "source": "Twitter for iPad",
+        "text": "Docusaurus良すぎると思って公式に和訳させろつっったら快諾された、和訳しましょう　＠各位",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0
+        },
+        "id": "1358930000989220864",
+        "author_id": "707346268821913600",
+        "created_at": "2021-02-09T00:05:34.000Z",
+        "conversation_id": "1358930000989220864",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone"
+      },
+      {
+        "source": "Twitter Web App",
+        "text": "【飯テロ】佐賀の食材を発信するアニメ、宮野真守が主演に\nhttps://t.co/vMjdlNIWDW\n\n『23時の佐賀飯アニメ』は、佐賀県・地方創生プロジェクト「サプライズ！」による企画。宮野は「佐賀県には縁があるので（笑）お声がけいただいて嬉しかったです」とコメントした。 https://t.co/zyGgZgLIDQ",
+        "public_metrics": {
+          "retweet_count": 1836,
+          "reply_count": 10,
+          "like_count": 3284,
+          "quote_count": 127
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "1070726185749897216",
+              "name": "Mamoru Miyano",
+              "description": "Japanese actor, voice actor and singer"
+            }
+          },
+          {
+            "domain": {
+              "id": "56",
+              "name": "Actor",
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+            },
+            "entity": {
+              "id": "1070726185749897216",
+              "name": "Mamoru Miyano",
+              "description": "Japanese actor, voice actor and singer"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "start": 5,
+              "end": 6,
+              "probability": 0.9162,
+              "type": "Place",
+              "normalized_text": "佐賀"
+            },
+            {
+              "start": 19,
+              "end": 22,
+              "probability": 0.9753,
+              "type": "Person",
+              "normalized_text": "宮野真守"
+            },
+            {
+              "start": 54,
+              "end": 63,
+              "probability": 0.5925,
+              "type": "Other",
+              "normalized_text": "23時の佐賀飯アニメ"
+            },
+            {
+              "start": 67,
+              "end": 69,
+              "probability": 0.8475,
+              "type": "Place",
+              "normalized_text": "佐賀県"
+            },
+            {
+              "start": 95,
+              "end": 96,
+              "probability": 0.4955,
+              "type": "Person",
+              "normalized_text": "宮野"
+            },
+            {
+              "start": 99,
+              "end": 101,
+              "probability": 0.8842,
+              "type": "Place",
+              "normalized_text": "佐賀県"
+            }
+          ],
+          "urls": [
+            {
+              "start": 28,
+              "end": 51,
+              "url": "https://t.co/vMjdlNIWDW",
+              "expanded_url": "https://news.livedoor.com/lite/article_detail/19667891/",
+              "display_url": "news.livedoor.com/lite/article_d…",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1358955805530226689/AlD_hCJd?format=jpg&name=orig",
+                  "width": 454,
+                  "height": 639
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1358955805530226689/AlD_hCJd?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "宮野真守が胃袋に訴えてくる　超短尺『23時の佐賀飯アニメ』で食材の旨さを発信(KAI-YOU.net)",
+              "description": "宮野真守さん、佐賀飯声優になる。【宮野真守が胃袋に訴えてくる超短尺『23時の佐賀飯アニメ』で食材の旨さを発信の画像・動画をすべて見る】声優・宮野真守さんが声をつとめる超短尺アニメ『23時の佐賀飯アニメ』",
+              "unwound_url": "https://news.livedoor.com/lite/article_detail/19667891/"
+            },
+            {
+              "start": 139,
+              "end": 162,
+              "url": "https://t.co/zyGgZgLIDQ",
+              "expanded_url": "https://twitter.com/livedoornews/status/1358955805211385856/photo/1",
+              "display_url": "pic.twitter.com/zyGgZgLIDQ"
+            },
+            {
+              "start": 139,
+              "end": 162,
+              "url": "https://t.co/zyGgZgLIDQ",
+              "expanded_url": "https://twitter.com/livedoornews/status/1358955805211385856/photo/1",
+              "display_url": "pic.twitter.com/zyGgZgLIDQ"
+            }
+          ]
+        },
+        "id": "1358955805211385856",
+        "author_id": "17306975",
+        "attachments": {
+          "media_keys": [
+            "3_1358955706217472002",
+            "3_1358955784269303808"
+          ]
+        },
+        "created_at": "2021-02-09T01:48:06.000Z",
+        "conversation_id": "1358955805211385856",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone"
+      },
+      {
+        "source": "TweetDeck",
+        "text": "ノスタル爺で一番ヤバいのはこの内容にノスタル爺ってタイトル付ける作者",
+        "public_metrics": {
+          "retweet_count": 2522,
+          "reply_count": 0,
+          "like_count": 5991,
+          "quote_count": 20
+        },
+        "id": "1358961210989813766",
+        "author_id": "77758161",
+        "created_at": "2021-02-09T02:09:35.000Z",
+        "conversation_id": "1358961210989813766",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone"
+      },
+      {
+        "source": "Twitter for iPhone",
+        "text": "今週のロボコ読んで「ハンターハンターのゼパイルさんのパロディだ」と思って調べたら、このゼパイルさんもAKIRAのパロディということをさっき初めて知った。\nなんかハンターハンターっぽくない効果音で違和感すごいなって当時から印象に残ってたけど理由がわかってスッキリした。\nサンキューロボコ！ https://t.co/TEJvPEqwCG",
+        "public_metrics": {
+          "retweet_count": 2928,
+          "reply_count": 8,
+          "like_count": 6127,
+          "quote_count": 39
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "130",
+              "name": "Multimedia Franchise",
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+            },
+            "entity": {
+              "id": "1268927285739941888",
+              "name": "Hunter × Hunter"
+            }
+          },
+          {
+            "domain": {
+              "id": "130",
+              "name": "Multimedia Franchise",
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+            },
+            "entity": {
+              "id": "1268927285739941888",
+              "name": "Hunter × Hunter"
+            }
+          }
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "start": 10,
+              "end": 17,
+              "probability": 0.6923,
+              "type": "Other",
+              "normalized_text": "ハンターハンター"
+            },
+            {
+              "start": 19,
+              "end": 24,
+              "probability": 0.3176,
+              "type": "Person",
+              "normalized_text": "ゼパイルさん"
+            },
+            {
+              "start": 43,
+              "end": 48,
+              "probability": 0.7728,
+              "type": "Person",
+              "normalized_text": "ゼパイルさん"
+            },
+            {
+              "start": 50,
+              "end": 54,
+              "probability": 0.7545,
+              "type": "Person",
+              "normalized_text": "AKIRA"
+            }
+          ],
+          "urls": [
+            {
+              "start": 144,
+              "end": 167,
+              "url": "https://t.co/TEJvPEqwCG",
+              "expanded_url": "https://twitter.com/minpurimapi/status/1358711255846985731/photo/1",
+              "display_url": "pic.twitter.com/TEJvPEqwCG"
+            },
+            {
+              "start": 144,
+              "end": 167,
+              "url": "https://t.co/TEJvPEqwCG",
+              "expanded_url": "https://twitter.com/minpurimapi/status/1358711255846985731/photo/1",
+              "display_url": "pic.twitter.com/TEJvPEqwCG"
+            },
+            {
+              "start": 144,
+              "end": 167,
+              "url": "https://t.co/TEJvPEqwCG",
+              "expanded_url": "https://twitter.com/minpurimapi/status/1358711255846985731/photo/1",
+              "display_url": "pic.twitter.com/TEJvPEqwCG"
+            }
+          ]
+        },
+        "id": "1358711255846985731",
+        "author_id": "2295634688",
+        "attachments": {
+          "media_keys": [
+            "3_1358711248880214017",
+            "3_1358711248884363265",
+            "3_1358711248880238597"
+          ]
+        },
+        "created_at": "2021-02-08T09:36:21.000Z",
+        "conversation_id": "1358711255846985731",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1358923966996389890",
+    "newest_id": "1359130059362082817",
+    "result_count": 23
+  }
+}
