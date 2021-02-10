@@ -1,0 +1,800 @@
+{
+  "data": [
+    {
+      "created_at": "2021-02-10T11:21:42.000Z",
+      "text": "アー、もしかして肉が足りないのか",
+      "author_id": "707346268821913600",
+      "conversation_id": "1359462544281370624",
+      "possibly_sensitive": false,
+      "id": "1359462544281370624",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone"
+    },
+    {
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10050189708",
+            "name": "メイドインアビス"
+          }
+        }
+      ],
+      "created_at": "2021-02-10T10:40:58.000Z",
+      "text": "https://t.co/72ljxHk4Iy #WEBコミックガンマ #メイドインアビス #つくしあきひと",
+      "author_id": "707346268821913600",
+      "conversation_id": "1359452290361434114",
+      "possibly_sensitive": false,
+      "id": "1359452290361434114",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 24,
+            "end": 35,
+            "tag": "WEBコミックガンマ"
+          },
+          {
+            "start": 36,
+            "end": 45,
+            "tag": "メイドインアビス"
+          },
+          {
+            "start": 46,
+            "end": 54,
+            "tag": "つくしあきひと"
+          }
+        ],
+        "urls": [
+          {
+            "start": 0,
+            "end": 23,
+            "url": "https://t.co/72ljxHk4Iy",
+            "expanded_url": "https://webcomicgamma.takeshobo.co.jp/manga/madeinabyss/",
+            "display_url": "webcomicgamma.takeshobo.co.jp/manga/madeinab…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1357647743267733506/iSLWo3dR?format=jpg&name=orig",
+                "width": 655,
+                "height": 350
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1357647743267733506/iSLWo3dR?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "メイドインアビス｜WEBコミックガンマ 公式サイト",
+            "description": "隅々まで探索されつくした世界に、唯一残された秘境の大穴『アビス』。どこまで続くとも知れない深く巨大なその縦穴には、奇妙奇怪な生物たちが生息し、今の人類では作りえない貴重な遺物が眠っている。「アビス」の不可思議に満ちた姿は人々を魅了し、冒険へと駆り立てた。そうして幾度も大穴に挑戦する冒険者たちは、次第に『探窟家』呼ばれるようになっていった。 アビスの縁に築かれた街『オース』に暮らす孤児のリコは、いつか母のような偉大な探窟家になり、アビスの謎を解き明かすことを夢見ていた。そんなある日、リコはアビスを探窟中に、少年の姿をしたロボットを拾い…？",
+            "unwound_url": "https://webcomicgamma.takeshobo.co.jp/manga/madeinabyss/"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone"
+    },
+    {
+      "created_at": "2021-02-10T10:01:59.000Z",
+      "text": "何を食べても満足出来ない感じになってしまい、決定的に何らかが不足しているっぽいことがわかってきた(何？)",
+      "author_id": "707346268821913600",
+      "conversation_id": "1359442481641787395",
+      "possibly_sensitive": false,
+      "id": "1359442481641787395",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone"
+    },
+    {
+      "created_at": "2021-02-10T09:53:28.000Z",
+      "text": "自分を赦すためにキレイゴトを述べるのかぁ、慧眼",
+      "author_id": "707346268821913600",
+      "conversation_id": "1359440338423717906",
+      "possibly_sensitive": false,
+      "id": "1359440338423717906",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone"
+    },
+    {
+      "created_at": "2021-02-10T09:13:53.000Z",
+      "text": "洞穴いきたいね",
+      "author_id": "707346268821913600",
+      "conversation_id": "1359430377719230466",
+      "possibly_sensitive": false,
+      "id": "1359430377719230466",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "jukaimura"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 15,
+            "end": 17,
+            "probability": 0.9184,
+            "type": "Place",
+            "normalized_text": "山梨県"
+          },
+          {
+            "start": 21,
+            "end": 27,
+            "probability": 0.4424,
+            "type": "Place",
+            "normalized_text": "樹海村 日本"
+          },
+          {
+            "start": 92,
+            "end": 97,
+            "probability": 0.2764,
+            "type": "Person",
+            "normalized_text": "青木ヶ原樹海"
+          }
+        ]
+      },
+      "created_at": "2021-02-10T09:13:18.000Z",
+      "text": "RT @jukaimura: 山梨県 × 樹海村\n\n日本には、ぜったいに行かなければいけない場所がある。\n\n「生きる喜びを体感できるパワースポット」\n               　\"青木ヶ原樹海 \"",
+      "author_id": "707346268821913600",
+      "conversation_id": "1359430229723238401",
+      "possibly_sensitive": false,
+      "id": "1359430229723238401",
+      "public_metrics": {
+        "retweet_count": 97,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1359076287675961353"
+        }
+      ]
+    },
+    {
+      "created_at": "2021-02-10T08:51:02.000Z",
+      "text": "各務原桜",
+      "author_id": "707346268821913600",
+      "conversation_id": "1359424628054085637",
+      "possibly_sensitive": false,
+      "id": "1359424628054085637",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.1916,
+            "type": "Place",
+            "normalized_text": "各務原桜"
+          }
+        ]
+      }
+    },
+    {
+      "created_at": "2021-02-10T07:54:51.000Z",
+      "text": "よくわからんくなってしまったけど虐められるよりは虐めた方がトータルで得だよ、一番良いのはどちらにもくみさず無関心無感動で距離をとって孤立することだけれども…",
+      "author_id": "707346268821913600",
+      "conversation_id": "1359410487465811971",
+      "possibly_sensitive": false,
+      "id": "1359410487465811971",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone"
+    },
+    {
+      "created_at": "2021-02-10T07:53:28.000Z",
+      "text": "一人あるいは一定の距離を保った個人として社会をやっていけるのはごく少数派で、その人たちは他人がどうであれ自分の評価軸で絶対的にジャッジできるだけの力があるけど、一方で人と人の間にしか暮らせない人もいて、そこでの評価は総じて相対的というか、誰かをやっつけないとダメな枠組みがある？",
+      "author_id": "707346268821913600",
+      "conversation_id": "1359408680710508544",
+      "possibly_sensitive": false,
+      "id": "1359410138940022788",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "in_reply_to_user_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1359408680710508544"
+        }
+      ]
+    },
+    {
+      "created_at": "2021-02-10T07:47:40.000Z",
+      "text": "イジメが楽しいか楽しくないかで言うと多分「楽しくはない」が、一方で「愉しい」のがいけないと思う\n\nまた、楽しくないむしろ不快と思っている人は単に他者への共感が低いだけな気もします(低くできる能力を持っている、と言った方が正しいやも)",
+      "author_id": "707346268821913600",
+      "conversation_id": "1359408680710508544",
+      "possibly_sensitive": false,
+      "id": "1359408680710508544",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "ponatky"
+          }
+        ]
+      },
+      "created_at": "2021-02-10T07:40:23.000Z",
+      "text": "RT @ponatky: いじめしかできない、いじめでしか満足できない人ってのはどうしてもいるんだよね。必然的に大きな権力を持ち、権力者としてやるべきノブリス・オブリージュをしない系の人間になる。",
+      "author_id": "707346268821913600",
+      "conversation_id": "1359406848357453824",
+      "possibly_sensitive": false,
+      "id": "1359406848357453824",
+      "public_metrics": {
+        "retweet_count": 23,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1359364067111047169"
+        }
+      ]
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "YS_GPCR"
+          }
+        ]
+      },
+      "created_at": "2021-02-10T07:40:21.000Z",
+      "text": "RT @YS_GPCR: いじめっ子がポリコレに加担するの、罪の意識を誤魔化してるというより、空気を読むのがうまいのでは。つまりこいつは虐めても何の反撃もないと判断すると容赦なくいじめるし、ポリコレが強力な力を持ったら率先して従う。真逆のことをしているようで一貫性がある。",
+      "author_id": "707346268821913600",
+      "conversation_id": "1359406838895157249",
+      "possibly_sensitive": false,
+      "id": "1359406838895157249",
+      "public_metrics": {
+        "retweet_count": 814,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1359333075478487043"
+        }
+      ]
+    },
+    {
+      "created_at": "2021-02-10T07:39:48.000Z",
+      "text": "この時間でもまだ明るいので時節を感じて泣いているよね",
+      "author_id": "707346268821913600",
+      "conversation_id": "1359406702064373760",
+      "possibly_sensitive": false,
+      "id": "1359406702064373760",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone"
+    },
+    {
+      "created_at": "2021-02-10T06:31:11.000Z",
+      "text": "しょーがねぇだろ赤ちゃんなんだから",
+      "author_id": "707346268821913600",
+      "conversation_id": "1359389432772653059",
+      "possibly_sensitive": false,
+      "id": "1359389432772653059",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "udamatsu"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 41,
+            "end": 43,
+            "probability": 0.4942,
+            "type": "Person",
+            "normalized_text": "松村研"
+          },
+          {
+            "start": 61,
+            "end": 63,
+            "probability": 0.4581,
+            "type": "Organization",
+            "normalized_text": "松村研"
+          },
+          {
+            "start": 96,
+            "end": 98,
+            "probability": 0.4914,
+            "type": "Person",
+            "normalized_text": "松村研"
+          }
+        ]
+      },
+      "created_at": "2021-02-10T04:46:55.000Z",
+      "text": "RT @udamatsu: 最初のツイートは何にしようか考えたんだけど、とりあえず松村研の宣伝でもしとこうかな。\n皆さん、松村研はとてもアットホームな研究室で、毎日がとても充実しています。私も松村研に入ったおかげで毎日いいことしか起きてませんし、宝くじも当たりました。ぜひそんな…",
+      "author_id": "707346268821913600",
+      "conversation_id": "1359363191139016708",
+      "possibly_sensitive": false,
+      "id": "1359363191139016708",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1359346179595661312"
+        }
+      ]
+    },
+    {
+      "created_at": "2021-02-09T15:02:34.000Z",
+      "text": "こんとりびゅったーがきえて生活にメリハリがなくなってきてしまった、自分で代替物つくるね",
+      "author_id": "707346268821913600",
+      "conversation_id": "1359155738824892418",
+      "possibly_sensitive": false,
+      "id": "1359155738824892418",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "707346268821913600",
+        "url": "https://t.co/KBXT0N3eAa",
+        "protected": false,
+        "verified": false,
+        "username": "Ningensei848",
+        "location": "山梨県→茨城県つくば市",
+        "name": "きあい🌘",
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 990,
+          "tweet_count": 58447,
+          "listed_count": 22
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "pinned_tweet_id": "1345020610875777024"
+      },
+      {
+        "id": "1188766887489884161",
+        "url": "https://t.co/3yKo483okZ",
+        "protected": false,
+        "verified": false,
+        "username": "jukaimura",
+        "location": "富士の樹海",
+        "name": "映画『樹海村』公式",
+        "public_metrics": {
+          "followers_count": 18767,
+          "following_count": 24,
+          "tweet_count": 27444,
+          "listed_count": 74
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1281060922811793408/d540Y1Bh_normal.jpg",
+        "created_at": "2019-10-28T10:38:27.000Z",
+        "description": "🌲迷い込んだら生きては帰れない...🌲『#犬鳴村』につづく、東映が贈る「恐怖の村」第2弾の舞台は、#富士の樹海💀富士山の麓に広がる広大な“ヤバイ場所”にある“ヤバイ村”に待ち受ける恐怖とは…。2021年2月5日(金)、解禁   出演：#山田杏奈 #山口まゆ 監督：#清水崇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/3yKo483okZ",
+                "expanded_url": "https://jukaimura-movie.jp/",
+                "display_url": "jukaimura-movie.jp"
+              }
+            ]
+          },
+          "description": {
+            "hashtags": [
+              {
+                "start": 20,
+                "end": 24,
+                "tag": "犬鳴村"
+              },
+              {
+                "start": 49,
+                "end": 55,
+                "tag": "富士の樹海"
+              },
+              {
+                "start": 117,
+                "end": 122,
+                "tag": "山田杏奈"
+              },
+              {
+                "start": 123,
+                "end": 128,
+                "tag": "山口まゆ"
+              },
+              {
+                "start": 132,
+                "end": 136,
+                "tag": "清水崇"
+              }
+            ]
+          }
+        },
+        "pinned_tweet_id": "1358986073880236033"
+      },
+      {
+        "id": "125599417",
+        "url": "https://t.co/pZMyOAPcpE",
+        "protected": false,
+        "verified": false,
+        "username": "ponatky",
+        "location": "南関東のどこかにはほぼ必ずいる",
+        "name": "ぽん教授（半非実在系）",
+        "public_metrics": {
+          "followers_count": 3674,
+          "following_count": 2828,
+          "tweet_count": 186403,
+          "listed_count": 166
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3429177765/b728ed01b48b018bda7aade75322657c_normal.jpeg",
+        "created_at": "2010-03-23T08:47:25.000Z",
+        "description": "klis10→slis14/gto研 \n博論とは何だったのか\n辻政信と牟田口廉也を撲滅する会会長（自称）\n　https://t.co/49IIlCbnmO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/pZMyOAPcpE",
+                "expanded_url": "https://www.amazon.co.jp/gp/registry/wishlist/2ON9A5A3E3OCF/",
+                "display_url": "amazon.co.jp/gp/registry/wi…"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 54,
+                "end": 77,
+                "url": "https://t.co/49IIlCbnmO",
+                "expanded_url": "http://twpf.jp/ponatky",
+                "display_url": "twpf.jp/ponatky"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "19582927",
+        "url": "",
+        "protected": false,
+        "verified": false,
+        "username": "YS_GPCR",
+        "location": "涅槃",
+        "name": "YS@GPCR",
+        "public_metrics": {
+          "followers_count": 11026,
+          "following_count": 1010,
+          "tweet_count": 191022,
+          "listed_count": 354
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1021685997354897408/b_9yyRaV_normal.jpg",
+        "created_at": "2009-01-27T08:36:37.000Z",
+        "description": "令和大学総長。VABとか乗ってる。ヘッダーは@u1__さん。 SCP翻訳: https://t.co/Ok9NDsqfbi,  作曲: https://t.co/nLnrcRS2M5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "start": 38,
+                "end": 61,
+                "url": "https://t.co/Ok9NDsqfbi",
+                "expanded_url": "http://ja.scp-wiki.net/author:ys-gpcr",
+                "display_url": "ja.scp-wiki.net/author:ys-gpcr"
+              },
+              {
+                "start": 68,
+                "end": 91,
+                "url": "https://t.co/nLnrcRS2M5",
+                "expanded_url": "http://gpcr-music.com",
+                "display_url": "gpcr-music.com"
+              }
+            ],
+            "mentions": [
+              {
+                "start": 22,
+                "end": 27,
+                "username": "u1__"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "435621759",
+        "url": "http://t.co/Pg5FJAwH7e",
+        "protected": false,
+        "verified": false,
+        "username": "udamatsu",
+        "location": "茨城県つくば市",
+        "name": "宇陀・松村研究室",
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 46,
+          "tweet_count": 390,
+          "listed_count": 5
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3313754440/54ccf899c212f0e279cd0eb7a25ded95_normal.jpeg",
+        "created_at": "2011-12-13T08:04:30.000Z",
+        "description": "このアカウントは（筑波大学知識情報・図書館学類で電子図書館やウェブサービスの研究をしている）宇陀・松村研究室の平凡な日常を淡々と呟くものです。過度な期待はしないでください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 22,
+                "url": "http://t.co/Pg5FJAwH7e",
+                "expanded_url": "http://niccoli.slis.tsukuba.ac.jp/",
+                "display_url": "niccoli.slis.tsukuba.ac.jp"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "tweets": [
+      {
+        "created_at": "2021-02-09T09:46:52.000Z",
+        "text": "山梨県 × 樹海村\n\n日本には、ぜったいに行かなければいけない場所がある。\n\n「生きる喜びを体感できるパワースポット」\n               　\"青木ヶ原樹海 \"",
+        "author_id": "1188766887489884161",
+        "conversation_id": "1359076287675961353",
+        "possibly_sensitive": false,
+        "id": "1359076287675961353",
+        "public_metrics": {
+          "retweet_count": 97,
+          "reply_count": 1,
+          "like_count": 587,
+          "quote_count": 22
+        },
+        "source": "Twitter for Advertisers",
+        "reply_settings": "everyone",
+        "entities": {
+          "annotations": [
+            {
+              "start": 0,
+              "end": 2,
+              "probability": 0.8938,
+              "type": "Place",
+              "normalized_text": "山梨県"
+            },
+            {
+              "start": 6,
+              "end": 12,
+              "probability": 0.4509,
+              "type": "Place",
+              "normalized_text": "樹海村 日本"
+            },
+            {
+              "start": 77,
+              "end": 82,
+              "probability": 0.276,
+              "type": "Person",
+              "normalized_text": "青木ヶ原樹海"
+            }
+          ]
+        }
+      },
+      {
+        "created_at": "2021-02-10T07:47:40.000Z",
+        "text": "イジメが楽しいか楽しくないかで言うと多分「楽しくはない」が、一方で「愉しい」のがいけないと思う\n\nまた、楽しくないむしろ不快と思っている人は単に他者への共感が低いだけな気もします(低くできる能力を持っている、と言った方が正しいやも)",
+        "author_id": "707346268821913600",
+        "conversation_id": "1359408680710508544",
+        "possibly_sensitive": false,
+        "id": "1359408680710508544",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "source": "Twitter for iPad",
+        "reply_settings": "everyone"
+      },
+      {
+        "created_at": "2021-02-10T04:50:24.000Z",
+        "text": "いじめしかできない、いじめでしか満足できない人ってのはどうしてもいるんだよね。必然的に大きな権力を持ち、権力者としてやるべきノブリス・オブリージュをしない系の人間になる。",
+        "author_id": "125599417",
+        "conversation_id": "1359364067111047169",
+        "possibly_sensitive": false,
+        "id": "1359364067111047169",
+        "public_metrics": {
+          "retweet_count": 23,
+          "reply_count": 0,
+          "like_count": 34,
+          "quote_count": 0
+        },
+        "source": "Twitter for iPad",
+        "reply_settings": "everyone"
+      },
+      {
+        "created_at": "2021-02-10T02:47:15.000Z",
+        "text": "いじめっ子がポリコレに加担するの、罪の意識を誤魔化してるというより、空気を読むのがうまいのでは。つまりこいつは虐めても何の反撃もないと判断すると容赦なくいじめるし、ポリコレが強力な力を持ったら率先して従う。真逆のことをしているようで一貫性がある。",
+        "author_id": "19582927",
+        "conversation_id": "1359333075478487043",
+        "possibly_sensitive": false,
+        "id": "1359333075478487043",
+        "public_metrics": {
+          "retweet_count": 814,
+          "reply_count": 8,
+          "like_count": 1423,
+          "quote_count": 23
+        },
+        "source": "Twitter Web App",
+        "reply_settings": "everyone"
+      },
+      {
+        "created_at": "2021-02-10T03:39:19.000Z",
+        "text": "最初のツイートは何にしようか考えたんだけど、とりあえず松村研の宣伝でもしとこうかな。\n皆さん、松村研はとてもアットホームな研究室で、毎日がとても充実しています。私も松村研に入ったおかげで毎日いいことしか起きてませんし、宝くじも当たりました。ぜひそんな松村研をよろしくお願いします。",
+        "author_id": "435621759",
+        "conversation_id": "1359346179595661312",
+        "possibly_sensitive": false,
+        "id": "1359346179595661312",
+        "public_metrics": {
+          "retweet_count": 7,
+          "reply_count": 0,
+          "like_count": 14,
+          "quote_count": 0
+        },
+        "source": "Twitter Web App",
+        "reply_settings": "everyone",
+        "entities": {
+          "annotations": [
+            {
+              "start": 27,
+              "end": 29,
+              "probability": 0.4937,
+              "type": "Person",
+              "normalized_text": "松村研"
+            },
+            {
+              "start": 47,
+              "end": 49,
+              "probability": 0.4599,
+              "type": "Organization",
+              "normalized_text": "松村研"
+            },
+            {
+              "start": 82,
+              "end": 84,
+              "probability": 0.4803,
+              "type": "Person",
+              "normalized_text": "松村研"
+            },
+            {
+              "start": 125,
+              "end": 127,
+              "probability": 0.5834,
+              "type": "Person",
+              "normalized_text": "松村研"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1359155738824892418",
+    "newest_id": "1359462544281370624",
+    "result_count": 16
+  }
+}
