@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "created_at": "2021-02-11T09:58:19.000Z",
+      "id": "1359803945959399426",
+      "text": "泥舟の船頭を30〜40代の人にやらせるわけにもいかんだろよとは思うけど、本当にクソジジイを人柱にする光景を目の当たりにしてしまい、天罰が降るべき人は他にもっといるっぽいということも感じるなど",
+      "author_id": "707346268821913600",
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "conversation_id": "1359803945959399426"
+    },
+    {
+      "created_at": "2021-02-11T05:41:27.000Z",
+      "id": "1359739303912300555",
+      "text": "やっぱ何かがおかしくて、何かがおかしい",
+      "author_id": "707346268821913600",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "conversation_id": "1359739303912300555"
+    },
+    {
+      "created_at": "2021-02-10T23:37:47.000Z",
+      "id": "1359647783318245376",
+      "text": "コロナ陽性判定からの自宅謹慎、在宅勤務しなくても良い免罪符やし創造的休暇になってほしい",
+      "author_id": "707346268821913600",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "conversation_id": "1359647783318245376",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "123",
+            "name": "Ongoing News Story",
+            "description": "Ongoing News Stories like 'Brexit'"
+          },
+          "entity": {
+            "id": "1220701888179359745",
+            "name": "COVID-19"
+          }
+        }
+      ]
+    },
+    {
+      "created_at": "2021-02-10T23:36:50.000Z",
+      "id": "1359647547170512901",
+      "text": "メシを買うしシステムも作るし青写真も描く、全部やらなきゃならねぇのがツライとこだよな",
+      "author_id": "707346268821913600",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "conversation_id": "1359647547170512901"
+    },
+    {
+      "created_at": "2021-02-10T23:24:06.000Z",
+      "id": "1359644340050558985",
+      "text": "第六層に匹敵する絶望、なかなか味わう機会はないのでみんなアビス読もう",
+      "author_id": "707346268821913600",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "entities": {
+        "annotations": [
+          {
+            "start": 28,
+            "end": 30,
+            "probability": 0.3489,
+            "type": "Other",
+            "normalized_text": "アビス"
+          }
+        ]
+      },
+      "conversation_id": "1359644340050558985"
+    },
+    {
+      "created_at": "2021-02-10T23:23:25.000Z",
+      "id": "1359644166934859778",
+      "text": "RT @a_akiduki: ちが、私そんなつもりじゃ… https://t.co/xfIrFb5xvi",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1359347706519379973"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 1182,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "reply_settings": "everyone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "a_akiduki"
+          }
+        ],
+        "urls": [
+          {
+            "start": 29,
+            "end": 52,
+            "url": "https://t.co/xfIrFb5xvi",
+            "expanded_url": "https://twitter.com/a_akiduki/status/1359347706519379973/photo/1",
+            "display_url": "pic.twitter.com/xfIrFb5xvi"
+          },
+          {
+            "start": 29,
+            "end": 52,
+            "url": "https://t.co/xfIrFb5xvi",
+            "expanded_url": "https://twitter.com/a_akiduki/status/1359347706519379973/photo/1",
+            "display_url": "pic.twitter.com/xfIrFb5xvi"
+          }
+        ]
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1359347699976335361",
+          "3_1359347699993124866"
+        ]
+      },
+      "conversation_id": "1359644166934859778"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "username": "Ningensei848",
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 990,
+          "tweet_count": 58454,
+          "listed_count": 22
+        },
+        "verified": false,
+        "protected": false,
+        "url": "https://t.co/KBXT0N3eAa",
+        "pinned_tweet_id": "1345020610875777024",
+        "id": "707346268821913600",
+        "location": "山梨県→茨城県つくば市",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "name": "きあい🌒",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "created_at": "2016-03-08T23:24:27.000Z"
+      },
+      {
+        "username": "a_akiduki",
+        "public_metrics": {
+          "followers_count": 2563,
+          "following_count": 998,
+          "tweet_count": 313797,
+          "listed_count": 125
+        },
+        "verified": false,
+        "protected": false,
+        "url": "",
+        "pinned_tweet_id": "896723382070161408",
+        "id": "169432973",
+        "location": "けだもののくに",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1190197883582193666/VslmW5Wf_normal.jpg",
+        "name": "あきづき",
+        "description": "imgの農奴  「wiiは携帯機だよ　みんなにはナイショだよ」  https://t.co/E58Bk9gU3I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "start": 33,
+                "end": 56,
+                "url": "https://t.co/E58Bk9gU3I",
+                "expanded_url": "http://twitpic.com/61aldq",
+                "display_url": "twitpic.com/61aldq"
+              }
+            ]
+          }
+        },
+        "created_at": "2010-07-22T09:43:17.000Z"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/Et1fh-9VcAEABl1.jpg",
+        "width": 2048,
+        "height": 1536,
+        "type": "photo",
+        "media_key": "3_1359347699976335361"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/Et1fh_BVoAIlq8d.jpg",
+        "width": 2048,
+        "height": 1536,
+        "type": "photo",
+        "media_key": "3_1359347699993124866"
+      }
+    ],
+    "tweets": [
+      {
+        "created_at": "2021-02-10T03:45:23.000Z",
+        "id": "1359347706519379973",
+        "text": "ちが、私そんなつもりじゃ… https://t.co/xfIrFb5xvi",
+        "author_id": "169432973",
+        "source": "Twitter for iPhone",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 1182,
+          "reply_count": 22,
+          "like_count": 5502,
+          "quote_count": 15
+        },
+        "reply_settings": "everyone",
+        "entities": {
+          "urls": [
+            {
+              "start": 14,
+              "end": 37,
+              "url": "https://t.co/xfIrFb5xvi",
+              "expanded_url": "https://twitter.com/a_akiduki/status/1359347706519379973/photo/1",
+              "display_url": "pic.twitter.com/xfIrFb5xvi"
+            },
+            {
+              "start": 14,
+              "end": 37,
+              "url": "https://t.co/xfIrFb5xvi",
+              "expanded_url": "https://twitter.com/a_akiduki/status/1359347706519379973/photo/1",
+              "display_url": "pic.twitter.com/xfIrFb5xvi"
+            }
+          ]
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1359347699976335361",
+            "3_1359347699993124866"
+          ]
+        },
+        "conversation_id": "1359347706519379973"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1359644166934859778",
+    "newest_id": "1359803945959399426",
+    "result_count": 6
+  }
+}
