@@ -1,0 +1,876 @@
+{
+  "data": [
+    {
+      "created_at": "2021-02-12T10:42:29.000Z",
+      "reply_settings": "everyone",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 2,
+            "probability": 0.9571,
+            "type": "Place",
+            "normalized_text": "つくば"
+          },
+          {
+            "start": 13,
+            "end": 14,
+            "probability": 0.9651,
+            "type": "Place",
+            "normalized_text": "東京"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "つくばに定住したら週一で、東京に住むことになったら月一で、それ以外でも半年に3回くらい足を運ぶことになりそうワネ(未来予測)",
+      "source": "Twitter for iPad",
+      "id": "1360177451469443081",
+      "conversation_id": "1360177451469443081",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-12T10:41:12.000Z",
+      "reply_settings": "everyone",
+      "entities": {
+        "annotations": [
+          {
+            "start": 3,
+            "end": 4,
+            "probability": 0.4584,
+            "type": "Person",
+            "normalized_text": "哲也"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "わかり哲也",
+      "source": "Twitter for iPad",
+      "id": "1360177126998114318",
+      "conversation_id": "1360177126998114318",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-12T10:41:04.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "yololoi_mast"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 20,
+            "end": 22,
+            "probability": 0.9443,
+            "type": "Place",
+            "normalized_text": "つくば"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360164230356340739"
+        }
+      ],
+      "text": "RT @yololoi_mast: 実はつくばで最もオンリーワンかつナンバーワンなのってカレーうどんZEYOなんじゃない？",
+      "source": "Twitter for iPad",
+      "id": "1360177093359767553",
+      "conversation_id": "1360177093359767553",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-12T10:35:18.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "fukumitsuu"
+          }
+        ],
+        "urls": [
+          {
+            "start": 71,
+            "end": 94,
+            "url": "https://t.co/uU4QyEj3oT",
+            "expanded_url": "https://twitter.com/fukumitsuu/status/1360148237714292737/photo/1",
+            "display_url": "pic.twitter.com/uU4QyEj3oT"
+          }
+        ]
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1360148231116623872"
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360148237714292737"
+        }
+      ],
+      "text": "RT @fukumitsuu: スペリオール本日発売です。\n夫は10数年ぶりに雑誌の表紙になったそうです。あと、ガトーショコラを作りました😊 https://t.co/uU4QyEj3oT",
+      "source": "Twitter for iPad",
+      "id": "1360175642986172416",
+      "conversation_id": "1360175642986172416",
+      "public_metrics": {
+        "retweet_count": 1866,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "entities": {
+        "hashtags": [
+          {
+            "start": 58,
+            "end": 68,
+            "tag": "新型コロナワクチン"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "kantei_vaccine"
+          }
+        ],
+        "urls": [
+          {
+            "start": 69,
+            "end": 92,
+            "url": "https://t.co/qufwXKpoov",
+            "expanded_url": "https://twitter.com/kantei_vaccine/status/1360061109009485824/video/1",
+            "display_url": "pic.twitter.com/qufwXKpoov"
+          }
+        ]
+      },
+      "created_at": "2021-02-12T07:06:58.000Z",
+      "attachments": {
+        "media_keys": [
+          "7_1360060247058964483"
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "903303816698671104",
+            "name": "Wellness and health",
+            "description": "Wellness & Health"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "918538847302041600",
+            "name": "Community Health",
+            "description": "Community Health"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "920768310152593408",
+            "name": "Common Medication",
+            "description": "Common Medication"
+          }
+        }
+      ],
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360061109009485824"
+        }
+      ],
+      "text": "RT @kantei_vaccine: メッセンジャーRNAワクチン等の解説動画を公開しました。ぜひご覧ください。\n#新型コロナワクチン https://t.co/qufwXKpoov",
+      "source": "Twitter for iPhone",
+      "id": "1360123212919697408",
+      "conversation_id": "1360123212919697408",
+      "public_metrics": {
+        "retweet_count": 3099,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-12T06:46:54.000Z",
+      "in_reply_to_user_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1360117492178276352"
+        }
+      ],
+      "text": "簡体字クソ強いのやっぱ人口～～となっているが，日本代表ヅラして和文翻訳するの楽しい～～～～↑↑↑となっている（理解も進むので一石二鳥）",
+      "source": "TweetDeck",
+      "id": "1360118163157884929",
+      "conversation_id": "1360117492178276352",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-12T06:45:19.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "ギョームで使うためにドキュメントを解読し，その結果を公式にフィードバックしているので正のループ回ってる感じする",
+      "source": "TweetDeck",
+      "id": "1360117766582243331",
+      "conversation_id": "1360117766582243331",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-12T06:44:14.000Z",
+      "entities": {
+        "urls": [
+          {
+            "start": 22,
+            "end": 45,
+            "url": "https://t.co/rNgq89thP6",
+            "expanded_url": "https://crowdin.com/project/docusaurus-v2",
+            "display_url": "crowdin.com/project/docusa…",
+            "status": 200,
+            "unwound_url": "https://crowdin.com/project/docusaurus-v2"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "国別対抗ドキュメント翻訳バトル，開催中です\nhttps://t.co/rNgq89thP6",
+      "source": "TweetDeck",
+      "id": "1360117492178276352",
+      "conversation_id": "1360117492178276352",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-12T02:43:34.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "スポーツをきちんとやっていく感じの生活をやっていきたい，今それを阻んでいるのは無線イヤホンがない事実だけなので即刻注文掛けますね…",
+      "source": "TweetDeck",
+      "id": "1360056924708818944",
+      "conversation_id": "1360056924708818944",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-12T02:42:18.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "どうにか自分が圧倒的強者になれるポジション見つけてオラオラしないとメンタル保てないとか，悲しいですね",
+      "source": "TweetDeck",
+      "id": "1360056609288777732",
+      "conversation_id": "1360056609288777732",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-12T02:39:57.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "うまくいくループの中にいると強いけど，そうじゃないときに打たれ弱すぎることがわかってきた",
+      "source": "TweetDeck",
+      "id": "1360056014096113666",
+      "conversation_id": "1360056014096113666",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-12T01:34:15.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "やっぱりダメージ回復できてないね、なんで？",
+      "source": "Twitter for iPad",
+      "id": "1360039483995951107",
+      "conversation_id": "1360039483995951107",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-11T15:22:16.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "もしかして、自分の思ってる以上にダメージを受けていたのかもしれない、木曜に一切生産的活動ができなかったので\n\n金曜は切り替えて頑張ります",
+      "source": "Twitter for iPhone",
+      "id": "1359885473351520257",
+      "conversation_id": "1359885473351520257",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "pinned_tweet_id": "1345020610875777024",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "name": "きあい🌒",
+        "username": "Ningensei848",
+        "location": "山梨県→茨城県つくば市",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "protected": false,
+        "url": "https://t.co/KBXT0N3eAa",
+        "id": "707346268821913600",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 990,
+          "tweet_count": 58466,
+          "listed_count": 22
+        },
+        "verified": false,
+        "created_at": "2016-03-08T23:24:27.000Z"
+      },
+      {
+        "pinned_tweet_id": "1313419690677428228",
+        "description": "カメラ、VJ、レーザーなど ナイスグリッチ　\n筑波大M1",
+        "name": "Ryoma(ポイフル)",
+        "username": "yololoi_mast",
+        "location": "主体的自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/O6jTHFJc0C",
+                "expanded_url": "https://www.instagram.com/poityandayo/?hl=ja",
+                "display_url": "instagram.com/poityandayo/?h…"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1035609466014597120/AmoPQ9c0_normal.jpg",
+        "protected": false,
+        "url": "https://t.co/O6jTHFJc0C",
+        "id": "707465455259291649",
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 1365,
+          "tweet_count": 42657,
+          "listed_count": 10
+        },
+        "verified": false,
+        "created_at": "2016-03-09T07:18:03.000Z"
+      },
+      {
+        "description": "漫画家 /『妻と僕の小規模な育児』https://t.co/13FTh8O73B『妻観察日記』スペリオールで連載中/『僕の小規模な生活 』全６巻『うちの妻ってどうでしょう？』全７巻/https://t.co/grojqpW0du Amazonアソシエイト",
+        "name": "福満しげゆき",
+        "username": "fukumitsuu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "start": 17,
+                "end": 40,
+                "url": "https://t.co/13FTh8O73B",
+                "expanded_url": "https://comic-days.com/episode/10834108156644385632",
+                "display_url": "comic-days.com/episode/108341…"
+              },
+              {
+                "start": 91,
+                "end": 114,
+                "url": "https://t.co/grojqpW0du",
+                "expanded_url": "https://amzn.to/37Y85OV",
+                "display_url": "amzn.to/37Y85OV"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1227376419161821184/ERowZ1YQ_normal.jpg",
+        "protected": false,
+        "url": "",
+        "id": "1227038255813513218",
+        "public_metrics": {
+          "followers_count": 116844,
+          "following_count": 3440,
+          "tweet_count": 628,
+          "listed_count": 659
+        },
+        "verified": false,
+        "created_at": "2020-02-11T01:15:53.000Z"
+      },
+      {
+        "description": "本アカウントは首相官邸の公式アカウントです。首相官邸から新型コロナワクチンに関する情報をお届けいたします。",
+        "name": "首相官邸（新型コロナワクチン情報）",
+        "username": "kantei_vaccine",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/YlmtZlwbSB",
+                "expanded_url": "https://www.kantei.go.jp/",
+                "display_url": "kantei.go.jp"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1352465572785655808/xMctU_-Z_normal.jpg",
+        "protected": false,
+        "url": "https://t.co/YlmtZlwbSB",
+        "id": "1352461223489486848",
+        "public_metrics": {
+          "followers_count": 109848,
+          "following_count": 2,
+          "tweet_count": 31,
+          "listed_count": 970
+        },
+        "verified": true,
+        "created_at": "2021-01-22T03:41:11.000Z"
+      }
+    ],
+    "tweets": [
+      {
+        "created_at": "2021-02-12T09:49:57.000Z",
+        "reply_settings": "everyone",
+        "entities": {
+          "annotations": [
+            {
+              "start": 2,
+              "end": 4,
+              "probability": 0.9572,
+              "type": "Place",
+              "normalized_text": "つくば"
+            }
+          ]
+        },
+        "possibly_sensitive": false,
+        "author_id": "707465455259291649",
+        "text": "実はつくばで最もオンリーワンかつナンバーワンなのってカレーうどんZEYOなんじゃない？",
+        "source": "Twitter for Android",
+        "id": "1360164230356340739",
+        "conversation_id": "1360164230356340739",
+        "public_metrics": {
+          "retweet_count": 1,
+          "reply_count": 0,
+          "like_count": 15,
+          "quote_count": 0
+        }
+      },
+      {
+        "created_at": "2021-02-12T08:46:24.000Z",
+        "attachments": {
+          "media_keys": [
+            "3_1360148231116623872"
+          ]
+        },
+        "entities": {
+          "urls": [
+            {
+              "start": 55,
+              "end": 78,
+              "url": "https://t.co/uU4QyEj3oT",
+              "expanded_url": "https://twitter.com/fukumitsuu/status/1360148237714292737/photo/1",
+              "display_url": "pic.twitter.com/uU4QyEj3oT"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "author_id": "1227038255813513218",
+        "text": "スペリオール本日発売です。\n夫は10数年ぶりに雑誌の表紙になったそうです。あと、ガトーショコラを作りました😊 https://t.co/uU4QyEj3oT",
+        "source": "Twitter for iPhone",
+        "id": "1360148237714292737",
+        "conversation_id": "1360148237714292737",
+        "public_metrics": {
+          "retweet_count": 1866,
+          "reply_count": 222,
+          "like_count": 15140,
+          "quote_count": 157
+        }
+      },
+      {
+        "entities": {
+          "hashtags": [
+            {
+              "start": 38,
+              "end": 48,
+              "tag": "新型コロナワクチン"
+            }
+          ],
+          "urls": [
+            {
+              "start": 49,
+              "end": 72,
+              "url": "https://t.co/qufwXKpoov",
+              "expanded_url": "https://twitter.com/kantei_vaccine/status/1360061109009485824/video/1",
+              "display_url": "pic.twitter.com/qufwXKpoov"
+            }
+          ]
+        },
+        "created_at": "2021-02-12T03:00:11.000Z",
+        "attachments": {
+          "media_keys": [
+            "7_1360060247058964483"
+          ]
+        },
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "author_id": "1352461223489486848",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "903303816698671104",
+              "name": "Wellness and health",
+              "description": "Wellness & Health"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "918538847302041600",
+              "name": "Community Health",
+              "description": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "920768310152593408",
+              "name": "Common Medication",
+              "description": "Common Medication"
+            }
+          }
+        ],
+        "text": "メッセンジャーRNAワクチン等の解説動画を公開しました。ぜひご覧ください。\n#新型コロナワクチン https://t.co/qufwXKpoov",
+        "source": "Twitter Web App",
+        "id": "1360061109009485824",
+        "conversation_id": "1360061109009485824",
+        "public_metrics": {
+          "retweet_count": 3099,
+          "reply_count": 125,
+          "like_count": 5042,
+          "quote_count": 229
+        }
+      },
+      {
+        "created_at": "2021-02-12T06:44:14.000Z",
+        "entities": {
+          "urls": [
+            {
+              "start": 22,
+              "end": 45,
+              "url": "https://t.co/rNgq89thP6",
+              "expanded_url": "https://crowdin.com/project/docusaurus-v2",
+              "display_url": "crowdin.com/project/docusa…",
+              "status": 200,
+              "unwound_url": "https://crowdin.com/project/docusaurus-v2"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "author_id": "707346268821913600",
+        "text": "国別対抗ドキュメント翻訳バトル，開催中です\nhttps://t.co/rNgq89thP6",
+        "source": "TweetDeck",
+        "id": "1360117492178276352",
+        "conversation_id": "1360117492178276352",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        }
+      }
+    ],
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EuA3nB2VEAA5by-.jpg",
+        "width": 1108,
+        "media_key": "3_1360148231116623872",
+        "height": 1478
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_0_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_100_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_25_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_50_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_75_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_0_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_100_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_25_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_50_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_75_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.view_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.view_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_0_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_100_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_25_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_50_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_75_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.view_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1360060247058964483",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.view_count' on the media with attachments.media_keys : [7_1360060247058964483].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    }
+  ],
+  "meta": {
+    "oldest_id": "1359885473351520257",
+    "newest_id": "1360177451469443081",
+    "result_count": 13
+  }
+}
