@@ -1,0 +1,1680 @@
+{
+  "data": [
+    {
+      "id": "1360592624244035597",
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T14:12:14.000Z",
+      "conversation_id": "1360592624244035597",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "震度5弱、初体験でした、これは死を覚悟するわね……………"
+    },
+    {
+      "id": "1360592484078784513",
+      "source": "Twitter for iPhone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "UN_NERV"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 30,
+            "end": 34,
+            "probability": 0.4422,
+            "type": "Place",
+            "normalized_text": "福島中通り"
+          },
+          {
+            "start": 36,
+            "end": 38,
+            "probability": 0.5545,
+            "type": "Place",
+            "normalized_text": "福島浜"
+          },
+          {
+            "start": 48,
+            "end": 51,
+            "probability": 0.7694,
+            "type": "Place",
+            "normalized_text": "宮城北部"
+          },
+          {
+            "start": 53,
+            "end": 56,
+            "probability": 0.7235,
+            "type": "Place",
+            "normalized_text": "宮城南部"
+          },
+          {
+            "start": 58,
+            "end": 61,
+            "probability": 0.6352,
+            "type": "Place",
+            "normalized_text": "宮城中部"
+          },
+          {
+            "start": 69,
+            "end": 70,
+            "probability": 0.8368,
+            "type": "Place",
+            "normalized_text": "会津"
+          },
+          {
+            "start": 78,
+            "end": 83,
+            "probability": 0.4263,
+            "type": "Place",
+            "normalized_text": "山形村山地方"
+          },
+          {
+            "start": 85,
+            "end": 88,
+            "probability": 0.6907,
+            "type": "Place",
+            "normalized_text": "山形置賜"
+          },
+          {
+            "start": 92,
+            "end": 95,
+            "probability": 0.7579,
+            "type": "Place",
+            "normalized_text": "茨城北部"
+          },
+          {
+            "start": 97,
+            "end": 100,
+            "probability": 0.735,
+            "type": "Place",
+            "normalized_text": "茨城南部"
+          },
+          {
+            "start": 102,
+            "end": 105,
+            "probability": 0.674,
+            "type": "Place",
+            "normalized_text": "栃木南部"
+          },
+          {
+            "start": 112,
+            "end": 117,
+            "probability": 0.6092,
+            "type": "Place",
+            "normalized_text": "岩手沿岸北部"
+          },
+          {
+            "start": 119,
+            "end": 124,
+            "probability": 0.6298,
+            "type": "Place",
+            "normalized_text": "岩手沿岸南部"
+          },
+          {
+            "start": 126,
+            "end": 131,
+            "probability": 0.706,
+            "type": "Place",
+            "normalized_text": "岩手内陸北部"
+          },
+          {
+            "start": 133,
+            "end": 138,
+            "probability": 0.7003,
+            "type": "Place",
+            "normalized_text": "岩手内陸南部"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T14:11:41.000Z",
+      "conversation_id": "1360592484078784513",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360592022441140230"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 10017,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "RT @UN_NERV: 【地震 23:08】\n［震度６強］福島中通り、福島浜通り\n［震度６弱］宮城北部、宮城南部、宮城中部\n［震度５強］会津\n［震度５弱］山形村山地方、山形置賜地方、茨城北部、茨城南部、栃木南部\n［震度４］岩手沿岸北部、岩手沿岸南部、岩手内陸北部、岩手内陸南部…"
+    },
+    {
+      "id": "1360592222857535501",
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T14:10:39.000Z",
+      "conversation_id": "1360592222857535501",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "2分以上揺れてるの破滅すぎる"
+    },
+    {
+      "id": "1360592131237138449",
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T14:10:17.000Z",
+      "conversation_id": "1360592131237138449",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "登大遊が引き起こした………？(違います"
+    },
+    {
+      "id": "1360592054904967172",
+      "source": "Twitter for iPhone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "dnobori"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T14:09:59.000Z",
+      "conversation_id": "1360592054904967172",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360586775459102720"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 51,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "RT @dnobori: 「大予言！！ 2038 年 1 月 19 日 12 時 14 分 7 秒 に世界は破滅 いたします」とかいう書籍が 1 冊も無いのは、なんでかいな?"
+    },
+    {
+      "id": "1360592023036645389",
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T14:09:51.000Z",
+      "conversation_id": "1360592023036645389",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "いや長すぎる"
+    },
+    {
+      "id": "1360546759705939972",
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T11:09:59.000Z",
+      "conversation_id": "1360546759705939972",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "テラフォ再開あくしろよ"
+    },
+    {
+      "id": "1360546611181481984",
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T11:09:24.000Z",
+      "conversation_id": "1360546611181481984",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "そんなこと言い出したら人類の多くは実は社会に向いてないよ、社会性を志向して設計されてたら個人意思などないはずなので…"
+    },
+    {
+      "id": "1360545875102031872",
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T11:06:29.000Z",
+      "conversation_id": "1360545875102031872",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "あくまで傾向ですというｱﾎﾟﾛｼﾞｬｲｽﾞ"
+    },
+    {
+      "id": "1360545653022052354",
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T11:05:36.000Z",
+      "conversation_id": "1360545653022052354",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "地獄に吹き荒ぶ永遠の風(ヘルズエターナーウィンド)じゃん"
+    },
+    {
+      "id": "1360545225299480580",
+      "source": "Twitter for iPad",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "ponatky"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T11:03:54.000Z",
+      "conversation_id": "1360545225299480580",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360476367943393280"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "RT @ponatky: 「女性が会社や組織に向いていない傾向がある」という命題が浮かび上がってて、時代の加速を感じる"
+    },
+    {
+      "id": "1360543681300688899",
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T10:57:45.000Z",
+      "conversation_id": "1360543681300688899",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "うるせぇ！酒を飲め"
+    },
+    {
+      "id": "1360525833677410307",
+      "source": "TweetDeck",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T09:46:50.000Z",
+      "conversation_id": "1360525833677410307",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 17,
+            "end": 40,
+            "url": "https://t.co/f4Tj3gul1o",
+            "expanded_url": "http://zenn.dev",
+            "display_url": "zenn.dev"
+          },
+          {
+            "start": 61,
+            "end": 84,
+            "url": "https://t.co/M9dLVzC9l4",
+            "expanded_url": "http://developers.io",
+            "display_url": "developers.io"
+          }
+        ]
+      },
+      "text": "しこしこやってても仕方がないから https://t.co/f4Tj3gul1o でお気持ち表明して catnose と https://t.co/M9dLVzC9l4 にかくさんしてもらっちゃおｗ（記事を書きます、Docusaurus の）"
+    },
+    {
+      "id": "1360524557623283713",
+      "source": "Twitter Web App",
+      "author_id": "707346268821913600",
+      "in_reply_to_user_id": "707346268821913600",
+      "created_at": "2021-02-13T09:41:46.000Z",
+      "conversation_id": "1360518448304979971",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1360518448304979971"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 170,
+            "end": 193,
+            "url": "https://t.co/HLnD8b1ejz",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1360524557623283713/photo/1",
+            "display_url": "pic.twitter.com/HLnD8b1ejz"
+          },
+          {
+            "start": 170,
+            "end": 193,
+            "url": "https://t.co/HLnD8b1ejz",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1360524557623283713/photo/1",
+            "display_url": "pic.twitter.com/HLnD8b1ejz"
+          },
+          {
+            "start": 170,
+            "end": 193,
+            "url": "https://t.co/HLnD8b1ejz",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1360524557623283713/photo/1",
+            "display_url": "pic.twitter.com/HLnD8b1ejz"
+          }
+        ]
+      },
+      "text": "- `website/i18n/en` &gt; 90%\n- `website/community` &gt; 40%\n- `website/docs` &gt; 20%\n\nという三つの条件のうち、上二つは（一人しか翻訳していないから信頼性が薄すぎるけど）取り敢えず達成して、あとは三つ目の条件があと15％ぶん頑張らねばならない…………！ https://t.co/HLnD8b1ejz",
+      "attachments": {
+        "media_keys": [
+          "3_1360523748378505226",
+          "3_1360523942931308549",
+          "3_1360524030906830849"
+        ]
+      }
+    },
+    {
+      "id": "1360518448304979971",
+      "source": "Twitter Web App",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T09:17:29.000Z",
+      "conversation_id": "1360518448304979971",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1360117492178276352"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 100,
+            "end": 123,
+            "url": "https://t.co/Z6OwkIK0Ps",
+            "expanded_url": "https://github.com/facebook/docusaurus/issues/3526",
+            "display_url": "github.com/facebook/docus…"
+          },
+          {
+            "start": 124,
+            "end": 147,
+            "url": "https://t.co/nduaEYaajP",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1360117492178276352",
+            "display_url": "twitter.com/Ningensei848/s…"
+          }
+        ]
+      },
+      "text": "現時点で日本代表はワテクシ一人っぽいのですが，大陸勢にどうにかこうにか食らいついていこうと頑張っています（英語自信ニキネキとかドキュメンテーションツールを探している開発者各位は手伝って♡）\n\ncf. https://t.co/Z6OwkIK0Ps https://t.co/nduaEYaajP"
+    },
+    {
+      "id": "1360511727180283904",
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T08:50:47.000Z",
+      "conversation_id": "1360511727180283904",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 26,
+            "end": 49,
+            "url": "https://t.co/cy8dVhFrOb",
+            "expanded_url": "https://open.spotify.com/track/2uOjR6ezThowrWUPiXUJ7T?si=T6zbrCqkTi6tYDHe0lqV8w",
+            "display_url": "open.spotify.com/track/2uOjR6ez…"
+          }
+        ]
+      },
+      "text": "この曲本当好きなんだけど、複雑な気分になるね……\n https://t.co/cy8dVhFrOb"
+    },
+    {
+      "id": "1360496498769711105",
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T07:50:16.000Z",
+      "conversation_id": "1360496498769711105",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "見下しながら見上げる　← Fatalpulse"
+    },
+    {
+      "id": "1360495947864678402",
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T07:48:05.000Z",
+      "conversation_id": "1360495947864678402",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "「犯罪率激高論理棒持ち男性様」、chinみを感じてしまい\"わからせ\"を幻視した"
+    },
+    {
+      "id": "1360493278018240512",
+      "source": "TweetDeck",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T07:37:28.000Z",
+      "conversation_id": "1360493278018240512",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "852226935044194304",
+            "name": "Language learning",
+            "description": "Language Learning"
+          }
+        }
+      ],
+      "text": "英語の勉強をやっています、ついでにOSSにも貢献出来てラッキーというノリで……"
+    },
+    {
+      "id": "1360469866789040135",
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T06:04:27.000Z",
+      "conversation_id": "1360469866789040135",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "リファラるしかねぇよ、能力でしか戦えないんならね……"
+    },
+    {
+      "id": "1360468353236701187",
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T05:58:26.000Z",
+      "conversation_id": "1360468353236701187",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "”「表面だけ見てポテンシャルで採用してください」つって新卒応募に来てるくせに能力や内面だけ見て判断しろってムシが良くないか？“っていうのを経営側目線で聞いて確かに〜〜ってなったわね、つい2週間くらい前"
+    },
+    {
+      "id": "1360467653752619009",
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T05:55:39.000Z",
+      "conversation_id": "1360467653752619009",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "ブスの僻み、負け犬の遠吠え、悔しかったら中途で殴れ(自戒の標語)"
+    },
+    {
+      "id": "1360467363435474948",
+      "source": "Twitter for iPad",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T05:54:30.000Z",
+      "conversation_id": "1360467363435474948",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "まっさらな自由帳を買おうとしているのに、敢えてしわくちゃだったり燻んだりしているものは選ばない、そして余白がなく書き込まれたやつも使いようがない、新品で書き味がよく輝く白さを求めたいワケよ\n\n採用する側に立ってみれば当然のことワネ"
+    },
+    {
+      "id": "1360466256395079682",
+      "source": "Twitter for iPad",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "012_diana_"
+          }
+        ],
+        "urls": [
+          {
+            "start": 19,
+            "end": 42,
+            "url": "https://t.co/ktRiSWbpio",
+            "expanded_url": "https://twitter.com/012_diana_/status/1360028556856754182/photo/1",
+            "display_url": "pic.twitter.com/ktRiSWbpio"
+          },
+          {
+            "start": 19,
+            "end": 42,
+            "url": "https://t.co/ktRiSWbpio",
+            "expanded_url": "https://twitter.com/012_diana_/status/1360028556856754182/photo/1",
+            "display_url": "pic.twitter.com/ktRiSWbpio"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T05:50:06.000Z",
+      "conversation_id": "1360466256395079682",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360028556856754182"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 4363,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847544972781826048",
+            "name": "Careers",
+            "description": "Careers"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "850073441055133696",
+            "name": "Job search",
+            "description": "Job search"
+          }
+        }
+      ],
+      "text": "RT @012_diana_: 就活 https://t.co/ktRiSWbpio",
+      "attachments": {
+        "media_keys": [
+          "3_1360028553278967809",
+          "3_1360028553299910664"
+        ]
+      }
+    },
+    {
+      "id": "1360462922808369156",
+      "source": "Twitter for iPhone",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T05:36:51.000Z",
+      "conversation_id": "1360462922808369156",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "配給券の当落通知が来る世界線にいる(疑似戦時下)"
+    },
+    {
+      "id": "1360450271399170050",
+      "source": "Twitter for iPad",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 19,
+            "username": "doraemonChannel"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 44,
+            "end": 53,
+            "probability": 0.6694,
+            "type": "Other",
+            "normalized_text": "ハッピープロムナード"
+          },
+          {
+            "start": 63,
+            "end": 74,
+            "probability": 0.4516,
+            "type": "Other",
+            "normalized_text": "天体観測で見つけたものは"
+          },
+          {
+            "start": 83,
+            "end": 89,
+            "probability": 0.7678,
+            "type": "Other",
+            "normalized_text": "みどりの守り神"
+          },
+          {
+            "start": 121,
+            "end": 128,
+            "probability": 0.3249,
+            "type": "Person",
+            "normalized_text": "藤子・F・不二雄"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T04:46:35.000Z",
+      "conversation_id": "1360450271399170050",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360395023125155840"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 1375,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1012681620074053632",
+            "name": "Doraemon",
+            "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t "
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        }
+      ],
+      "text": "RT @doraemonChannel: 【配信作品更新！】\n本日2/13（土）からは「ハッピープロムナード」（ドラえもん）「天体観測で見つけたものは」（チンプイ）「みどりの守り神」（SF短編）の3作品を期間限定で無料公開！！\nおうち時間に、藤子・F・不二雄作品をゆっくり読んで…"
+    },
+    {
+      "id": "1360447511945641991",
+      "source": "Twitter for iPad",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 19,
+            "username": "pNdId9sq9mUYmiF"
+          }
+        ],
+        "urls": [
+          {
+            "start": 41,
+            "end": 64,
+            "url": "https://t.co/azG3B5dw5r",
+            "expanded_url": "https://twitter.com/pNdId9sq9mUYmiF/status/1360369746491809797/photo/1",
+            "display_url": "pic.twitter.com/azG3B5dw5r"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-13T04:35:37.000Z",
+      "conversation_id": "1360447511945641991",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360369746491809797"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 4956,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "1351618812265656320",
+            "name": "PUI PUI モルカー"
+          }
+        }
+      ],
+      "text": "RT @pNdId9sq9mUYmiF: 歴史に残るモルカー回文が生まれました！ https://t.co/azG3B5dw5r",
+      "attachments": {
+        "media_keys": [
+          "3_1360369706784280577"
+        ]
+      }
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "username": "Ningensei848",
+        "url": "https://t.co/KBXT0N3eAa",
+        "id": "707346268821913600",
+        "verified": false,
+        "location": "山梨県→茨城県つくば市",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "pinned_tweet_id": "1345020610875777024",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 990,
+          "tweet_count": 58494,
+          "listed_count": 22
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "name": "きあい🌒"
+      },
+      {
+        "created_at": "2010-02-22T21:35:21.000Z",
+        "username": "UN_NERV",
+        "url": "https://t.co/z5UPnMJHcq",
+        "id": "116548789",
+        "verified": false,
+        "location": "第3新東京市",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/z5UPnMJHcq",
+                "expanded_url": "https://nerv.app/",
+                "display_url": "nerv.app"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 109,
+                "end": 132,
+                "url": "https://t.co/0EwF346CzP",
+                "expanded_url": "http://nerv.app",
+                "display_url": "nerv.app"
+              }
+            ],
+            "mentions": [
+              {
+                "start": 32,
+                "end": 39,
+                "username": "NERVPR"
+              },
+              {
+                "start": 160,
+                "end": 168,
+                "username": "EN_NERV"
+              }
+            ]
+          }
+        },
+        "pinned_tweet_id": "1360594144574332936",
+        "description": "U.N.NERV\nネルフです。お問い合わせなどは広報アカウント @NERVPR 宛にお願いいたします。本アカウントはエヴァンゲリオン版権元のご理解とご協力により、公認ですが非公式です。\n特務機関NERV防災アプリ → https://t.co/0EwF346CzP\nOfficial English Account → @EN_NERV",
+        "public_metrics": {
+          "followers_count": 1164055,
+          "following_count": 150,
+          "tweet_count": 271304,
+          "listed_count": 31576
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1106073272502763520/3_992uWj_normal.png",
+        "name": "特務機関NERV"
+      },
+      {
+        "created_at": "2009-06-27T02:30:37.000Z",
+        "username": "dnobori",
+        "url": "https://t.co/GrTYVeOisM",
+        "id": "51317994",
+        "verified": false,
+        "location": "Bunkyo, Tokyo, JAPAN.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/GrTYVeOisM",
+                "expanded_url": "http://dnobori.cs.tsukuba.ac.jp/ja/",
+                "display_url": "dnobori.cs.tsukuba.ac.jp/ja/"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 133,
+                "end": 156,
+                "url": "https://t.co/3FdqEaJdJ0",
+                "expanded_url": "http://dnobori.cs.tsukuba.ac.jp",
+                "display_url": "dnobori.cs.tsukuba.ac.jp"
+              }
+            ]
+          }
+        },
+        "description": "SoftEther VPNやシン・テレワークシステムを開発。あのけしからん GREAT FIREWALL をやっつける研究にも従事。NTT東日本/独立行政法人情報処理推進機構/筑波大学/ソフトイーサに所属。筑波大学 産学連携准教授/医学博士課程の学生。博士(工学)。https://t.co/3FdqEaJdJ0",
+        "public_metrics": {
+          "followers_count": 24573,
+          "following_count": 253,
+          "tweet_count": 13579,
+          "listed_count": 414
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1126835181921263616/vPqbtXZm_normal.jpg",
+        "name": "Daiyuu Nobori (登 大遊)"
+      },
+      {
+        "created_at": "2010-03-23T08:47:25.000Z",
+        "username": "ponatky",
+        "url": "https://t.co/pZMyOAPcpE",
+        "id": "125599417",
+        "verified": false,
+        "location": "南関東のどこかにはほぼ必ずいる",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/pZMyOAPcpE",
+                "expanded_url": "https://www.amazon.co.jp/gp/registry/wishlist/2ON9A5A3E3OCF/",
+                "display_url": "amazon.co.jp/gp/registry/wi…"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 54,
+                "end": 77,
+                "url": "https://t.co/49IIlCbnmO",
+                "expanded_url": "http://twpf.jp/ponatky",
+                "display_url": "twpf.jp/ponatky"
+              }
+            ]
+          }
+        },
+        "description": "klis10→slis14/gto研 \n博論とは何だったのか\n辻政信と牟田口廉也を撲滅する会会長（自称）\n　https://t.co/49IIlCbnmO",
+        "public_metrics": {
+          "followers_count": 3699,
+          "following_count": 2838,
+          "tweet_count": 186864,
+          "listed_count": 166
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3429177765/b728ed01b48b018bda7aade75322657c_normal.jpeg",
+        "name": "ぽん教授（半非実在系）"
+      },
+      {
+        "created_at": "2017-10-09T08:11:18.000Z",
+        "username": "012_diana_",
+        "url": "",
+        "id": "917301431715061760",
+        "verified": false,
+        "location": "東京",
+        "description": "夜の絵描き達",
+        "public_metrics": {
+          "followers_count": 59226,
+          "following_count": 24,
+          "tweet_count": 21,
+          "listed_count": 272
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1118584890662875136/B6SHfJ2A_normal.jpg",
+        "name": "ダイアナ"
+      },
+      {
+        "created_at": "2011-12-27T09:40:49.000Z",
+        "username": "doraemonChannel",
+        "url": "https://t.co/CP8kMbUSXs",
+        "id": "447837321",
+        "verified": true,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/CP8kMbUSXs",
+                "expanded_url": "http://dora-world.com/",
+                "display_url": "dora-world.com"
+              }
+            ]
+          }
+        },
+        "pinned_tweet_id": "1355018081370705920",
+        "description": "ドラえもん公式サイト「ドラえもんチャンネル」公式アカウントです。原作まんが、TVアニメ、映画、グッズ、イベントなど、ドラえもんに関するいろんな情報を発信していきます！ ※個別のお問い合わせにはご対応しかねます。ご了承ください。",
+        "public_metrics": {
+          "followers_count": 250673,
+          "following_count": 6,
+          "tweet_count": 5392,
+          "listed_count": 1002
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1330520653989076993/KhxHPHLP_normal.png",
+        "name": "【ドラえもん公式】ドラえもんチャンネル"
+      },
+      {
+        "created_at": "2019-11-22T14:36:23.000Z",
+        "username": "pNdId9sq9mUYmiF",
+        "url": "",
+        "id": "1197886515172409344",
+        "verified": false,
+        "pinned_tweet_id": "1333032411190312960",
+        "description": "ほぼＲＯＭ専です。慣れていないので、失礼な事をしていたらすみません･･･！\n今年は演出力を身につけていきたいです\n無言フォロー大歓迎です！\nI speak only simple English, so I use a translation app when writing messages in English.",
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 149,
+          "tweet_count": 188,
+          "listed_count": 9
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1231731576699944960/VbAtqL7h_normal.jpg",
+        "name": "イナリ ケイ"
+      }
+    ],
+    "tweets": [
+      {
+        "id": "1360592022441140230",
+        "source": "特務機関NERV MAGI",
+        "author_id": "116548789",
+        "in_reply_to_user_id": "116548789",
+        "created_at": "2021-02-13T14:09:51.000Z",
+        "conversation_id": "1360591967894138880",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1360591979600482313"
+          }
+        ],
+        "public_metrics": {
+          "retweet_count": 10017,
+          "reply_count": 11,
+          "like_count": 6441,
+          "quote_count": 118
+        },
+        "entities": {
+          "annotations": [
+            {
+              "start": 17,
+              "end": 21,
+              "probability": 0.4142,
+              "type": "Place",
+              "normalized_text": "福島中通り"
+            },
+            {
+              "start": 23,
+              "end": 25,
+              "probability": 0.554,
+              "type": "Place",
+              "normalized_text": "福島浜"
+            },
+            {
+              "start": 35,
+              "end": 38,
+              "probability": 0.7709,
+              "type": "Place",
+              "normalized_text": "宮城北部"
+            },
+            {
+              "start": 40,
+              "end": 43,
+              "probability": 0.7256,
+              "type": "Place",
+              "normalized_text": "宮城南部"
+            },
+            {
+              "start": 45,
+              "end": 48,
+              "probability": 0.6316,
+              "type": "Place",
+              "normalized_text": "宮城中部"
+            },
+            {
+              "start": 56,
+              "end": 57,
+              "probability": 0.8352,
+              "type": "Place",
+              "normalized_text": "会津"
+            },
+            {
+              "start": 65,
+              "end": 70,
+              "probability": 0.4177,
+              "type": "Place",
+              "normalized_text": "山形村山地方"
+            },
+            {
+              "start": 72,
+              "end": 75,
+              "probability": 0.6882,
+              "type": "Place",
+              "normalized_text": "山形置賜"
+            },
+            {
+              "start": 79,
+              "end": 82,
+              "probability": 0.7545,
+              "type": "Place",
+              "normalized_text": "茨城北部"
+            },
+            {
+              "start": 84,
+              "end": 87,
+              "probability": 0.7323,
+              "type": "Place",
+              "normalized_text": "茨城南部"
+            },
+            {
+              "start": 89,
+              "end": 92,
+              "probability": 0.6776,
+              "type": "Place",
+              "normalized_text": "栃木南部"
+            },
+            {
+              "start": 99,
+              "end": 104,
+              "probability": 0.589,
+              "type": "Place",
+              "normalized_text": "岩手沿岸北部"
+            },
+            {
+              "start": 106,
+              "end": 111,
+              "probability": 0.6249,
+              "type": "Place",
+              "normalized_text": "岩手沿岸南部"
+            },
+            {
+              "start": 113,
+              "end": 118,
+              "probability": 0.6937,
+              "type": "Place",
+              "normalized_text": "岩手内陸北部"
+            },
+            {
+              "start": 120,
+              "end": 125,
+              "probability": 0.6753,
+              "type": "Place",
+              "normalized_text": "岩手内陸南部"
+            },
+            {
+              "start": 127,
+              "end": 132,
+              "probability": 0.6378,
+              "type": "Place",
+              "normalized_text": "秋田沿岸南部"
+            },
+            {
+              "start": 134,
+              "end": 138,
+              "probability": 0.7508,
+              "type": "Place",
+              "normalized_text": "秋田内陸南"
+            }
+          ]
+        },
+        "text": "【地震 23:08】\n［震度６強］福島中通り、福島浜通り\n［震度６弱］宮城北部、宮城南部、宮城中部\n［震度５強］会津\n［震度５弱］山形村山地方、山形置賜地方、茨城北部、茨城南部、栃木南部\n［震度４］岩手沿岸北部、岩手沿岸南部、岩手内陸北部、岩手内陸南部、秋田沿岸南部、秋田内陸南…"
+      },
+      {
+        "id": "1360586775459102720",
+        "source": "TweetDeck",
+        "author_id": "51317994",
+        "created_at": "2021-02-13T13:49:00.000Z",
+        "conversation_id": "1360586775459102720",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 51,
+          "reply_count": 4,
+          "like_count": 186,
+          "quote_count": 5
+        },
+        "text": "「大予言！！ 2038 年 1 月 19 日 12 時 14 分 7 秒 に世界は破滅 いたします」とかいう書籍が 1 冊も無いのは、なんでかいな?"
+      },
+      {
+        "id": "1360476367943393280",
+        "source": "Twitter Web App",
+        "author_id": "125599417",
+        "created_at": "2021-02-13T06:30:17.000Z",
+        "conversation_id": "1360476367943393280",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 10,
+          "reply_count": 0,
+          "like_count": 12,
+          "quote_count": 4
+        },
+        "text": "「女性が会社や組織に向いていない傾向がある」という命題が浮かび上がってて、時代の加速を感じる"
+      },
+      {
+        "id": "1360518448304979971",
+        "source": "Twitter Web App",
+        "author_id": "707346268821913600",
+        "created_at": "2021-02-13T09:17:29.000Z",
+        "conversation_id": "1360518448304979971",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1360117492178276352"
+          }
+        ],
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "entities": {
+          "urls": [
+            {
+              "start": 100,
+              "end": 123,
+              "url": "https://t.co/Z6OwkIK0Ps",
+              "expanded_url": "https://github.com/facebook/docusaurus/issues/3526",
+              "display_url": "github.com/facebook/docus…"
+            },
+            {
+              "start": 124,
+              "end": 147,
+              "url": "https://t.co/nduaEYaajP",
+              "expanded_url": "https://twitter.com/Ningensei848/status/1360117492178276352",
+              "display_url": "twitter.com/Ningensei848/s…"
+            }
+          ]
+        },
+        "text": "現時点で日本代表はワテクシ一人っぽいのですが，大陸勢にどうにかこうにか食らいついていこうと頑張っています（英語自信ニキネキとかドキュメンテーションツールを探している開発者各位は手伝って♡）\n\ncf. https://t.co/Z6OwkIK0Ps https://t.co/nduaEYaajP"
+      },
+      {
+        "id": "1360117492178276352",
+        "source": "TweetDeck",
+        "author_id": "707346268821913600",
+        "created_at": "2021-02-12T06:44:14.000Z",
+        "conversation_id": "1360117492178276352",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "entities": {
+          "urls": [
+            {
+              "start": 22,
+              "end": 45,
+              "url": "https://t.co/rNgq89thP6",
+              "expanded_url": "https://crowdin.com/project/docusaurus-v2",
+              "display_url": "crowdin.com/project/docusa…",
+              "status": 200,
+              "unwound_url": "https://crowdin.com/project/docusaurus-v2"
+            }
+          ]
+        },
+        "text": "国別対抗ドキュメント翻訳バトル，開催中です\nhttps://t.co/rNgq89thP6"
+      },
+      {
+        "id": "1360028556856754182",
+        "source": "Twitter for iPhone",
+        "author_id": "917301431715061760",
+        "created_at": "2021-02-12T00:50:50.000Z",
+        "conversation_id": "1360028556856754182",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 4363,
+          "reply_count": 143,
+          "like_count": 32439,
+          "quote_count": 1325
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847544972781826048",
+              "name": "Careers",
+              "description": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847868745150119936",
+              "name": "Home & family",
+              "description": "Hobbies and interests"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "850073441055133696",
+              "name": "Job search",
+              "description": "Job search"
+            }
+          }
+        ],
+        "entities": {
+          "urls": [
+            {
+              "start": 3,
+              "end": 26,
+              "url": "https://t.co/ktRiSWbpio",
+              "expanded_url": "https://twitter.com/012_diana_/status/1360028556856754182/photo/1",
+              "display_url": "pic.twitter.com/ktRiSWbpio"
+            },
+            {
+              "start": 3,
+              "end": 26,
+              "url": "https://t.co/ktRiSWbpio",
+              "expanded_url": "https://twitter.com/012_diana_/status/1360028556856754182/photo/1",
+              "display_url": "pic.twitter.com/ktRiSWbpio"
+            }
+          ]
+        },
+        "text": "就活 https://t.co/ktRiSWbpio",
+        "attachments": {
+          "media_keys": [
+            "3_1360028553278967809",
+            "3_1360028553299910664"
+          ]
+        }
+      },
+      {
+        "id": "1360395023125155840",
+        "source": "Twitter Web App",
+        "author_id": "447837321",
+        "created_at": "2021-02-13T01:07:03.000Z",
+        "conversation_id": "1360395023125155840",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 1375,
+          "reply_count": 10,
+          "like_count": 2204,
+          "quote_count": 90
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "130",
+              "name": "Multimedia Franchise",
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+            },
+            "entity": {
+              "id": "1012681620074053632",
+              "name": "Doraemon",
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t "
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847868745150119936",
+              "name": "Home & family",
+              "description": "Hobbies and interests"
+            }
+          }
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "start": 23,
+              "end": 32,
+              "probability": 0.7221,
+              "type": "Other",
+              "normalized_text": "ハッピープロムナード"
+            },
+            {
+              "start": 42,
+              "end": 53,
+              "probability": 0.4844,
+              "type": "Other",
+              "normalized_text": "天体観測で見つけたものは"
+            },
+            {
+              "start": 62,
+              "end": 68,
+              "probability": 0.781,
+              "type": "Other",
+              "normalized_text": "みどりの守り神"
+            },
+            {
+              "start": 100,
+              "end": 107,
+              "probability": 0.3433,
+              "type": "Person",
+              "normalized_text": "藤子・F・不二雄"
+            }
+          ],
+          "urls": [
+            {
+              "start": 127,
+              "end": 150,
+              "url": "https://t.co/59n1A7WRHd",
+              "expanded_url": "https://dora-world.com/contents/1766",
+              "display_url": "dora-world.com/contents/1766",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1359400647683149825/fIdpSij4?format=jpg&name=orig",
+                  "width": 512,
+                  "height": 335
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1359400647683149825/fIdpSij4?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "STAY HOME特別企画！まんが無料配信！「ドラえもん」はじめ藤子・F・不二雄作品を公開中！！ - ドラえもんチャンネル",
+              "description": "【2/9更新】「きこりの泉」（ドラえもん）「ノスタル爺」（SF短編）など３作品 無料配信中！",
+              "unwound_url": "https://dora-world.com/contents/1766"
+            },
+            {
+              "start": 151,
+              "end": 174,
+              "url": "https://t.co/4IOrZmHeC4",
+              "expanded_url": "https://twitter.com/doraemonChannel/status/1360395023125155840/photo/1",
+              "display_url": "pic.twitter.com/4IOrZmHeC4"
+            },
+            {
+              "start": 151,
+              "end": 174,
+              "url": "https://t.co/4IOrZmHeC4",
+              "expanded_url": "https://twitter.com/doraemonChannel/status/1360395023125155840/photo/1",
+              "display_url": "pic.twitter.com/4IOrZmHeC4"
+            },
+            {
+              "start": 151,
+              "end": 174,
+              "url": "https://t.co/4IOrZmHeC4",
+              "expanded_url": "https://twitter.com/doraemonChannel/status/1360395023125155840/photo/1",
+              "display_url": "pic.twitter.com/4IOrZmHeC4"
+            },
+            {
+              "start": 151,
+              "end": 174,
+              "url": "https://t.co/4IOrZmHeC4",
+              "expanded_url": "https://twitter.com/doraemonChannel/status/1360395023125155840/photo/1",
+              "display_url": "pic.twitter.com/4IOrZmHeC4"
+            }
+          ]
+        },
+        "text": "【配信作品更新！】\n本日2/13（土）からは「ハッピープロムナード」（ドラえもん）「天体観測で見つけたものは」（チンプイ）「みどりの守り神」（SF短編）の3作品を期間限定で無料公開！！\nおうち時間に、藤子・F・不二雄作品をゆっくり読んでみてくださいね♪\nhttps://t.co/59n1A7WRHd https://t.co/4IOrZmHeC4",
+        "attachments": {
+          "media_keys": [
+            "3_1360394480700911616",
+            "3_1360394550318034946",
+            "3_1360394558715035649",
+            "3_1360394567216812034"
+          ]
+        }
+      },
+      {
+        "id": "1360369746491809797",
+        "source": "Twitter Web App",
+        "author_id": "1197886515172409344",
+        "created_at": "2021-02-12T23:26:36.000Z",
+        "conversation_id": "1360369746491809797",
+        "possibly_sensitive": false,
+        "reply_settings": "everyone",
+        "public_metrics": {
+          "retweet_count": 4956,
+          "reply_count": 6,
+          "like_count": 10724,
+          "quote_count": 13
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "3",
+              "name": "TV Shows",
+              "description": "Television shows from around the world"
+            },
+            "entity": {
+              "id": "1351618812265656320",
+              "name": "PUI PUI モルカー"
+            }
+          }
+        ],
+        "entities": {
+          "urls": [
+            {
+              "start": 20,
+              "end": 43,
+              "url": "https://t.co/azG3B5dw5r",
+              "expanded_url": "https://twitter.com/pNdId9sq9mUYmiF/status/1360369746491809797/photo/1",
+              "display_url": "pic.twitter.com/azG3B5dw5r"
+            }
+          ]
+        },
+        "text": "歴史に残るモルカー回文が生まれました！ https://t.co/azG3B5dw5r",
+        "attachments": {
+          "media_keys": [
+            "3_1360369706784280577"
+          ]
+        }
+      }
+    ],
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/EuGNJAqVcAof7Mx.jpg",
+        "height": 735,
+        "media_key": "3_1360523748378505226",
+        "type": "photo",
+        "width": 1541
+      },
+      {
+        "url": "https://pbs.twimg.com/media/EuGNUVbVoAUFjq8.png",
+        "height": 377,
+        "media_key": "3_1360523942931308549",
+        "type": "photo",
+        "width": 549
+      },
+      {
+        "url": "https://pbs.twimg.com/media/EuGNZdKVkAEwxbw.png",
+        "height": 288,
+        "media_key": "3_1360524030906830849",
+        "type": "photo",
+        "width": 1095
+      },
+      {
+        "url": "https://pbs.twimg.com/media/Et_Kw3KU0AEPwdK.jpg",
+        "height": 1169,
+        "media_key": "3_1360028553278967809",
+        "type": "photo",
+        "width": 827
+      },
+      {
+        "url": "https://pbs.twimg.com/media/Et_Kw3PUYAgp4Kd.jpg",
+        "height": 1169,
+        "media_key": "3_1360028553299910664",
+        "type": "photo",
+        "width": 827
+      },
+      {
+        "url": "https://pbs.twimg.com/media/EuEBCnAUUAEI8jF.jpg",
+        "height": 1000,
+        "media_key": "3_1360369706784280577",
+        "type": "photo",
+        "width": 794
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1360447511945641991",
+    "newest_id": "1360592624244035597",
+    "result_count": 27
+  }
+}
