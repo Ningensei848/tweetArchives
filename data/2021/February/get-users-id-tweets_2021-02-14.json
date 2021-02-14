@@ -1,0 +1,1921 @@
+{
+  "data": [
+    {
+      "created_at": "2021-02-14T12:43:50.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "冗談ジャッジステム，ほしいですね",
+      "source": "TweetDeck",
+      "id": "1360932765345013764",
+      "conversation_id": "1360932765345013764",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T12:34:33.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "夜メシもくい終わり，Contributterの解読をやって自分用に改造するやつを1時間だけやります",
+      "source": "TweetDeck",
+      "id": "1360930429650444290",
+      "conversation_id": "1360930429650444290",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T12:31:37.000Z",
+      "reply_settings": "everyone",
+      "entities": {
+        "annotations": [
+          {
+            "start": 31,
+            "end": 36,
+            "probability": 0.4283,
+            "type": "Product",
+            "normalized_text": "GitHub"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692468",
+            "name": "GitHub"
+          }
+        }
+      ],
+      "text": "褒められが発生したことと，クソ長文技術記事をサービス依存させずGitHubで管理できるようになったことでこの土日は輝きを放っているよね",
+      "source": "TweetDeck",
+      "id": "1360929688042921989",
+      "conversation_id": "1360929688042921989",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T12:29:43.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 10,
+            "username": "catnose99"
+          }
+        ]
+      },
+      "in_reply_to_user_id": "2202495276",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1360922799024394247"
+        }
+      ],
+      "text": "@catnose99 あざっす！！！引き続き精進します！（はじめて Zenn CLI 使ってみてかなり良かったので引き続き利用したいと思いました，あと今後も新天地でのご活躍を期待しております🚀）",
+      "source": "TweetDeck",
+      "id": "1360929211591008256",
+      "conversation_id": "1360922799024394247",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T12:25:24.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "119",
+            "name": "Holiday",
+            "description": "Holidays like Christmas or Halloween"
+          },
+          "entity": {
+            "id": "1201528585682423809",
+            "name": "Valentine's Day",
+            "description": "this entity for all conversations for valentine's day all year "
+          }
+        }
+      ],
+      "text": "バレンタインが巡ってもおねロリキメセク天皇のことを思い出すことはないだろうけど、金髪肥満体型男性を見たらあ〜おねロリキメセク天皇を崩御に追い込んでそうなどと思いだしそう",
+      "source": "Twitter for iPad",
+      "id": "1360928124238589957",
+      "conversation_id": "1360928124238589957",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T12:22:45.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 19,
+            "username": "megumish_unsafe"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "825047692124442624",
+            "name": "Food",
+            "description": "Food"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "824777229892661248",
+            "name": "Generic Food",
+            "description": "Generic Food"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "836270250563792896",
+            "name": "Chocolate",
+            "description": "Chocolate"
+          }
+        }
+      ],
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360883307664134147"
+        }
+      ],
+      "text": "RT @megumish_unsafe: Twitterer はおねロリキメセク天皇の話をしてるけど、健常のヒトのつがいはチョコを渡し合いセクキメてそう。",
+      "source": "Twitter for iPad",
+      "id": "1360927459516903428",
+      "conversation_id": "1360927459516903428",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T11:43:31.000Z",
+      "in_reply_to_user_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "entities": {
+        "annotations": [
+          {
+            "start": 21,
+            "end": 25,
+            "probability": 0.7987,
+            "type": "Place",
+            "normalized_text": "静岡神奈川"
+          },
+          {
+            "start": 83,
+            "end": 84,
+            "probability": 0.4991,
+            "type": "Place",
+            "normalized_text": "身延"
+          },
+          {
+            "start": 86,
+            "end": 87,
+            "probability": 0.9873,
+            "type": "Place",
+            "normalized_text": "静岡"
+          },
+          {
+            "start": 89,
+            "end": 93,
+            "probability": 0.5764,
+            "type": "Place",
+            "normalized_text": "新宿バスタ"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1360916944988299273"
+        }
+      ],
+      "text": "外国人にもしおすすめするとしたら、南下して静岡神奈川の方から直接ふもとまでバスで乗り付けるアプローチかなぁと思う(でもシーズンじゃないと流石に吉田行は少ないのかな)(身延〜静岡〜新宿バスタ〜富士山というエクストリームバスルートもありそう)",
+      "source": "Twitter for iPad",
+      "id": "1360917583948443649",
+      "conversation_id": "1360916944988299273",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T11:40:58.000Z",
+      "reply_settings": "everyone",
+      "entities": {
+        "annotations": [
+          {
+            "start": 10,
+            "end": 11,
+            "probability": 0.5173,
+            "type": "Place",
+            "normalized_text": "身延"
+          },
+          {
+            "start": 14,
+            "end": 16,
+            "probability": 0.8754,
+            "type": "Place",
+            "normalized_text": "山中湖"
+          },
+          {
+            "start": 32,
+            "end": 34,
+            "probability": 0.64,
+            "type": "Place",
+            "normalized_text": "甲府駅"
+          },
+          {
+            "start": 39,
+            "end": 40,
+            "probability": 0.7586,
+            "type": "Place",
+            "normalized_text": "大月"
+          },
+          {
+            "start": 78,
+            "end": 82,
+            "probability": 0.2806,
+            "type": "Other",
+            "normalized_text": "富士急行線"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "5話を見ていますが、身延から山中湖に行くのに電車で行こうとすると甲府駅経由して大月で乗り換えて富士急行とかいうクソ遠回りルートになるのかよ(身延線〜中央線〜富士急行線の順で乗り換え)\n\nバスで山越えて富士急行線接続とか絶対あるでしょ(需要がないのでダメです)",
+      "source": "Twitter for iPad",
+      "id": "1360916944988299273",
+      "conversation_id": "1360916944988299273",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T11:22:12.000Z",
+      "entities": {
+        "urls": [
+          {
+            "start": 85,
+            "end": 108,
+            "url": "https://t.co/ZuNH2VjBjY",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1360911811814416385",
+            "display_url": "twitter.com/Ningensei848/s…"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1360911811814416385"
+        }
+      ],
+      "text": "実際はコードやらリンクやらで相当減るはずだけど，それでも確実に12000文字は書いているはずなのでほぼ卒論と同じくらいの文量を直近の24時間で生産したことになるな……… https://t.co/ZuNH2VjBjY",
+      "source": "TweetDeck",
+      "id": "1360912220700336133",
+      "conversation_id": "1360912220700336133",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T11:20:35.000Z",
+      "attachments": {
+        "media_keys": [
+          "3_1360911716037500935"
+        ]
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 11,
+            "end": 34,
+            "url": "https://t.co/vzu5jqXRWU",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1360911811814416385/photo/1",
+            "display_url": "pic.twitter.com/vzu5jqXRWU"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "37755字（迫真） https://t.co/vzu5jqXRWU",
+      "source": "Twitter Web App",
+      "id": "1360911811814416385",
+      "conversation_id": "1360911811814416385",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      }
+    },
+    {
+      "entities": {
+        "hashtags": [
+          {
+            "start": 80,
+            "end": 85,
+            "tag": "zenn"
+          }
+        ],
+        "urls": [
+          {
+            "start": 56,
+            "end": 79,
+            "url": "https://t.co/uLZ3m9t5td",
+            "expanded_url": "https://zenn.dev/ningensei848/articles/docusaurus_intro",
+            "display_url": "zenn.dev/ningensei848/a…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1360911347232350215/icPFcVOR?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1360911347232350215/icPFcVOR?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "ドキュメント作成ツールの決定版！Markdown + React の体験を Docusaurus で",
+            "description": "Powered by Markdown Built Using React Content Search Ready for Translations Document Versioning Localization comes pre-configured. Use Crowdin to translate your docs into over 70 languages. Support users on all versions of your project. Document versioning helps you keep documentation in sync with project releases. Node.js version > = 10.15.1 or above (which can be checked by running node -v). You can use nvm for managing multiple Node versions on a single machine installed Yarn version > = 1.5 (which",
+            "unwound_url": "https://zenn.dev/ningensei848/articles/docusaurus_intro"
+          }
+        ]
+      },
+      "created_at": "2021-02-14T11:18:43.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "ドキュメント作成ツールの決定版！Markdown + React の体験を Docusaurus で｜kiai https://t.co/uLZ3m9t5td #zenn \n\n土日を完全に潰して Docusaurus の入門記事（＋国別対抗翻訳バトルへの招待）を書きました，対戦よろしくおねがいします😎",
+      "source": "Twitter Web App",
+      "id": "1360911345743372295",
+      "conversation_id": "1360911345743372295",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 13,
+        "quote_count": 1
+      }
+    },
+    {
+      "created_at": "2021-02-14T10:44:42.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "甲斐国、馬刺しめっちゃ食うけど騎馬軍団との関連はいかに",
+      "source": "Twitter for iPad",
+      "id": "1360902782786568198",
+      "conversation_id": "1360902782786568198",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T10:43:50.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "yanaginokanata"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "1351618812265656320",
+            "name": "PUI PUI モルカー"
+          }
+        }
+      ],
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360843260965515264"
+        }
+      ],
+      "text": "RT @yanaginokanata: 一部の国だと「馬の肉を食べる」のはゲテモノ扱い、生理的な背徳感から禁忌食（もちろん、あまり気にしない人もいる）というのは理屈で知りつつ感覚がいまいち分からなかったんですが、今ふと分かった。「モルカーの肉、美味しいよ？　食べないの？」……多…",
+      "source": "Twitter for iPad",
+      "id": "1360902565404155919",
+      "conversation_id": "1360902565404155919",
+      "public_metrics": {
+        "retweet_count": 1348,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T07:09:57.000Z",
+      "in_reply_to_user_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1360848555754201088"
+        }
+      ],
+      "text": "なおもう1.5万文字はサンプルコードな模様（技術記事がデカすぎる）",
+      "source": "TweetDeck",
+      "id": "1360848740966273024",
+      "conversation_id": "1360848555754201088",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T07:09:13.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "気づいたら昨日と今日で１．５万文字書いてるんだけど，愚かすぎる",
+      "source": "TweetDeck",
+      "id": "1360848555754201088",
+      "conversation_id": "1360848555754201088",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T07:03:48.000Z",
+      "entities": {
+        "urls": [
+          {
+            "start": 0,
+            "end": 23,
+            "url": "https://t.co/hQ7ZOCOF8e",
+            "expanded_url": "https://open.spotify.com/track/2AI3ZqvfHy3hTvdM9oRMYs?si=Y87HiinfR8-xZ0hGUyd62g",
+            "display_url": "open.spotify.com/track/2AI3Zqvf…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1360847191980597250/895UeNfK?format=jpg&name=orig",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1360847191980597250/895UeNfK?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Coffee In Bed",
+            "description": "Pentatonix · Song · 2021",
+            "unwound_url": "https://open.spotify.com/track/2AI3ZqvfHy3hTvdM9oRMYs?si=Y87HiinfR8-xZ0hGUyd62g"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "https://t.co/hQ7ZOCOF8e",
+      "source": "Twitter for iPad",
+      "id": "1360847190571315203",
+      "conversation_id": "1360847190571315203",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T06:06:10.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "_KuroNoir"
+          }
+        ],
+        "urls": [
+          {
+            "start": 34,
+            "end": 57,
+            "url": "https://t.co/cF8onj4uRL",
+            "expanded_url": "https://twitter.com/_KuroNoir/status/1360632923720830981/photo/1",
+            "display_url": "pic.twitter.com/cF8onj4uRL"
+          }
+        ]
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1360632917739728897"
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360632923720830981"
+        }
+      ],
+      "text": "RT @_KuroNoir: これくらいのメンタルで生きていきたい https://t.co/cF8onj4uRL",
+      "source": "Twitter for iPad",
+      "id": "1360832686147870720",
+      "conversation_id": "1360832686147870720",
+      "public_metrics": {
+        "retweet_count": 30887,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T06:05:39.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "cazoo_ck"
+          }
+        ],
+        "urls": [
+          {
+            "start": 74,
+            "end": 97,
+            "url": "https://t.co/AJsA7kOM8R",
+            "expanded_url": "https://twitter.com/cazoo_ck/status/1360628280248832000/photo/1",
+            "display_url": "pic.twitter.com/AJsA7kOM8R"
+          },
+          {
+            "start": 74,
+            "end": 97,
+            "url": "https://t.co/AJsA7kOM8R",
+            "expanded_url": "https://twitter.com/cazoo_ck/status/1360628280248832000/photo/1",
+            "display_url": "pic.twitter.com/AJsA7kOM8R"
+          }
+        ]
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1360628269926649857",
+          "3_1360628269930795012"
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360628280248832000"
+        }
+      ],
+      "text": "RT @cazoo_ck: 「このイベント初の犯罪者のゲストです」という紹介を受けて「こんばんは、みんな前科持ってる？」という第一声で登場！（笑） https://t.co/AJsA7kOM8R",
+      "source": "Twitter for iPad",
+      "id": "1360832555944009729",
+      "conversation_id": "1360832555944009729",
+      "public_metrics": {
+        "retweet_count": 6222,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T06:00:42.000Z",
+      "in_reply_to_user_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1360829886269509635"
+        }
+      ],
+      "text": "教化されている人間とそうでない人間がいる、わかるんですけど、だからといってそれで嘘を言うなと制限できてしまうのはちょっとよくわかりませんね……扇動すれば垢banが一瞬で行われてしまうのを見て怖いな〜と思いました",
+      "source": "Twitter for iPad",
+      "id": "1360831310776786945",
+      "conversation_id": "1360829886269509635",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T05:55:02.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "騙される奴がいるから嘘を言うのをやめろ、うーん",
+      "source": "Twitter for iPad",
+      "id": "1360829886269509635",
+      "conversation_id": "1360829886269509635",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "entities": {
+        "hashtags": [
+          {
+            "start": 11,
+            "end": 24,
+            "tag": "筑波大学は核実験をやめろ"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 2,
+            "end": 9,
+            "probability": 0.4015,
+            "type": "Person",
+            "normalized_text": "ロリキメセク天皇"
+          }
+        ]
+      },
+      "created_at": "2021-02-14T05:51:06.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "おねロリキメセク天皇\n#筑波大学は核実験をやめろ",
+      "source": "Twitter for iPad",
+      "id": "1360828897965662211",
+      "conversation_id": "1360828897965662211",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T05:01:49.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "cottone_828"
+          }
+        ],
+        "urls": [
+          {
+            "start": 23,
+            "end": 46,
+            "url": "https://t.co/6EvHoXP6ZX",
+            "expanded_url": "https://twitter.com/cottone_828/status/1360790734480187392/photo/1",
+            "display_url": "pic.twitter.com/6EvHoXP6ZX"
+          }
+        ]
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1360790684244996096"
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360790734480187392"
+        }
+      ],
+      "text": "RT @cottone_828: 崩御... https://t.co/6EvHoXP6ZX",
+      "source": "Twitter for iPad",
+      "id": "1360816494372737028",
+      "conversation_id": "1360816494372737028",
+      "public_metrics": {
+        "retweet_count": 4782,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T02:06:54.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "ビル、生えて欲しいし格納されて欲しい",
+      "source": "Twitter for iPhone",
+      "id": "1360772474665754624",
+      "conversation_id": "1360772474665754624",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T02:06:12.000Z",
+      "reply_settings": "everyone",
+      "entities": {
+        "annotations": [
+          {
+            "start": 3,
+            "end": 5,
+            "probability": 0.8071,
+            "type": "Place",
+            "normalized_text": "東京市"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "第3新東京市、死ぬまでに見たい",
+      "source": "Twitter for iPhone",
+      "id": "1360772297712279554",
+      "conversation_id": "1360772297712279554",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T02:05:28.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "_ash235_"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 26,
+            "end": 27,
+            "probability": 0.4931,
+            "type": "Place",
+            "normalized_text": "日本"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360727192716537856"
+        }
+      ],
+      "text": "RT @_ash235_: ずっっと疑問なんだけど、日本ほどの地震台風大国で、未だに避難所=地域の体育館で雑魚寝がデフォってどういうことだろうな…もう令和ですけど\nそういうのにこそ税金使って全国の避難所の仕様を充実させてほしい",
+      "source": "Twitter for iPhone",
+      "id": "1360772113829752834",
+      "conversation_id": "1360772113829752834",
+      "public_metrics": {
+        "retweet_count": 2972,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T01:20:37.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "でもまぁやはり「集団で何か一つのものに意思を定める」やりかたはアップデート必要とは思うワネ、今のところそれは選挙ってことになっているけど、速度が遅すぎる上に実は反映されていないし能動的な参加が不可欠なので機能不全",
+      "source": "Twitter for iPad",
+      "id": "1360760827352031232",
+      "conversation_id": "1360760827352031232",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T01:18:11.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "インターネット2(ライセンス制)",
+      "source": "Twitter for iPad",
+      "id": "1360760215726002177",
+      "conversation_id": "1360760215726002177",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T01:17:54.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "zaikabou"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 128,
+            "end": 134,
+            "probability": 0.5617,
+            "type": "Product",
+            "normalized_text": "Twitter"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10045225402",
+            "name": "Twitter"
+          }
+        }
+      ],
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360720179399847936"
+        }
+      ],
+      "text": "RT @zaikabou: 10年前の時の「ネット右翼が井戸に毒を入れている」も「サーバラック倒れて下敷き」も、当事者のフォロワー周辺には文脈がわかる呟きだったんだけど、あの震災を境に、そういうのは無理になったな、とは思いますね。未だにそれ以前の感覚のままTwitterやってる…",
+      "source": "Twitter for iPad",
+      "id": "1360760141600018433",
+      "conversation_id": "1360760141600018433",
+      "public_metrics": {
+        "retweet_count": 322,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-14T00:42:44.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "825047692124442624",
+            "name": "Food",
+            "description": "Food"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "1034860760093024257",
+            "name": "Meals",
+            "description": "Meals"
+          }
+        }
+      ],
+      "text": "生活がヤバくて、というのは食事がストレスになっているらしい",
+      "source": "Twitter for iPhone",
+      "id": "1360751291832541185",
+      "conversation_id": "1360751291832541185",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-13T16:18:05.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "地震をなんとも思ってない中部以南勢と，関東以北で身を以て経験したことがある勢がいる",
+      "source": "TweetDeck",
+      "id": "1360624293843853313",
+      "conversation_id": "1360624293843853313",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-13T16:06:10.000Z",
+      "entities": {
+        "urls": [
+          {
+            "start": 71,
+            "end": 94,
+            "url": "https://t.co/YtqFvK1rNa",
+            "expanded_url": "https://github.com/potato4d/contributter",
+            "display_url": "github.com/potato4d/contr…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1360621297831616524/8DdrFcLs?format=png&name=orig",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1360621297831616524/8DdrFcLs?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "potato4d/contributter",
+            "description": "Evergreen for you. Contribute to potato4d/contributter development by creating an account on GitHub.",
+            "unwound_url": "https://github.com/potato4d/contributter"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692468",
+            "name": "GitHub"
+          }
+        }
+      ],
+      "text": "なんだ，Contributter のGithubリポジトリは当然存在していた（ので明日あたり解読してなおせばまたレポートが復活するじゃん？）\nhttps://t.co/YtqFvK1rNa",
+      "source": "Twitter Web App",
+      "id": "1360621293410738177",
+      "conversation_id": "1360621293410738177",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-13T15:06:32.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "text": "積極的に災害起こした方が景気が良くなる(最悪の因果推論ツイート)",
+      "source": "Twitter for iPhone",
+      "id": "1360606289118654470",
+      "conversation_id": "1360606289118654470",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "created_at": "2021-02-13T15:05:53.000Z",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "6",
+            "name": "Sports Event"
+          },
+          "entity": {
+            "id": "1103026158382141440",
+            "name": "Tokyo 2021 Summer Olympics",
+            "description": "Tokyo 2020 Summer Olympics "
+          }
+        }
+      ],
+      "text": "五輪では一つになれないけど広域地震災害ではそれなりにまとまる民族、いい話",
+      "source": "Twitter for iPhone",
+      "id": "1360606122650988548",
+      "conversation_id": "1360606122650988548",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "pinned_tweet_id": "1345020610875777024",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "name": "きあい🌒",
+        "username": "Ningensei848",
+        "location": "山梨県→茨城県つくば市",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "protected": false,
+        "url": "https://t.co/KBXT0N3eAa",
+        "id": "707346268821913600",
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 990,
+          "tweet_count": 58524,
+          "listed_count": 22
+        },
+        "verified": false,
+        "created_at": "2016-03-08T23:24:27.000Z"
+      },
+      {
+        "pinned_tweet_id": "1356048923983400964",
+        "description": "https://t.co/DcFs6SZStH @classmethod",
+        "name": "catnose",
+        "username": "catnose99",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/DcFs6SZStH",
+                "expanded_url": "http://zenn.dev",
+                "display_url": "zenn.dev"
+              }
+            ],
+            "mentions": [
+              {
+                "start": 24,
+                "end": 36,
+                "username": "classmethod"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/962920362320121857/u62EkIGv_normal.jpg",
+        "protected": false,
+        "url": "",
+        "id": "2202495276",
+        "public_metrics": {
+          "followers_count": 13208,
+          "following_count": 286,
+          "tweet_count": 5782,
+          "listed_count": 151
+        },
+        "verified": false,
+        "created_at": "2013-11-19T04:47:38.000Z"
+      },
+      {
+        "pinned_tweet_id": "1359460914093719554",
+        "description": "めぐ～。",
+        "name": "megumish",
+        "username": "megumish_unsafe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1360886983011180545/EpXBkFXd_normal.png",
+        "protected": false,
+        "url": "",
+        "id": "3253363807",
+        "public_metrics": {
+          "followers_count": 3157,
+          "following_count": 2225,
+          "tweet_count": 88430,
+          "listed_count": 72
+        },
+        "verified": false,
+        "created_at": "2015-06-23T05:12:56.000Z"
+      },
+      {
+        "pinned_tweet_id": "1319592242974130176",
+        "description": "『最果てのパラディン』作者アカウントです。書籍は四巻まで刊行中、コミカライズ版は『コミックガルド』で連載中です。数年ほど体調崩してしまい、その節はご迷惑ご心配をおかけしました。なろう連載も含めて再起動準備中です。",
+        "name": "柳野かなた＠最果てのパラディン",
+        "username": "yanaginokanata",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 22,
+                "url": "http://t.co/l8iWuVZdmK",
+                "expanded_url": "http://ncode.syosetu.com/n5115cq/",
+                "display_url": "ncode.syosetu.com/n5115cq/"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/811510856206819330/7sc6pGyB_normal.jpg",
+        "protected": false,
+        "url": "http://t.co/l8iWuVZdmK",
+        "id": "2687338058",
+        "public_metrics": {
+          "followers_count": 8868,
+          "following_count": 5001,
+          "tweet_count": 18880,
+          "listed_count": 131
+        },
+        "verified": false,
+        "created_at": "2014-07-28T11:51:45.000Z"
+      },
+      {
+        "pinned_tweet_id": "1360917019286147074",
+        "description": "何度でも蘇るさ",
+        "name": "くろのわーる",
+        "username": "_KuroNoir",
+        "location": "沼の底",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1328707646266826755/_6eD1QKy_normal.jpg",
+        "protected": false,
+        "url": "",
+        "id": "140756283",
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 321,
+          "tweet_count": 367277,
+          "listed_count": 46
+        },
+        "verified": false,
+        "created_at": "2010-05-06T09:07:29.000Z"
+      },
+      {
+        "pinned_tweet_id": "724166796383645697",
+        "description": "盤で要る星人",
+        "name": "志池 一利",
+        "username": "cazoo_ck",
+        "location": "近畿(Kinky)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1304569901286187008/iPFsn3bh_normal.jpg",
+        "protected": false,
+        "url": "",
+        "id": "131372712",
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 477,
+          "tweet_count": 72130,
+          "listed_count": 4
+        },
+        "verified": false,
+        "created_at": "2010-04-10T02:37:14.000Z"
+      },
+      {
+        "description": "地理研🐳, 道路交通🚗, 架空都市「若海市」, オリックス🐮, 🟢💙◢͟￨⁴⁶とか",
+        "name": "つきもと",
+        "username": "cottone_828",
+        "location": "紀野県若海市",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356995530719588359/GqSLRxVN_normal.jpg",
+        "protected": false,
+        "url": "",
+        "id": "3251656698",
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 699,
+          "tweet_count": 15440,
+          "listed_count": 7
+        },
+        "verified": false,
+        "created_at": "2015-06-21T14:44:32.000Z"
+      },
+      {
+        "description": "舞台全般 / すまっぷとかきんきとか / ソロもグループも",
+        "name": "あっしゅ",
+        "username": "_ash235_",
+        "location": "客席",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1245376999087960067/JSzTZL8d_normal.jpg",
+        "protected": false,
+        "url": "",
+        "id": "1187114906",
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 950,
+          "tweet_count": 70237,
+          "listed_count": 33
+        },
+        "verified": false,
+        "created_at": "2013-02-16T18:49:14.000Z"
+      },
+      {
+        "pinned_tweet_id": "1352950220913405953",
+        "description": "関心領域は酒、食べ物、美術、旅、横浜、建築、演芸などなど。横浜を中心に国内をよく移動しています。はてなブログで毎日、日記書いてます https://t.co/3hvMTmDkFx",
+        "name": "在華坊",
+        "username": "zaikabou",
+        "location": "横浜野毛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/w6XunmK7SO",
+                "expanded_url": "http://zaikabou.hatenablog.com/",
+                "display_url": "zaikabou.hatenablog.com"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 66,
+                "end": 89,
+                "url": "https://t.co/3hvMTmDkFx",
+                "expanded_url": "http://zaikabou.hatenablog.com",
+                "display_url": "zaikabou.hatenablog.com"
+              }
+            ]
+          }
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1280422501370101761/dELR9Q5G_normal.png",
+        "protected": false,
+        "url": "https://t.co/w6XunmK7SO",
+        "id": "5310062",
+        "public_metrics": {
+          "followers_count": 11723,
+          "following_count": 2349,
+          "tweet_count": 161925,
+          "listed_count": 0
+        },
+        "verified": false,
+        "created_at": "2007-04-20T09:46:35.000Z"
+      }
+    ],
+    "tweets": [
+      {
+        "created_at": "2021-02-14T12:04:14.000Z",
+        "entities": {
+          "urls": [
+            {
+              "start": 20,
+              "end": 43,
+              "url": "https://t.co/YCTW95kHJY",
+              "expanded_url": "https://twitter.com/ningensei848/status/1360911345743372295",
+              "display_url": "twitter.com/ningensei848/s…"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "author_id": "2202495276",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1360911345743372295"
+          }
+        ],
+        "text": "解説が丁寧でとても分かりやすかったです https://t.co/YCTW95kHJY",
+        "source": "Twitter for iPhone",
+        "id": "1360922799024394247",
+        "conversation_id": "1360922799024394247",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 6,
+          "quote_count": 0
+        }
+      },
+      {
+        "created_at": "2021-02-14T09:27:19.000Z",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "author_id": "3253363807",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "825047692124442624",
+              "name": "Food",
+              "description": "Food"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "824777229892661248",
+              "name": "Generic Food",
+              "description": "Generic Food"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "836270250563792896",
+              "name": "Chocolate",
+              "description": "Chocolate"
+            }
+          }
+        ],
+        "text": "Twitterer はおねロリキメセク天皇の話をしてるけど、健常のヒトのつがいはチョコを渡し合いセクキメてそう。",
+        "source": "Twitter Web App",
+        "id": "1360883307664134147",
+        "conversation_id": "1360883307664134147",
+        "public_metrics": {
+          "retweet_count": 4,
+          "reply_count": 0,
+          "like_count": 12,
+          "quote_count": 0
+        }
+      },
+      {
+        "created_at": "2021-02-14T11:40:58.000Z",
+        "reply_settings": "everyone",
+        "entities": {
+          "annotations": [
+            {
+              "start": 10,
+              "end": 11,
+              "probability": 0.5173,
+              "type": "Place",
+              "normalized_text": "身延"
+            },
+            {
+              "start": 14,
+              "end": 16,
+              "probability": 0.8754,
+              "type": "Place",
+              "normalized_text": "山中湖"
+            },
+            {
+              "start": 32,
+              "end": 34,
+              "probability": 0.64,
+              "type": "Place",
+              "normalized_text": "甲府駅"
+            },
+            {
+              "start": 39,
+              "end": 40,
+              "probability": 0.7586,
+              "type": "Place",
+              "normalized_text": "大月"
+            },
+            {
+              "start": 78,
+              "end": 82,
+              "probability": 0.2806,
+              "type": "Other",
+              "normalized_text": "富士急行線"
+            }
+          ]
+        },
+        "possibly_sensitive": false,
+        "author_id": "707346268821913600",
+        "text": "5話を見ていますが、身延から山中湖に行くのに電車で行こうとすると甲府駅経由して大月で乗り換えて富士急行とかいうクソ遠回りルートになるのかよ(身延線〜中央線〜富士急行線の順で乗り換え)\n\nバスで山越えて富士急行線接続とか絶対あるでしょ(需要がないのでダメです)",
+        "source": "Twitter for iPad",
+        "id": "1360916944988299273",
+        "conversation_id": "1360916944988299273",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0
+        }
+      },
+      {
+        "created_at": "2021-02-14T11:20:35.000Z",
+        "attachments": {
+          "media_keys": [
+            "3_1360911716037500935"
+          ]
+        },
+        "entities": {
+          "urls": [
+            {
+              "start": 11,
+              "end": 34,
+              "url": "https://t.co/vzu5jqXRWU",
+              "expanded_url": "https://twitter.com/Ningensei848/status/1360911811814416385/photo/1",
+              "display_url": "pic.twitter.com/vzu5jqXRWU"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "author_id": "707346268821913600",
+        "text": "37755字（迫真） https://t.co/vzu5jqXRWU",
+        "source": "Twitter Web App",
+        "id": "1360911811814416385",
+        "conversation_id": "1360911811814416385",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        }
+      },
+      {
+        "created_at": "2021-02-14T06:48:11.000Z",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "author_id": "2687338058",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "3",
+              "name": "TV Shows",
+              "description": "Television shows from around the world"
+            },
+            "entity": {
+              "id": "1351618812265656320",
+              "name": "PUI PUI モルカー"
+            }
+          }
+        ],
+        "text": "一部の国だと「馬の肉を食べる」のはゲテモノ扱い、生理的な背徳感から禁忌食（もちろん、あまり気にしない人もいる）というのは理屈で知りつつ感覚がいまいち分からなかったんですが、今ふと分かった。「モルカーの肉、美味しいよ？　食べないの？」……多分こんな感じなんだ。",
+        "source": "Twitter for Android",
+        "id": "1360843260965515264",
+        "conversation_id": "1360843260965515264",
+        "public_metrics": {
+          "retweet_count": 1348,
+          "reply_count": 12,
+          "like_count": 2812,
+          "quote_count": 29
+        }
+      },
+      {
+        "created_at": "2021-02-14T07:09:13.000Z",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "author_id": "707346268821913600",
+        "text": "気づいたら昨日と今日で１．５万文字書いてるんだけど，愚かすぎる",
+        "source": "TweetDeck",
+        "id": "1360848555754201088",
+        "conversation_id": "1360848555754201088",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        }
+      },
+      {
+        "created_at": "2021-02-13T16:52:23.000Z",
+        "attachments": {
+          "media_keys": [
+            "3_1360632917739728897"
+          ]
+        },
+        "entities": {
+          "urls": [
+            {
+              "start": 19,
+              "end": 42,
+              "url": "https://t.co/cF8onj4uRL",
+              "expanded_url": "https://twitter.com/_KuroNoir/status/1360632923720830981/photo/1",
+              "display_url": "pic.twitter.com/cF8onj4uRL"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "author_id": "140756283",
+        "text": "これくらいのメンタルで生きていきたい https://t.co/cF8onj4uRL",
+        "source": "Twitter for Android",
+        "id": "1360632923720830981",
+        "conversation_id": "1360632923720830981",
+        "public_metrics": {
+          "retweet_count": 30887,
+          "reply_count": 70,
+          "like_count": 173718,
+          "quote_count": 347
+        }
+      },
+      {
+        "created_at": "2021-02-13T16:33:55.000Z",
+        "attachments": {
+          "media_keys": [
+            "3_1360628269926649857",
+            "3_1360628269930795012"
+          ]
+        },
+        "entities": {
+          "urls": [
+            {
+              "start": 60,
+              "end": 83,
+              "url": "https://t.co/AJsA7kOM8R",
+              "expanded_url": "https://twitter.com/cazoo_ck/status/1360628280248832000/photo/1",
+              "display_url": "pic.twitter.com/AJsA7kOM8R"
+            },
+            {
+              "start": 60,
+              "end": 83,
+              "url": "https://t.co/AJsA7kOM8R",
+              "expanded_url": "https://twitter.com/cazoo_ck/status/1360628280248832000/photo/1",
+              "display_url": "pic.twitter.com/AJsA7kOM8R"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "author_id": "131372712",
+        "text": "「このイベント初の犯罪者のゲストです」という紹介を受けて「こんばんは、みんな前科持ってる？」という第一声で登場！（笑） https://t.co/AJsA7kOM8R",
+        "source": "Twitter for iPhone",
+        "id": "1360628280248832000",
+        "conversation_id": "1360628280248832000",
+        "public_metrics": {
+          "retweet_count": 6222,
+          "reply_count": 20,
+          "like_count": 26352,
+          "quote_count": 192
+        }
+      },
+      {
+        "created_at": "2021-02-14T05:55:02.000Z",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "author_id": "707346268821913600",
+        "text": "騙される奴がいるから嘘を言うのをやめろ、うーん",
+        "source": "Twitter for iPad",
+        "id": "1360829886269509635",
+        "conversation_id": "1360829886269509635",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        }
+      },
+      {
+        "created_at": "2021-02-14T03:19:28.000Z",
+        "attachments": {
+          "media_keys": [
+            "3_1360790684244996096"
+          ]
+        },
+        "entities": {
+          "urls": [
+            {
+              "start": 6,
+              "end": 29,
+              "url": "https://t.co/6EvHoXP6ZX",
+              "expanded_url": "https://twitter.com/cottone_828/status/1360790734480187392/photo/1",
+              "display_url": "pic.twitter.com/6EvHoXP6ZX"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "author_id": "3251656698",
+        "text": "崩御... https://t.co/6EvHoXP6ZX",
+        "source": "Twitter Web App",
+        "id": "1360790734480187392",
+        "conversation_id": "1360790734480187392",
+        "public_metrics": {
+          "retweet_count": 4782,
+          "reply_count": 26,
+          "like_count": 16298,
+          "quote_count": 98
+        }
+      },
+      {
+        "created_at": "2021-02-13T23:06:58.000Z",
+        "reply_settings": "everyone",
+        "entities": {
+          "annotations": [
+            {
+              "start": 12,
+              "end": 13,
+              "probability": 0.5193,
+              "type": "Place",
+              "normalized_text": "日本"
+            }
+          ]
+        },
+        "possibly_sensitive": false,
+        "author_id": "1187114906",
+        "text": "ずっっと疑問なんだけど、日本ほどの地震台風大国で、未だに避難所=地域の体育館で雑魚寝がデフォってどういうことだろうな…もう令和ですけど\nそういうのにこそ税金使って全国の避難所の仕様を充実させてほしい",
+        "source": "Twitter for iPhone",
+        "id": "1360727192716537856",
+        "conversation_id": "1360727192716537856",
+        "public_metrics": {
+          "retweet_count": 2972,
+          "reply_count": 17,
+          "like_count": 7755,
+          "quote_count": 64
+        }
+      },
+      {
+        "created_at": "2021-02-13T22:39:06.000Z",
+        "reply_settings": "everyone",
+        "entities": {
+          "annotations": [
+            {
+              "start": 114,
+              "end": 120,
+              "probability": 0.6905,
+              "type": "Product",
+              "normalized_text": "Twitter"
+            }
+          ]
+        },
+        "possibly_sensitive": false,
+        "author_id": "5310062",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "Twitter"
+            }
+          }
+        ],
+        "text": "10年前の時の「ネット右翼が井戸に毒を入れている」も「サーバラック倒れて下敷き」も、当事者のフォロワー周辺には文脈がわかる呟きだったんだけど、あの震災を境に、そういうのは無理になったな、とは思いますね。未だにそれ以前の感覚のままTwitterやってる人もいますが",
+        "source": "Twitter for iPhone",
+        "id": "1360720179399847936",
+        "conversation_id": "1360720179399847936",
+        "public_metrics": {
+          "retweet_count": 322,
+          "reply_count": 2,
+          "like_count": 520,
+          "quote_count": 2
+        }
+      }
+    ],
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EuLt_s0VIAc7C-g.jpg",
+        "width": 1577,
+        "media_key": "3_1360911716037500935",
+        "height": 240
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EuHwbgOUcAEeT8d.jpg",
+        "width": 1024,
+        "media_key": "3_1360632917739728897",
+        "height": 576
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EuHsM9xVEAEP1TG.jpg",
+        "width": 2048,
+        "media_key": "3_1360628269926649857",
+        "height": 1154
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EuHsM9yUUAQclAc.jpg",
+        "width": 2048,
+        "media_key": "3_1360628269930795012",
+        "height": 1158
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EuJ_6uQVcAAB2gO.png",
+        "width": 614,
+        "media_key": "3_1360790684244996096",
+        "height": 488
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1360606122650988548",
+    "newest_id": "1360932765345013764",
+    "result_count": 33
+  }
+}
