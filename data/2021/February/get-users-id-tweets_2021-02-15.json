@@ -1,0 +1,1670 @@
+{
+  "data": [
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 74,
+            "end": 97,
+            "url": "https://t.co/uLZ3m9t5td",
+            "expanded_url": "https://zenn.dev/ningensei848/articles/docusaurus_intro",
+            "display_url": "zenn.dev/ningensei848/a…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1360911347232350215/icPFcVOR?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1360911347232350215/icPFcVOR?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "ドキュメント作成ツールの決定版！Markdown + React の体験を Docusaurus で",
+            "description": "Powered by Markdown Built Using React Content Search Ready for Translations Document Versioning Localization comes pre-configured. Use Crowdin to translate your docs into over 70 languages. Support users on all versions of your project. Document versioning helps you keep documentation in sync with project releases. Node.js version > = 10.15.1 or above (which can be checked by running node -v). You can use nvm for managing multiple Node versions on a single machine installed Yarn version > = 1.5 (which",
+            "unwound_url": "https://zenn.dev/ningensei848/articles/docusaurus_intro"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 98,
+            "end": 103,
+            "tag": "zenn"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "Ningensei848"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360911345743372295"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1361299028776914946",
+      "author_id": "707346268821913600",
+      "text": "RT @Ningensei848: ドキュメント作成ツールの決定版！Markdown + React の体験を Docusaurus で｜kiai https://t.co/uLZ3m9t5td #zenn \n\n土日を完全に潰して Docusaurus の入門記事（＋国別対抗翻…",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T12:59:14.000Z",
+      "conversation_id": "1361299028776914946"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1361297496845131776",
+      "author_id": "707346268821913600",
+      "text": "甘酒を飲んで入眠",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T12:53:09.000Z",
+      "conversation_id": "1361297496845131776"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1361297448107302912",
+      "author_id": "707346268821913600",
+      "text": "今日は何も出来なかった、低気圧大丈夫やろつって空元気ムーヴしてたら時間差でぶっ倒れて今頃立ち直ってきた",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T12:52:57.000Z",
+      "conversation_id": "1361297448107302912"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1361297184423956481",
+      "author_id": "707346268821913600",
+      "text": "生存を続けると死亡率が上がり続けてしまいます、今すぐ生存をやめよう",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T12:51:55.000Z",
+      "conversation_id": "1361297184423956481"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1361291977396920323",
+      "author_id": "707346268821913600",
+      "text": "もしかしてなんですけど、世間みんなこの「死亡率完全回避ムーヴ」だったりしますか",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T12:31:13.000Z",
+      "conversation_id": "1361291977396920323"
+    },
+    {
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "903303816698671104",
+            "name": "Wellness and health",
+            "description": "Wellness & Health"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "918538847302041600",
+            "name": "Community Health",
+            "description": "Community Health"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "920768310152593408",
+            "name": "Common Medication",
+            "description": "Common Medication"
+          }
+        }
+      ],
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1263637664470691841"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 136,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1361291713680076801",
+      "author_id": "707346268821913600",
+      "text": "RT @tamako_han: てめーはボケか。なんで死なない月経困難症に対処する為に、死ぬ可能性のある薬をぶつけんるんだよ。しかも経済的損失ののために。どつきまわすぞクソが。",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "tamako_han"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T12:30:10.000Z",
+      "conversation_id": "1361291713680076801"
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 7,
+            "end": 30,
+            "url": "https://t.co/jAQUkwS2ze",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1361185955873394689/video/1",
+            "display_url": "pic.twitter.com/jAQUkwS2ze"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 0,
+            "end": 6,
+            "tag": "豪雨徘徊部"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "attachments": {
+        "media_keys": [
+          "7_1361185923535314946"
+        ]
+      },
+      "id": "1361185955873394689",
+      "author_id": "707346268821913600",
+      "text": "#豪雨徘徊部 https://t.co/jAQUkwS2ze",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T05:29:56.000Z",
+      "conversation_id": "1361185955873394689"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1361142041971888131"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1361180277515513856",
+      "in_reply_to_user_id": "1020670581803397121",
+      "author_id": "707346268821913600",
+      "text": "@HaRu20835392 ブドウと山は相続できちゃうので資格と穴蔵が必要、出荷目指すゾイ",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 13,
+            "username": "HaRu20835392"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T05:07:22.000Z",
+      "conversation_id": "1361111355986616322"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1361141585308622849"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1361141912409759750",
+      "in_reply_to_user_id": "1020670581803397121",
+      "author_id": "707346268821913600",
+      "text": "@HaRu20835392 &gt; 山を買い山芋を出荷した\n\nよすぎる文字列（2021年の目標としてがんばります）",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 13,
+            "username": "HaRu20835392"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T02:34:55.000Z",
+      "conversation_id": "1361111355986616322"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1361138305094459395"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1361140539169542146",
+      "entities": {
+        "annotations": [
+          {
+            "start": 14,
+            "end": 15,
+            "probability": 0.4846,
+            "type": "Person",
+            "normalized_text": "プー"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 0,
+            "end": 13,
+            "username": "HaRu20835392"
+          }
+        ]
+      },
+      "in_reply_to_user_id": "1020670581803397121",
+      "author_id": "707346268821913600",
+      "text": "@HaRu20835392 プーになる前にいっっちょいっとくか～～～～～の気持ちになってきたけど罠じゃなくて銃ほしですね（高そう）",
+      "reply_settings": "everyone",
+      "source": "Twitter Web App",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T02:29:27.000Z",
+      "conversation_id": "1361111355986616322"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1361117757098520576",
+      "author_id": "707346268821913600",
+      "text": "手元にデータが有ればシミュレーションでさらに事例を増やせるの裏ワザすぎる，プラットフォーマーになるしかねぇよ",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T00:58:56.000Z",
+      "conversation_id": "1361117757098520576"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1361117534116700162",
+      "author_id": "707346268821913600",
+      "text": "あ～～～～～～こういうデータの使い方もできるんじゃんアゼルバイジャン",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T00:58:03.000Z",
+      "conversation_id": "1361117534116700162"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360623682549293058"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 1247,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1361117454177476608",
+      "author_id": "707346268821913600",
+      "text": "RT @shearline: 気象庁の津波情報が早い主な理由\n\n→ 地震計による観測を元に一から予測計算を行っても間に合わないため、あらかじめ様々な地震に対する計算結果のデータベースを用意し、震源の位置とマグニチュードを元に検索して津波情報を出しています。\n（詳細はリンク先参照…",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "shearline"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T00:57:44.000Z",
+      "conversation_id": "1361117454177476608"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1361117177307303937",
+      "author_id": "707346268821913600",
+      "text": "いいね～～～～承認されている感マシマシ",
+      "reply_settings": "everyone",
+      "source": "Twitter Web App",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T00:56:38.000Z",
+      "conversation_id": "1361117177307303937"
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 3,
+            "end": 26,
+            "url": "https://t.co/uLZ3m9t5td",
+            "expanded_url": "https://zenn.dev/ningensei848/articles/docusaurus_intro",
+            "display_url": "zenn.dev/ningensei848/a…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1360911347232350215/icPFcVOR?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1360911347232350215/icPFcVOR?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "ドキュメント作成ツールの決定版！Markdown + React の体験を Docusaurus で",
+            "description": "Powered by Markdown Built Using React Content Search Ready for Translations Document Versioning Localization comes pre-configured. Use Crowdin to translate your docs into over 70 languages. Support users on all versions of your project. Document versioning helps you keep documentation in sync with project releases. Node.js version > = 10.15.1 or above (which can be checked by running node -v). You can use nvm for managing multiple Node versions on a single machine installed Yarn version > = 1.5 (which",
+            "unwound_url": "https://zenn.dev/ningensei848/articles/docusaurus_intro"
+          },
+          {
+            "start": 27,
+            "end": 50,
+            "url": "https://t.co/ruJZUWSPRY",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1361117066653175811/photo/1",
+            "display_url": "pic.twitter.com/ruJZUWSPRY"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1361116946054356996"
+        ]
+      },
+      "id": "1361117066653175811",
+      "author_id": "707346268821913600",
+      "text": "オ\n\nhttps://t.co/uLZ3m9t5td https://t.co/ruJZUWSPRY",
+      "reply_settings": "everyone",
+      "source": "Twitter Web App",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T00:56:11.000Z",
+      "conversation_id": "1361117066653175811"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1361111641874522116",
+      "author_id": "707346268821913600",
+      "text": "ナメたらアカン、ナメられてもあかん、殴られる前に殺す、そういうメンタルこそ真の安寧への第一歩っぽい",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T00:34:38.000Z",
+      "conversation_id": "1361111641874522116"
+    },
+    {
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "1046575724830720001",
+            "name": "Outdoor Activities",
+            "description": "Outdoor Activities"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "847901772374986752",
+            "name": "Hunting",
+            "description": "Hunting and shooting"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1361111355986616322",
+      "author_id": "707346268821913600",
+      "text": "やっぱ狩猟免許必要な感じしてきたな、「撃てる」という自信は必要なので",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-15T00:33:30.000Z",
+      "conversation_id": "1361111355986616322"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1361094315288662016",
+      "author_id": "707346268821913600",
+      "text": "デマゴギー云々の話，やっぱりライセンス制インターネットが必要らしいということがわかってきたが，それだと自由ではないので，マス向けインターネット（ボーダーフリーだけどルール盛り盛り）と共存させる必要がある（何？）",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-14T23:25:47.000Z",
+      "conversation_id": "1361094315288662016"
+    },
+    {
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10027446854",
+            "name": "Adobe"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848959158082617344",
+            "name": "Enterprise software",
+            "description": "Enterprise software"
+          }
+        }
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 102,
+            "end": 125,
+            "url": "https://t.co/ax05gINkQF",
+            "expanded_url": "https://forest.watch.impress.co.jp/docs/news/1306104.html",
+            "display_url": "forest.watch.impress.co.jp/docs/news/1306…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1360125653295587331/tdvnqkAw?format=jpg&name=orig",
+                "width": 1142,
+                "height": 720
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1360125653295587331/tdvnqkAw?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "WebブラウザーでPDFを手軽に編集 ～Adobeが無償オンラインツールの提供を開始／「.new」ドメインのURLでも利用が可能",
+            "description": "　米Adobeは2月10日（現地時間）、Webブラウザー上でPDFを操作できるツール「Acrobat web」の提供を開始した。PDFドキュメントを扱う機会が少なく、専用アプリを購入するほどではない個人ユーザーなどに適している。",
+            "unwound_url": "https://forest.watch.impress.co.jp/docs/news/1306104.html"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 73,
+            "end": 77,
+            "probability": 0.4507,
+            "type": "Product",
+            "normalized_text": "Adobe"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "tokizo"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1360860957614899200"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 13416,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1361092392254771200",
+      "author_id": "707346268821913600",
+      "text": "RT @tokizo: おおおお\n印刷して記入してPDFにしてという謎の非生産的な作業がいらなくなる涙\n\nWebブラウザーでPDFを手軽に編集 ～Adobeが無償オンラインツールの提供を開始 - 窓の杜 https://t.co/ax05gINkQF",
+      "reply_settings": "everyone",
+      "source": "Twitter Web App",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-14T23:18:08.000Z",
+      "conversation_id": "1361092392254771200"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1360985474651676673",
+      "entities": {
+        "annotations": [
+          {
+            "start": 5,
+            "end": 6,
+            "probability": 0.8389,
+            "type": "Person",
+            "normalized_text": "篠原"
+          },
+          {
+            "start": 8,
+            "end": 9,
+            "probability": 0.7775,
+            "type": "Person",
+            "normalized_text": "松井"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "text": "しまぶーは篠原や松井と比べると構成力の点で見劣りしてしまう、それを補って余りある説得力があるのもまた事実なんだけど、トリコほど序盤に魅力を詰め込むことができておらず、結果としていまの順位になってしまっている(題材としてはかなり良くて、きちんと建てられるはずなんだけど時間が不足)",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-14T16:13:17.000Z",
+      "conversation_id": "1360985474651676673"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1360984474012372993",
+      "entities": {
+        "annotations": [
+          {
+            "start": 19,
+            "end": 21,
+            "probability": 0.6703,
+            "type": "Person",
+            "normalized_text": "ビリー"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "text": "アンデラは、もしバックナンバーがあればビリーの造反のとこから一気読みしてくると何年も時が経過したかのような錯覚と満足感を得られるよ",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-14T16:09:19.000Z",
+      "conversation_id": "1360984474012372993"
+    },
+    {
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "11",
+            "name": "Sport",
+            "description": "Types of sports, like soccer and basketball"
+          },
+          "entity": {
+            "id": "769193663230468096",
+            "name": "Baseball"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1360983816844636160",
+      "author_id": "707346268821913600",
+      "text": "ほんまマジジャンプで野球は毎年やらんとあかんのか？ってくらい挑戦してるけど長続きさせようがないし既にジャンプラに成功例があるからアイツに任せとけ",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-14T16:06:42.000Z",
+      "conversation_id": "1360983816844636160"
+    },
+    {
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1207461450236563457",
+            "name": "My Hero Academia"
+          }
+        },
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1346901380292775936",
+            "name": "Jujutsu Kaisen"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1360983144598433792",
+      "author_id": "707346268821913600",
+      "text": "淡々と地獄に突き進む呪術、絶対触れたらあかんからみんな忘れて放っておいたのに最悪のタイミングで傷口を抉っていくヒロアカ、方や着実に連載初期単発話を重ねていく若君とウィッチ、もう3年くらいやってたよね？アンデラ、黄金のマグ・ロボコンボ、キノコと黒いの早く席譲れカス、あとは知らん……",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-14T16:04:02.000Z",
+      "conversation_id": "1360983144598433792"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1360979022881062916",
+      "author_id": "707346268821913600",
+      "text": "アンデラまだ1周年経ってなかったの脳が理解を拒否してる、今年中に完結するんじゃない？？？？？？？？(そして次のループへ…)",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-14T15:47:39.000Z",
+      "conversation_id": "1360979022881062916"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "pinned_tweet_id": "1345020610875777024",
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 990,
+          "tweet_count": 58546,
+          "listed_count": 22
+        },
+        "url": "https://t.co/KBXT0N3eAa",
+        "username": "Ningensei848",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "location": "山梨県→茨城県つくば市",
+        "name": "きあい🌒",
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "id": "707346268821913600"
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1340436056152272896/4fLqjnow_normal.jpg",
+        "pinned_tweet_id": "702668388800180225",
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 13120,
+          "following_count": 7794,
+          "tweet_count": 139719,
+          "listed_count": 320
+        },
+        "url": "https://t.co/TyKNtQ4g8v",
+        "username": "tamako_han",
+        "description": "ナルコレプシー患者。緊急避妊薬ノルレボの市販薬化キャンペーンの呼びかけ人。避妊中絶、リプロライツ周辺。フェミニストを名乗るのやめ、ネオ・リブ・ウィメンを立ち上げた。略してネオリブ。表現の自由の人。中年ぽっちゃりバレリーナ始めました。",
+        "created_at": "2013-08-05T05:13:12.000Z",
+        "location": "http://twilog.org/tamako_han",
+        "name": "さすが多摩湖♡ナルコレプシー",
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/TyKNtQ4g8v",
+                "expanded_url": "http://ec-otc.blogspot.jp/?m=1",
+                "display_url": "ec-otc.blogspot.jp/?m=1"
+              }
+            ]
+          }
+        },
+        "id": "1646975107"
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325447797907181570/QdeGPn-D_normal.jpg",
+        "pinned_tweet_id": "1337561831217405952",
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 67,
+          "tweet_count": 3587,
+          "listed_count": 1
+        },
+        "url": "",
+        "username": "HaRu20835392",
+        "description": "klis16 でした /",
+        "created_at": "2018-07-21T14:03:24.000Z",
+        "location": "きっとたぶん明日のわたしは今日より幸せ",
+        "name": "Yukida(Lu)〽️",
+        "protected": false,
+        "id": "1020670581803397121"
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1348276072425476097/_Y4vHto5_normal.jpg",
+        "pinned_tweet_id": "1341373519267917826",
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 1467,
+          "tweet_count": 70272,
+          "listed_count": 82
+        },
+        "url": "https://t.co/FR4P8zArj6",
+        "username": "shearline",
+        "description": "博士(理学)。気象予報士(ゆるふわ)。東京の大学で異常気象🌪️や気候変動🌡️に関連する研究をしています。\n主な話題：気象🌦️，地学オリンピック🌏，DeNAベイスターズ🐹，カトリック🍷，櫻坂46🌸",
+        "created_at": "2010-04-05T06:11:15.000Z",
+        "location": "夕暮れのゆるい坂道",
+        "name": "しおん",
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/FR4P8zArj6",
+                "expanded_url": "https://twilog.org/shearline",
+                "display_url": "twilog.org/shearline"
+              }
+            ]
+          }
+        },
+        "id": "129723098"
+      },
+      {
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1214898649311744000/cQnK-tvj_normal.jpg",
+        "pinned_tweet_id": "1254194971046899712",
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 1654,
+          "tweet_count": 9680,
+          "listed_count": 37
+        },
+        "url": "https://t.co/LYH4EKK9Mv",
+        "username": "tokizo",
+        "description": "登山愛好家⛰/ 山岳写真/ モノクロ写真/📍横浜→北京→東京→上田/ チャリ通勤🚴‍♂️/ B級グルメ/ カスタマーサクセス / グラニフT→https://t.co/pq9RRy7daC",
+        "created_at": "2007-04-24T06:54:12.000Z",
+        "location": "日本 長野県上田市",
+        "name": "Tak",
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/LYH4EKK9Mv",
+                "expanded_url": "http://Instagram.com/tak_toki",
+                "display_url": "Instagram.com/tak_toki"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 71,
+                "end": 94,
+                "url": "https://t.co/pq9RRy7daC",
+                "expanded_url": "http://bit.ly/2MyALU2",
+                "display_url": "bit.ly/2MyALU2"
+              }
+            ]
+          }
+        },
+        "id": "5456332"
+      }
+    ],
+    "tweets": [
+      {
+        "entities": {
+          "urls": [
+            {
+              "start": 56,
+              "end": 79,
+              "url": "https://t.co/uLZ3m9t5td",
+              "expanded_url": "https://zenn.dev/ningensei848/articles/docusaurus_intro",
+              "display_url": "zenn.dev/ningensei848/a…",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1360911347232350215/icPFcVOR?format=jpg&name=orig",
+                  "width": 1200,
+                  "height": 630
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1360911347232350215/icPFcVOR?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "ドキュメント作成ツールの決定版！Markdown + React の体験を Docusaurus で",
+              "description": "Powered by Markdown Built Using React Content Search Ready for Translations Document Versioning Localization comes pre-configured. Use Crowdin to translate your docs into over 70 languages. Support users on all versions of your project. Document versioning helps you keep documentation in sync with project releases. Node.js version > = 10.15.1 or above (which can be checked by running node -v). You can use nvm for managing multiple Node versions on a single machine installed Yarn version > = 1.5 (which",
+              "unwound_url": "https://zenn.dev/ningensei848/articles/docusaurus_intro"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 80,
+              "end": 85,
+              "tag": "zenn"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 3,
+          "reply_count": 0,
+          "like_count": 15,
+          "quote_count": 1
+        },
+        "id": "1360911345743372295",
+        "author_id": "707346268821913600",
+        "text": "ドキュメント作成ツールの決定版！Markdown + React の体験を Docusaurus で｜kiai https://t.co/uLZ3m9t5td #zenn \n\n土日を完全に潰して Docusaurus の入門記事（＋国別対抗翻訳バトルへの招待）を書きました，対戦よろしくおねがいします😎",
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "possibly_sensitive": false,
+        "created_at": "2021-02-14T11:18:43.000Z",
+        "conversation_id": "1360911345743372295"
+      },
+      {
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "903303816698671104",
+              "name": "Wellness and health",
+              "description": "Wellness & Health"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "918538847302041600",
+              "name": "Community Health",
+              "description": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "920768310152593408",
+              "name": "Common Medication",
+              "description": "Common Medication"
+            }
+          }
+        ],
+        "entities": {
+          "urls": [
+            {
+              "start": 73,
+              "end": 96,
+              "url": "https://t.co/ASf5DR7TD0",
+              "expanded_url": "https://twitter.com/incorecter/status/1263635203341217792",
+              "display_url": "twitter.com/incorecter/sta…"
+            }
+          ]
+        },
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1263635203341217792"
+          }
+        ],
+        "public_metrics": {
+          "retweet_count": 136,
+          "reply_count": 8,
+          "like_count": 339,
+          "quote_count": 21
+        },
+        "id": "1263637664470691841",
+        "author_id": "1646975107",
+        "text": "てめーはボケか。なんで死なない月経困難症に対処する為に、死ぬ可能性のある薬をぶつけんるんだよ。しかも経済的損失ののために。どつきまわすぞクソが。 https://t.co/ASf5DR7TD0",
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "possibly_sensitive": false,
+        "created_at": "2020-05-22T01:07:51.000Z",
+        "conversation_id": "1263637664470691841"
+      },
+      {
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "825047692124442624",
+              "name": "Food",
+              "description": "Food"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "834828264786898945",
+              "name": "Drinks",
+              "description": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "834828445238431744",
+              "name": "Generic Drinks",
+              "description": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "841378993408425985",
+              "name": "Wine",
+              "description": "Wine"
+            }
+          }
+        ],
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1361141912409759750"
+          }
+        ],
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "id": "1361142041971888131",
+        "entities": {
+          "annotations": [
+            {
+              "start": 14,
+              "end": 18,
+              "probability": 0.5714,
+              "type": "Place",
+              "normalized_text": "ワイナリー"
+            }
+          ],
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "Ningensei848"
+            }
+          ]
+        },
+        "in_reply_to_user_id": "707346268821913600",
+        "author_id": "1020670581803397121",
+        "text": "@Ningensei848 ワイナリーを買ってワインを出荷してください",
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "possibly_sensitive": false,
+        "created_at": "2021-02-15T02:35:26.000Z",
+        "conversation_id": "1361111355986616322"
+      },
+      {
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847868745150119936",
+              "name": "Home & family",
+              "description": "Hobbies and interests"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "1046575724830720001",
+              "name": "Outdoor Activities",
+              "description": "Outdoor Activities"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "847901772374986752",
+              "name": "Hunting",
+              "description": "Hunting and shooting"
+            }
+          }
+        ],
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1361140539169542146"
+          }
+        ],
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "id": "1361141585308622849",
+        "in_reply_to_user_id": "707346268821913600",
+        "author_id": "1020670581803397121",
+        "text": "@Ningensei848 引退する人から譲ってもらうとかしたら色々教えて貰えるしいいかも おニューはガンロッカー含めてたかい  あと申請が通らない\n俺は狩猟免許とるために山を買い山芋を出荷したりしたけど普通にとるのは難しいって色々聞くけどね",
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "Ningensei848"
+            }
+          ]
+        },
+        "possibly_sensitive": false,
+        "created_at": "2021-02-15T02:33:37.000Z",
+        "conversation_id": "1361111355986616322"
+      },
+      {
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847546154439000064",
+              "name": "Education",
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform."
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "852247095461371904",
+              "name": "Graduate school",
+              "description": "Graduate school"
+            }
+          }
+        ],
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1361111355986616322"
+          }
+        ],
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "id": "1361138305094459395",
+        "entities": {
+          "annotations": [
+            {
+              "start": 15,
+              "end": 16,
+              "probability": 0.9572,
+              "type": "Place",
+              "normalized_text": "茨城"
+            },
+            {
+              "start": 27,
+              "end": 28,
+              "probability": 0.9864,
+              "type": "Place",
+              "normalized_text": "山梨"
+            }
+          ],
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "Ningensei848"
+            }
+          ]
+        },
+        "in_reply_to_user_id": "707346268821913600",
+        "author_id": "1020670581803397121",
+        "text": "@Ningensei848 今茨城は取れないと思うから山梨で取った方がいい\nあと大学院の名前を出すと病院通りやすいよどういう仕事してるかとか",
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "possibly_sensitive": false,
+        "created_at": "2021-02-15T02:20:35.000Z",
+        "conversation_id": "1361111355986616322"
+      },
+      {
+        "entities": {
+          "urls": [
+            {
+              "start": 126,
+              "end": 149,
+              "url": "https://t.co/UxzmmuZJqs",
+              "expanded_url": "http://www.data.jma.go.jp/svd/eqev/data/tsunami/ryoteki.html",
+              "display_url": "data.jma.go.jp/svd/eqev/data/…",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1360595995269029891/ASMglJWW?format=jpg&name=orig",
+                  "width": 1000,
+                  "height": 748
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1360595995269029891/ASMglJWW?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "気象庁｜津波を予測する仕組み",
+              "description": "気象庁が津波警報・注意報を発表するために行っている津波の予測のしくみの説明です。",
+              "unwound_url": "http://www.data.jma.go.jp/svd/eqev/data/tsunami/ryoteki.html"
+            },
+            {
+              "start": 150,
+              "end": 173,
+              "url": "https://t.co/vBrkaCrdui",
+              "expanded_url": "https://twitter.com/shearline/status/1360623682549293058/photo/1",
+              "display_url": "pic.twitter.com/vBrkaCrdui"
+            },
+            {
+              "start": 150,
+              "end": 173,
+              "url": "https://t.co/vBrkaCrdui",
+              "expanded_url": "https://twitter.com/shearline/status/1360623682549293058/photo/1",
+              "display_url": "pic.twitter.com/vBrkaCrdui"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 1247,
+          "reply_count": 0,
+          "like_count": 2175,
+          "quote_count": 61
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1360623677205716992",
+            "3_1360623680254926849"
+          ]
+        },
+        "id": "1360623682549293058",
+        "author_id": "129723098",
+        "text": "気象庁の津波情報が早い主な理由\n\n→ 地震計による観測を元に一から予測計算を行っても間に合わないため、あらかじめ様々な地震に対する計算結果のデータベースを用意し、震源の位置とマグニチュードを元に検索して津波情報を出しています。\n（詳細はリンク先参照）\nhttps://t.co/UxzmmuZJqs https://t.co/vBrkaCrdui",
+        "reply_settings": "everyone",
+        "source": "Twitter for Android",
+        "possibly_sensitive": false,
+        "created_at": "2021-02-13T16:15:39.000Z",
+        "conversation_id": "1360623682549293058"
+      },
+      {
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "848920371311001600",
+              "name": "Technology",
+              "description": "Technology and computing"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "848959158082617344",
+              "name": "Enterprise software",
+              "description": "Enterprise software"
+            }
+          }
+        ],
+        "entities": {
+          "urls": [
+            {
+              "start": 90,
+              "end": 113,
+              "url": "https://t.co/ax05gINkQF",
+              "expanded_url": "https://forest.watch.impress.co.jp/docs/news/1306104.html",
+              "display_url": "forest.watch.impress.co.jp/docs/news/1306…",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1360125653295587331/tdvnqkAw?format=jpg&name=orig",
+                  "width": 1142,
+                  "height": 720
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1360125653295587331/tdvnqkAw?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "WebブラウザーでPDFを手軽に編集 ～Adobeが無償オンラインツールの提供を開始／「.new」ドメインのURLでも利用が可能",
+              "description": "　米Adobeは2月10日（現地時間）、Webブラウザー上でPDFを操作できるツール「Acrobat web」の提供を開始した。PDFドキュメントを扱う機会が少なく、専用アプリを購入するほどではない個人ユーザーなどに適している。",
+              "unwound_url": "https://forest.watch.impress.co.jp/docs/news/1306104.html"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 61,
+              "end": 65,
+              "probability": 0.4289,
+              "type": "Product",
+              "normalized_text": "Adobe"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 13416,
+          "reply_count": 13,
+          "like_count": 26855,
+          "quote_count": 268
+        },
+        "id": "1360860957614899200",
+        "author_id": "5456332",
+        "text": "おおおお\n印刷して記入してPDFにしてという謎の非生産的な作業がいらなくなる涙\n\nWebブラウザーでPDFを手軽に編集 ～Adobeが無償オンラインツールの提供を開始 - 窓の杜 https://t.co/ax05gINkQF",
+        "reply_settings": "everyone",
+        "source": "Twitter for iPhone",
+        "possibly_sensitive": false,
+        "created_at": "2021-02-14T07:58:30.000Z",
+        "conversation_id": "1360860957614899200"
+      }
+    ],
+    "media": [
+      {
+        "height": 948,
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EuOopqNVoAQgJcx.jpg",
+        "media_key": "3_1361116946054356996",
+        "width": 1542
+      }
+    ]
+  },
+  "errors": [
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_0_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_100_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_25_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_50_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "non_public_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'non_public_metrics.playback_75_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_0_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_100_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_25_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_50_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.playback_75_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "organic_metrics.view_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'organic_metrics.view_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_0_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_0_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_100_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_100_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_25_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_25_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_50_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_50_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.playback_75_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.playback_75_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    },
+    {
+      "resource_type": "media",
+      "field": "promoted_metrics.view_count",
+      "parameter": "attachments.media_keys",
+      "value": "7_1361185923535314946",
+      "title": "Field Authorization Error",
+      "section": "includes",
+      "detail": "Sorry, you are not authorized to access 'promoted_metrics.view_count' on the media with attachments.media_keys : [7_1361185923535314946].",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-field"
+    }
+  ],
+  "meta": {
+    "oldest_id": "1360979022881062916",
+    "newest_id": "1361299028776914946",
+    "result_count": 24
+  }
+}
