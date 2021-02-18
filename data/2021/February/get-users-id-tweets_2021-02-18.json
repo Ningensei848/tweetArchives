@@ -1,0 +1,908 @@
+{
+  "data": [
+    {
+      "text": "痛み、主観から分離したいね",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-18T12:35:03.000Z",
+      "conversation_id": "1362380103284482051",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362380103284482051",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone"
+    },
+    {
+      "text": "腹が痛いと何も出来なくなる、これは普遍的な真理",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-18T12:34:33.000Z",
+      "conversation_id": "1362379979334426624",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362379979334426624",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone"
+    },
+    {
+      "text": "今から作る気満々でマロタ",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-18T11:35:12.000Z",
+      "conversation_id": "1362365041400373250",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362365041400373250",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone"
+    },
+    {
+      "text": "RT @Nintendo: [プロジェクト採用]「『スプラトゥーン3』のレベルデザイナー」（京都勤務）の募集要項を掲載しました。\nhttps://t.co/P63UNkxPbY https://t.co/F038oKRf5l",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-18T11:34:58.000Z",
+      "conversation_id": "1362364983850373123",
+      "possibly_sensitive": false,
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "Nintendo"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 26,
+            "end": 33,
+            "probability": 0.425,
+            "type": "Other",
+            "normalized_text": "スプラトゥーン3"
+          }
+        ],
+        "urls": [
+          {
+            "start": 65,
+            "end": 88,
+            "url": "https://t.co/P63UNkxPbY",
+            "expanded_url": "https://www.nintendo.co.jp/jobs/project/kyoto_sec1.html?utm_source=twitter&utm_medium=social&utm_content=20210218&utm_campaign=jobs#spl3",
+            "display_url": "nintendo.co.jp/jobs/project/k…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1362330470894215172/ISk4C5h0?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1362330470894215172/ISk4C5h0?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "プロジェクト採用：募集要項 - 募集詳細｜採用情報｜任天堂",
+            "description": "任天堂株式会社のプロジェクト採用情報のページです。",
+            "unwound_url": "https://www.nintendo.co.jp/jobs/project/kyoto_sec1.html?utm_source=twitter&utm_medium=social&utm_content=20210218&utm_campaign=jobs#spl3"
+          },
+          {
+            "start": 89,
+            "end": 112,
+            "url": "https://t.co/F038oKRf5l",
+            "expanded_url": "https://twitter.com/Nintendo/status/1362330465026400256/photo/1",
+            "display_url": "pic.twitter.com/F038oKRf5l"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597310615553",
+            "name": "Entertainment"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597218340864",
+            "name": "Video Games"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026713294",
+            "name": "Nintendo"
+          }
+        },
+        {
+          "domain": {
+            "id": "71",
+            "name": "Video Game",
+            "description": "A video game like Overwatch"
+          },
+          "entity": {
+            "id": "854949050151452672",
+            "name": "Splatoon",
+            "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+          }
+        },
+        {
+          "domain": {
+            "id": "78",
+            "name": "Video Game Publisher",
+            "description": "A Video Game Publisher like 'Activision'"
+          },
+          "entity": {
+            "id": "10026713294",
+            "name": "Nintendo"
+          }
+        }
+      ],
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1362330465026400256"
+        }
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1362330455140421633"
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 8037,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362364983850373123",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone"
+    },
+    {
+      "text": "まだ明るいことに感動を覚えています、季節は巡るわね………",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-18T08:37:38.000Z",
+      "conversation_id": "1362320355931484162",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362320355931484162",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone"
+    },
+    {
+      "text": "すげ～しょうもないこだわりではあるんですけど、プロジェクトのルートに linter とかその他ドットファイルがぶわっと並んでいるの見づらくて許せない、どうにかしてディレクトリにまとめるハウツーないのかしら…………",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-18T07:07:37.000Z",
+      "conversation_id": "1362297704093638658",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362297704093638658",
+      "reply_settings": "everyone",
+      "source": "TweetDeck"
+    },
+    {
+      "text": "クソバカなのでグロビまで来てしまった(第一エリアの間違い)",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-18T04:41:53.000Z",
+      "conversation_id": "1362261027769917443",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362261027769917443",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone"
+    },
+    {
+      "text": "薄皮一枚あれば規制を免れるって奴、そろそろそれもダメ〜って言われて人類の性癖ぶっ壊れそう、ドロッセルおぜうさまとかグラドスの天下が来るのか……………コンパニオンキューブちゃんまで行くと滅び迎えてそう",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-18T04:02:23.000Z",
+      "conversation_id": "1362251087734919170",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362251087734919170",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone"
+    },
+    {
+      "text": "ラストオリジンだけが逆方向に突っ走っている",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-18T03:59:42.000Z",
+      "conversation_id": "1362250411160207360",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362250411160207360",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone"
+    },
+    {
+      "text": "RT @gomamg_cha: CERO「うーん…両方ともエッチすぎるな…、せや！ホムラの太ももは布で覆ったろ！ヒカリも胸は隠して黒タイツ履かせたろ！脇腹は別にええわ！！」\n有能 https://t.co/GULXTDwH8Q",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-18T03:56:58.000Z",
+      "conversation_id": "1362249725622149126",
+      "possibly_sensitive": false,
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "gomamg_cha"
+          }
+        ],
+        "urls": [
+          {
+            "start": 90,
+            "end": 113,
+            "url": "https://t.co/GULXTDwH8Q",
+            "expanded_url": "https://twitter.com/gomamg_cha/status/1362178965113241600/photo/1",
+            "display_url": "pic.twitter.com/GULXTDwH8Q"
+          },
+          {
+            "start": 90,
+            "end": 113,
+            "url": "https://t.co/GULXTDwH8Q",
+            "expanded_url": "https://twitter.com/gomamg_cha/status/1362178965113241600/photo/1",
+            "display_url": "pic.twitter.com/GULXTDwH8Q"
+          },
+          {
+            "start": 90,
+            "end": 113,
+            "url": "https://t.co/GULXTDwH8Q",
+            "expanded_url": "https://twitter.com/gomamg_cha/status/1362178965113241600/photo/1",
+            "display_url": "pic.twitter.com/GULXTDwH8Q"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1362178965113241600"
+        }
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1362178257542545408",
+          "3_1362178687815147524",
+          "3_1362178724137816066"
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 5239,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362249725622149126",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone"
+    },
+    {
+      "text": "我らが光",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-18T03:19:49.000Z",
+      "conversation_id": "1362240376938012677",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362240376938012677",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone"
+    },
+    {
+      "text": "RT @ytn_wa: スズランのプロファイルがかなり同僚だった https://t.co/s4ihRAXXtF",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-18T03:19:01.000Z",
+      "conversation_id": "1362240174512431108",
+      "possibly_sensitive": false,
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "ytn_wa"
+          }
+        ],
+        "urls": [
+          {
+            "start": 33,
+            "end": 56,
+            "url": "https://t.co/s4ihRAXXtF",
+            "expanded_url": "https://twitter.com/ytn_wa/status/1362006256265781248/photo/1",
+            "display_url": "pic.twitter.com/s4ihRAXXtF"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1362006256265781248"
+        }
+      ],
+      "attachments": {
+        "media_keys": [
+          "3_1362006247969460225"
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 405,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362240174512431108",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone"
+    },
+    {
+      "text": "もう正午，お昼寝しておやつ食べて一日が終わってしまう時間",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-18T02:51:54.000Z",
+      "conversation_id": "1362233349213851649",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362233349213851649",
+      "reply_settings": "everyone",
+      "source": "TweetDeck"
+    },
+    {
+      "text": "いやごむはちしか知らんけど",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-17T23:52:14.000Z",
+      "conversation_id": "1362188136793526275",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362188136793526275",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad"
+    },
+    {
+      "text": "ゼノブレ薄い本ここに来て厚くなり量も増える展開、アツい",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-17T23:52:03.000Z",
+      "conversation_id": "1362188089200832513",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362188089200832513",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad"
+    },
+    {
+      "text": "スプラを始めたい",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-17T23:49:13.000Z",
+      "conversation_id": "1362187375087030273",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "71",
+            "name": "Video Game",
+            "description": "A video game like Overwatch"
+          },
+          "entity": {
+            "id": "854949050151452672",
+            "name": "Splatoon",
+            "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362187375087030273",
+      "reply_settings": "everyone",
+      "attachments": {
+        "poll_ids": [
+          "1362187374252285952"
+        ]
+      },
+      "source": "Twitter for iPad"
+    },
+    {
+      "text": "スプラ！",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-17T22:50:50.000Z",
+      "conversation_id": "1362172684855959556",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "71",
+            "name": "Video Game",
+            "description": "A video game like Overwatch"
+          },
+          "entity": {
+            "id": "854949050151452672",
+            "name": "Splatoon",
+            "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362172684855959556",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "pinned_tweet_id": "1345020610875777024",
+        "id": "707346268821913600",
+        "name": "きあい🌓",
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "location": "山梨県→茨城県つくば市",
+        "username": "Ningensei848",
+        "url": "https://t.co/KBXT0N3eAa",
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 993,
+          "tweet_count": 58593,
+          "listed_count": 22
+        },
+        "verified": false
+      },
+      {
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/S1hwx8jNqf",
+                "expanded_url": "https://www.nintendo.co.jp/",
+                "display_url": "nintendo.co.jp"
+              }
+            ]
+          }
+        },
+        "pinned_tweet_id": "1362242913317523457",
+        "id": "307902310",
+        "name": "任天堂株式会社",
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/823439425593954305/j0L7_KyW_normal.jpg",
+        "created_at": "2011-05-30T14:00:05.000Z",
+        "description": "任天堂からのお知らせや、ホームページの更新情報をお伝えします。\r\nご質問・お問い合わせにはお答えしておりませんのでご容赦ください。",
+        "location": "京都市",
+        "username": "Nintendo",
+        "url": "https://t.co/S1hwx8jNqf",
+        "public_metrics": {
+          "followers_count": 1774373,
+          "following_count": 30,
+          "tweet_count": 9679,
+          "listed_count": 13433
+        },
+        "verified": true
+      },
+      {
+        "pinned_tweet_id": "1080113698310508544",
+        "id": "878107417166307328",
+        "name": "ごまむぎちゃ",
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1105280866643664896/-e9cCgak_normal.jpg",
+        "created_at": "2017-06-23T04:28:17.000Z",
+        "description": "スマブラでリュカリオのリオやってました。\nlolとか流行りのゲーム色々漁ってます。\n猫のミー子と暮らしてます。",
+        "username": "gomamg_cha",
+        "url": "",
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 792,
+          "tweet_count": 11789,
+          "listed_count": 15
+        },
+        "verified": false
+      },
+      {
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/fYKUUmjUGa",
+                "expanded_url": "https://www.pixiv.net/users/18683051",
+                "display_url": "pixiv.net/users/18683051"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 10,
+                "end": 33,
+                "url": "https://t.co/Ca3XWDdfKb",
+                "expanded_url": "https://skeb.jp/@ytn_wa",
+                "display_url": "skeb.jp/@ytn_wa"
+              },
+              {
+                "start": 42,
+                "end": 65,
+                "url": "https://t.co/morAnnrqAg",
+                "expanded_url": "https://yute.fanbox.cc/",
+                "display_url": "yute.fanbox.cc"
+              }
+            ]
+          }
+        },
+        "pinned_tweet_id": "1360040029175779334",
+        "id": "1326341589610897408",
+        "name": "ユテノワ@skeb受付中",
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1362361569145802753/PxePerH-_normal.jpg",
+        "created_at": "2020-11-11T01:51:08.000Z",
+        "description": "ほぼ創作。skeb→https://t.co/Ca3XWDdfKb 🔞FANBOX→https://t.co/morAnnrqAg",
+        "username": "ytn_wa",
+        "url": "https://t.co/fYKUUmjUGa",
+        "public_metrics": {
+          "followers_count": 5310,
+          "following_count": 64,
+          "tweet_count": 41,
+          "listed_count": 55
+        },
+        "verified": false
+      }
+    ],
+    "media": [
+      {
+        "type": "photo",
+        "width": 1920,
+        "height": 1080,
+        "media_key": "3_1362330455140421633",
+        "url": "https://pbs.twimg.com/media/Euf4VL1XUAE2ule.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 679,
+        "height": 726,
+        "media_key": "3_1362178257542545408",
+        "url": "https://pbs.twimg.com/media/Eudt6HmVgAAtrmN.png"
+      },
+      {
+        "type": "photo",
+        "width": 481,
+        "height": 716,
+        "media_key": "3_1362178687815147524",
+        "url": "https://pbs.twimg.com/media/EuduTKfUYAQDag4.png"
+      },
+      {
+        "type": "photo",
+        "width": 680,
+        "height": 383,
+        "media_key": "3_1362178724137816066",
+        "url": "https://pbs.twimg.com/media/EuduVRzUUAIxXmZ.png"
+      },
+      {
+        "type": "photo",
+        "width": 2048,
+        "height": 1448,
+        "media_key": "3_1362006247969460225",
+        "url": "https://pbs.twimg.com/media/EubRd2AVEAESkRz.jpg"
+      }
+    ],
+    "tweets": [
+      {
+        "text": "[プロジェクト採用]「『スプラトゥーン3』のレベルデザイナー」（京都勤務）の募集要項を掲載しました。\nhttps://t.co/P63UNkxPbY https://t.co/F038oKRf5l",
+        "author_id": "307902310",
+        "created_at": "2021-02-18T09:17:48.000Z",
+        "conversation_id": "1362330465026400256",
+        "possibly_sensitive": false,
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "45",
+              "name": "Brand Vertical",
+              "description": "Top level entities that describe a Brands industry"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "id": "71",
+              "name": "Video Game",
+              "description": "A video game like Overwatch"
+            },
+            "entity": {
+              "id": "854949050151452672",
+              "name": "Splatoon",
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+            }
+          },
+          {
+            "domain": {
+              "id": "78",
+              "name": "Video Game Publisher",
+              "description": "A Video Game Publisher like 'Activision'"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          }
+        ],
+        "attachments": {
+          "media_keys": [
+            "3_1362330455140421633"
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 8037,
+          "reply_count": 102,
+          "like_count": 23013,
+          "quote_count": 1078
+        },
+        "entities": {
+          "annotations": [
+            {
+              "start": 12,
+              "end": 19,
+              "probability": 0.492,
+              "type": "Other",
+              "normalized_text": "スプラトゥーン3"
+            }
+          ],
+          "urls": [
+            {
+              "start": 51,
+              "end": 74,
+              "url": "https://t.co/P63UNkxPbY",
+              "expanded_url": "https://www.nintendo.co.jp/jobs/project/kyoto_sec1.html?utm_source=twitter&utm_medium=social&utm_content=20210218&utm_campaign=jobs#spl3",
+              "display_url": "nintendo.co.jp/jobs/project/k…",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1362330470894215172/ISk4C5h0?format=jpg&name=orig",
+                  "width": 1200,
+                  "height": 630
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1362330470894215172/ISk4C5h0?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "プロジェクト採用：募集要項 - 募集詳細｜採用情報｜任天堂",
+              "description": "任天堂株式会社のプロジェクト採用情報のページです。",
+              "unwound_url": "https://www.nintendo.co.jp/jobs/project/kyoto_sec1.html?utm_source=twitter&utm_medium=social&utm_content=20210218&utm_campaign=jobs#spl3"
+            },
+            {
+              "start": 75,
+              "end": 98,
+              "url": "https://t.co/F038oKRf5l",
+              "expanded_url": "https://twitter.com/Nintendo/status/1362330465026400256/photo/1",
+              "display_url": "pic.twitter.com/F038oKRf5l"
+            }
+          ]
+        },
+        "id": "1362330465026400256",
+        "reply_settings": "everyone",
+        "source": "Salesforce - Social Studio"
+      },
+      {
+        "text": "CERO「うーん…両方ともエッチすぎるな…、せや！ホムラの太ももは布で覆ったろ！ヒカリも胸は隠して黒タイツ履かせたろ！脇腹は別にええわ！！」\n有能 https://t.co/GULXTDwH8Q",
+        "author_id": "878107417166307328",
+        "created_at": "2021-02-17T23:15:48.000Z",
+        "conversation_id": "1362178965113241600",
+        "possibly_sensitive": false,
+        "attachments": {
+          "media_keys": [
+            "3_1362178257542545408",
+            "3_1362178687815147524",
+            "3_1362178724137816066"
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 5239,
+          "reply_count": 26,
+          "like_count": 11795,
+          "quote_count": 129
+        },
+        "id": "1362178965113241600",
+        "entities": {
+          "urls": [
+            {
+              "start": 74,
+              "end": 97,
+              "url": "https://t.co/GULXTDwH8Q",
+              "expanded_url": "https://twitter.com/gomamg_cha/status/1362178965113241600/photo/1",
+              "display_url": "pic.twitter.com/GULXTDwH8Q"
+            },
+            {
+              "start": 74,
+              "end": 97,
+              "url": "https://t.co/GULXTDwH8Q",
+              "expanded_url": "https://twitter.com/gomamg_cha/status/1362178965113241600/photo/1",
+              "display_url": "pic.twitter.com/GULXTDwH8Q"
+            },
+            {
+              "start": 74,
+              "end": 97,
+              "url": "https://t.co/GULXTDwH8Q",
+              "expanded_url": "https://twitter.com/gomamg_cha/status/1362178965113241600/photo/1",
+              "display_url": "pic.twitter.com/GULXTDwH8Q"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter Web App"
+      },
+      {
+        "text": "スズランのプロファイルがかなり同僚だった https://t.co/s4ihRAXXtF",
+        "author_id": "1326341589610897408",
+        "created_at": "2021-02-17T11:49:31.000Z",
+        "conversation_id": "1362006256265781248",
+        "possibly_sensitive": false,
+        "attachments": {
+          "media_keys": [
+            "3_1362006247969460225"
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 405,
+          "reply_count": 3,
+          "like_count": 859,
+          "quote_count": 6
+        },
+        "id": "1362006256265781248",
+        "entities": {
+          "urls": [
+            {
+              "start": 21,
+              "end": 44,
+              "url": "https://t.co/s4ihRAXXtF",
+              "expanded_url": "https://twitter.com/ytn_wa/status/1362006256265781248/photo/1",
+              "display_url": "pic.twitter.com/s4ihRAXXtF"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "source": "Twitter for iPad"
+      }
+    ],
+    "polls": [
+      {
+        "id": "1362187374252285952",
+        "voting_status": "open",
+        "options": [
+          {
+            "position": 1,
+            "label": "3からでいい",
+            "votes": 1
+          },
+          {
+            "position": 2,
+            "label": "2から慣れろ",
+            "votes": 0
+          },
+          {
+            "position": 3,
+            "label": "1からお布施",
+            "votes": 2
+          }
+        ],
+        "duration_minutes": 1440,
+        "end_datetime": "2021-02-18T23:49:12.000Z"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1362172684855959556",
+    "newest_id": "1362380103284482051",
+    "result_count": 17
+  }
+}
