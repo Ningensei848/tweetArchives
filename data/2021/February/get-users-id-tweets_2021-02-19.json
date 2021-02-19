@@ -1,0 +1,2953 @@
+{
+  "data": [
+    {
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362754814401122308",
+      "author_id": "707346268821913600",
+      "text": "南朝にfnmccaってやつが推挙されてるって聞いたけど、お前どう(これは内輪向けツイート)",
+      "created_at": "2021-02-19T13:24:01.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362754814401122308"
+    },
+    {
+      "source": "TweetDeck",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362748771969298440",
+      "author_id": "707346268821913600",
+      "text": "別に草を生やすことそれ自体は目的じゃなくて，毎日継続していけるような監視措置としてContributterが自分用にほしいだけなのだけれど，いい感じにAPIを使いたいのに，ドキュメントが読めない",
+      "created_at": "2021-02-19T13:00:00.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362748771969298440"
+    },
+    {
+      "source": "TweetDeck",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692468",
+            "name": "GitHub"
+          }
+        }
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 29,
+            "end": 52,
+            "url": "https://t.co/MMcxzjV1Ww",
+            "expanded_url": "https://github.com/bcanseco/github-contribution-graph-action",
+            "display_url": "github.com/bcanseco/githu…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1362748243411574787/JqoujSlp?format=png&name=orig",
+                "width": 1280,
+                "height": 640
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1362748243411574787/JqoujSlp?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "bcanseco/github-contribution-graph-action",
+            "description": "🙈 This GitHub action will automatically push empty commits to one of your repositories. - bcanseco/github-contribution-graph-action",
+            "unwound_url": "https://github.com/bcanseco/github-contribution-graph-action"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 14,
+            "end": 26,
+            "probability": 0.3439,
+            "type": "Product",
+            "normalized_text": "GitHub Action"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362748240005799943",
+      "author_id": "707346268821913600",
+      "text": "これはかなり Evil な GitHub Action \nhttps://t.co/MMcxzjV1Ww",
+      "created_at": "2021-02-19T12:57:53.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362748240005799943"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1362719768046805000"
+        }
+      ],
+      "source": "TweetDeck",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692468",
+            "name": "GitHub"
+          }
+        }
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 36,
+            "end": 59,
+            "url": "https://t.co/YtqFvK1rNa",
+            "expanded_url": "https://github.com/potato4d/contributter",
+            "display_url": "github.com/potato4d/contr…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1360621297831616524/8DdrFcLs?format=png&name=orig",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1360621297831616524/8DdrFcLs?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "potato4d/contributter",
+            "description": "Evergreen for you. Contribute to potato4d/contributter development by creating an account on GitHub.",
+            "unwound_url": "https://github.com/potato4d/contributter"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 0,
+            "end": 6,
+            "username": "egpl0"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 61,
+            "end": 73,
+            "probability": 0.5029,
+            "type": "Product",
+            "normalized_text": "Github Action"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362721118285492226",
+      "in_reply_to_user_id": "1001294928037621761",
+      "author_id": "707346268821913600",
+      "text": "@egpl0 オリジナルのこれ↓だと一箇所に依存してて辛かったわけで，\nhttps://t.co/YtqFvK1rNa\n\nGithub Action やら無料環境で個々人がコピペでポチポチやってればできる段取りになってればみんな嬉しいかもね\nありがたく参考にさせていただきます",
+      "created_at": "2021-02-19T11:10:07.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "conversation_id": "1362719062946578437"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1362719062946578437"
+        }
+      ],
+      "source": "TweetDeck",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362719345244213253",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 6,
+            "username": "egpl0"
+          }
+        ]
+      },
+      "in_reply_to_user_id": "1001294928037621761",
+      "author_id": "707346268821913600",
+      "text": "@egpl0 オ",
+      "created_at": "2021-02-19T11:03:04.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362719062946578437"
+    },
+    {
+      "source": "TweetDeck",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692468",
+            "name": "GitHub"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362679231289810944",
+      "entities": {
+        "annotations": [
+          {
+            "start": 28,
+            "end": 33,
+            "probability": 0.5725,
+            "type": "Product",
+            "normalized_text": "Github"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "text": "ｺﾝﾄﾘﾋﾞｭｯﾀｰがﾀﾋんでからというもの，めっきり Github を開くことがなくなってしまい駄目，自分専用のやつをつくります",
+      "created_at": "2021-02-19T08:23:40.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "conversation_id": "1362679231289810944"
+    },
+    {
+      "source": "TweetDeck",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362678867543003139",
+      "author_id": "707346268821913600",
+      "text": "カンバンシステム＋自分のボールをなくす努力，よさそうね",
+      "created_at": "2021-02-19T08:22:14.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "conversation_id": "1362678867543003139"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1362677494076252163"
+        }
+      ],
+      "source": "TweetDeck",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362678769517879296",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "kobaka7"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "text": "RT @kobaka7: 個人的なタスク管理、notionの看板でボール（やりとり）単位で書き出して\n・自分ボール\n・相手ボール\nでわけると管理しやすい💡マルチタスクで関わる人が多い人におすすめかも。タグで「今日中」とか表示させていて、とにかく自分ボールをなくすように頑張る感じ…",
+      "created_at": "2021-02-19T08:21:50.000Z",
+      "public_metrics": {
+        "retweet_count": 18,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362678769517879296"
+    },
+    {
+      "source": "TweetDeck",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362674384050081798",
+      "author_id": "707346268821913600",
+      "text": "栄養と狂気が足りないし酒入れて踊るか",
+      "created_at": "2021-02-19T08:04:25.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362674384050081798"
+    },
+    {
+      "source": "TweetDeck",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362672635545485314",
+      "author_id": "707346268821913600",
+      "text": "手を付けることが大事",
+      "created_at": "2021-02-19T07:57:28.000Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "conversation_id": "1362672635545485314"
+    },
+    {
+      "source": "TweetDeck",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362672523356237826",
+      "author_id": "707346268821913600",
+      "text": "まず６割終わらせろ，やってるうちに８割終わらせたくなってくるし，８割終わると完成させたくなるので",
+      "created_at": "2021-02-19T07:57:01.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "conversation_id": "1362672523356237826"
+    },
+    {
+      "source": "TweetDeck",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362672340757176322",
+      "author_id": "707346268821913600",
+      "text": "心情的な予想所要時間は１０時間くらいになってる作業，放っておくと一日ごとに１時間ぐらいずつ伸びてくけど，実際に手を付け始めると１時間もしないうちに６割型終わり，完成までに実際には３時間かからないみたいなことが多い",
+      "created_at": "2021-02-19T07:56:17.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "conversation_id": "1362672340757176322"
+    },
+    {
+      "source": "TweetDeck",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "903303816698671104",
+            "name": "Wellness and health",
+            "description": "Wellness & Health"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362666702706671616",
+      "author_id": "707346268821913600",
+      "text": "健康に過ごせる余生，よっぽど医療に革命起きない限りあと２５年くらいしかねぇ",
+      "created_at": "2021-02-19T07:33:53.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362666702706671616"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1362661939826991107"
+        }
+      ],
+      "source": "TweetDeck",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362666422715904003",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "E_foon"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "text": "RT @E_foon: 絵や文章やその他の創作もそうだが、自分の下手さに耐えられなくて投げてしまうのはそうなんだけど、そのうち人生が有限であることが段々ヒリついてきて、やる人間は再び始めるようになりますよ",
+      "created_at": "2021-02-19T07:32:46.000Z",
+      "public_metrics": {
+        "retweet_count": 12,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362666422715904003"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1361842449946009603"
+        }
+      ],
+      "source": "TweetDeck",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026378521",
+            "name": "Google "
+          }
+        }
+      ],
+      "reply_settings": "following",
+      "possibly_sensitive": false,
+      "id": "1362654051213602822",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "clockmaker"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 16,
+            "end": 21,
+            "probability": 0.6643,
+            "type": "Organization",
+            "normalized_text": "Google"
+          },
+          {
+            "start": 40,
+            "end": 51,
+            "probability": 0.3893,
+            "type": "Product",
+            "normalized_text": "npx gts init"
+          },
+          {
+            "start": 62,
+            "end": 90,
+            "probability": 0.3582,
+            "type": "Product",
+            "normalized_text": "Google TypeScript Style Guide"
+          },
+          {
+            "start": 123,
+            "end": 133,
+            "probability": 0.3518,
+            "type": "Product",
+            "normalized_text": "npm scripts"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "text": "RT @clockmaker: Googleからツールも提供されています。\n\n「npx gts init」というコマンドで、Google TypeScript Style Guideに則ったeslintやprettierの設定ファイルが作成され、npm scriptsも追加され…",
+      "created_at": "2021-02-19T06:43:37.000Z",
+      "public_metrics": {
+        "retweet_count": 56,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362654051213602822"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1361816627927347200"
+        }
+      ],
+      "source": "TweetDeck",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026378521",
+            "name": "Google "
+          }
+        }
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 73,
+            "end": 96,
+            "url": "https://t.co/BvMkkd8rh9",
+            "expanded_url": "https://twitter.com/clockmaker/status/1361816627927347200/photo/1",
+            "display_url": "pic.twitter.com/BvMkkd8rh9"
+          },
+          {
+            "start": 73,
+            "end": 96,
+            "url": "https://t.co/BvMkkd8rh9",
+            "expanded_url": "https://twitter.com/clockmaker/status/1361816627927347200/photo/1",
+            "display_url": "pic.twitter.com/BvMkkd8rh9"
+          },
+          {
+            "start": 73,
+            "end": 96,
+            "url": "https://t.co/BvMkkd8rh9",
+            "expanded_url": "https://twitter.com/clockmaker/status/1361816627927347200/photo/1",
+            "display_url": "pic.twitter.com/BvMkkd8rh9"
+          },
+          {
+            "start": 73,
+            "end": 96,
+            "url": "https://t.co/BvMkkd8rh9",
+            "expanded_url": "https://twitter.com/clockmaker/status/1361816627927347200/photo/1",
+            "display_url": "pic.twitter.com/BvMkkd8rh9"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "clockmaker"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 16,
+            "end": 21,
+            "probability": 0.5728,
+            "type": "Organization",
+            "normalized_text": "Google"
+          },
+          {
+            "start": 24,
+            "end": 33,
+            "probability": 0.4473,
+            "type": "Product",
+            "normalized_text": "TypeScript"
+          }
+        ]
+      },
+      "reply_settings": "following",
+      "possibly_sensitive": false,
+      "attachments": {
+        "media_keys": [
+          "3_1361816541432406017",
+          "3_1361816541487009797",
+          "3_1361816541558239236",
+          "3_1361816541625425921"
+        ]
+      },
+      "id": "1362654018518966272",
+      "author_id": "707346268821913600",
+      "text": "RT @clockmaker: GoogleからTypeScriptのコード規約が公開されています。興味深かった規約をピックアップしてみました。 https://t.co/BvMkkd8rh9",
+      "created_at": "2021-02-19T06:43:29.000Z",
+      "public_metrics": {
+        "retweet_count": 544,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362654018518966272"
+    },
+    {
+      "source": "TweetDeck",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362651117801275399",
+      "author_id": "707346268821913600",
+      "text": "楽しくないと書きたくなくなるんだなぁ　みつを",
+      "created_at": "2021-02-19T06:31:57.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362651117801275399"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "85",
+            "name": "Book Genre",
+            "description": "A genre for books, like Fiction"
+          },
+          "entity": {
+            "id": "847521144173350912",
+            "name": "Comics",
+            "description": "Comics"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362618181722857474",
+      "author_id": "707346268821913600",
+      "text": "概念で社会を殴る、漫画でしか実現できないしやはり漫画をやることが必要",
+      "created_at": "2021-02-19T04:21:05.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362618181722857474"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1362611768577515522"
+        }
+      ],
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362617973588983814",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "sukideha_nai"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "text": "RT @sukideha_nai: S級人妻、ほんの数時間前はえっちなお店でパネルに書いてあるタイプのうたい文句だったのに今となっては未確認反社会人妻を指す言葉になってしまいましたからね。その時、歴史は動いた。",
+      "created_at": "2021-02-19T04:20:15.000Z",
+      "public_metrics": {
+        "retweet_count": 455,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362617973588983814"
+    },
+    {
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362610239405654016",
+      "author_id": "707346268821913600",
+      "text": "大卒資格",
+      "created_at": "2021-02-19T03:49:31.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362610239405654016"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1362607557450334209"
+        }
+      ],
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362610059541315585",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "U4Gv2h"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 43,
+            "end": 46,
+            "probability": 0.9158,
+            "type": "Person",
+            "normalized_text": "山口先生"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "text": "RT @U4Gv2h: 無断引用というのは引用参考文献の出所を明らかにしないことです。山口先生は余命本から引用もしくは参考にしているのではないかと探っているのでしょう。余命本は学術論文に不適切な一般書ですから。",
+      "created_at": "2021-02-19T03:48:48.000Z",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362610059541315585"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362599664852242434",
+      "author_id": "707346268821913600",
+      "text": "ガッツガツ！(トリコ)",
+      "created_at": "2021-02-19T03:07:30.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362599664852242434"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1362591951405469700"
+        }
+      ],
+      "source": "Twitter for iPhone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "85",
+            "name": "Book Genre",
+            "description": "A genre for books, like Fiction"
+          },
+          "entity": {
+            "id": "847521144173350912",
+            "name": "Comics",
+            "description": "Comics"
+          }
+        }
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 47,
+            "end": 70,
+            "url": "https://t.co/xsQOVszNt7",
+            "expanded_url": "https://twitter.com/kusa_taroh/status/1362591951405469700/photo/1",
+            "display_url": "pic.twitter.com/xsQOVszNt7"
+          },
+          {
+            "start": 47,
+            "end": 70,
+            "url": "https://t.co/xsQOVszNt7",
+            "expanded_url": "https://twitter.com/kusa_taroh/status/1362591951405469700/photo/1",
+            "display_url": "pic.twitter.com/xsQOVszNt7"
+          },
+          {
+            "start": 47,
+            "end": 70,
+            "url": "https://t.co/xsQOVszNt7",
+            "expanded_url": "https://twitter.com/kusa_taroh/status/1362591951405469700/photo/1",
+            "display_url": "pic.twitter.com/xsQOVszNt7"
+          },
+          {
+            "start": 47,
+            "end": 70,
+            "url": "https://t.co/xsQOVszNt7",
+            "expanded_url": "https://twitter.com/kusa_taroh/status/1362591951405469700/photo/1",
+            "display_url": "pic.twitter.com/xsQOVszNt7"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "kusa_taroh"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "attachments": {
+        "media_keys": [
+          "3_1362591945994854400",
+          "3_1362591945994825735",
+          "3_1362591946003283973",
+          "3_1362591946003206148"
+        ]
+      },
+      "id": "1362599502109048832",
+      "author_id": "707346268821913600",
+      "text": "RT @kusa_taroh: 人妻危険度ランクだの未確認反社会人妻だの文脈が完全に少年漫画 https://t.co/xsQOVszNt7",
+      "created_at": "2021-02-19T03:06:51.000Z",
+      "public_metrics": {
+        "retweet_count": 360,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362599502109048832"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362596619443601408",
+      "author_id": "707346268821913600",
+      "text": "LUBED",
+      "created_at": "2021-02-19T02:55:24.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362596619443601408"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1362586920094588928"
+        }
+      ],
+      "source": "Twitter for iPhone",
+      "entities": {
+        "urls": [
+          {
+            "start": 61,
+            "end": 84,
+            "url": "https://t.co/O23VXEBWc6",
+            "expanded_url": "https://seiga.nicovideo.jp/comic/46238",
+            "display_url": "seiga.nicovideo.jp/comic/46238",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1360240578835869699/W9aNtZnu?format=jpg&name=orig",
+                "width": 160,
+                "height": 160
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1360240578835869699/W9aNtZnu?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "淫獄団地 / 原作:搾精研究所 漫画:丈山雄為",
+            "description": "最新話:3話 2021/02/05更新。再生（累計）: 1810429。 全話無料。 「搾精病棟」シリーズの著者による超過激人妻サスペンス！！（全年齢向けです。） 変態人妻の脅威から団地の平和を守れ、新米管理人ヨシダ―――！ ※…",
+            "unwound_url": "https://seiga.nicovideo.jp/comic/46238"
+          },
+          {
+            "start": 85,
+            "end": 108,
+            "url": "https://t.co/SISb2qygO6",
+            "expanded_url": "https://twitter.com/porosuke/status/1362586920094588928/photo/1",
+            "display_url": "pic.twitter.com/SISb2qygO6"
+          },
+          {
+            "start": 85,
+            "end": 108,
+            "url": "https://t.co/SISb2qygO6",
+            "expanded_url": "https://twitter.com/porosuke/status/1362586920094588928/photo/1",
+            "display_url": "pic.twitter.com/SISb2qygO6"
+          },
+          {
+            "start": 85,
+            "end": 108,
+            "url": "https://t.co/SISb2qygO6",
+            "expanded_url": "https://twitter.com/porosuke/status/1362586920094588928/photo/1",
+            "display_url": "pic.twitter.com/SISb2qygO6"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "porosuke"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 15,
+            "end": 18,
+            "probability": 0.5772,
+            "type": "Other",
+            "normalized_text": "淫獄団地"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 55,
+            "end": 60,
+            "tag": "淫獄団地"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "attachments": {
+        "media_keys": [
+          "3_1362586847709327360",
+          "3_1362586863723110410",
+          "3_1362586882677174272"
+        ]
+      },
+      "id": "1362596199140757507",
+      "author_id": "707346268821913600",
+      "text": "RT @porosuke: 『淫獄団地』第3話：粘液魔（前編）が公開されました。\nどうぞ宜しくお願いします！ #淫獄団地\nhttps://t.co/O23VXEBWc6 https://t.co/SISb2qygO6",
+      "created_at": "2021-02-19T02:53:44.000Z",
+      "public_metrics": {
+        "retweet_count": 2723,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362596199140757507"
+    },
+    {
+      "source": "TweetDeck",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362580349746704386",
+      "author_id": "707346268821913600",
+      "text": "ちゃおっす！（混沌）",
+      "created_at": "2021-02-19T01:50:45.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362580349746704386"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362555737407299585",
+      "author_id": "707346268821913600",
+      "text": "ある日突然火星の探査機11台が同時に通信途絶する展開、見たくないかと言えば嘘になるな",
+      "created_at": "2021-02-19T00:12:57.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362555737407299585"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362544087392428033",
+      "author_id": "707346268821913600",
+      "text": "オ",
+      "created_at": "2021-02-18T23:26:39.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362544087392428033"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1362537555187683328"
+        }
+      ],
+      "source": "Twitter for iPhone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848921413196984320",
+            "name": "Computer programming",
+            "description": "Computer programming"
+          }
+        },
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597226799105",
+            "name": "B2B"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597172203520",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10040692468",
+            "name": "GitHub"
+          }
+        }
+      ],
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362544075447046147",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "github"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 12,
+            "end": 17,
+            "probability": 0.4313,
+            "type": "Organization",
+            "normalized_text": "GitHub"
+          },
+          {
+            "start": 43,
+            "end": 48,
+            "probability": 0.5618,
+            "type": "Product",
+            "normalized_text": "GitHub"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "text": "RT @github: GitHub for mobile now supports GitHub Discussions! Browse, reply to, and even create new discussions, right from your mobile de…",
+      "created_at": "2021-02-18T23:26:37.000Z",
+      "public_metrics": {
+        "retweet_count": 54,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362544075447046147"
+    },
+    {
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362530354842673153",
+      "author_id": "707346268821913600",
+      "text": "ウ(服毒自殺)",
+      "created_at": "2021-02-18T22:32:05.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362530354842673153"
+    },
+    {
+      "source": "Twitter for iPad",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362530313386164228",
+      "author_id": "707346268821913600",
+      "text": "Vtuber に精進で負けている皆さん",
+      "created_at": "2021-02-18T22:31:55.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362530313386164228"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1362287071038107651"
+        }
+      ],
+      "source": "Twitter for iPad",
+      "entities": {
+        "urls": [
+          {
+            "start": 84,
+            "end": 107,
+            "url": "https://t.co/FNmIEcDoLZ",
+            "expanded_url": "https://twitter.com/todoki_uka/status/1362287071038107651/photo/1",
+            "display_url": "pic.twitter.com/FNmIEcDoLZ"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "todoki_uka"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "attachments": {
+        "media_keys": [
+          "3_1362286302033444864"
+        ]
+      },
+      "id": "1362530215784714241",
+      "author_id": "707346268821913600",
+      "text": "RT @todoki_uka: やったああああああ！！\nAtCoder C++入門 第一章クリアできたーーー！！\n\nコード書くのたのしい！　もっと勉強したいーー！！✨ https://t.co/FNmIEcDoLZ",
+      "created_at": "2021-02-18T22:31:32.000Z",
+      "public_metrics": {
+        "retweet_count": 235,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362530215784714241"
+    },
+    {
+      "source": "Twitter Web App",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "id": "1362519691781042177",
+      "author_id": "707346268821913600",
+      "text": "火星ローバー到着マジ？世紀の瞬間じゃん",
+      "created_at": "2021-02-18T21:49:43.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362519691781042177"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1362507436611956736"
+        }
+      ],
+      "source": "Twitter Web App",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "872801340224806912",
+            "name": "Aerospace",
+            "description": "Aerospace"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "872802352448667648",
+            "name": "NASA",
+            "description": "NASA"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "854692455005921281",
+            "name": "Science",
+            "description": "Science"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "847899255880564736",
+            "name": "Space",
+            "description": "Space and astronomy"
+          }
+        }
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 84,
+            "end": 107,
+            "url": "https://t.co/dkM9jE9I6X",
+            "expanded_url": "https://twitter.com/NASAPersevere/status/1362507436611956736/photo/1",
+            "display_url": "pic.twitter.com/dkM9jE9I6X"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 17,
+            "username": "NASAPersevere"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 67,
+            "end": 83,
+            "tag": "CountdownToMars"
+          }
+        ]
+      },
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "attachments": {
+        "media_keys": [
+          "3_1362507419318775811"
+        ]
+      },
+      "id": "1362519599556694016",
+      "author_id": "707346268821913600",
+      "text": "RT @NASAPersevere: Hello, world. My first look at my forever home. #CountdownToMars https://t.co/dkM9jE9I6X",
+      "created_at": "2021-02-18T21:49:21.000Z",
+      "public_metrics": {
+        "retweet_count": 215558,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1362519599556694016"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "name": "きあい🌓",
+        "protected": false,
+        "username": "Ningensei848",
+        "pinned_tweet_id": "1345020610875777024",
+        "url": "https://t.co/KBXT0N3eAa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "id": "707346268821913600",
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 993,
+          "tweet_count": 58627,
+          "listed_count": 22
+        },
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "verified": false,
+        "location": "山梨県→茨城県つくば市",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "明日: ☀/☀/☀/☀/☀/☀/☀/☀",
+        "protected": false,
+        "username": "egpl0",
+        "pinned_tweet_id": "1357578331202281472",
+        "url": "https://t.co/aE1G8uXstS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1335546351803756546/_1yeXu_m_normal.jpg",
+        "description": "",
+        "id": "1001294928037621761",
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 484,
+          "tweet_count": 4499,
+          "listed_count": 0
+        },
+        "created_at": "2018-05-29T02:51:28.000Z",
+        "verified": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/aE1G8uXstS",
+                "expanded_url": "https://github.com/eggplants",
+                "display_url": "github.com/eggplants"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "こばかな / THE COACH",
+        "protected": false,
+        "username": "kobaka7",
+        "pinned_tweet_id": "1323143022565974017",
+        "url": "https://t.co/BWxQUy6cHm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/956867108020744193/wbXnVRKn_normal.jpg",
+        "description": "@thecoachjp 代表。元々デザイナー。コーチングの実績は400人以上です。国際コーチ連盟(ICF/ACC)認定コーチ（現在個人ではコーチングの募集停止してます🙇弊社サービスをご利用ください）ex.多摩グラ,DeNA,THE GUILD\n図解：#kobaka7_sketch",
+        "id": "3052230560",
+        "public_metrics": {
+          "followers_count": 46417,
+          "following_count": 364,
+          "tweet_count": 5864,
+          "listed_count": 667
+        },
+        "created_at": "2015-03-01T10:40:41.000Z",
+        "verified": false,
+        "location": "THE COACH Academy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/BWxQUy6cHm",
+                "expanded_url": "https://thecoach.jp",
+                "display_url": "thecoach.jp"
+              }
+            ]
+          },
+          "description": {
+            "hashtags": [
+              {
+                "start": 125,
+                "end": 140,
+                "tag": "kobaka7_sketch"
+              }
+            ],
+            "mentions": [
+              {
+                "start": 0,
+                "end": 11,
+                "username": "thecoachjp"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "かにパルサー",
+        "protected": false,
+        "username": "E_foon",
+        "pinned_tweet_id": "1341987546834763777",
+        "url": "https://t.co/qF4V1UxYI0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/752491090255618048/hO6mP0Pg_normal.jpg",
+        "description": "ぬーん／柊正午",
+        "id": "305657880",
+        "public_metrics": {
+          "followers_count": 4088,
+          "following_count": 1886,
+          "tweet_count": 106896,
+          "listed_count": 102
+        },
+        "created_at": "2011-05-26T15:48:02.000Z",
+        "verified": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/qF4V1UxYI0",
+                "expanded_url": "http://hiragi-noon.hatenablog.com/",
+                "display_url": "hiragi-noon.hatenablog.com"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "池田 泰延 / IKEDA Yasunobu",
+        "protected": false,
+        "username": "clockmaker",
+        "pinned_tweet_id": "1215935446225575936",
+        "url": "https://t.co/qdsEyFlrcT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/807572328842334208/yKjouEr4_normal.jpg",
+        "description": "株式会社ICS代表、筑波大学非常勤講師。UIデザインとフロントエンド開発が主な仕事。得意分野は3D表現とクリエイティブコーディング。趣味で夜景写真、空路撮影、8Kタイムラプス映像を投稿しています。",
+        "id": "3761581",
+        "public_metrics": {
+          "followers_count": 17314,
+          "following_count": 994,
+          "tweet_count": 28108,
+          "listed_count": 646
+        },
+        "created_at": "2007-04-08T05:01:31.000Z",
+        "verified": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/qdsEyFlrcT",
+                "expanded_url": "http://clockmaker.jp/labs/",
+                "display_url": "clockmaker.jp/labs/"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "はちみつ",
+        "protected": false,
+        "username": "sukideha_nai",
+        "pinned_tweet_id": "1360561200912760834",
+        "url": "https://t.co/UqRiliY2he",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1314413454170628096/Dfj58H7__normal.png",
+        "description": "Nagareにて「バビロニア礼装を許さない」などのFGO記事を書いてます。 お題箱→https://t.co/dO5tEr6P77 お仕事（webライター）のご相談はDMまで",
+        "id": "3277789699",
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 292,
+          "tweet_count": 97236,
+          "listed_count": 68
+        },
+        "created_at": "2015-07-12T18:42:54.000Z",
+        "verified": false,
+        "location": "四夜の終末VSカルデアにガラスの欠片はないVSカレンプロフ6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/UqRiliY2he",
+                "expanded_url": "https://yutasan.co/writers/hachimitsu_fgo/",
+                "display_url": "yutasan.co/writers/hachim…"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 42,
+                "end": 65,
+                "url": "https://t.co/dO5tEr6P77",
+                "expanded_url": "http://odaibako.net/u/sukideha_nai",
+                "display_url": "odaibako.net/u/sukideha_nai"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "法蓮草",
+        "protected": false,
+        "username": "U4Gv2h",
+        "url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/944782574768889857/QwR8e9pw_normal.jpg",
+        "description": "ビニールハウスでトマトを育てる家庭菜園の方、そのままだと蝶や蜂がトマトの花に寄ってこれないので、受粉しませんよ。ご自分で受粉させないと、実はなりません。",
+        "id": "926621109771952130",
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 57,
+          "tweet_count": 2402,
+          "listed_count": 3
+        },
+        "created_at": "2017-11-04T01:24:23.000Z",
+        "verified": false,
+        "location": "千葉 ながいき村"
+      },
+      {
+        "name": "草々太郎",
+        "protected": false,
+        "username": "kusa_taroh",
+        "url": "https://t.co/oI1S8da6Ha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1245340259329511430/kksqEqT4_normal.jpg",
+        "description": "人間は敵だと思っている よってフォロバはしない これを答弁とする",
+        "id": "1240123867147964421",
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 46,
+          "tweet_count": 7548,
+          "listed_count": 0
+        },
+        "created_at": "2020-03-18T03:52:44.000Z",
+        "verified": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/oI1S8da6Ha",
+                "expanded_url": "https://www.pixiv.net/users/6768191",
+                "display_url": "pixiv.net/users/6768191"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "ぽろすけ / 丈山（淫獄連載）",
+        "protected": false,
+        "username": "porosuke",
+        "pinned_tweet_id": "1362586920094588928",
+        "url": "https://t.co/qUM4IHSTZS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/705707325118525440/xj4SbNH8_normal.jpg",
+        "description": "PN：丈山雄為（じょうやま ゆい）\n『淫獄団地』連載中（原作：搾精研究所先生）\n\n『リビドーハンタータケル』全4巻\n『ヤミアバキクラウミコ』全2巻\n『解体ザナフ』四季賞2012秋\n●ギルティギア大好き●東方も好き●鈴原るる…すこ…🥰\n・マシュマロ https://t.co/t5R4j0DWoR",
+        "id": "16819444",
+        "public_metrics": {
+          "followers_count": 25652,
+          "following_count": 2154,
+          "tweet_count": 31709,
+          "listed_count": 320
+        },
+        "created_at": "2008-10-17T03:20:13.000Z",
+        "verified": false,
+        "location": "東京都　宮崎県民",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/qUM4IHSTZS",
+                "expanded_url": "https://www.pixiv.net/member.php?id=109402",
+                "display_url": "pixiv.net/member.php?id=…"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 124,
+                "end": 147,
+                "url": "https://t.co/t5R4j0DWoR",
+                "expanded_url": "http://marshmallow-qa.com/porosuke",
+                "display_url": "marshmallow-qa.com/porosuke"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "GitHub",
+        "protected": false,
+        "username": "github",
+        "pinned_tweet_id": "1338529818468552710",
+        "url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1338344493234286592/C_ujKIUa_normal.png",
+        "description": "How people build software. \n\nNeed help? Send us a message at https://t.co/YU5nzbpDIg for support.",
+        "id": "13334762",
+        "public_metrics": {
+          "followers_count": 2026869,
+          "following_count": 314,
+          "tweet_count": 5902,
+          "listed_count": 15839
+        },
+        "created_at": "2008-02-11T04:41:50.000Z",
+        "verified": true,
+        "location": "San Francisco, CA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "start": 61,
+                "end": 84,
+                "url": "https://t.co/YU5nzbpDIg",
+                "expanded_url": "http://git.io/c",
+                "display_url": "git.io/c"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "届木ウカ（羽華）🌹Uka Todoki",
+        "protected": false,
+        "username": "todoki_uka",
+        "pinned_tweet_id": "1346380919775481856",
+        "url": "https://t.co/qWj26pnibx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345742844506435584/LuiFrOlH_normal.jpg",
+        "description": "小説家。歌手。3D＆Live2Dモデラー。VTuber。個人。｜小説デビュー作「貴女が私を人間にしてくれた」SFマガジン掲載｜｢君は食肉じゃない｣発売｜VR映画祭BTFF公式ナビゲーター｜プロフ→https://t.co/UoIUqPOuei｜✉️お仕事依頼→https://t.co/vRmOBfHcZr",
+        "id": "948184780348067841",
+        "public_metrics": {
+          "followers_count": 36368,
+          "following_count": 1635,
+          "tweet_count": 11224,
+          "listed_count": 1122
+        },
+        "created_at": "2018-01-02T13:30:42.000Z",
+        "verified": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/qWj26pnibx",
+                "expanded_url": "https://www.youtube.com/channel/UCk0dNVAdlgn4ynURwAq_z2A",
+                "display_url": "youtube.com/channel/UCk0dN…"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 98,
+                "end": 121,
+                "url": "https://t.co/UoIUqPOuei",
+                "expanded_url": "http://twpf.jp/todoki_uka",
+                "display_url": "twpf.jp/todoki_uka"
+              },
+              {
+                "start": 130,
+                "end": 153,
+                "url": "https://t.co/vRmOBfHcZr",
+                "expanded_url": "http://todokiuka.tumblr.com",
+                "display_url": "todokiuka.tumblr.com"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "NASA's Perseverance Mars Rover",
+        "protected": false,
+        "username": "NASAPersevere",
+        "url": "https://t.co/GpTOmL7zGl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1235636280165203974/6YjG6kTC_normal.jpg",
+        "description": "NASA Mars rover. Launch: July 30, 2020. Landing: Feb. 18, 2021. Hobbies: Photography, collecting rocks, off-roading. 🚀 Team HQ @NASAJPL",
+        "id": "1232783237623119872",
+        "public_metrics": {
+          "followers_count": 1623986,
+          "following_count": 42,
+          "tweet_count": 435,
+          "listed_count": 4330
+        },
+        "created_at": "2020-02-26T21:43:46.000Z",
+        "verified": true,
+        "location": "Space",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/GpTOmL7zGl",
+                "expanded_url": "https://mars.nasa.gov/mars2020",
+                "display_url": "mars.nasa.gov/mars2020"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 127,
+                "end": 135,
+                "username": "NASAJPL"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "tweets": [
+      {
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1362719345244213253"
+          }
+        ],
+        "source": "Twitter Web App",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "848920371311001600",
+              "name": "Technology",
+              "description": "Technology and computing"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "848921413196984320",
+              "name": "Computer programming",
+              "description": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "824777229892661248",
+              "name": "Generic Food",
+              "description": "Generic Food"
+            }
+          },
+          {
+            "domain": {
+              "id": "67",
+              "name": "Interests and Hobbies",
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+            },
+            "entity": {
+              "id": "842797798626009088",
+              "name": "Vegetables",
+              "description": "Vegetables"
+            }
+          }
+        ],
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "id": "1362719768046805000",
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "Ningensei848"
+            }
+          ]
+        },
+        "in_reply_to_user_id": "707346268821913600",
+        "author_id": "1001294928037621761",
+        "text": "@Ningensei848 めちゃくちゃ雑なんですけど、\ntwurl -X POST -d \"status=$(contributter eggplants)\" /1.1/statuses/update.json\nとかをcronに書くとかで解決できそうです",
+        "created_at": "2021-02-19T11:04:45.000Z",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "conversation_id": "1362719062946578437"
+      },
+      {
+        "source": "Twitter Web App",
+        "entities": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/IYENf6flcv",
+              "expanded_url": "https://github.com/eggplants/contributter.sh",
+              "display_url": "github.com/eggplants/cont…"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "id": "1362719062946578437",
+        "author_id": "1001294928037621761",
+        "text": "https://t.co/IYENf6flcv",
+        "created_at": "2021-02-19T11:01:57.000Z",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 1,
+          "quote_count": 0
+        },
+        "conversation_id": "1362719062946578437"
+      },
+      {
+        "source": "Twitter Web App",
+        "entities": {
+          "urls": [
+            {
+              "start": 128,
+              "end": 151,
+              "url": "https://t.co/dlWCZqB1qj",
+              "expanded_url": "https://twitter.com/kobaka7/status/1362677494076252163/photo/1",
+              "display_url": "pic.twitter.com/dlWCZqB1qj"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "attachments": {
+          "media_keys": [
+            "3_1362675253051158529"
+          ]
+        },
+        "id": "1362677494076252163",
+        "author_id": "3052230560",
+        "text": "個人的なタスク管理、notionの看板でボール（やりとり）単位で書き出して\n・自分ボール\n・相手ボール\nでわけると管理しやすい💡マルチタスクで関わる人が多い人におすすめかも。タグで「今日中」とか表示させていて、とにかく自分ボールをなくすように頑張る感じ。 https://t.co/dlWCZqB1qj",
+        "created_at": "2021-02-19T08:16:46.000Z",
+        "public_metrics": {
+          "retweet_count": 18,
+          "reply_count": 0,
+          "like_count": 200,
+          "quote_count": 3
+        },
+        "conversation_id": "1362677494076252163"
+      },
+      {
+        "source": "Twitter Web App",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "id": "1362661939826991107",
+        "author_id": "305657880",
+        "text": "絵や文章やその他の創作もそうだが、自分の下手さに耐えられなくて投げてしまうのはそうなんだけど、そのうち人生が有限であることが段々ヒリついてきて、やる人間は再び始めるようになりますよ",
+        "created_at": "2021-02-19T07:14:58.000Z",
+        "public_metrics": {
+          "retweet_count": 12,
+          "reply_count": 0,
+          "like_count": 63,
+          "quote_count": 0
+        },
+        "conversation_id": "1362661939826991107"
+      },
+      {
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1361817525269368833"
+          }
+        ],
+        "source": "Twitter Web App",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "848920371311001600",
+              "name": "Technology",
+              "description": "Technology and computing"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "848921413196984320",
+              "name": "Computer programming",
+              "description": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "entities": {
+          "urls": [
+            {
+              "start": 127,
+              "end": 150,
+              "url": "https://t.co/xoG2U1eooV",
+              "expanded_url": "https://github.com/google/gts",
+              "display_url": "github.com/google/gts"
+            },
+            {
+              "start": 151,
+              "end": 174,
+              "url": "https://t.co/C4zNI67MUr",
+              "expanded_url": "https://twitter.com/clockmaker/status/1361842449946009603/photo/1",
+              "display_url": "pic.twitter.com/C4zNI67MUr"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 0,
+              "end": 5,
+              "probability": 0.7104,
+              "type": "Organization",
+              "normalized_text": "Google"
+            },
+            {
+              "start": 24,
+              "end": 35,
+              "probability": 0.3839,
+              "type": "Product",
+              "normalized_text": "npx gts init"
+            },
+            {
+              "start": 46,
+              "end": 74,
+              "probability": 0.3495,
+              "type": "Product",
+              "normalized_text": "Google TypeScript Style Guide"
+            },
+            {
+              "start": 107,
+              "end": 117,
+              "probability": 0.3433,
+              "type": "Product",
+              "normalized_text": "npm scripts"
+            }
+          ]
+        },
+        "reply_settings": "following",
+        "possibly_sensitive": false,
+        "attachments": {
+          "media_keys": [
+            "3_1361841105633873925"
+          ]
+        },
+        "id": "1361842449946009603",
+        "in_reply_to_user_id": "3761581",
+        "author_id": "3761581",
+        "text": "Googleからツールも提供されています。\n\n「npx gts init」というコマンドで、Google TypeScript Style Guideに則ったeslintやprettierの設定ファイルが作成され、npm scriptsも追加されます。\nhttps://t.co/xoG2U1eooV https://t.co/C4zNI67MUr",
+        "created_at": "2021-02-17T00:58:36.000Z",
+        "public_metrics": {
+          "retweet_count": 56,
+          "reply_count": 0,
+          "like_count": 180,
+          "quote_count": 7
+        },
+        "conversation_id": "1361816627927347200"
+      },
+      {
+        "source": "Twitter Web App",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "848920371311001600",
+              "name": "Technology",
+              "description": "Technology and computing"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "848921413196984320",
+              "name": "Computer programming",
+              "description": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "entities": {
+          "urls": [
+            {
+              "start": 57,
+              "end": 80,
+              "url": "https://t.co/BvMkkd8rh9",
+              "expanded_url": "https://twitter.com/clockmaker/status/1361816627927347200/photo/1",
+              "display_url": "pic.twitter.com/BvMkkd8rh9"
+            },
+            {
+              "start": 57,
+              "end": 80,
+              "url": "https://t.co/BvMkkd8rh9",
+              "expanded_url": "https://twitter.com/clockmaker/status/1361816627927347200/photo/1",
+              "display_url": "pic.twitter.com/BvMkkd8rh9"
+            },
+            {
+              "start": 57,
+              "end": 80,
+              "url": "https://t.co/BvMkkd8rh9",
+              "expanded_url": "https://twitter.com/clockmaker/status/1361816627927347200/photo/1",
+              "display_url": "pic.twitter.com/BvMkkd8rh9"
+            },
+            {
+              "start": 57,
+              "end": 80,
+              "url": "https://t.co/BvMkkd8rh9",
+              "expanded_url": "https://twitter.com/clockmaker/status/1361816627927347200/photo/1",
+              "display_url": "pic.twitter.com/BvMkkd8rh9"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 0,
+              "end": 5,
+              "probability": 0.6246,
+              "type": "Organization",
+              "normalized_text": "Google"
+            },
+            {
+              "start": 8,
+              "end": 17,
+              "probability": 0.4571,
+              "type": "Product",
+              "normalized_text": "TypeScript"
+            }
+          ]
+        },
+        "reply_settings": "following",
+        "possibly_sensitive": false,
+        "attachments": {
+          "media_keys": [
+            "3_1361816541432406017",
+            "3_1361816541487009797",
+            "3_1361816541558239236",
+            "3_1361816541625425921"
+          ]
+        },
+        "id": "1361816627927347200",
+        "author_id": "3761581",
+        "text": "GoogleからTypeScriptのコード規約が公開されています。興味深かった規約をピックアップしてみました。 https://t.co/BvMkkd8rh9",
+        "created_at": "2021-02-16T23:16:00.000Z",
+        "public_metrics": {
+          "retweet_count": 544,
+          "reply_count": 1,
+          "like_count": 2288,
+          "quote_count": 24
+        },
+        "conversation_id": "1361816627927347200"
+      },
+      {
+        "source": "Twitter Web App",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "id": "1362611768577515522",
+        "author_id": "3277789699",
+        "text": "S級人妻、ほんの数時間前はえっちなお店でパネルに書いてあるタイプのうたい文句だったのに今となっては未確認反社会人妻を指す言葉になってしまいましたからね。その時、歴史は動いた。",
+        "created_at": "2021-02-19T03:55:36.000Z",
+        "public_metrics": {
+          "retweet_count": 455,
+          "reply_count": 1,
+          "like_count": 785,
+          "quote_count": 2
+        },
+        "conversation_id": "1362611768577515522"
+      },
+      {
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1362606397704183808"
+          }
+        ],
+        "source": "Twitter for iPad",
+        "entities": {
+          "urls": [
+            {
+              "start": 94,
+              "end": 117,
+              "url": "https://t.co/0euB8aatda",
+              "expanded_url": "https://twitter.com/cristoforou/status/1362606397704183808",
+              "display_url": "twitter.com/cristoforou/st…"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 31,
+              "end": 34,
+              "probability": 0.9155,
+              "type": "Person",
+              "normalized_text": "山口先生"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "id": "1362607557450334209",
+        "author_id": "926621109771952130",
+        "text": "無断引用というのは引用参考文献の出所を明らかにしないことです。山口先生は余命本から引用もしくは参考にしているのではないかと探っているのでしょう。余命本は学術論文に不適切な一般書ですから。 https://t.co/0euB8aatda",
+        "created_at": "2021-02-19T03:38:52.000Z",
+        "public_metrics": {
+          "retweet_count": 4,
+          "reply_count": 1,
+          "like_count": 3,
+          "quote_count": 8
+        },
+        "conversation_id": "1362607557450334209"
+      },
+      {
+        "source": "Twitter for iPhone",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "85",
+              "name": "Book Genre",
+              "description": "A genre for books, like Fiction"
+            },
+            "entity": {
+              "id": "847521144173350912",
+              "name": "Comics",
+              "description": "Comics"
+            }
+          }
+        ],
+        "entities": {
+          "urls": [
+            {
+              "start": 31,
+              "end": 54,
+              "url": "https://t.co/xsQOVszNt7",
+              "expanded_url": "https://twitter.com/kusa_taroh/status/1362591951405469700/photo/1",
+              "display_url": "pic.twitter.com/xsQOVszNt7"
+            },
+            {
+              "start": 31,
+              "end": 54,
+              "url": "https://t.co/xsQOVszNt7",
+              "expanded_url": "https://twitter.com/kusa_taroh/status/1362591951405469700/photo/1",
+              "display_url": "pic.twitter.com/xsQOVszNt7"
+            },
+            {
+              "start": 31,
+              "end": 54,
+              "url": "https://t.co/xsQOVszNt7",
+              "expanded_url": "https://twitter.com/kusa_taroh/status/1362591951405469700/photo/1",
+              "display_url": "pic.twitter.com/xsQOVszNt7"
+            },
+            {
+              "start": 31,
+              "end": 54,
+              "url": "https://t.co/xsQOVszNt7",
+              "expanded_url": "https://twitter.com/kusa_taroh/status/1362591951405469700/photo/1",
+              "display_url": "pic.twitter.com/xsQOVszNt7"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "attachments": {
+          "media_keys": [
+            "3_1362591945994854400",
+            "3_1362591945994825735",
+            "3_1362591946003283973",
+            "3_1362591946003206148"
+          ]
+        },
+        "id": "1362591951405469700",
+        "author_id": "1240123867147964421",
+        "text": "人妻危険度ランクだの未確認反社会人妻だの文脈が完全に少年漫画 https://t.co/xsQOVszNt7",
+        "created_at": "2021-02-19T02:36:51.000Z",
+        "public_metrics": {
+          "retweet_count": 360,
+          "reply_count": 0,
+          "like_count": 638,
+          "quote_count": 2
+        },
+        "conversation_id": "1362591951405469700"
+      },
+      {
+        "source": "Twitter Web App",
+        "entities": {
+          "urls": [
+            {
+              "start": 47,
+              "end": 70,
+              "url": "https://t.co/O23VXEBWc6",
+              "expanded_url": "https://seiga.nicovideo.jp/comic/46238",
+              "display_url": "seiga.nicovideo.jp/comic/46238"
+            },
+            {
+              "start": 71,
+              "end": 94,
+              "url": "https://t.co/SISb2qygO6",
+              "expanded_url": "https://twitter.com/porosuke/status/1362586920094588928/photo/1",
+              "display_url": "pic.twitter.com/SISb2qygO6"
+            },
+            {
+              "start": 71,
+              "end": 94,
+              "url": "https://t.co/SISb2qygO6",
+              "expanded_url": "https://twitter.com/porosuke/status/1362586920094588928/photo/1",
+              "display_url": "pic.twitter.com/SISb2qygO6"
+            },
+            {
+              "start": 71,
+              "end": 94,
+              "url": "https://t.co/SISb2qygO6",
+              "expanded_url": "https://twitter.com/porosuke/status/1362586920094588928/photo/1",
+              "display_url": "pic.twitter.com/SISb2qygO6"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 1,
+              "end": 4,
+              "probability": 0.6416,
+              "type": "Other",
+              "normalized_text": "淫獄団地"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 41,
+              "end": 46,
+              "tag": "淫獄団地"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "possibly_sensitive": true,
+        "attachments": {
+          "media_keys": [
+            "3_1362586847709327360",
+            "3_1362586863723110410",
+            "3_1362586882677174272"
+          ]
+        },
+        "id": "1362586920094588928",
+        "author_id": "16819444",
+        "text": "『淫獄団地』第3話：粘液魔（前編）が公開されました。\nどうぞ宜しくお願いします！ #淫獄団地\nhttps://t.co/O23VXEBWc6 https://t.co/SISb2qygO6",
+        "created_at": "2021-02-19T02:16:52.000Z",
+        "public_metrics": {
+          "retweet_count": 2723,
+          "reply_count": 19,
+          "like_count": 3789,
+          "quote_count": 65
+        },
+        "conversation_id": "1362586920094588928"
+      },
+      {
+        "source": "Sprout Social",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "848920371311001600",
+              "name": "Technology",
+              "description": "Technology and computing"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "848921413196984320",
+              "name": "Computer programming",
+              "description": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "id": "45",
+              "name": "Brand Vertical",
+              "description": "Top level entities that describe a Brands industry"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "id": "48",
+              "name": "Product",
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "848920371311001600",
+              "name": "Technology",
+              "description": "Technology and computing"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "848985956778561538",
+              "name": "Mobile",
+              "description": "Mobile"
+            }
+          }
+        ],
+        "entities": {
+          "urls": [
+            {
+              "start": 161,
+              "end": 184,
+              "url": "https://t.co/vQBkyZeXrJ",
+              "expanded_url": "https://github.com/mobile",
+              "display_url": "github.com/mobile"
+            },
+            {
+              "start": 185,
+              "end": 208,
+              "url": "https://t.co/oKuWS4V8ZE",
+              "expanded_url": "https://twitter.com/github/status/1362537555187683328/photo/1",
+              "display_url": "pic.twitter.com/oKuWS4V8ZE"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 0,
+              "end": 5,
+              "probability": 0.3623,
+              "type": "Organization",
+              "normalized_text": "GitHub"
+            },
+            {
+              "start": 31,
+              "end": 36,
+              "probability": 0.6307,
+              "type": "Product",
+              "normalized_text": "GitHub"
+            },
+            {
+              "start": 146,
+              "end": 148,
+              "probability": 0.9383,
+              "type": "Product",
+              "normalized_text": "iOS"
+            },
+            {
+              "start": 153,
+              "end": 159,
+              "probability": 0.9611,
+              "type": "Product",
+              "normalized_text": "Android"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "attachments": {
+          "media_keys": [
+            "3_1362537550611697664"
+          ]
+        },
+        "id": "1362537555187683328",
+        "author_id": "13334762",
+        "text": "GitHub for mobile now supports GitHub Discussions! Browse, reply to, and even create new discussions, right from your mobile device. Download for iOS or Android https://t.co/vQBkyZeXrJ https://t.co/oKuWS4V8ZE",
+        "created_at": "2021-02-18T23:00:42.000Z",
+        "public_metrics": {
+          "retweet_count": 54,
+          "reply_count": 9,
+          "like_count": 404,
+          "quote_count": 5
+        },
+        "conversation_id": "1362537555187683328"
+      },
+      {
+        "source": "Twitter Media Studio",
+        "entities": {
+          "urls": [
+            {
+              "start": 68,
+              "end": 91,
+              "url": "https://t.co/FNmIEcDoLZ",
+              "expanded_url": "https://twitter.com/todoki_uka/status/1362287071038107651/photo/1",
+              "display_url": "pic.twitter.com/FNmIEcDoLZ"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "attachments": {
+          "media_keys": [
+            "3_1362286302033444864"
+          ]
+        },
+        "id": "1362287071038107651",
+        "author_id": "948184780348067841",
+        "text": "やったああああああ！！\nAtCoder C++入門 第一章クリアできたーーー！！\n\nコード書くのたのしい！　もっと勉強したいーー！！✨ https://t.co/FNmIEcDoLZ",
+        "created_at": "2021-02-18T06:25:22.000Z",
+        "public_metrics": {
+          "retweet_count": 235,
+          "reply_count": 10,
+          "like_count": 1189,
+          "quote_count": 19
+        },
+        "conversation_id": "1362287071038107651"
+      },
+      {
+        "source": "Twitter Web App",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "872801340224806912",
+              "name": "Aerospace",
+              "description": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "872802352448667648",
+              "name": "NASA",
+              "description": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "854692455005921281",
+              "name": "Science",
+              "description": "Science"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "847899255880564736",
+              "name": "Space",
+              "description": "Space and astronomy"
+            }
+          }
+        ],
+        "entities": {
+          "urls": [
+            {
+              "start": 65,
+              "end": 88,
+              "url": "https://t.co/dkM9jE9I6X",
+              "expanded_url": "https://twitter.com/NASAPersevere/status/1362507436611956736/photo/1",
+              "display_url": "pic.twitter.com/dkM9jE9I6X"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 48,
+              "end": 64,
+              "tag": "CountdownToMars"
+            }
+          ]
+        },
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "attachments": {
+          "media_keys": [
+            "3_1362507419318775811"
+          ]
+        },
+        "id": "1362507436611956736",
+        "author_id": "1232783237623119872",
+        "text": "Hello, world. My first look at my forever home. #CountdownToMars https://t.co/dkM9jE9I6X",
+        "created_at": "2021-02-18T21:01:01.000Z",
+        "public_metrics": {
+          "retweet_count": 215558,
+          "reply_count": 10469,
+          "like_count": 915506,
+          "quote_count": 33727
+        },
+        "conversation_id": "1362507436611956736"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/EuYk7eFUYAEgLvp.jpg",
+        "width": 1920,
+        "media_key": "3_1361816541432406017",
+        "height": 1080,
+        "type": "photo"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/EuYk7eSVkAUeT-B.jpg",
+        "width": 1920,
+        "media_key": "3_1361816541487009797",
+        "height": 1080,
+        "type": "photo"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/EuYk7ejUcAQHoC-.jpg",
+        "width": 1920,
+        "media_key": "3_1361816541558239236",
+        "height": 1080,
+        "type": "photo"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/EuYk7ezVoAEecs8.jpg",
+        "width": 1920,
+        "media_key": "3_1361816541625425921",
+        "height": 1080,
+        "type": "photo"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/EujmJ9LU4AAuNBc.jpg",
+        "width": 640,
+        "media_key": "3_1362591945994854400",
+        "height": 480,
+        "type": "photo"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/EujmJ9LUcAcgtDe.jpg",
+        "width": 445,
+        "media_key": "3_1362591945994825735",
+        "height": 536,
+        "type": "photo"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/EujmJ9NVgAUd1O0.jpg",
+        "width": 629,
+        "media_key": "3_1362591946003283973",
+        "height": 487,
+        "type": "photo"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/EujmJ9NUUAQJrEx.jpg",
+        "width": 437,
+        "media_key": "3_1362591946003206148",
+        "height": 701,
+        "type": "photo"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/EujhhMlVcAA1FNX.jpg",
+        "width": 726,
+        "media_key": "3_1362586847709327360",
+        "height": 1032,
+        "type": "photo"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/EujhiIPUYAosG7-.jpg",
+        "width": 726,
+        "media_key": "3_1362586863723110410",
+        "height": 1032,
+        "type": "photo"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/EujhjO2UcAA25n3.jpg",
+        "width": 726,
+        "media_key": "3_1362586882677174272",
+        "height": 557,
+        "type": "photo"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/EufQLIsVgAAs5rA.jpg",
+        "width": 1240,
+        "media_key": "3_1362286302033444864",
+        "height": 637,
+        "type": "photo"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/EuiZR2xUcAMxfsq.jpg",
+        "width": 1321,
+        "media_key": "3_1362507419318775811",
+        "height": 952,
+        "type": "photo"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1362519599556694016",
+    "newest_id": "1362754814401122308",
+    "result_count": 34
+  }
+}
