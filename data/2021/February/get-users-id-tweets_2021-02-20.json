@@ -1,0 +1,1412 @@
+{
+  "data": [
+    {
+      "created_at": "2021-02-20T11:32:35.000Z",
+      "text": "エ",
+      "source": "Twitter Web App",
+      "conversation_id": "1363089162274889729",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1363089162274889729",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 17,
+            "username": "lovely_pig328"
+          }
+        ],
+        "urls": [
+          {
+            "start": 22,
+            "end": 45,
+            "url": "https://t.co/0G8TmiBZte",
+            "expanded_url": "https://twitter.com/lovely_pig328/status/1363079834423857156/photo/1",
+            "display_url": "pic.twitter.com/0G8TmiBZte"
+          }
+        ]
+      },
+      "created_at": "2021-02-20T11:31:54.000Z",
+      "text": "RT @lovely_pig328: 夫妻 https://t.co/0G8TmiBZte",
+      "source": "Twitter Web App",
+      "conversation_id": "1363088989909999622",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1363079834423857156"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 6389,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1363088989909999622",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "attachments": {
+        "media_keys": [
+          "3_1363079828908376066"
+        ]
+      },
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-20T10:16:59.000Z",
+      "entities": {
+        "annotations": [
+          {
+            "start": 3,
+            "end": 6,
+            "probability": 0.4295,
+            "type": "Place",
+            "normalized_text": "つくば店"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026378521",
+            "name": "Google "
+          }
+        }
+      ],
+      "text": "金行　つくば店、天久保にあるのはあるらしいから地図とかGoogleマップへのリンクとかくれ",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1363070135964033026",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1363070135964033026",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "Kaneyuki082tkb"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 20,
+            "end": 31,
+            "probability": 0.1255,
+            "type": "Place",
+            "normalized_text": "えびそば金行つくば店🦐"
+          },
+          {
+            "start": 63,
+            "end": 67,
+            "probability": 0.425,
+            "type": "Place",
+            "normalized_text": "本場北海道"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 106,
+            "end": 113,
+            "tag": "ラーメン金行"
+          },
+          {
+            "start": 114,
+            "end": 119,
+            "tag": "えびそば"
+          },
+          {
+            "start": 120,
+            "end": 125,
+            "tag": "つくば市"
+          },
+          {
+            "start": 126,
+            "end": 131,
+            "tag": "筑波大学"
+          },
+          {
+            "start": 132,
+            "end": 136,
+            "tag": "天久保"
+          }
+        ]
+      },
+      "created_at": "2021-02-20T10:15:36.000Z",
+      "text": "RT @Kaneyuki082tkb: えびそば金行つくば店🦐一生懸命オープン準備しております💨2月20日11時開店‼️\n本場北海道で50人待ちした自慢のえびそばを是非食べに来て下さい🍜宜しくお願いいたします😊\n#ラーメン金行\n#えびそば\n#つくば市\n#筑波大学\n#天久保\n#つ…",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1363069785907494916",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1361970182785290241"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 9,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1363069785907494916",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-20T09:50:48.000Z",
+      "text": "若き日の会長はこれを一人で誰からも見られることも応援されることもなく、かつ毎日やっていたんだなぁ…………………",
+      "source": "Twitter for iPad",
+      "conversation_id": "1363063547094179843",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1363063547094179843",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-20T09:38:56.000Z",
+      "text": "ジャスティスカウンドダウンラスト100始まっとるな",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1363060559709528065",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1363060559709528065",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-20T09:35:24.000Z",
+      "text": "ホ、見てきた",
+      "in_reply_to_user_id": "707346268821913600",
+      "source": "Twitter for iPad",
+      "conversation_id": "1363050053389062147",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1363050053389062147"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1363059669518807044",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-20T08:57:11.000Z",
+      "text": "あまんがす、配信向きなだけであってパンピーがやってもそこまで面白くなさそうな予感してきたね(あたまわるわる人類には厳しそう)",
+      "source": "Twitter for iPad",
+      "conversation_id": "1363050053389062147",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1363050053389062147",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-20T08:42:28.000Z",
+      "text": "情報科学に進んでもやべー人だったんだろうなと確信（おめでとうございます！）",
+      "source": "TweetDeck",
+      "conversation_id": "1363046347599794179",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1363046347599794179",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "kenki11"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 22,
+            "end": 29,
+            "probability": 0.8958,
+            "type": "Organization",
+            "normalized_text": "順天堂大学医学部"
+          }
+        ]
+      },
+      "created_at": "2021-02-20T08:40:26.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1174014081247760384",
+            "name": "Kenki Fukuoka"
+          }
+        },
+        {
+          "domain": {
+            "id": "60",
+            "name": "Athlete",
+            "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+          },
+          "entity": {
+            "id": "1174014081247760384",
+            "name": "Kenki Fukuoka"
+          }
+        }
+      ],
+      "text": "RT @kenki11: 『報告』\nこの度、順天堂大学医学部に無事合格することができました！\nこの挑戦は、本当に多くの方々の助けがあって成し遂げられたと思います。\nこの感謝の気持ちを忘れずに、また新たな挑戦の道を歩んでいきたいと思います。\n今後とも応援よろしくお願い致します！",
+      "source": "TweetDeck",
+      "conversation_id": "1363045837908045826",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1363039063419146241"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 24831,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1363045837908045826",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "ikezaki_YEAH"
+          }
+        ],
+        "urls": [
+          {
+            "start": 57,
+            "end": 80,
+            "url": "https://t.co/P6gJiTC6F3",
+            "expanded_url": "https://youtu.be/cpQbrKuQuHw",
+            "display_url": "youtu.be/cpQbrKuQuHw",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1362797182278012930/hRYA27QU?format=jpg&name=orig",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1362797182278012930/hRYA27QU?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "【１０万人突破記念】感謝のジャスティス１００００回生配信の極み！！！",
+            "description": "穏やかな心を持ちながら、激しい怒りによって目覚めた、超サンシャイン池崎。世の中を、銀河系に生きるすべてのみんなを、明るく照らすためYouTube再始動！絶叫系お笑い戦闘民族による、空前絶後・超絶怒涛のYouTubeチャンネルです！！宜しくお願いしますしまぁあああああああーーーす！！！★毎週 水曜・土曜 18:00...",
+            "unwound_url": "https://www.youtube.com/watch?v=cpQbrKuQuHw&feature=youtu.be"
+          },
+          {
+            "start": 81,
+            "end": 104,
+            "url": "https://t.co/4r0ihmhhVV",
+            "expanded_url": "https://twitter.com/ikezaki_YEAH/status/1362912937472450561/photo/1",
+            "display_url": "pic.twitter.com/4r0ihmhhVV"
+          },
+          {
+            "start": 81,
+            "end": 104,
+            "url": "https://t.co/4r0ihmhhVV",
+            "expanded_url": "https://twitter.com/ikezaki_YEAH/status/1362912937472450561/photo/1",
+            "display_url": "pic.twitter.com/4r0ihmhhVV"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 42,
+            "end": 55,
+            "tag": "感謝のジャスティス1万回"
+          }
+        ]
+      },
+      "created_at": "2021-02-20T08:30:37.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "1062418434770690048",
+            "name": "Sunshine Ikezaki"
+          }
+        },
+        {
+          "domain": {
+            "id": "58",
+            "name": "Entertainment Personality",
+            "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+          },
+          "entity": {
+            "id": "1062418434770690048",
+            "name": "Sunshine Ikezaki"
+          }
+        }
+      ],
+      "text": "RT @ikezaki_YEAH: 感謝ジャスティス1万回\n9時より開始！！！！\n\n#感謝のジャスティス1万回\n\nhttps://t.co/P6gJiTC6F3 https://t.co/4r0ihmhhVV",
+      "source": "Twitter for iPad",
+      "conversation_id": "1363043368184422402",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1362912937472450561"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 9319,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1363043368184422402",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "attachments": {
+        "media_keys": [
+          "3_1362912899690209280",
+          "3_1362912899686035458"
+        ]
+      },
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-20T07:39:50.000Z",
+      "text": "17時半蒼開店凸了解",
+      "source": "TweetDeck",
+      "conversation_id": "1363030587720617984",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1363030587720617984",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-20T05:48:10.000Z",
+      "text": "蒼に行くつもりだったけど，いややっぱり蒼でエビ欲を満たしてから来週のどこかで行こう",
+      "source": "TweetDeck",
+      "conversation_id": "1363002484382339079",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1363002484382339079",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-20T05:46:13.000Z",
+      "text": "エビ蕎麦屋の新しいとことな…………？！",
+      "source": "TweetDeck",
+      "conversation_id": "1363001992977788930",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1363001992977788930",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-20T02:22:35.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10045225402",
+            "name": "Twitter"
+          }
+        }
+      ],
+      "text": "匠の手によって #contributter_report が復活を果たしたので最高になった（要：Twitter Dev API アカウント）\n\nhttps://t.co/xI51EtUsAY",
+      "source": "TweetDeck",
+      "conversation_id": "1362950747650891781",
+      "entities": {
+        "urls": [
+          {
+            "start": 72,
+            "end": 95,
+            "url": "https://t.co/xI51EtUsAY",
+            "expanded_url": "https://github.com/eggplants/contributter.sh/actions",
+            "display_url": "github.com/eggplants/cont…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1362761984639336454/DR8bFnjq?format=png&name=orig",
+                "width": 396,
+                "height": 396
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1362761984639336454/DR8bFnjq?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "eggplants/contributter.sh",
+            "description": "Contributter on Terminal. Contribute to eggplants/contributter.sh development by creating an account on GitHub.",
+            "unwound_url": "https://github.com/eggplants/contributter.sh/actions"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 8,
+            "end": 28,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1362950747650891781",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 6,
+            "username": "egpl0"
+          }
+        ],
+        "urls": [
+          {
+            "start": 92,
+            "end": 115,
+            "url": "https://t.co/UqtKis2n9m",
+            "expanded_url": "http://tweet.sh",
+            "display_url": "tweet.sh",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1362948796800409603/9mD75rr3?format=jpg&name=orig",
+                "width": 1000,
+                "height": 1000
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1362948796800409603/9mD75rr3?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "TweetShift - Home",
+            "description": "Use Twitter right within Discord.",
+            "unwound_url": "https://tweetshift.com/?utm_source=tweet-sh"
+          },
+          {
+            "start": 118,
+            "end": 141,
+            "url": "https://t.co/aqyrcQfsQA",
+            "expanded_url": "http://contributter.sh",
+            "display_url": "contributter.sh",
+            "unwound_url": "http://contributter.sh"
+          }
+        ]
+      },
+      "created_at": "2021-02-20T02:14:49.000Z",
+      "text": "@egpl0 自分の環境で動かすことが出来るようになりました，ありがとうございました\n\n自分以外の githubusercontent を取りに行くと余分に時間かかるっぽいっぽいので https://t.co/UqtKis2n9m と https://t.co/aqyrcQfsQA は自分のリポジトリに置き直しました（実行時間が半分になったはず）",
+      "in_reply_to_user_id": "1001294928037621761",
+      "source": "Twitter Web App",
+      "conversation_id": "1362719062946578437",
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1362761982198226944"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1362948793742729221",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-20T00:23:02.000Z",
+      "text": "アルコールで自我を拡張しないとやっていけない状況は良くないので、日々の努力で少しづつ自分の範疇を拡げていくしかねぇんだよな、実は",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1362920664164753416",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362920664164753416",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-20T00:21:24.000Z",
+      "text": "ヤクに頼るアーティスト、これか………つってる",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1362920252141563904",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362920252141563904",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-20T00:21:03.000Z",
+      "text": "午前9時、すでに酒を入れた休日、これからクリエイティヴェやっていきます",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1362920164631617537",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "id": "1362920164631617537",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-20T00:20:00.000Z",
+      "text": "オラァ！(酒を入れる)",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1362919898733678593",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362919898733678593",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 9,
+            "username": "ssuge"
+          }
+        ]
+      },
+      "created_at": "2021-02-20T00:19:50.000Z",
+      "text": "RT @ssuge: 現実に向き合うと虚無感で何もしたくなくなってしまうので、なんとか色々自分をごまかして動かす必要がある",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1362919855456874497",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1362798263875686404"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362919855456874497",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-19T23:56:37.000Z",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 4,
+            "probability": 0.701,
+            "type": "Person",
+            "normalized_text": "マキマさん"
+          }
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "67",
+            "name": "Interests and Hobbies",
+            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+          },
+          "entity": {
+            "id": "847869251595542528",
+            "name": "Drawing & illustration",
+            "description": "Drawing and sketching"
+          }
+        }
+      ],
+      "text": "マキマさんの二次創作みたいな女の子すきだけどわざわざアプリ入れるのは負担デカくなるのでつらい、全絵師が描いてくれ",
+      "source": "Twitter for iPad",
+      "conversation_id": "1362914016633348098",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1362914016633348098",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "location": "山梨県→茨城県つくば市",
+        "username": "Ningensei848",
+        "name": "きあい🌓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 994,
+          "tweet_count": 58648,
+          "listed_count": 22
+        },
+        "url": "https://t.co/KBXT0N3eAa",
+        "pinned_tweet_id": "1345020610875777024",
+        "id": "707346268821913600",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "verified": false
+      },
+      {
+        "location": "ほぼ埼玉",
+        "username": "lovely_pig328",
+        "name": "桜井のりお@僕ヤバ④2/8発売 ロ⑦発売中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/OWlRoxfgsW",
+                "expanded_url": "https://www.pixiv.net/member.php?id=35504719",
+                "display_url": "pixiv.net/member.php?id=…"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 31,
+                "end": 54,
+                "url": "https://t.co/K7Q2XFTCDZ",
+                "expanded_url": "http://bit.ly/2Ehnj0e",
+                "display_url": "bit.ly/2Ehnj0e"
+              },
+              {
+                "start": 63,
+                "end": 86,
+                "url": "https://t.co/l7MsYpGJhN",
+                "expanded_url": "http://onl.jp/N9N7DsD",
+                "display_url": "onl.jp/N9N7DsD"
+              },
+              {
+                "start": 100,
+                "end": 123,
+                "url": "https://t.co/cU4IPk70kJ",
+                "expanded_url": "https://bit.ly/3iu1T5P",
+                "display_url": "bit.ly/3iu1T5P"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/876078247506616320/IKevIt0L_normal.jpg",
+        "public_metrics": {
+          "followers_count": 397909,
+          "following_count": 591,
+          "tweet_count": 9093,
+          "listed_count": 3218
+        },
+        "url": "https://t.co/OWlRoxfgsW",
+        "pinned_tweet_id": "1123149328657203200",
+        "id": "1639377558",
+        "description": "漫画家です。   \n■『僕の心のヤバイやつ』マンガクロス連載→https://t.co/K7Q2XFTCDZ ①～③巻発売中→https://t.co/l7MsYpGJhN  LINEスタンプ発売中→https://t.co/cU4IPk70kJ\n■『ロロッロ！』週刊少年チャンピオン連載全7巻発売中。\n  ■『みつどもえ』全19巻発売中",
+        "created_at": "2013-08-02T02:46:04.000Z",
+        "verified": false
+      },
+      {
+        "location": "茨城県つくば市天久保2-10-3",
+        "username": "Kaneyuki082tkb",
+        "name": "えびそば金行　つくば店",
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1357559966685536257/5zzppvTK_normal.png",
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 212,
+          "tweet_count": 36,
+          "listed_count": 3
+        },
+        "url": "",
+        "pinned_tweet_id": "1359763272048672768",
+        "id": "1357559461221601283",
+        "description": "本場北海道で長蛇の列！3回食べれば絶対ハマる！えびそば専門店【ラーメン金行】つくばに初上陸！自慢のえび味噌ラーメンを是非ご賞味ください！味玉も自信有ります(*´Д｀*) 2月20日NewOpen！！",
+        "created_at": "2021-02-05T05:19:49.000Z",
+        "verified": false
+      },
+      {
+        "username": "kenki11",
+        "name": "Kenki Fukuoka/福岡 堅樹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/ZGrvZtGtF5",
+                "expanded_url": "https://www.instagram.com/kenki11/?hl=ja",
+                "display_url": "instagram.com/kenki11/?hl=ja"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1192698585474748417/0cHCPf-G_normal.jpg",
+        "public_metrics": {
+          "followers_count": 132862,
+          "following_count": 158,
+          "tweet_count": 3252,
+          "listed_count": 735
+        },
+        "url": "https://t.co/ZGrvZtGtF5",
+        "pinned_tweet_id": "1183377270926278658",
+        "id": "560274055",
+        "description": "Rugby Player / Panasonic Wild Knights（2016〜）& Sunwolves（2017〜） ← Tsukuba University ← Fukuoka High School",
+        "created_at": "2012-04-22T12:50:27.000Z",
+        "verified": true
+      },
+      {
+        "location": "イエーーーーイ(家)",
+        "username": "ikezaki_YEAH",
+        "name": "サンシャイン池崎 公式の極→",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/MUgHePVY0b",
+                "expanded_url": "https://www.youtube.com/channel/UCDampMTmVkf0D3rCvQP2R7A",
+                "display_url": "youtube.com/channel/UCDamp…"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1288411402961485825/XKhxJYMo_normal.jpg",
+        "public_metrics": {
+          "followers_count": 267520,
+          "following_count": 3846,
+          "tweet_count": 12024,
+          "listed_count": 763
+        },
+        "url": "https://t.co/MUgHePVY0b",
+        "pinned_tweet_id": "1354789528158920707",
+        "id": "314687999",
+        "description": "鹿児島かのやばら大使！テレビ東京『おはスタ！』金曜担当 7:05〜！NHK語学ラジオ『基礎英語0』 毎週月曜火曜木曜18:35〜 MX『Wow!Ho!TV』YouTube『ふうちゃんらいちゃんねる』 『超・空前絶後超絶怒涛のギャラクシーちゃんねる極』",
+        "created_at": "2011-06-10T17:07:17.000Z",
+        "verified": true
+      },
+      {
+        "username": "egpl0",
+        "name": "明日: ☀/☀/☀/☀/☀/☀/☀/☀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/aE1G8uXstS",
+                "expanded_url": "https://github.com/eggplants",
+                "display_url": "github.com/eggplants"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1335546351803756546/_1yeXu_m_normal.jpg",
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 485,
+          "tweet_count": 4564,
+          "listed_count": 9
+        },
+        "url": "https://t.co/aE1G8uXstS",
+        "pinned_tweet_id": "1357578331202281472",
+        "id": "1001294928037621761",
+        "description": "",
+        "created_at": "2018-05-29T02:51:28.000Z",
+        "verified": false
+      },
+      {
+        "username": "ssuge",
+        "name": "菅俊一 / Syunichi SUGE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/0FiEQlGf1P",
+                "expanded_url": "http://syunichisuge.com",
+                "display_url": "syunichisuge.com"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1278251744036679682/6WPi5VZw_normal.jpg",
+        "public_metrics": {
+          "followers_count": 14579,
+          "following_count": 1042,
+          "tweet_count": 154587,
+          "listed_count": 321
+        },
+        "url": "https://t.co/0FiEQlGf1P",
+        "pinned_tweet_id": "1305463648152743936",
+        "id": "10982422",
+        "description": "Cognitive Designer / 人間の知覚能力に基づくコグニティブデザインの考え方による体験設計、コンセプト構築、創造性を誘発する問題設計を軸として、社会に新しい価値を提案するための表現の研究開発を行なっています。",
+        "created_at": "2007-12-09T00:23:52.000Z",
+        "verified": false
+      }
+    ],
+    "media": [
+      {
+        "type": "photo",
+        "width": 1446,
+        "height": 2048,
+        "url": "https://pbs.twimg.com/media/Euqh4eqVgAIEawe.jpg",
+        "media_key": "3_1363079828908376066"
+      },
+      {
+        "type": "photo",
+        "width": 2048,
+        "height": 1536,
+        "url": "https://pbs.twimg.com/media/EuoKD63VIAAfmvv.jpg",
+        "media_key": "3_1362912899690209280"
+      },
+      {
+        "type": "photo",
+        "width": 2048,
+        "height": 1536,
+        "url": "https://pbs.twimg.com/media/EuoKD62VcAItGFE.jpg",
+        "media_key": "3_1362912899686035458"
+      }
+    ],
+    "tweets": [
+      {
+        "created_at": "2021-02-20T10:55:31.000Z",
+        "text": "夫妻 https://t.co/0G8TmiBZte",
+        "source": "Twitter for iPad",
+        "conversation_id": "1363079834423857156",
+        "entities": {
+          "urls": [
+            {
+              "start": 3,
+              "end": 26,
+              "url": "https://t.co/0G8TmiBZte",
+              "expanded_url": "https://twitter.com/lovely_pig328/status/1363079834423857156/photo/1",
+              "display_url": "pic.twitter.com/0G8TmiBZte"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 6389,
+          "reply_count": 196,
+          "like_count": 34486,
+          "quote_count": 184
+        },
+        "id": "1363079834423857156",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "attachments": {
+          "media_keys": [
+            "3_1363079828908376066"
+          ]
+        },
+        "author_id": "1639377558"
+      },
+      {
+        "created_at": "2021-02-17T09:26:10.000Z",
+        "entities": {
+          "annotations": [
+            {
+              "start": 6,
+              "end": 9,
+              "probability": 0.5835,
+              "type": "Place",
+              "normalized_text": "つくば店"
+            },
+            {
+              "start": 43,
+              "end": 47,
+              "probability": 0.4327,
+              "type": "Place",
+              "normalized_text": "本場北海道"
+            }
+          ],
+          "urls": [
+            {
+              "start": 126,
+              "end": 149,
+              "url": "https://t.co/O7fQRYiZJk",
+              "expanded_url": "https://twitter.com/Kaneyuki082tkb/status/1361970182785290241/photo/1",
+              "display_url": "pic.twitter.com/O7fQRYiZJk"
+            },
+            {
+              "start": 126,
+              "end": 149,
+              "url": "https://t.co/O7fQRYiZJk",
+              "expanded_url": "https://twitter.com/Kaneyuki082tkb/status/1361970182785290241/photo/1",
+              "display_url": "pic.twitter.com/O7fQRYiZJk"
+            },
+            {
+              "start": 126,
+              "end": 149,
+              "url": "https://t.co/O7fQRYiZJk",
+              "expanded_url": "https://twitter.com/Kaneyuki082tkb/status/1361970182785290241/photo/1",
+              "display_url": "pic.twitter.com/O7fQRYiZJk"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 86,
+              "end": 93,
+              "tag": "ラーメン金行"
+            },
+            {
+              "start": 94,
+              "end": 99,
+              "tag": "えびそば"
+            },
+            {
+              "start": 100,
+              "end": 105,
+              "tag": "つくば市"
+            },
+            {
+              "start": 106,
+              "end": 111,
+              "tag": "筑波大学"
+            },
+            {
+              "start": 112,
+              "end": 116,
+              "tag": "天久保"
+            },
+            {
+              "start": 117,
+              "end": 125,
+              "tag": "つくばラーメン"
+            }
+          ]
+        },
+        "text": "えびそば金行つくば店🦐一生懸命オープン準備しております💨2月20日11時開店‼️\n本場北海道で50人待ちした自慢のえびそばを是非食べに来て下さい🍜宜しくお願いいたします😊\n#ラーメン金行\n#えびそば\n#つくば市\n#筑波大学\n#天久保\n#つくばラーメン https://t.co/O7fQRYiZJk",
+        "source": "Twitter for iPhone",
+        "conversation_id": "1361970182785290241",
+        "public_metrics": {
+          "retweet_count": 9,
+          "reply_count": 0,
+          "like_count": 15,
+          "quote_count": 1
+        },
+        "id": "1361970182785290241",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "attachments": {
+          "media_keys": [
+            "3_1361970176686653448",
+            "3_1361970176753762305",
+            "3_1361970177110253569"
+          ]
+        },
+        "author_id": "1357559461221601283"
+      },
+      {
+        "created_at": "2021-02-20T08:57:11.000Z",
+        "text": "あまんがす、配信向きなだけであってパンピーがやってもそこまで面白くなさそうな予感してきたね(あたまわるわる人類には厳しそう)",
+        "source": "Twitter for iPad",
+        "conversation_id": "1363050053389062147",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "id": "1363050053389062147",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "author_id": "707346268821913600"
+      },
+      {
+        "created_at": "2021-02-20T08:13:31.000Z",
+        "entities": {
+          "annotations": [
+            {
+              "start": 9,
+              "end": 16,
+              "probability": 0.897,
+              "type": "Organization",
+              "normalized_text": "順天堂大学医学部"
+            }
+          ]
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "1174014081247760384",
+              "name": "Kenki Fukuoka"
+            }
+          },
+          {
+            "domain": {
+              "id": "60",
+              "name": "Athlete",
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+            },
+            "entity": {
+              "id": "1174014081247760384",
+              "name": "Kenki Fukuoka"
+            }
+          }
+        ],
+        "text": "『報告』\nこの度、順天堂大学医学部に無事合格することができました！\nこの挑戦は、本当に多くの方々の助けがあって成し遂げられたと思います。\nこの感謝の気持ちを忘れずに、また新たな挑戦の道を歩んでいきたいと思います。\n今後とも応援よろしくお願い致します！",
+        "source": "Twitter for iPhone",
+        "conversation_id": "1363039063419146241",
+        "public_metrics": {
+          "retweet_count": 24832,
+          "reply_count": 1559,
+          "like_count": 221152,
+          "quote_count": 4232
+        },
+        "id": "1363039063419146241",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "author_id": "560274055"
+      },
+      {
+        "created_at": "2021-02-19T23:52:20.000Z",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "10",
+              "name": "Person",
+              "description": "Named people in the world like Nelson Mandela"
+            },
+            "entity": {
+              "id": "1062418434770690048",
+              "name": "Sunshine Ikezaki"
+            }
+          },
+          {
+            "domain": {
+              "id": "58",
+              "name": "Entertainment Personality",
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings"
+            },
+            "entity": {
+              "id": "1062418434770690048",
+              "name": "Sunshine Ikezaki"
+            }
+          }
+        ],
+        "text": "感謝ジャスティス1万回\n9時より開始！！！！\n\n#感謝のジャスティス1万回\n\nhttps://t.co/P6gJiTC6F3 https://t.co/4r0ihmhhVV",
+        "source": "Twitter for iPhone",
+        "conversation_id": "1362912937472450561",
+        "entities": {
+          "urls": [
+            {
+              "start": 39,
+              "end": 62,
+              "url": "https://t.co/P6gJiTC6F3",
+              "expanded_url": "https://youtu.be/cpQbrKuQuHw",
+              "display_url": "youtu.be/cpQbrKuQuHw",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1362797182278012930/hRYA27QU?format=jpg&name=orig",
+                  "width": 1280,
+                  "height": 720
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1362797182278012930/hRYA27QU?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "【１０万人突破記念】感謝のジャスティス１００００回生配信の極み！！！",
+              "description": "穏やかな心を持ちながら、激しい怒りによって目覚めた、超サンシャイン池崎。世の中を、銀河系に生きるすべてのみんなを、明るく照らすためYouTube再始動！絶叫系お笑い戦闘民族による、空前絶後・超絶怒涛のYouTubeチャンネルです！！宜しくお願いしますしまぁあああああああーーーす！！！★毎週 水曜・土曜 18:00...",
+              "unwound_url": "https://www.youtube.com/watch?v=cpQbrKuQuHw&feature=youtu.be"
+            },
+            {
+              "start": 63,
+              "end": 86,
+              "url": "https://t.co/4r0ihmhhVV",
+              "expanded_url": "https://twitter.com/ikezaki_YEAH/status/1362912937472450561/photo/1",
+              "display_url": "pic.twitter.com/4r0ihmhhVV"
+            },
+            {
+              "start": 63,
+              "end": 86,
+              "url": "https://t.co/4r0ihmhhVV",
+              "expanded_url": "https://twitter.com/ikezaki_YEAH/status/1362912937472450561/photo/1",
+              "display_url": "pic.twitter.com/4r0ihmhhVV"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 24,
+              "end": 37,
+              "tag": "感謝のジャスティス1万回"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 9319,
+          "reply_count": 153,
+          "like_count": 24653,
+          "quote_count": 1315
+        },
+        "id": "1362912937472450561",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "attachments": {
+          "media_keys": [
+            "3_1362912899690209280",
+            "3_1362912899686035458"
+          ]
+        },
+        "author_id": "314687999"
+      },
+      {
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "Ningensei848"
+            }
+          ],
+          "urls": [
+            {
+              "start": 65,
+              "end": 88,
+              "url": "https://t.co/nnjT7eFZM8",
+              "expanded_url": "https://github.com/eggplants/contributter.sh/actions",
+              "display_url": "github.com/eggplants/cont…",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1362761984639336454/DR8bFnjq?format=png&name=orig",
+                  "width": 396,
+                  "height": 396
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1362761984639336454/DR8bFnjq?format=png&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "eggplants/contributter.sh",
+              "description": "Contributter on Terminal. Contribute to eggplants/contributter.sh development by creating an account on GitHub.",
+              "unwound_url": "https://github.com/eggplants/contributter.sh/actions"
+            }
+          ]
+        },
+        "created_at": "2021-02-19T13:52:30.000Z",
+        "text": "@Ningensei848 cron出来ました\nプライベートリポジトリで動かすなどしてください\nなおcronしても草は生えません\nhttps://t.co/nnjT7eFZM8",
+        "in_reply_to_user_id": "707346268821913600",
+        "source": "Twitter Web App",
+        "conversation_id": "1362719062946578437",
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1362721118285492226"
+          }
+        ],
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "id": "1362761982198226944",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "author_id": "1001294928037621761"
+      },
+      {
+        "created_at": "2021-02-19T16:16:40.000Z",
+        "text": "現実に向き合うと虚無感で何もしたくなくなってしまうので、なんとか色々自分をごまかして動かす必要がある",
+        "source": "Twitter for iPhone",
+        "conversation_id": "1362798263875686404",
+        "public_metrics": {
+          "retweet_count": 4,
+          "reply_count": 0,
+          "like_count": 38,
+          "quote_count": 1
+        },
+        "id": "1362798263875686404",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "author_id": "10982422"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1362914016633348098",
+    "newest_id": "1363089162274889729",
+    "result_count": 22
+  }
+}
