@@ -1,0 +1,405 @@
+{
+  "data": [
+    {
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1364203615607345157",
+      "source": "Twitter for iPhone",
+      "id": "1364203615607345157",
+      "created_at": "2021-02-23T13:21:02.000Z",
+      "reply_settings": "everyone",
+      "text": "明日の通院で数値が悪くなってたらいよいよ次に進まねばならないので、進んでいきましょう"
+    },
+    {
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1364201374532046849",
+      "source": "Twitter for iPhone",
+      "id": "1364201374532046849",
+      "created_at": "2021-02-23T13:12:07.000Z",
+      "reply_settings": "everyone",
+      "text": "今日も今日とて舌下式飲酒(早く酔える気がする)"
+    },
+    {
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1364124128106541056",
+      "source": "TweetDeck",
+      "id": "1364124128106541056",
+      "created_at": "2021-02-23T08:05:10.000Z",
+      "reply_settings": "everyone",
+      "text": "スパム報告とブロック"
+    },
+    {
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974596752842752",
+            "name": "Services"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10045225402",
+            "name": "Twitter"
+          }
+        }
+      ],
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1364121686623219712"
+        }
+      ],
+      "author_id": "707346268821913600",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "TwitterJP"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 15,
+            "end": 21,
+            "probability": 0.7962,
+            "type": "Product",
+            "normalized_text": "Twitter"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 29668,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1364123904868945923",
+      "source": "TweetDeck",
+      "id": "1364123904868945923",
+      "created_at": "2021-02-23T08:04:17.000Z",
+      "reply_settings": "everyone",
+      "text": "RT @TwitterJP: Twitterをスクロールして祝日を過ごしているみなさん〜！面白いツイートありましたか？"
+    },
+    {
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1364118943590326275",
+      "source": "Twitter for iPad",
+      "id": "1364118943590326275",
+      "created_at": "2021-02-23T07:44:34.000Z",
+      "reply_settings": "everyone",
+      "text": "忍者と極道、24まで"
+    },
+    {
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1364099325844803586",
+      "source": "Twitter for iPad",
+      "id": "1364099325844803586",
+      "created_at": "2021-02-23T06:26:37.000Z",
+      "reply_settings": "everyone",
+      "text": "全てをやるためにチカラを分散している気がして、そのせいで100%出力できず、やがて錆びてく感じがする"
+    },
+    {
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1364099062140575747",
+      "source": "Twitter for iPad",
+      "id": "1364099062140575747",
+      "created_at": "2021-02-23T06:25:34.000Z",
+      "reply_settings": "everyone",
+      "text": "管理されるか管理するのがいいのであって、どっちもやるのは心身に良くない"
+    },
+    {
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1364097670000746498",
+      "source": "Twitter for iPad",
+      "id": "1364097670000746498",
+      "created_at": "2021-02-23T06:20:02.000Z",
+      "reply_settings": "everyone",
+      "text": "準備ができていない"
+    },
+    {
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1364073176393674758",
+      "source": "TweetDeck",
+      "id": "1364073176393674758",
+      "created_at": "2021-02-23T04:42:43.000Z",
+      "reply_settings": "everyone",
+      "text": "考えることが多すぎるのではなくて，考えるためのメモリ領域が小さくなりすぎている，いま"
+    },
+    {
+      "author_id": "707346268821913600",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 6,
+            "end": 14,
+            "tag": "ジャンププラス"
+          }
+        ],
+        "urls": [
+          {
+            "start": 15,
+            "end": 38,
+            "url": "https://t.co/5CjMmZzf1Z",
+            "expanded_url": "https://shonenjumpplus.com/red/content/SHSA_JP02PLUS00018945_57",
+            "display_url": "shonenjumpplus.com/red/content/SH…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1363866685657083911/5TJYGWxl?format=jpg&name=orig",
+                "width": 840,
+                "height": 420
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1363866685657083911/5TJYGWxl?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "赤錆森 - 温井雄鶏 | 少年ジャンプ＋",
+            "description": "アジアンブッディズムSFバトル！",
+            "unwound_url": "https://shonenjumpplus.com/episode/3269632237264182655"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 1,
+            "end": 3,
+            "probability": 0.3876,
+            "type": "Other",
+            "normalized_text": "赤錆森"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "conversation_id": "1364018925348945920",
+      "source": "Twitter for iPad",
+      "id": "1364018925348945920",
+      "created_at": "2021-02-23T01:07:08.000Z",
+      "reply_settings": "everyone",
+      "text": "「赤錆森」　#ジャンププラス https://t.co/5CjMmZzf1Z\n\n清々しい全部盛り"
+    },
+    {
+      "author_id": "707346268821913600",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 48,
+            "end": 68,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "conversation_id": "1363887379229126656",
+      "source": "Twitter",
+      "id": "1363887379229126656",
+      "created_at": "2021-02-22T16:24:25.000Z",
+      "reply_settings": "everyone",
+      "text": "Ningensei848 さんの 2021/02/22 の contribution 数: 2 #contributter_report"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "protected": false,
+        "url": "https://t.co/KBXT0N3eAa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 995,
+          "tweet_count": 58692,
+          "listed_count": 22
+        },
+        "verified": false,
+        "id": "707346268821913600",
+        "name": "きあい🌔",
+        "location": "山梨県→茨城県つくば市",
+        "username": "Ningensei848",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "pinned_tweet_id": "1345020610875777024",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg"
+      },
+      {
+        "protected": false,
+        "url": "https://t.co/veCH4MJbYL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/veCH4MJbYL",
+                "expanded_url": "https://blog.twitter.com/ja_jp.html",
+                "display_url": "blog.twitter.com/ja_jp.html"
+              }
+            ]
+          }
+        },
+        "public_metrics": {
+          "followers_count": 2284109,
+          "following_count": 142,
+          "tweet_count": 14160,
+          "listed_count": 15036
+        },
+        "verified": true,
+        "id": "7080152",
+        "name": "Twitter Japan",
+        "location": "東京都中央区",
+        "username": "TwitterJP",
+        "created_at": "2007-06-26T01:54:35.000Z",
+        "description": "今日も何かが起きている?! What’s Happening?!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354485696392613893/9T6ogVOI_normal.jpg"
+      }
+    ],
+    "tweets": [
+      {
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "Twitter"
+            }
+          }
+        ],
+        "author_id": "7080152",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "retweet_count": 29668,
+          "reply_count": 515,
+          "like_count": 38415,
+          "quote_count": 4907
+        },
+        "conversation_id": "1364121686623219712",
+        "source": "Twitter for iPhone",
+        "entities": {
+          "annotations": [
+            {
+              "start": 0,
+              "end": 6,
+              "probability": 0.8284,
+              "type": "Product",
+              "normalized_text": "Twitter"
+            }
+          ]
+        },
+        "id": "1364121686623219712",
+        "created_at": "2021-02-23T07:55:28.000Z",
+        "reply_settings": "everyone",
+        "text": "Twitterをスクロールして祝日を過ごしているみなさん〜！面白いツイートありましたか？"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1363887379229126656",
+    "newest_id": "1364203615607345157",
+    "result_count": 11
+  }
+}
