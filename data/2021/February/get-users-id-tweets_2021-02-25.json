@@ -1,0 +1,647 @@
+{
+  "data": [
+    {
+      "id": "1364936714129612806",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1364936714129612806",
+      "text": "ウイニングライヴ、もっとこうヒヒーンw的なやつかと思ってたんだけど、マジに魂とカネと時間と人を感じてただただ感動してしまう",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-02-25T13:54:06.000Z",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1364836014599012355",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "conversation_id": "1364836014599012355",
+      "text": "死んでしまうので読んでないけど，世間には読むと死んでしまう類の存在があることを意識して生きています，死にたくはないので",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-02-25T07:13:57.000Z",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1364481598024912897",
+          "3_1364481598020743170"
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1364481603930447872"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "miz_tani"
+          }
+        ],
+        "urls": [
+          {
+            "start": 89,
+            "end": 112,
+            "url": "https://t.co/U3U96z1S5o",
+            "expanded_url": "https://twitter.com/miz_tani/status/1364481603930447872/photo/1",
+            "display_url": "pic.twitter.com/U3U96z1S5o"
+          },
+          {
+            "start": 89,
+            "end": 112,
+            "url": "https://t.co/U3U96z1S5o",
+            "expanded_url": "https://twitter.com/miz_tani/status/1364481603930447872/photo/1",
+            "display_url": "pic.twitter.com/U3U96z1S5o"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 19,
+            "end": 21,
+            "probability": 0.8246,
+            "type": "Place",
+            "normalized_text": "上野駅"
+          }
+        ]
+      },
+      "id": "1364835860307349507",
+      "reply_settings": "everyone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847546154439000064",
+            "name": "Education",
+            "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform."
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "1188908088570470400",
+            "name": "School Entrance Exams"
+          }
+        }
+      ],
+      "source": "TweetDeck",
+      "conversation_id": "1364835860307349507",
+      "text": "RT @miz_tani: 入試直前の上野駅という、世界で1番貼っちゃいけない場所と時期に貼ってあるポスター\nこれを見て会場に向かう受験生の気持ちを考えると発狂してしまう……… https://t.co/U3U96z1S5o",
+      "public_metrics": {
+        "retweet_count": 1727,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-02-25T07:13:21.000Z",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1364829532939689984",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1364829532939689984",
+      "text": "自分の成長が最近全くなくて、うまく行ってる感もなく、そのせいで達成感に飢えており、それを簡単に得られるソシャゲに堕ちてしまう",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-02-25T06:48:12.000Z",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1364815432167776258",
+      "reply_settings": "everyone",
+      "source": "TweetDeck",
+      "conversation_id": "1364815432167776258",
+      "text": "オタクも学級会やるんだ（笑）",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-02-25T05:52:10.000Z",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1364777731100078087",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "conversation_id": "1364777731100078087",
+      "text": "日々の自分に成長がないからってアイドル育成シミュレーションに金を出して俺TUEEするの真綿すぎる",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-02-25T03:22:22.000Z",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1364777320515444741",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "conversation_id": "1364777320515444741",
+      "text": "ガッツが足りないの、マジで guts が足りていない可能性がある",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-02-25T03:20:44.000Z",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1364776922631208964",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "conversation_id": "1364776922631208964",
+      "text": "被験者なりてぇぇが？",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-02-25T03:19:09.000Z",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1364701595259211777"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 19,
+            "username": "yopparai_chmist"
+          }
+        ]
+      },
+      "id": "1364776851940331523",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "conversation_id": "1364776851940331523",
+      "text": "RT @yopparai_chmist: 腸の感情に迫るという面白い論文。腸に張り巡らされた迷走神経は脳と繋がっており、腸に入った刺激は脳へ伝わり何かしらの感情を形成する。\n\n著者はこの”腸の感情”をマッピングする為に、腸の迷走神経に電位を誘発するカプセルを開発し、腸に入った刺…",
+      "public_metrics": {
+        "retweet_count": 146,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-02-25T03:18:52.000Z",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1364750094461935616",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "conversation_id": "1364750094461935616",
+      "text": "「一回目の作り直し」という言葉を見てしまい絶句",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-02-25T01:32:33.000Z",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1364455807270543362"
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1364455965563580420"
+        }
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "dikkosan"
+          }
+        ],
+        "urls": [
+          {
+            "start": 53,
+            "end": 76,
+            "url": "https://t.co/Zww5XBy39p",
+            "expanded_url": "https://twitter.com/dikkosan/status/1364455965563580420/photo/1",
+            "display_url": "pic.twitter.com/Zww5XBy39p"
+          }
+        ]
+      },
+      "id": "1364749772192575489",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPad",
+      "conversation_id": "1364749772192575489",
+      "text": "RT @dikkosan: 馬娘の二次創作でうっかりヤバいのを描くと\nこういう人たちを敵に回すことになる https://t.co/Zww5XBy39p",
+      "public_metrics": {
+        "retweet_count": 5143,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-02-25T01:31:16.000Z",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false
+    },
+    {
+      "id": "1364615781154185217",
+      "reply_settings": "everyone",
+      "source": "Twitter",
+      "conversation_id": "1364615781154185217",
+      "text": "Ningensei848 さんの 2021/02/24 の contribution 数: 0 #contributter_report",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "start": 48,
+            "end": 68,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "created_at": "2021-02-24T16:38:50.000Z",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 995,
+          "tweet_count": 58735,
+          "listed_count": 22
+        },
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "username": "Ningensei848",
+        "protected": false,
+        "url": "https://t.co/KBXT0N3eAa",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "name": "きあい🌕",
+        "pinned_tweet_id": "1345020610875777024",
+        "id": "707346268821913600",
+        "verified": false,
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "location": "山梨県→茨城県つくば市"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 292,
+          "tweet_count": 1930,
+          "listed_count": 3
+        },
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/OgwBh2zWln",
+                "expanded_url": "https://www.instagram.com/you_mizutani",
+                "display_url": "instagram.com/you_mizutani"
+              }
+            ]
+          }
+        },
+        "username": "miz_tani",
+        "protected": false,
+        "url": "https://t.co/OgwBh2zWln",
+        "created_at": "2018-05-15T03:20:35.000Z",
+        "name": "mimumami",
+        "id": "996228824361676800",
+        "verified": false,
+        "description": "藝大 油画3年 水谷です インスタに作品まとめがあったりなかったり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364565510235455494/KtXanV-F_normal.jpg",
+        "location": "特技:立体視"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 12328,
+          "following_count": 355,
+          "tweet_count": 6576,
+          "listed_count": 126
+        },
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/SYVdYC9PBQ",
+                "expanded_url": "https://note.com/yopparai_chemist",
+                "display_url": "note.com/yopparai_chemi…"
+              }
+            ]
+          },
+          "description": {
+            "hashtags": [
+              {
+                "start": 65,
+                "end": 72,
+                "tag": "ぱらいbar"
+              }
+            ]
+          }
+        },
+        "username": "yopparai_chmist",
+        "protected": false,
+        "url": "https://t.co/SYVdYC9PBQ",
+        "created_at": "2019-02-02T11:47:44.000Z",
+        "name": "酔っ払い科学者",
+        "pinned_tweet_id": "1271709367889354752",
+        "id": "1091664460991741952",
+        "verified": false,
+        "description": "研究者。読書家。知的好奇心を満たす事とビールを飲む為に生きています。科学論文や本を読んで面白いと思った情報をわかりやすく呟きます。#ぱらいbar のマスター。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1183711928553635842/vmJF0BDE_normal.jpg",
+        "location": "エッセイ的なもの→"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 166420,
+          "following_count": 5773,
+          "tweet_count": 3037,
+          "listed_count": 1637
+        },
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/96zJBUoUuj",
+                "expanded_url": "https://www.pixiv.net/member.php?id=848240",
+                "display_url": "pixiv.net/member.php?id=…"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 86,
+                "end": 109,
+                "url": "https://t.co/bO0C746tli",
+                "expanded_url": "http://fantia.jp/fanclubs/4798",
+                "display_url": "fantia.jp/fanclubs/4798"
+              },
+              {
+                "start": 118,
+                "end": 141,
+                "url": "https://t.co/Vmef0lrlRI",
+                "expanded_url": "http://dikko.fanbox.cc",
+                "display_url": "dikko.fanbox.cc"
+              }
+            ]
+          }
+        },
+        "username": "dikkosan",
+        "protected": false,
+        "url": "https://t.co/96zJBUoUuj",
+        "created_at": "2018-09-27T12:43:25.000Z",
+        "name": "ディッコさん＠fantia@fanbox",
+        "pinned_tweet_id": "1364321396751544323",
+        "id": "1045292827582771201",
+        "verified": false,
+        "description": "いつも応援いただきありがとうございます！毎日１枚描いてます。好評だったイラストの差分を描く感じでやってます\n発情しまくった女の子とハードなことするのが大好き\nfantia:https://t.co/bO0C746tli Fan box:https://t.co/Vmef0lrlRI  無断転載NG。各種ご相談はメールへ～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1331774364593754114/VLq3neCO_normal.jpg",
+        "location": "メアド:dikko55593@gmail.com"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/Eu-cyLjVEAE_nWg.jpg",
+        "type": "photo",
+        "width": 2048,
+        "height": 1536,
+        "media_key": "3_1364481598024912897"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/Eu-cyLiVcAIeZ_b.jpg",
+        "type": "photo",
+        "width": 2048,
+        "height": 1536,
+        "media_key": "3_1364481598020743170"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/Eu-FU9gUYAIsMPS.png",
+        "type": "photo",
+        "width": 533,
+        "height": 819,
+        "media_key": "3_1364455807270543362"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1364481598024912897",
+            "3_1364481598020743170"
+          ]
+        },
+        "id": "1364481603930447872",
+        "reply_settings": "everyone",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847546154439000064",
+              "name": "Education",
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform."
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "1188908088570470400",
+              "name": "School Entrance Exams"
+            }
+          }
+        ],
+        "source": "Twitter for iPhone",
+        "conversation_id": "1364481603930447872",
+        "text": "入試直前の上野駅という、世界で1番貼っちゃいけない場所と時期に貼ってあるポスター\nこれを見て会場に向かう受験生の気持ちを考えると発狂してしまう……… https://t.co/U3U96z1S5o",
+        "public_metrics": {
+          "retweet_count": 1727,
+          "reply_count": 4,
+          "like_count": 8381,
+          "quote_count": 279
+        },
+        "created_at": "2021-02-24T07:45:39.000Z",
+        "author_id": "996228824361676800",
+        "possibly_sensitive": false,
+        "entities": {
+          "urls": [
+            {
+              "start": 75,
+              "end": 98,
+              "url": "https://t.co/U3U96z1S5o",
+              "expanded_url": "https://twitter.com/miz_tani/status/1364481603930447872/photo/1",
+              "display_url": "pic.twitter.com/U3U96z1S5o"
+            },
+            {
+              "start": 75,
+              "end": 98,
+              "url": "https://t.co/U3U96z1S5o",
+              "expanded_url": "https://twitter.com/miz_tani/status/1364481603930447872/photo/1",
+              "display_url": "pic.twitter.com/U3U96z1S5o"
+            }
+          ],
+          "annotations": [
+            {
+              "start": 5,
+              "end": 7,
+              "probability": 0.7954,
+              "type": "Place",
+              "normalized_text": "上野駅"
+            }
+          ]
+        }
+      },
+      {
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1364582130567835650"
+          }
+        ],
+        "id": "1364701595259211777",
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "conversation_id": "1364701595259211777",
+        "text": "腸の感情に迫るという面白い論文。腸に張り巡らされた迷走神経は脳と繋がっており、腸に入った刺激は脳へ伝わり何かしらの感情を形成する。\n\n著者はこの”腸の感情”をマッピングする為に、腸の迷走神経に電位を誘発するカプセルを開発し、腸に入った刺激が脳のどの部位を活性化するかを調べている (1/2) https://t.co/WBJeuiL61e",
+        "public_metrics": {
+          "retweet_count": 146,
+          "reply_count": 1,
+          "like_count": 603,
+          "quote_count": 8
+        },
+        "created_at": "2021-02-24T22:19:49.000Z",
+        "author_id": "1091664460991741952",
+        "possibly_sensitive": false,
+        "entities": {
+          "urls": [
+            {
+              "start": 146,
+              "end": 169,
+              "url": "https://t.co/WBJeuiL61e",
+              "expanded_url": "https://twitter.com/GMFHx/status/1364582130567835650",
+              "display_url": "twitter.com/GMFHx/status/1…"
+            }
+          ]
+        }
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1364455807270543362"
+          ]
+        },
+        "id": "1364455965563580420",
+        "reply_settings": "everyone",
+        "source": "Twitter Web App",
+        "conversation_id": "1364455965563580420",
+        "text": "馬娘の二次創作でうっかりヤバいのを描くと\nこういう人たちを敵に回すことになる https://t.co/Zww5XBy39p",
+        "public_metrics": {
+          "retweet_count": 5143,
+          "reply_count": 29,
+          "like_count": 5123,
+          "quote_count": 78
+        },
+        "created_at": "2021-02-24T06:03:47.000Z",
+        "author_id": "1045292827582771201",
+        "possibly_sensitive": true,
+        "entities": {
+          "urls": [
+            {
+              "start": 39,
+              "end": 62,
+              "url": "https://t.co/Zww5XBy39p",
+              "expanded_url": "https://twitter.com/dikkosan/status/1364455965563580420/photo/1",
+              "display_url": "pic.twitter.com/Zww5XBy39p"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1364615781154185217",
+    "newest_id": "1364936714129612806",
+    "result_count": 12
+  }
+}
