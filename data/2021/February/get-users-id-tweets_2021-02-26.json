@@ -1,0 +1,610 @@
+{
+  "data": [
+    {
+      "created_at": "2021-02-26T12:57:14.000Z",
+      "text": "次世代ナンバーワン、新作出てますね",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1365284790019104768",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1365284790019104768",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "sophia_is_dead"
+          }
+        ],
+        "urls": [
+          {
+            "start": 31,
+            "end": 54,
+            "url": "https://t.co/1bO3s0OJdl",
+            "expanded_url": "https://twitter.com/sophia_is_dead/status/1365211691718307842/photo/1",
+            "display_url": "pic.twitter.com/1bO3s0OJdl"
+          },
+          {
+            "start": 31,
+            "end": 54,
+            "url": "https://t.co/1bO3s0OJdl",
+            "expanded_url": "https://twitter.com/sophia_is_dead/status/1365211691718307842/photo/1",
+            "display_url": "pic.twitter.com/1bO3s0OJdl"
+          },
+          {
+            "start": 31,
+            "end": 54,
+            "url": "https://t.co/1bO3s0OJdl",
+            "expanded_url": "https://twitter.com/sophia_is_dead/status/1365211691718307842/photo/1",
+            "display_url": "pic.twitter.com/1bO3s0OJdl"
+          },
+          {
+            "start": 31,
+            "end": 54,
+            "url": "https://t.co/1bO3s0OJdl",
+            "expanded_url": "https://twitter.com/sophia_is_dead/status/1365211691718307842/photo/1",
+            "display_url": "pic.twitter.com/1bO3s0OJdl"
+          }
+        ]
+      },
+      "created_at": "2021-02-26T12:56:57.000Z",
+      "text": "RT @sophia_is_dead: そうだ！内見に行こう https://t.co/1bO3s0OJdl",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1365284719735185414",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1365211691718307842"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 242,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1365284719735185414",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "attachments": {
+        "media_keys": [
+          "3_1365211687029116929",
+          "3_1365211687855427587",
+          "3_1365211687184261120",
+          "3_1365211687461130242"
+        ]
+      },
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-26T12:46:39.000Z",
+      "text": "自己免疫性疾患にもmRNA使えるのはマジなんですか？ワイも救われたりしませんか(違います)",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1365282129177808901",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1365282129177808901",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-26T12:39:10.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847546154439000064",
+            "name": "Education",
+            "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform."
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "1188908088570470400",
+            "name": "School Entrance Exams"
+          }
+        }
+      ],
+      "text": "受験生死亡のお知らせじゃん",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1365280243972337664",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1365280243972337664",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "khara_inc"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 89,
+            "end": 102,
+            "probability": 0.7076,
+            "type": "Other",
+            "normalized_text": "シン・エヴァンゲリオン劇場版"
+          }
+        ],
+        "urls": [
+          {
+            "start": 43,
+            "end": 66,
+            "url": "https://t.co/JnMmDT6bmc",
+            "expanded_url": "https://www.khara.co.jp/2021/02/26/shineva-2/",
+            "display_url": "khara.co.jp/2021/02/26/shi…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1365270819295752197/bIu1iFyc?format=jpg&name=orig",
+                "width": 500,
+                "height": 500
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1365270819295752197/bIu1iFyc?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "『シン・エヴァンゲリオン劇場版』公開日決定のお知らせ",
+            "description": "初めに、この度の新型コロナウイルス感染症(COVID-19)被害に遭われた皆様へ、心よりお見舞い申し上げます。また、今現在も対応に当たられている医療従事者、その関係者の皆様へも感謝と敬意を表します。 再延期の発表以降、検討を重ねました結果、『シン・エヴァンゲリオン劇場版』の公開日を西暦2021年3月8日（月）に決定しました。 緊急事態宣言発出より、皆様が安心して本作をご覧いただける時期に向け、関係各所と様々な検討と準備を進めてまいりましたが、継続的に各劇場にて有効な感染対策がなされていること、さらに感染リスクを軽減する新たな鑑賞マナーの定着に鑑み、今回の決定に至りました。 現時点で緊急事態宣言発出中の地域がある状態ではございますが、公開にあたり劇場などでの準備が必要となるため、本日発表の運びとなりました。ご理解賜れますと幸甚に存じます。 ご鑑賞の際は各劇場での感染対策へのご協力をお願い申し上げます。 “新しい生活様式”における「映画館での新しい鑑賞マナーのお願い」 また、併せまして以下についてもお知らせ致します。 ■公開初日より 「式波・アスカ・ラングレー」描き下ろしイラストチラシ 配布決定 3月8日（月）の公開初日より、全国合計300万名様へ総作画監督・錦織敦史による「式波・アスカ・ラングレー」描き下ろしイラストチラシ（B6サイズ／二つ折り）を配布致します。 ※3月8日(月)より公開の『シン・エヴァンゲリオン劇場版』上映館で、本作をご鑑賞されたお客様、お一人様につき1枚の配布となります。 ※劇場により数に限りがありますので、配布終了の際はご了承ください。 ※配布スケジュールは変更になる可能性があります。 ■IMAX®、MX4D・4DX同時公開決定 3月8日（月）からの公開にて、すでに発表しておりましたIMAX®版に加えて、MX4D、4DXも同時公開となります。対応劇場は3/1（月）正午より以下劇場リストに掲載されます。 https://theater.toho.co.jp/toho_theaterlist/shin-evangelion.html ※4D上映のご鑑賞にあたっては諸注意がございます。 下記のホームページの内容をご確認・ご承認のうえ、ご鑑賞ください。 MX4Dとは：https://www.tohotheater.jp/service/mx4d/ 4DX",
+            "unwound_url": "https://www.khara.co.jp/2021/02/26/shineva-2/"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 16,
+            "end": 31,
+            "tag": "シン・エヴァンゲリオン劇場版"
+          }
+        ]
+      },
+      "created_at": "2021-02-26T12:38:58.000Z",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1010244637770985472",
+            "name": "Neon Genesis Evangelion",
+            "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)"
+          }
+        }
+      ],
+      "text": "RT @khara_inc: 『#シン・エヴァンゲリオン劇場版』公開日決定のお知らせ\nhttps://t.co/JnMmDT6bmc\n\n再延期の発表以降、検討を重ねました結果、『シン・エヴァンゲリオン劇場版』の公開日を西暦2021年3月8日（月）に決定しました。\n\nご鑑賞の際は…",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1365280194567704584",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1365270814640148480"
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 62183,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1365280194567704584",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-26T12:37:01.000Z",
+      "text": "なんか雑に死を予感してきたな、初夏あたりな感じ",
+      "source": "Twitter for iPhone",
+      "conversation_id": "1365279702852624386",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1365279702852624386",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-26T03:32:10.000Z",
+      "text": "宣言的に存在する自分と実際の自分とのギャップに苦しめられている説",
+      "source": "TweetDeck",
+      "conversation_id": "1365142586961235973",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "id": "1365142586961235973",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    },
+    {
+      "created_at": "2021-02-25T16:29:41.000Z",
+      "text": "Ningensei848 さんの 2021/02/25 の contribution 数: 0 #contributter_report",
+      "source": "Twitter",
+      "conversation_id": "1364975866514669570",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "start": 48,
+            "end": 68,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "id": "1364975866514669570",
+      "reply_settings": "everyone",
+      "possibly_sensitive": false,
+      "author_id": "707346268821913600"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "location": "山梨県→茨城県つくば市",
+        "username": "Ningensei848",
+        "name": "きあい🌕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 995,
+          "tweet_count": 58742,
+          "listed_count": 22
+        },
+        "url": "https://t.co/KBXT0N3eAa",
+        "pinned_tweet_id": "1345020610875777024",
+        "id": "707346268821913600",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "verified": false
+      },
+      {
+        "username": "sophia_is_dead",
+        "name": "寝ゲロ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/fToxZWLK1t",
+                "expanded_url": "https://www.pixiv.net/users/13904074",
+                "display_url": "pixiv.net/users/13904074"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1363111070441697282/UsCwweln_normal.jpg",
+        "public_metrics": {
+          "followers_count": 25874,
+          "following_count": 278,
+          "tweet_count": 634,
+          "listed_count": 326
+        },
+        "url": "https://t.co/fToxZWLK1t",
+        "pinned_tweet_id": "1361252766325170179",
+        "id": "920187387510104064",
+        "description": "ユーチューバー",
+        "created_at": "2017-10-17T07:19:04.000Z",
+        "verified": false
+      },
+      {
+        "username": "khara_inc",
+        "name": "株式会社カラー",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/a8OW0TJ7Ut",
+                "expanded_url": "http://khara.co.jp/",
+                "display_url": "khara.co.jp"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 76,
+                "end": 87,
+                "username": "khara_inc2"
+              },
+              {
+                "start": 103,
+                "end": 117,
+                "username": "evangelion_co"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/864773601462861825/fMH9kIEI_normal.jpg",
+        "public_metrics": {
+          "followers_count": 182902,
+          "following_count": 17,
+          "tweet_count": 5960,
+          "listed_count": 2111
+        },
+        "url": "https://t.co/a8OW0TJ7Ut",
+        "pinned_tweet_id": "1365270814640148480",
+        "id": "259194126",
+        "description": "株式会社カラー公式アカウントです。 『エヴァンゲリオン』シリーズをはじめスタジオカラー作品や所属スタッフの最新情報などをお知らせします。\n カラー2号機＠khara_inc2\n エヴァンゲリオンシリーズ公式@evangelion_co",
+        "created_at": "2011-03-01T10:14:12.000Z",
+        "verified": true
+      }
+    ],
+    "media": [
+      {
+        "type": "photo",
+        "width": 1484,
+        "height": 2048,
+        "url": "https://pbs.twimg.com/media/EvI0y9CVEAEIV_c.jpg",
+        "media_key": "3_1365211687029116929"
+      },
+      {
+        "type": "photo",
+        "width": 1474,
+        "height": 2048,
+        "url": "https://pbs.twimg.com/media/EvI0zAHVkAM73Oh.jpg",
+        "media_key": "3_1365211687855427587"
+      },
+      {
+        "type": "photo",
+        "width": 1466,
+        "height": 2048,
+        "url": "https://pbs.twimg.com/media/EvI0y9nUYAAXq2N.jpg",
+        "media_key": "3_1365211687184261120"
+      },
+      {
+        "type": "photo",
+        "width": 1462,
+        "height": 2048,
+        "url": "https://pbs.twimg.com/media/EvI0y-pVEAInaKG.jpg",
+        "media_key": "3_1365211687461130242"
+      }
+    ],
+    "tweets": [
+      {
+        "created_at": "2021-02-26T08:06:46.000Z",
+        "text": "そうだ！内見に行こう https://t.co/1bO3s0OJdl",
+        "source": "Twitter for iPhone",
+        "conversation_id": "1365211691718307842",
+        "entities": {
+          "urls": [
+            {
+              "start": 11,
+              "end": 34,
+              "url": "https://t.co/1bO3s0OJdl",
+              "expanded_url": "https://twitter.com/sophia_is_dead/status/1365211691718307842/photo/1",
+              "display_url": "pic.twitter.com/1bO3s0OJdl"
+            },
+            {
+              "start": 11,
+              "end": 34,
+              "url": "https://t.co/1bO3s0OJdl",
+              "expanded_url": "https://twitter.com/sophia_is_dead/status/1365211691718307842/photo/1",
+              "display_url": "pic.twitter.com/1bO3s0OJdl"
+            },
+            {
+              "start": 11,
+              "end": 34,
+              "url": "https://t.co/1bO3s0OJdl",
+              "expanded_url": "https://twitter.com/sophia_is_dead/status/1365211691718307842/photo/1",
+              "display_url": "pic.twitter.com/1bO3s0OJdl"
+            },
+            {
+              "start": 11,
+              "end": 34,
+              "url": "https://t.co/1bO3s0OJdl",
+              "expanded_url": "https://twitter.com/sophia_is_dead/status/1365211691718307842/photo/1",
+              "display_url": "pic.twitter.com/1bO3s0OJdl"
+            }
+          ]
+        },
+        "public_metrics": {
+          "retweet_count": 242,
+          "reply_count": 1,
+          "like_count": 1241,
+          "quote_count": 4
+        },
+        "id": "1365211691718307842",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "attachments": {
+          "media_keys": [
+            "3_1365211687029116929",
+            "3_1365211687855427587",
+            "3_1365211687184261120",
+            "3_1365211687461130242"
+          ]
+        },
+        "author_id": "920187387510104064"
+      },
+      {
+        "created_at": "2021-02-26T12:01:42.000Z",
+        "entities": {
+          "annotations": [
+            {
+              "start": 1,
+              "end": 15,
+              "probability": 0.4388,
+              "type": "Other",
+              "normalized_text": "#シン・エヴァンゲリオン劇場版"
+            },
+            {
+              "start": 74,
+              "end": 87,
+              "probability": 0.7066,
+              "type": "Other",
+              "normalized_text": "シン・エヴァンゲリオン劇場版"
+            }
+          ],
+          "urls": [
+            {
+              "start": 28,
+              "end": 51,
+              "url": "https://t.co/JnMmDT6bmc",
+              "expanded_url": "https://www.khara.co.jp/2021/02/26/shineva-2/",
+              "display_url": "khara.co.jp/2021/02/26/shi…",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1365270819295752197/bIu1iFyc?format=jpg&name=orig",
+                  "width": 500,
+                  "height": 500
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1365270819295752197/bIu1iFyc?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "『シン・エヴァンゲリオン劇場版』公開日決定のお知らせ",
+              "description": "初めに、この度の新型コロナウイルス感染症(COVID-19)被害に遭われた皆様へ、心よりお見舞い申し上げます。また、今現在も対応に当たられている医療従事者、その関係者の皆様へも感謝と敬意を表します。 再延期の発表以降、検討を重ねました結果、『シン・エヴァンゲリオン劇場版』の公開日を西暦2021年3月8日（月）に決定しました。 緊急事態宣言発出より、皆様が安心して本作をご覧いただける時期に向け、関係各所と様々な検討と準備を進めてまいりましたが、継続的に各劇場にて有効な感染対策がなされていること、さらに感染リスクを軽減する新たな鑑賞マナーの定着に鑑み、今回の決定に至りました。 現時点で緊急事態宣言発出中の地域がある状態ではございますが、公開にあたり劇場などでの準備が必要となるため、本日発表の運びとなりました。ご理解賜れますと幸甚に存じます。 ご鑑賞の際は各劇場での感染対策へのご協力をお願い申し上げます。 “新しい生活様式”における「映画館での新しい鑑賞マナーのお願い」 また、併せまして以下についてもお知らせ致します。 ■公開初日より 「式波・アスカ・ラングレー」描き下ろしイラストチラシ 配布決定 3月8日（月）の公開初日より、全国合計300万名様へ総作画監督・錦織敦史による「式波・アスカ・ラングレー」描き下ろしイラストチラシ（B6サイズ／二つ折り）を配布致します。 ※3月8日(月)より公開の『シン・エヴァンゲリオン劇場版』上映館で、本作をご鑑賞されたお客様、お一人様につき1枚の配布となります。 ※劇場により数に限りがありますので、配布終了の際はご了承ください。 ※配布スケジュールは変更になる可能性があります。 ■IMAX®、MX4D・4DX同時公開決定 3月8日（月）からの公開にて、すでに発表しておりましたIMAX®版に加えて、MX4D、4DXも同時公開となります。対応劇場は3/1（月）正午より以下劇場リストに掲載されます。 https://theater.toho.co.jp/toho_theaterlist/shin-evangelion.html ※4D上映のご鑑賞にあたっては諸注意がございます。 下記のホームページの内容をご確認・ご承認のうえ、ご鑑賞ください。 MX4Dとは：https://www.tohotheater.jp/service/mx4d/ 4DX",
+              "unwound_url": "https://www.khara.co.jp/2021/02/26/shineva-2/"
+            },
+            {
+              "start": 158,
+              "end": 181,
+              "url": "https://t.co/ffwjPglunV",
+              "expanded_url": "https://twitter.com/khara_inc/status/1365270814640148480/photo/1",
+              "display_url": "pic.twitter.com/ffwjPglunV"
+            },
+            {
+              "start": 158,
+              "end": 181,
+              "url": "https://t.co/ffwjPglunV",
+              "expanded_url": "https://twitter.com/khara_inc/status/1365270814640148480/photo/1",
+              "display_url": "pic.twitter.com/ffwjPglunV"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 1,
+              "end": 16,
+              "tag": "シン・エヴァンゲリオン劇場版"
+            },
+            {
+              "start": 151,
+              "end": 157,
+              "tag": "シンエヴァ"
+            }
+          ]
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "123",
+              "name": "Ongoing News Story",
+              "description": "Ongoing News Stories like 'Brexit'"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "domain": {
+              "id": "130",
+              "name": "Multimedia Franchise",
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+            },
+            "entity": {
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion",
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)"
+            }
+          }
+        ],
+        "text": "『#シン・エヴァンゲリオン劇場版』公開日決定のお知らせ\nhttps://t.co/JnMmDT6bmc\n\n再延期の発表以降、検討を重ねました結果、『シン・エヴァンゲリオン劇場版』の公開日を西暦2021年3月8日（月）に決定しました。\n\nご鑑賞の際は各劇場での感染対策へのご協力をお願い申し上げます。\n\n#シンエヴァ https://t.co/ffwjPglunV",
+        "source": "Twitter Web App",
+        "conversation_id": "1365270814640148480",
+        "public_metrics": {
+          "retweet_count": 62183,
+          "reply_count": 464,
+          "like_count": 87575,
+          "quote_count": 7169
+        },
+        "id": "1365270814640148480",
+        "reply_settings": "everyone",
+        "possibly_sensitive": false,
+        "attachments": {
+          "media_keys": [
+            "3_1365270809913167876",
+            "3_1365270809908891653"
+          ]
+        },
+        "author_id": "259194126"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1364975866514669570",
+    "newest_id": "1365284790019104768",
+    "result_count": 8
+  }
+}
