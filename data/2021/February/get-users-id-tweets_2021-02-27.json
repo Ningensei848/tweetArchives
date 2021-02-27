@@ -1,0 +1,936 @@
+{
+  "data": [
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone",
+      "id": "1365585546530070530",
+      "text": "北側を登ったのですが、道路がありえん黒焦げてて笑っちゃった",
+      "reply_settings": "everyone",
+      "conversation_id": "1365585546530070530",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-27T08:52:20.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "source": "Foursquare Swarm",
+      "attachments": {
+        "media_keys": [
+          "3_1365585306330820608"
+        ]
+      },
+      "id": "1365585308293730308",
+      "entities": {
+        "annotations": [
+          {
+            "start": 25,
+            "end": 28,
+            "probability": 0.8539,
+            "type": "Place",
+            "normalized_text": "つくば市"
+          },
+          {
+            "start": 31,
+            "end": 33,
+            "probability": 0.8656,
+            "type": "Place",
+            "normalized_text": "茨城県"
+          }
+        ],
+        "urls": [
+          {
+            "start": 36,
+            "end": 59,
+            "url": "https://t.co/kwdWPs1WQM",
+            "expanded_url": "https://www.swarmapp.com/c/dGbTQuVeOoi",
+            "display_url": "swarmapp.com/c/dGbTQuVeOoi",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1365585310101499904/Hf0RF_bd?format=jpg&name=orig",
+                "width": 600,
+                "height": 600
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1365585310101499904/Hf0RF_bd?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "気合の鬼 | Mt. Tsukuba",
+            "description": "Get out. Explore. Download Swarm and live your life more checked in.",
+            "unwound_url": "https://www.swarmapp.com/c/dGbTQuVeOoi"
+          },
+          {
+            "start": 60,
+            "end": 83,
+            "url": "https://t.co/t6fGnuCkYH",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1365585308293730308/photo/1",
+            "display_url": "pic.twitter.com/t6fGnuCkYH"
+          }
+        ]
+      },
+      "text": "この木フォトショで消してくれ (@ 筑波山 in つくば市, 茨城県) https://t.co/kwdWPs1WQM https://t.co/t6fGnuCkYH",
+      "reply_settings": "everyone",
+      "conversation_id": "1365585308293730308",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-27T08:51:23.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "source": "Foursquare Swarm",
+      "attachments": {
+        "media_keys": [
+          "3_1365575447090761738"
+        ]
+      },
+      "id": "1365575448453918721",
+      "entities": {
+        "annotations": [
+          {
+            "start": 10,
+            "end": 22,
+            "probability": 0.792,
+            "type": "Place",
+            "normalized_text": "セイコーマート 真壁羽鳥店"
+          },
+          {
+            "start": 27,
+            "end": 29,
+            "probability": 0.7856,
+            "type": "Place",
+            "normalized_text": "桜川市"
+          },
+          {
+            "start": 32,
+            "end": 34,
+            "probability": 0.8529,
+            "type": "Place",
+            "normalized_text": "茨城県"
+          }
+        ],
+        "urls": [
+          {
+            "start": 37,
+            "end": 60,
+            "url": "https://t.co/puXSMmJQop",
+            "expanded_url": "https://www.swarmapp.com/c/6NtouKlpY44",
+            "display_url": "swarmapp.com/c/6NtouKlpY44",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1365575450622365697/aQaWcgHz?format=jpg&name=orig",
+                "width": 600,
+                "height": 600
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1365575450622365697/aQaWcgHz?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "気合の鬼 | セイコーマート 真壁羽鳥店",
+            "description": "Get out. Explore. Download Swarm and live your life more checked in.",
+            "unwound_url": "https://www.swarmapp.com/c/6NtouKlpY44"
+          },
+          {
+            "start": 61,
+            "end": 84,
+            "url": "https://t.co/0eETlRGWl2",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1365575448453918721/photo/1",
+            "display_url": "pic.twitter.com/0eETlRGWl2"
+          }
+        ]
+      },
+      "text": "終わりへの旅 (@ セイコーマート 真壁羽鳥店 in 桜川市, 茨城県) https://t.co/puXSMmJQop https://t.co/0eETlRGWl2",
+      "reply_settings": "everyone",
+      "conversation_id": "1365575448453918721",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-27T08:12:12.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "45",
+            "name": "Brand Vertical",
+            "description": "Top level entities that describe a Brands industry"
+          },
+          "entity": {
+            "id": "781974597310615553",
+            "name": "Entertainment"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "781974597218340864",
+            "name": "Video Games"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026713294",
+            "name": "Nintendo"
+          }
+        },
+        {
+          "domain": {
+            "id": "78",
+            "name": "Video Game Publisher",
+            "description": "A Video Game Publisher like 'Activision'"
+          },
+          "entity": {
+            "id": "10026713294",
+            "name": "Nintendo"
+          }
+        },
+        {
+          "domain": {
+            "id": "79",
+            "name": "Video Game Hardware",
+            "description": "Video Game Hardware"
+          },
+          "entity": {
+            "id": "856739783577554949",
+            "name": "Nintendo Switch",
+            "description": "Nintendo Switch"
+          }
+        }
+      ],
+      "id": "1365550248840491016",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 7,
+            "probability": 0.3512,
+            "type": "Product",
+            "normalized_text": "NINTENDO"
+          }
+        ]
+      },
+      "text": "NINTENDO、マジであと5、6年はSwitch系統以外のハード出さんのやろなという確信を得た、まだ世間にはほとんどリーチしていない層がある",
+      "reply_settings": "everyone",
+      "conversation_id": "1365550248840491016",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-27T06:32:04.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 338,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone",
+      "attachments": {
+        "media_keys": [
+          "3_1365323255062560768"
+        ]
+      },
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "79",
+            "name": "Video Game Hardware",
+            "description": "Video Game Hardware"
+          },
+          "entity": {
+            "id": "856739783577554949",
+            "name": "Nintendo Switch",
+            "description": "Nintendo Switch"
+          }
+        }
+      ],
+      "id": "1365549925618999298",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1365323385547333632"
+        }
+      ],
+      "text": "RT @hoppege_R: 何を慌てているのか説明致しますと\n↓この状態の「ニンテンドースイッチ」を生まれてはじめてみた子供になっています https://t.co/LoPYV7kS01",
+      "reply_settings": "everyone",
+      "conversation_id": "1365549925618999298",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "hoppege_R"
+          }
+        ],
+        "urls": [
+          {
+            "start": 71,
+            "end": 94,
+            "url": "https://t.co/LoPYV7kS01",
+            "expanded_url": "https://twitter.com/hoppege_R/status/1365323385547333632/photo/1",
+            "display_url": "pic.twitter.com/LoPYV7kS01"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-27T06:30:47.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 147,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848920700073123840",
+            "name": "Cell Phones",
+            "description": "Cell phones"
+          }
+        },
+        {
+          "domain": {
+            "id": "79",
+            "name": "Video Game Hardware",
+            "description": "Video Game Hardware"
+          },
+          "entity": {
+            "id": "856739783577554949",
+            "name": "Nintendo Switch",
+            "description": "Nintendo Switch"
+          }
+        }
+      ],
+      "id": "1365549914151817218",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1365322340070957057"
+        }
+      ],
+      "text": "RT @hoppege_R: えっ　Switchって携帯できるの",
+      "reply_settings": "everyone",
+      "conversation_id": "1365549914151817218",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "hoppege_R"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-27T06:30:44.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 527,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "10045599546",
+            "name": "Pokémon",
+            "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18."
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848920700073123840",
+            "name": "Cell Phones",
+            "description": "Cell phones"
+          }
+        },
+        {
+          "domain": {
+            "id": "79",
+            "name": "Video Game Hardware",
+            "description": "Video Game Hardware"
+          },
+          "entity": {
+            "id": "856739783577554949",
+            "name": "Nintendo Switch",
+            "description": "Nintendo Switch"
+          }
+        }
+      ],
+      "id": "1365549906602070019",
+      "entities": {
+        "annotations": [
+          {
+            "start": 39,
+            "end": 44,
+            "probability": 0.3856,
+            "type": "Product",
+            "normalized_text": "Switch"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "hoppege_R"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1365322546887843843"
+        }
+      ],
+      "text": "RT @hoppege_R: 僕「もう携帯機のポケモン出ないのかなー」\n母上「Switchでやればええやん」\n僕「Switchは携帯できないでしょ？」\n母上「何を言うとるんだオマエは（なんかちっちゃい画面でSwitchやりだす」\n僕「？？？？？」\n母上「？？？？？？？？？？」",
+      "reply_settings": "everyone",
+      "conversation_id": "1365549906602070019",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-27T06:30:43.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone",
+      "id": "1365539587330691079",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1365538892460351495"
+        }
+      ],
+      "text": "乗るという観点に立つと、馬より車よりもっと安い人をたくさん集めて経済的・社会的にライドした方が良さそう(実は社会はそうなってるらしい) https://t.co/QPJIuGYi80",
+      "reply_settings": "everyone",
+      "conversation_id": "1365539587330691079",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-27T05:49:42.000Z",
+      "entities": {
+        "urls": [
+          {
+            "start": 68,
+            "end": 91,
+            "url": "https://t.co/QPJIuGYi80",
+            "expanded_url": "https://twitter.com/haru20835392/status/1365538892460351495",
+            "display_url": "twitter.com/haru20835392/s…"
+          }
+        ]
+      }
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 1
+      },
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone",
+      "id": "1365522573446946817",
+      "text": "人を育てるのに飽きた人類が馬を育てるっぽい、本当ですか(?)",
+      "reply_settings": "everyone",
+      "conversation_id": "1365522573446946817",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-27T04:42:06.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "source": "Twitter for iPhone",
+      "id": "1365522223927230464",
+      "text": "人生、もしかして己の代わりに成長してくれる存在が欲しいから生殖目指してない？",
+      "reply_settings": "everyone",
+      "conversation_id": "1365522223927230464",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-27T04:40:43.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "source": "Twitter for iPad",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "1351618812265656320",
+            "name": "PUI PUI モルカー"
+          }
+        }
+      ],
+      "id": "1365453360720060421",
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.3587,
+            "type": "Person",
+            "normalized_text": "モルカー"
+          }
+        ]
+      },
+      "text": "モルカーとヒードランのあいのこみたいな二次創作まだ見てないけど",
+      "reply_settings": "everyone",
+      "conversation_id": "1365453360720060421",
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-27T00:07:04.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "source": "Twitter",
+      "id": "1365338211359354882",
+      "text": "Ningensei848 さんの 2021/02/26 の contribution 数: 0 #contributter_report",
+      "reply_settings": "everyone",
+      "conversation_id": "1365338211359354882",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 48,
+            "end": 68,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "created_at": "2021-02-26T16:29:31.000Z"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "id": "707346268821913600",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "url": "https://t.co/KBXT0N3eAa",
+        "verified": false,
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "location": "山梨県→茨城県つくば市",
+        "username": "Ningensei848",
+        "name": "きあい🌕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "pinned_tweet_id": "1345020610875777024",
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 995,
+          "tweet_count": 58756,
+          "listed_count": 22
+        }
+      },
+      {
+        "description": "絵がある垢→@hoppege_art \n漫画家のオタクです　ゲームは苦手です\n⚠️RT多いです📕\nまんがライフWINにて「中原くんの過保護な妹」連載中　\n🎨Skeb→ https://t.co/tUHrRScgwF \n✉→ jingmilkmilk＠hotmail.com \n⚽️川崎F🐬⚾阪神🐯",
+        "id": "18513617",
+        "created_at": "2008-12-31T19:21:46.000Z",
+        "url": "https://t.co/jhKAXyxFjF",
+        "verified": false,
+        "protected": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/jhKAXyxFjF",
+                "expanded_url": "https://www.pixiv.net/member.php?id=16400",
+                "display_url": "pixiv.net/member.php?id=…"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 84,
+                "end": 107,
+                "url": "https://t.co/tUHrRScgwF",
+                "expanded_url": "http://skeb.jp/@hoppege_R",
+                "display_url": "skeb.jp/@hoppege_R"
+              }
+            ],
+            "mentions": [
+              {
+                "start": 6,
+                "end": 18,
+                "username": "hoppege_art"
+              }
+            ]
+          }
+        },
+        "location": "川崎市",
+        "username": "hoppege_R",
+        "name": "ほっぺげ☕🍄単行本⑦巻3月5日発売",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364966093589200912/S-dvUgPz_normal.jpg",
+        "pinned_tweet_id": "1356291766203281408",
+        "public_metrics": {
+          "followers_count": 33507,
+          "following_count": 5415,
+          "tweet_count": 1046155,
+          "listed_count": 954
+        }
+      },
+      {
+        "description": "klis16 でした / ᗪᑎG",
+        "id": "1020670581803397121",
+        "created_at": "2018-07-21T14:03:24.000Z",
+        "url": "",
+        "verified": false,
+        "protected": false,
+        "location": "松戸の家",
+        "username": "HaRu20835392",
+        "name": "Yukida(Lu)〽️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325447797907181570/QdeGPn-D_normal.jpg",
+        "pinned_tweet_id": "1337561831217405952",
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 67,
+          "tweet_count": 3716,
+          "listed_count": 2
+        }
+      }
+    ],
+    "media": [
+      {
+        "media_key": "3_1365585306330820608",
+        "url": "https://pbs.twimg.com/media/EvOImdZXcAAJcrh.jpg",
+        "type": "photo",
+        "height": 1440,
+        "width": 1920
+      },
+      {
+        "media_key": "3_1365575447090761738",
+        "url": "https://pbs.twimg.com/media/EvN_ok3XEAokqSd.jpg",
+        "type": "photo",
+        "height": 1440,
+        "width": 1920
+      },
+      {
+        "media_key": "3_1365323255062560768",
+        "url": "https://pbs.twimg.com/media/EvKaREWVgAAOoFl.jpg",
+        "type": "photo",
+        "height": 300,
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "public_metrics": {
+          "retweet_count": 338,
+          "reply_count": 6,
+          "like_count": 461,
+          "quote_count": 0
+        },
+        "possibly_sensitive": false,
+        "source": "Twitter Web App",
+        "attachments": {
+          "media_keys": [
+            "3_1365323255062560768"
+          ]
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "79",
+              "name": "Video Game Hardware",
+              "description": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "856739783577554949",
+              "name": "Nintendo Switch",
+              "description": "Nintendo Switch"
+            }
+          }
+        ],
+        "id": "1365323385547333632",
+        "text": "何を慌てているのか説明致しますと\n↓この状態の「ニンテンドースイッチ」を生まれてはじめてみた子供になっています https://t.co/LoPYV7kS01",
+        "reply_settings": "everyone",
+        "conversation_id": "1365323385547333632",
+        "author_id": "18513617",
+        "created_at": "2021-02-26T15:30:36.000Z",
+        "entities": {
+          "urls": [
+            {
+              "start": 56,
+              "end": 79,
+              "url": "https://t.co/LoPYV7kS01",
+              "expanded_url": "https://twitter.com/hoppege_R/status/1365323385547333632/photo/1",
+              "display_url": "pic.twitter.com/LoPYV7kS01"
+            }
+          ]
+        }
+      },
+      {
+        "public_metrics": {
+          "retweet_count": 147,
+          "reply_count": 6,
+          "like_count": 152,
+          "quote_count": 0
+        },
+        "possibly_sensitive": false,
+        "source": "Twitter Web App",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "848920371311001600",
+              "name": "Technology",
+              "description": "Technology and computing"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "848920700073123840",
+              "name": "Cell Phones",
+              "description": "Cell phones"
+            }
+          },
+          {
+            "domain": {
+              "id": "79",
+              "name": "Video Game Hardware",
+              "description": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "856739783577554949",
+              "name": "Nintendo Switch",
+              "description": "Nintendo Switch"
+            }
+          }
+        ],
+        "id": "1365322340070957057",
+        "text": "えっ　Switchって携帯できるの",
+        "reply_settings": "everyone",
+        "conversation_id": "1365322340070957057",
+        "author_id": "18513617",
+        "created_at": "2021-02-26T15:26:26.000Z"
+      },
+      {
+        "public_metrics": {
+          "retweet_count": 527,
+          "reply_count": 2,
+          "like_count": 724,
+          "quote_count": 4
+        },
+        "possibly_sensitive": false,
+        "source": "Twitter Web App",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "130",
+              "name": "Multimedia Franchise",
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+            },
+            "entity": {
+              "id": "10045599546",
+              "name": "Pokémon",
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18."
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "848920371311001600",
+              "name": "Technology",
+              "description": "Technology and computing"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "848920700073123840",
+              "name": "Cell Phones",
+              "description": "Cell phones"
+            }
+          },
+          {
+            "domain": {
+              "id": "79",
+              "name": "Video Game Hardware",
+              "description": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "856739783577554949",
+              "name": "Nintendo Switch",
+              "description": "Nintendo Switch"
+            }
+          }
+        ],
+        "id": "1365322546887843843",
+        "text": "僕「もう携帯機のポケモン出ないのかなー」\n母上「Switchでやればええやん」\n僕「Switchは携帯できないでしょ？」\n母上「何を言うとるんだオマエは（なんかちっちゃい画面でSwitchやりだす」\n僕「？？？？？」\n母上「？？？？？？？？？？」",
+        "reply_settings": "everyone",
+        "conversation_id": "1365322546887843843",
+        "author_id": "18513617",
+        "created_at": "2021-02-26T15:27:16.000Z"
+      },
+      {
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 0,
+          "like_count": 0,
+          "quote_count": 1
+        },
+        "possibly_sensitive": false,
+        "source": "Twitter for Android",
+        "id": "1365538892460351495",
+        "referenced_tweets": [
+          {
+            "type": "quoted",
+            "id": "1365522573446946817"
+          }
+        ],
+        "text": "いや、馬は乗れるからね\n育つ車です https://t.co/anuUK35CJG",
+        "reply_settings": "everyone",
+        "conversation_id": "1365538892460351495",
+        "author_id": "1020670581803397121",
+        "created_at": "2021-02-27T05:46:57.000Z",
+        "entities": {
+          "urls": [
+            {
+              "start": 18,
+              "end": 41,
+              "url": "https://t.co/anuUK35CJG",
+              "expanded_url": "https://twitter.com/Ningensei848/status/1365522573446946817",
+              "display_url": "twitter.com/Ningensei848/s…"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1365338211359354882",
+    "newest_id": "1365585546530070530",
+    "result_count": 12
+  }
+}
