@@ -1,0 +1,200 @@
+{
+  "data": [
+    {
+      "text": "OZ",
+      "conversation_id": "1365813700100120580",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-27T23:58:56.000Z",
+      "id": "1365813700100120580",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "text": "RT @ikazone: 子供のころに居た『一族から離れた土地で、何をして暮らしているかは良くわからない独身の謎の親戚』に今なっている。",
+      "conversation_id": "1365813637793767424",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1365634525154463749"
+        }
+      ],
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-27T23:58:41.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "ikazone"
+          }
+        ]
+      },
+      "id": "1365813637793767424",
+      "public_metrics": {
+        "retweet_count": 17788,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "text": "Ningensei848 さんの 2021/02/27 の contribution 数: 0 #contributter_report",
+      "conversation_id": "1365699317865062401",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "Twitter",
+      "possibly_sensitive": false,
+      "entities": {
+        "hashtags": [
+          {
+            "start": 48,
+            "end": 68,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "created_at": "2021-02-27T16:24:25.000Z",
+      "id": "1365699317865062401",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "text": "寝させ屋つってチョークでオトしてくれる商売を必要としています、朝凪のモモフトJKではありません………",
+      "conversation_id": "1365690187347415044",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-27T15:48:08.000Z",
+      "id": "1365690187347415044",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "text": "極まりの翁",
+      "conversation_id": "1365686786832297984",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-27T15:34:37.000Z",
+      "id": "1365686786832297984",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "text": "死ぬように生きたくはねぇよ",
+      "conversation_id": "1365686486784303104",
+      "author_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false,
+      "created_at": "2021-02-27T15:33:26.000Z",
+      "id": "1365686486784303104",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      }
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "url": "https://t.co/KBXT0N3eAa",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 995,
+          "tweet_count": 58759,
+          "listed_count": 22
+        },
+        "pinned_tweet_id": "1345020610875777024",
+        "verified": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "id": "707346268821913600",
+        "location": "山梨県→茨城県つくば市",
+        "name": "きあい🌕",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "username": "Ningensei848"
+      },
+      {
+        "url": "",
+        "created_at": "2009-09-27T00:07:17.000Z",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 402,
+          "tweet_count": 142935,
+          "listed_count": 24
+        },
+        "verified": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/451014406164328450/qHYYB7oU_normal.jpeg",
+        "id": "77610152",
+        "name": "いかぞー",
+        "description": "長崎県産、東京向け出荷済みの新種妖怪。  掃除したり料理したりコスプレしたり。    cure worldcosplay：533303  mixi：264208",
+        "username": "ikazone"
+      }
+    ],
+    "tweets": [
+      {
+        "text": "子供のころに居た『一族から離れた土地で、何をして暮らしているかは良くわからない独身の謎の親戚』に今なっている。",
+        "conversation_id": "1365634525154463749",
+        "author_id": "77610152",
+        "reply_settings": "everyone",
+        "source": "twicli",
+        "possibly_sensitive": false,
+        "created_at": "2021-02-27T12:06:57.000Z",
+        "id": "1365634525154463749",
+        "public_metrics": {
+          "retweet_count": 17788,
+          "reply_count": 60,
+          "like_count": 101676,
+          "quote_count": 546
+        }
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1365686486784303104",
+    "newest_id": "1365813700100120580",
+    "result_count": 6
+  }
+}
