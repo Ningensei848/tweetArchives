@@ -1,0 +1,311 @@
+{
+  "data": [
+    {
+      "source": "Twitter for iPhone",
+      "entities": {
+        "annotations": [
+          {
+            "start": 7,
+            "end": 14,
+            "probability": 0.5515,
+            "type": "Product",
+            "normalized_text": "LINE Pay"
+          }
+        ]
+      },
+      "text": "え、知らん間にLINE PayとPayPay合体するんか？",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2021-03-01T08:24:16.000Z",
+      "reply_settings": "everyone",
+      "id": "1366303258097065984",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false,
+      "conversation_id": "1366303258097065984"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "人類、メシを食べても食べなくてもそれは「食べた」「食べてない」というステでしかないことが多いんですが、そのどっちをやっていても常時デバフが発現している",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-03-01T05:31:51.000Z",
+      "reply_settings": "everyone",
+      "id": "1366259868336709634",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false,
+      "conversation_id": "1366259868336709634"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "みんな西洋的価値観のせいで社会性は「あたま」にあると思ってたり、いやはや「こころ」が大事でしょとか言ったりすんるですけど、\n\n実は消化器官だけが必要であとはおまけです",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-03-01T05:26:54.000Z",
+      "reply_settings": "everyone",
+      "id": "1366258622607491073",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false,
+      "conversation_id": "1366258622607491073"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "1109139066430210048",
+            "name": "Shonen Jump"
+          }
+        }
+      ],
+      "text": "ジャンプ発売日に気づけないくらい体調が終わっています",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-03-01T05:24:42.000Z",
+      "reply_settings": "everyone",
+      "id": "1366258071010336769",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false,
+      "conversation_id": "1366258071010336769"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "text": "この状態からなるべく遠くまでダッシュせよと言われているみなさん",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-03-01T05:14:47.000Z",
+      "reply_settings": "everyone",
+      "id": "1366255574174769154",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false,
+      "conversation_id": "1366255574174769154"
+    },
+    {
+      "source": "Twitter for iPhone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1365971577569878019"
+        }
+      ],
+      "text": "RT @nbaji9: 自由と不自由が共存している状態 https://t.co/nHC5XXKt7E",
+      "public_metrics": {
+        "retweet_count": 6425,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2021-03-01T05:14:09.000Z",
+      "attachments": {
+        "media_keys": [
+          "3_1365971191626821632"
+        ]
+      },
+      "reply_settings": "everyone",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "nbaji9"
+          }
+        ],
+        "urls": [
+          {
+            "start": 28,
+            "end": 51,
+            "url": "https://t.co/nHC5XXKt7E",
+            "expanded_url": "https://twitter.com/nbaji9/status/1365971577569878019/photo/1",
+            "display_url": "pic.twitter.com/nHC5XXKt7E"
+          }
+        ]
+      },
+      "id": "1366255416531841027",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false,
+      "conversation_id": "1366255416531841027"
+    },
+    {
+      "source": "Twitter",
+      "text": "Ningensei848 さんの 2021/02/28 の contribution 数: 0 #contributter_report",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "start": 48,
+            "end": 68,
+            "tag": "contributter_report"
+          }
+        ]
+      },
+      "created_at": "2021-02-28T16:24:22.000Z",
+      "reply_settings": "everyone",
+      "id": "1366061691243528200",
+      "author_id": "707346268821913600",
+      "possibly_sensitive": false,
+      "conversation_id": "1366061691243528200"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "verified": false,
+        "url": "https://t.co/KBXT0N3eAa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg",
+        "protected": false,
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "pinned_tweet_id": "1345020610875777024",
+        "location": "山梨県→茨城県つくば市",
+        "username": "Ningensei848",
+        "name": "きあい☁",
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 995,
+          "tweet_count": 58766,
+          "listed_count": 22
+        },
+        "id": "707346268821913600",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境"
+      },
+      {
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/E6QXEGM8BZ",
+                "expanded_url": "https://www.youtube.com/channel/UCPlb4KN0FHSx4kpXZkBuAbA",
+                "display_url": "youtube.com/channel/UCPlb4…"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 50,
+                "end": 73,
+                "url": "https://t.co/mNTY7Fd4ua",
+                "expanded_url": "https://suzuri.jp/nbaji",
+                "display_url": "suzuri.jp/nbaji"
+              },
+              {
+                "start": 88,
+                "end": 111,
+                "url": "https://t.co/Lsbu1pHUKE",
+                "expanded_url": "https://twitter.com/i/events/1310446917134868481?s=21",
+                "display_url": "twitter.com/i/events/13104…"
+              }
+            ]
+          }
+        },
+        "verified": false,
+        "url": "https://t.co/E6QXEGM8BZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1231508761174347776/ESrVx2KH_normal.jpg",
+        "protected": false,
+        "created_at": "2013-05-03T01:28:36.000Z",
+        "pinned_tweet_id": "1188382489607147525",
+        "username": "nbaji9",
+        "name": "ンバヂ",
+        "public_metrics": {
+          "followers_count": 14408,
+          "following_count": 813,
+          "tweet_count": 24609,
+          "listed_count": 120
+        },
+        "id": "1398574982",
+        "description": "作ったり描いたり(詳しくはメディア欄/絵/GIF/作曲/ 言葉遊び/ｼｮｰﾄｼｮｰﾄ/suzuri https://t.co/mNTY7Fd4ua /オススメツイートまとめ→ https://t.co/Lsbu1pHUKE /ご連絡はDMへ"
+      }
+    ],
+    "media": [
+      {
+        "media_key": "3_1365971191626821632",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EvTnj8JVcAAggwM.jpg",
+        "height": 1350,
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "source": "Twitter Web App",
+        "text": "自由と不自由が共存している状態 https://t.co/nHC5XXKt7E",
+        "public_metrics": {
+          "retweet_count": 6425,
+          "reply_count": 37,
+          "like_count": 51917,
+          "quote_count": 115
+        },
+        "created_at": "2021-02-28T10:26:17.000Z",
+        "attachments": {
+          "media_keys": [
+            "3_1365971191626821632"
+          ]
+        },
+        "reply_settings": "everyone",
+        "id": "1365971577569878019",
+        "author_id": "1398574982",
+        "possibly_sensitive": false,
+        "entities": {
+          "urls": [
+            {
+              "start": 16,
+              "end": 39,
+              "url": "https://t.co/nHC5XXKt7E",
+              "expanded_url": "https://twitter.com/nbaji9/status/1365971577569878019/photo/1",
+              "display_url": "pic.twitter.com/nHC5XXKt7E"
+            }
+          ]
+        },
+        "conversation_id": "1365971577569878019"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1366061691243528200",
+    "newest_id": "1366303258097065984",
+    "result_count": 7
+  }
+}
