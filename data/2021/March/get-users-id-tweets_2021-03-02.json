@@ -1,0 +1,1766 @@
+{
+  "data": [
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1366735252488527877"
+        }
+      ],
+      "text": "クソほどサーバに負担かけてもコストをそこに割けばいいから気にしない！！的な脳筋姿勢なだけなのかな、いやきっとそんなはずはないんだけど……\nクライアント側に全部置いとくと解析されてしまうリスクを考えてるとか？(モバイルアプリ未経験なため常識的思考がない)\nあるいは設計者が無能なだけ…？",
+      "conversation_id": "1366733460904112133",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T13:07:17.000Z",
+      "in_reply_to_user_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "id": "1366736872223875072",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1366733460904112133"
+        }
+      ],
+      "text": "アプリの更新時に通信が発生するのはわかる、でもなんで挙動一つ一つに通信を発生させて自らサーバに負荷をかけていくのか良くわからないすぎる、通信を多くするインセンティブが見えなくてちょっと不審、それとも単に書き込み先をサーバに多く持ってるだけの話？(ならなおさら回数を減らせという話が",
+      "conversation_id": "1366733460904112133",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T13:00:51.000Z",
+      "in_reply_to_user_id": "707346268821913600",
+      "reply_settings": "everyone",
+      "id": "1366735252488527877",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false
+    },
+    {
+      "text": "ソシャゲ、詫び石騒動だのそれを発端とした誹謗中傷が溢れて止まらん信用失墜のリスクを抱えてまでサーバーに依存する構成にするのかわからない、もっとスタンドアロンに楽しめてもいいように設計すべきでしょ(資本と期間的にもできたはずのウマ娘でもそうはなっていないのでなんらかの理由があるはず?",
+      "conversation_id": "1366733460904112133",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T12:53:44.000Z",
+      "reply_settings": "everyone",
+      "id": "1366733460904112133",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false
+    },
+    {
+      "text": "ウマ娘、ストーリーを見ると顕著なんですけど、表情や動きの細部への拘り方が異常情熱すぎて震えてしまう(目線と耳、尻尾や眉まで展開に合わせて調整されてる)(もしかしてなんですけどフェイスリグとかモーキャプ入れたのか？)",
+      "conversation_id": "1366731439455182848",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T12:45:42.000Z",
+      "reply_settings": "everyone",
+      "id": "1366731439455182848",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "3",
+            "name": "TV Shows",
+            "description": "Television shows from around the world"
+          },
+          "entity": {
+            "id": "10053142503",
+            "name": "ウマ娘 プリティーダービー"
+          }
+        },
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1341520686771175424",
+            "name": "Uma Musume"
+          }
+        }
+      ]
+    },
+    {
+      "text": "ウマ娘鯖落ち、メンテ明け1時間もしてないんすけど…",
+      "conversation_id": "1366718852717969409",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T11:55:41.000Z",
+      "reply_settings": "everyone",
+      "id": "1366718852717969409",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false
+    },
+    {
+      "text": "ちんぽにゃ！(汚言症)",
+      "conversation_id": "1366703961449791488",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T10:56:31.000Z",
+      "reply_settings": "everyone",
+      "id": "1366703961449791488",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false
+    },
+    {
+      "text": "JAXA行くかぁの気持ちになってきた、道挟んで反対側",
+      "conversation_id": "1366698220106047488",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T10:33:42.000Z",
+      "reply_settings": "everyone",
+      "id": "1366698220106047488",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "872801340224806912",
+            "name": "Aerospace",
+            "description": "Aerospace"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "1356253308600471556",
+            "name": "JAXA"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "854692455005921281",
+            "name": "Science",
+            "description": "Science"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "847899255880564736",
+            "name": "Space",
+            "description": "Space and astronomy"
+          }
+        }
+      ]
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1366213897569533954"
+        }
+      ],
+      "text": "RT @JAXA_jp: ＼本日からエントリー＆就職説明会予約開始／\n\n2022年4月入社の技術・事務系全分野のエントリーを開始しました（3/31〆）22卒/第二新卒/既卒7年以内の方が対象です。\n一緒に宇宙航空の未来を支えてくれる意欲ある方からの応募をお待ちしております！…",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "JAXA_jp"
+          }
+        ]
+      },
+      "conversation_id": "1366698054410113025",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T10:33:02.000Z",
+      "reply_settings": "mentionedUsers",
+      "id": "1366698054410113025",
+      "public_metrics": {
+        "retweet_count": 85,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Brand Category",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "872801340224806912",
+            "name": "Aerospace",
+            "description": "Aerospace"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "1356253308600471556",
+            "name": "JAXA"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "854692455005921281",
+            "name": "Science",
+            "description": "Science"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "847899255880564736",
+            "name": "Space",
+            "description": "Space and astronomy"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847544972781826048",
+            "name": "Careers",
+            "description": "Careers"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "850073441055133696",
+            "name": "Job search",
+            "description": "Job search"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "898664974733631489",
+            "name": "Space Exploration",
+            "description": "Space Exploration"
+          }
+        }
+      ]
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1366689994828521472"
+        }
+      ],
+      "text": "RT @inunokagayaki: 日記 https://t.co/05XhJnyBTv",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 17,
+            "username": "inunokagayaki"
+          }
+        ],
+        "urls": [
+          {
+            "start": 22,
+            "end": 45,
+            "url": "https://t.co/05XhJnyBTv",
+            "expanded_url": "https://twitter.com/inunokagayaki/status/1366689994828521472/photo/1",
+            "display_url": "pic.twitter.com/05XhJnyBTv"
+          },
+          {
+            "start": 22,
+            "end": 45,
+            "url": "https://t.co/05XhJnyBTv",
+            "expanded_url": "https://twitter.com/inunokagayaki/status/1366689994828521472/photo/1",
+            "display_url": "pic.twitter.com/05XhJnyBTv"
+          },
+          {
+            "start": 22,
+            "end": 45,
+            "url": "https://t.co/05XhJnyBTv",
+            "expanded_url": "https://twitter.com/inunokagayaki/status/1366689994828521472/photo/1",
+            "display_url": "pic.twitter.com/05XhJnyBTv"
+          },
+          {
+            "start": 22,
+            "end": 45,
+            "url": "https://t.co/05XhJnyBTv",
+            "expanded_url": "https://twitter.com/inunokagayaki/status/1366689994828521472/photo/1",
+            "display_url": "pic.twitter.com/05XhJnyBTv"
+          }
+        ]
+      },
+      "conversation_id": "1366693228834004995",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T10:13:52.000Z",
+      "reply_settings": "everyone",
+      "id": "1366693228834004995",
+      "public_metrics": {
+        "retweet_count": 1488,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1366689989669523457",
+          "3_1366689989669494785",
+          "3_1366689989690417153",
+          "3_1366689989686292481"
+        ]
+      },
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false
+    },
+    {
+      "text": "実際ウマ娘プリティーダービーがサ終するとしたらどんくらい後なのだろう，ｸﾞﾗﾌﾞﾙもｼｬﾆもﾌﾟﾘｺﾈもやったことない二次創作知識しかないけど，コア中のコアメイツが課金し続けて支える感じになるのかな……（育成システムがだいぶ辛いので長く続く予感はあまりしてない）",
+      "conversation_id": "1366671022104080387",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T08:45:37.000Z",
+      "reply_settings": "everyone",
+      "id": "1366671022104080387",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1169373709280272384",
+            "name": "Princess Connect"
+          }
+        },
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "1341520686771175424",
+            "name": "Uma Musume"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "847527946864607232",
+            "name": "Mobile gaming",
+            "description": "Mobile gaming"
+          }
+        },
+        {
+          "domain": {
+            "id": "71",
+            "name": "Video Game",
+            "description": "A video game like Overwatch"
+          },
+          "entity": {
+            "id": "855324259475836929",
+            "name": "Granblue Fantasy",
+            "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+          }
+        },
+        {
+          "domain": {
+            "id": "130",
+            "name": "Multimedia Franchise",
+            "description": "Franchises which span multiple forms of media like 'Harry Potter'"
+          },
+          "entity": {
+            "id": "855324259475836929",
+            "name": "Granblue Fantasy",
+            "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t"
+          }
+        }
+      ]
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1366636428877176835"
+        }
+      ],
+      "text": "RT @kysgame: https://t.co/ses1SuoZad",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "kysgame"
+          }
+        ],
+        "urls": [
+          {
+            "start": 13,
+            "end": 36,
+            "url": "https://t.co/ses1SuoZad",
+            "expanded_url": "https://twitter.com/kysgame/status/1366636428877176835/photo/1",
+            "display_url": "pic.twitter.com/ses1SuoZad"
+          }
+        ]
+      },
+      "conversation_id": "1366670056810115073",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T08:41:47.000Z",
+      "reply_settings": "everyone",
+      "id": "1366670056810115073",
+      "public_metrics": {
+        "retweet_count": 8051,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1366636422619308032"
+        ]
+      },
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false
+    },
+    {
+      "text": "実際のところ、ウマ娘をやって競馬を始めました！はそこそこ増えるはずと思っているけれど、馬を購入してGI獲りましたまでいくと最高だなとなる(「ユメノサイゲームス」みたいな名前で会社資本を投下してくれてもいいのよ？)",
+      "conversation_id": "1366663512953528328",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T08:15:47.000Z",
+      "reply_settings": "everyone",
+      "id": "1366663512953528328",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "11",
+            "name": "Sport",
+            "description": "Types of sports, like soccer and basketball"
+          },
+          "entity": {
+            "id": "847901716024446977",
+            "name": "Horse racing & equestrian",
+            "description": "Horse racing"
+          }
+        }
+      ]
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1366650594442637313"
+        }
+      ],
+      "text": "RT @suomiaaki: 自分の所有馬ウマ娘にしたい、年収1000万超えてるウマ娘トレーナーさん達と組合馬主作って、セレクトで馬購入してG1取って、ウマ娘にしたい....\n\n興味あるトレーナーさんいませんか...",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "suomiaaki"
+          }
+        ]
+      },
+      "conversation_id": "1366662710490898435",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T08:12:36.000Z",
+      "reply_settings": "everyone",
+      "id": "1366662710490898435",
+      "public_metrics": {
+        "retweet_count": 21,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1366660667369906177"
+        }
+      ],
+      "text": "@mwtndmik https://t.co/ZNva9St3yg",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 9,
+            "username": "mwtndmik"
+          }
+        ],
+        "urls": [
+          {
+            "start": 10,
+            "end": 33,
+            "url": "https://t.co/ZNva9St3yg",
+            "expanded_url": "https://twitter.com/Ningensei848/status/1366662148919713796/photo/1",
+            "display_url": "pic.twitter.com/ZNva9St3yg"
+          }
+        ]
+      },
+      "conversation_id": "1366651309630267393",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T08:10:22.000Z",
+      "in_reply_to_user_id": "4859634797",
+      "reply_settings": "everyone",
+      "id": "1366662148919713796",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1366662142808649730"
+        ]
+      },
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false
+    },
+    {
+      "text": "というかあれか，今気づいたけど俺の従事している職務のあれこれで「経験の継承」が行われている場面がほぼほぼないな（ぜんぶ基本ひとりだし聞ける環境がないので全部自分管理にならざる得ない）",
+      "conversation_id": "1366658012857782272",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T07:53:56.000Z",
+      "reply_settings": "everyone",
+      "id": "1366658012857782272",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "TweetDeck",
+      "possibly_sensitive": false
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "1366655914338447362"
+        }
+      ],
+      "text": "@mwtndmik \"グループ開発の場合はグループのメンバーが同じ時間帯で働くことは重要なのでは\" ってこれはマジ同意で，非同期なせいで崩壊しかけたPJを観測しているのでつらくなった\n\nそれでも，例えば週イチとか３日に一回とかでスポットで話し合いを設ければいい場合も多く，おれはソッチに重点置きたいね…",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 9,
+            "username": "mwtndmik"
+          }
+        ]
+      },
+      "conversation_id": "1366651309630267393",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T07:50:49.000Z",
+      "in_reply_to_user_id": "4859634797",
+      "reply_settings": "everyone",
+      "id": "1366657228632059907",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "source": "TweetDeck",
+      "possibly_sensitive": false
+    },
+    {
+      "text": "俺からデバフさえ取り除いてくれたら歯車にだってなってやるよの気持ちです",
+      "conversation_id": "1366652147186626562",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T07:30:37.000Z",
+      "reply_settings": "everyone",
+      "id": "1366652147186626562",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "source": "TweetDeck",
+      "possibly_sensitive": false
+    },
+    {
+      "text": "カタカタするのが多少人より得意だから，加えて周りに大学院生しかおらんから勘違いしてしまうんだけど，パソコンにもインターネットにも触れずに賃金を得て人を養っている人はたくさんいる，身を粉にして",
+      "conversation_id": "1366651728313999360",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T07:28:57.000Z",
+      "reply_settings": "everyone",
+      "id": "1366651728313999360",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "source": "TweetDeck",
+      "possibly_sensitive": false
+    },
+    {
+      "text": "マジでよくわかんないんですけど，なんで平日昼間に規則的に働くことが是なの？\n\nって思ったところで大多数の人々は「歯車」にならないと価値の産出ができないくらい平均ステータスが高くないっぽいことを察しました，大卒は二人に一人以下だしパソコンも普及こそすれ，道具として使えるのは何割なのか",
+      "conversation_id": "1366651309630267393",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T07:27:18.000Z",
+      "reply_settings": "everyone",
+      "id": "1366651309630267393",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "source": "TweetDeck",
+      "possibly_sensitive": false
+    },
+    {
+      "text": "季節労働者をやって，冬は永遠にスノボ・スキーをやる生活がしたい，というか雨が降ったら室内仕事，晴れたら運動という「天候駆動人生」をやっていきたい，必要なのは",
+      "conversation_id": "1366650432404090889",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T07:23:48.000Z",
+      "reply_settings": "everyone",
+      "id": "1366650432404090889",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "source": "TweetDeck",
+      "possibly_sensitive": false,
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "847868745150119936",
+            "name": "Home & family",
+            "description": "Hobbies and interests"
+          }
+        },
+        {
+          "domain": {
+            "id": "65",
+            "name": "Interests and Hobbies Vertical",
+            "description": "Top level interests and hobbies groupings, like Food or Travel"
+          },
+          "entity": {
+            "id": "872553326499422208",
+            "name": "Fitness",
+            "description": "Fitness"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "872554146750017536",
+            "name": "Exercises",
+            "description": "Exercises"
+          }
+        }
+      ]
+    },
+    {
+      "text": "返事がもらえる書き方ってのはそれぞれのツールにあるはずなんだけど，いまいち明文化されていない気がする，そういう文献ありますか",
+      "conversation_id": "1366624108520173570",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T05:39:12.000Z",
+      "reply_settings": "everyone",
+      "id": "1366624108520173570",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "TweetDeck",
+      "possibly_sensitive": false
+    },
+    {
+      "text": "https://t.co/3Km5UeQp7w",
+      "conversation_id": "1366586468039200769",
+      "entities": {
+        "urls": [
+          {
+            "start": 0,
+            "end": 23,
+            "url": "https://t.co/3Km5UeQp7w",
+            "expanded_url": "https://open.spotify.com/track/4zO9QdJrLK2s5f0xg9JiA9?si=5SGyC6h2QDSwTZtMLsoNJg",
+            "display_url": "open.spotify.com/track/4zO9QdJr…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1366586468450242560/_qOOwbAD?format=jpg&name=orig",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1366586468450242560/_qOOwbAD?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda",
+            "description": "Oishi Masayoshi · Song · 2020",
+            "unwound_url": "https://open.spotify.com/track/4zO9QdJrLK2s5f0xg9JiA9?si=5SGyC6h2QDSwTZtMLsoNJg"
+          }
+        ]
+      },
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T03:09:38.000Z",
+      "reply_settings": "everyone",
+      "id": "1366586468039200769",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false
+    },
+    {
+      "text": "ここ1週間生きてる心地がしないぐらい悪い波きてる",
+      "conversation_id": "1366585841217232899",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T03:07:09.000Z",
+      "reply_settings": "everyone",
+      "id": "1366585841217232899",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false
+    },
+    {
+      "text": "これです、いま",
+      "conversation_id": "1366585724548444160",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T03:06:41.000Z",
+      "reply_settings": "everyone",
+      "id": "1366585724548444160",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1366429040215691265"
+        }
+      ],
+      "text": "RT @usksuzuki: 不安というのは内臓の感覚からくるもので、それに注目すればふるほど増幅するし持続する性質を持っている。\n\nもともとは身体感覚であり、しかもその感覚自体は「時間が経てば去ってゆくもの」という事実を知っていると、必要以上に飲み込まれなくて済むよ。",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "usksuzuki"
+          }
+        ]
+      },
+      "conversation_id": "1366585694521462785",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T03:06:34.000Z",
+      "reply_settings": "everyone",
+      "id": "1366585694521462785",
+      "public_metrics": {
+        "retweet_count": 426,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1366567432710594560"
+        }
+      ],
+      "text": "RT @ZEYO298: 本日、\n３月２日でZEYO.は、１１周年を迎えることとなりました。\nたくさんのお客様にご利用頂き、最高のスタッフ達に支えられながら、毎日営業できていることを\n心より感謝申し上げますm(_ _)m\n\n店長\n荒井　慶博",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "ZEYO298"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 115,
+            "end": 119,
+            "probability": 0.46,
+            "type": "Person",
+            "normalized_text": "荒井　慶博"
+          }
+        ]
+      },
+      "conversation_id": "1366585445899853827",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T03:05:34.000Z",
+      "reply_settings": "everyone",
+      "id": "1366585445899853827",
+      "public_metrics": {
+        "retweet_count": 20,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPad",
+      "possibly_sensitive": false
+    },
+    {
+      "text": "やっていくぞの気持ちになってきた、やっていくため",
+      "conversation_id": "1366549630431887365",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-02T00:43:15.000Z",
+      "reply_settings": "everyone",
+      "id": "1366549630431887365",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "source": "Twitter for iPhone",
+      "possibly_sensitive": false
+    },
+    {
+      "text": "Ningensei848 さんの 2021/03/01 の contribution 数: 0 #contributter_report",
+      "conversation_id": "1366424235468615682",
+      "author_id": "707346268821913600",
+      "created_at": "2021-03-01T16:24:59.000Z",
+      "reply_settings": "everyone",
+      "id": "1366424235468615682",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "source": "Twitter",
+      "possibly_sensitive": false,
+      "entities": {
+        "hashtags": [
+          {
+            "start": 48,
+            "end": 68,
+            "tag": "contributter_report"
+          }
+        ]
+      }
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "707346268821913600",
+        "created_at": "2016-03-08T23:24:27.000Z",
+        "name": "きあい🌖",
+        "pinned_tweet_id": "1345020610875777024",
+        "location": "山梨県→茨城県つくば市",
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 996,
+          "tweet_count": 58794,
+          "listed_count": 22
+        },
+        "verified": false,
+        "url": "https://t.co/KBXT0N3eAa",
+        "username": "Ningensei848",
+        "description": "やる：TOEIC2/25、小型船舶免許、復学 つくる: SPARQLの統合環境",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/KBXT0N3eAa",
+                "expanded_url": "https://about.me/kubokawa_k",
+                "display_url": "about.me/kubokawa_k"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/763543133724352513/r6RlBYDo_normal.jpg"
+      },
+      {
+        "id": "104324908",
+        "created_at": "2010-01-13T00:45:24.000Z",
+        "name": "JAXA（宇宙航空研究開発機構）",
+        "pinned_tweet_id": "1366213897569533954",
+        "location": "東京都",
+        "public_metrics": {
+          "followers_count": 379256,
+          "following_count": 62,
+          "tweet_count": 19544,
+          "listed_count": 10257
+        },
+        "verified": true,
+        "url": "http://t.co/ZS8royyAMO",
+        "username": "JAXA_jp",
+        "description": "JAXAの公式アカウントです。\n宇宙航空分野の研究開発に挑戦しています。\n\n▼利用規約\nhttps://t.co/JiWL8vuh3Z\n\n▼英語版アカウント\n@JAXA_en\n\n▼インスタグラム\nhttps://t.co/kFug0vVx6s",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 22,
+                "url": "http://t.co/ZS8royyAMO",
+                "expanded_url": "http://www.jaxa.jp/",
+                "display_url": "jaxa.jp"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 44,
+                "end": 67,
+                "url": "https://t.co/JiWL8vuh3Z",
+                "expanded_url": "https://www.jaxa.jp/policy_j.html",
+                "display_url": "jaxa.jp/policy_j.html"
+              },
+              {
+                "start": 98,
+                "end": 121,
+                "url": "https://t.co/kFug0vVx6s",
+                "expanded_url": "http://instagram.com/jaxajp/",
+                "display_url": "instagram.com/jaxajp/"
+              }
+            ],
+            "mentions": [
+              {
+                "start": 79,
+                "end": 87,
+                "username": "JAXA_en"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/528003479420153857/4EtZezKl_normal.png"
+      },
+      {
+        "id": "1342840593962024960",
+        "created_at": "2020-12-26T14:32:09.000Z",
+        "name": "犬のかがやき",
+        "location": "東京 小金井市",
+        "public_metrics": {
+          "followers_count": 27980,
+          "following_count": 0,
+          "tweet_count": 79,
+          "listed_count": 188
+        },
+        "verified": false,
+        "url": "",
+        "username": "inunokagayaki",
+        "description": "新人バーチャルユーチューバーです。機材が全て壊れているため絵日記しかありません。",
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342840803748503552/yDIO3PrF_normal.jpg"
+      },
+      {
+        "id": "1144606743160188928",
+        "created_at": "2019-06-28T14:01:28.000Z",
+        "name": "きよし",
+        "pinned_tweet_id": "1250385030561456134",
+        "public_metrics": {
+          "followers_count": 3898,
+          "following_count": 3228,
+          "tweet_count": 4081,
+          "listed_count": 14
+        },
+        "verified": false,
+        "url": "",
+        "username": "kysgame",
+        "description": "コープスドッグになりたい",
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1322581108140093441/_PNHGP7X_normal.jpg"
+      },
+      {
+        "id": "2821112330",
+        "created_at": "2014-09-20T05:31:20.000Z",
+        "name": "🐎🥕🐎🥕SUOMIAAKI",
+        "pinned_tweet_id": "1118833376738209792",
+        "location": "フィンランド",
+        "public_metrics": {
+          "followers_count": 12594,
+          "following_count": 903,
+          "tweet_count": 72127,
+          "listed_count": 199
+        },
+        "verified": false,
+        "url": "https://t.co/2I8PnHmHng",
+        "username": "suomiaaki",
+        "description": "スオミアッキって読みます 世界を旅する写真家（馬、古都、ミリタリー） 馬関係のライター、引退馬支援活動もしています。 写真の無断転載はご遠慮ください🐎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/2I8PnHmHng",
+                "expanded_url": "http://lupin8330.blogspot.jp/",
+                "display_url": "lupin8330.blogspot.jp"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364694909572145156/qd8x1lpK_normal.jpg"
+      },
+      {
+        "id": "4859634797",
+        "created_at": "2016-01-29T09:11:07.000Z",
+        "name": "كازوكي",
+        "pinned_tweet_id": "1212034486415822848",
+        "location": "日本",
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 741,
+          "tweet_count": 26227,
+          "listed_count": 19
+        },
+        "verified": false,
+        "url": "https://t.co/7MwJd40Imm",
+        "username": "mwtndmik",
+        "description": "ペリー\nAbout me : https://t.co/1Elbf1w1DO\n学習メモ : https://t.co/SJavUKu1cK\nマシュマロ：https://t.co/mmSnga1lca",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/7MwJd40Imm",
+                "expanded_url": "https://mwtndmik.github.io",
+                "display_url": "mwtndmik.github.io"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 15,
+                "end": 38,
+                "url": "https://t.co/1Elbf1w1DO",
+                "expanded_url": "https://mwtndmik.github.io/about/",
+                "display_url": "mwtndmik.github.io/about/"
+              },
+              {
+                "start": 46,
+                "end": 69,
+                "url": "https://t.co/SJavUKu1cK",
+                "expanded_url": "https://scrapbox.io/mwtndmik/",
+                "display_url": "scrapbox.io/mwtndmik/"
+              },
+              {
+                "start": 76,
+                "end": 99,
+                "url": "https://t.co/mmSnga1lca",
+                "expanded_url": "https://marshmallow-qa.com/mwtndmik?utm_medium=url_text&utm_source=promotion",
+                "display_url": "marshmallow-qa.com/mwtndmik?utm_m…"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/693002552271618052/plxpbkRh_normal.jpg"
+      },
+      {
+        "id": "113309920",
+        "created_at": "2010-02-11T10:28:50.000Z",
+        "name": "Dr.ゆうすけ",
+        "pinned_tweet_id": "1248606463070572551",
+        "location": "きぼうのほこら",
+        "public_metrics": {
+          "followers_count": 21919,
+          "following_count": 843,
+          "tweet_count": 5901,
+          "listed_count": 276
+        },
+        "verified": false,
+        "url": "https://t.co/5lMzj9yVol",
+        "username": "usksuzuki",
+        "description": "メンタルヘルスがライフワークの内科医。「生きづらさ」と触れあって感じたものを言葉にするのが趣味。人の変化がとても好きです。人間のいびつさを面白がれる心の余裕と適度な不謹慎さをもっていたい。スプラ2のプレイ2500時間でウデマエS+0~2。好きな言葉は「勇者とは勇敢な者のことではなく、人に勇気を与える者のことだ」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/5lMzj9yVol",
+                "expanded_url": "https://note.mu/usksuzuki",
+                "display_url": "note.mu/usksuzuki"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/902911060507672580/xVqLtBc2_normal.jpg"
+      },
+      {
+        "id": "455836363",
+        "created_at": "2012-01-05T15:33:22.000Z",
+        "name": "カレーうどん ZEYO.",
+        "pinned_tweet_id": "1304966780411023360",
+        "location": "茨城県つくば市天久保２－６－１",
+        "public_metrics": {
+          "followers_count": 6581,
+          "following_count": 0,
+          "tweet_count": 2908,
+          "listed_count": 112
+        },
+        "verified": false,
+        "url": "https://t.co/o9JlMHUeQg",
+        "username": "ZEYO298",
+        "description": "カレーうどん 専門店\n\n年中無休/ 営 １１時３０分〜１４時３０分、１８時〜２３時\n学生or 一般会員様 限定 コロッケ丼が１０円 /🌟超得クーポンツイートします‼️🌈\nお誕生日の方には、もれなくカレーうどん無料券をプレゼント💫\n☎ 029-854-1778",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/o9JlMHUeQg",
+                "expanded_url": "https://zeyo298.jimdo.com/",
+                "display_url": "zeyo298.jimdo.com"
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/583308961610231808/DRs1lNwj_normal.jpg"
+      }
+    ],
+    "tweets": [
+      {
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1366733460904112133"
+          }
+        ],
+        "text": "アプリの更新時に通信が発生するのはわかる、でもなんで挙動一つ一つに通信を発生させて自らサーバに負荷をかけていくのか良くわからないすぎる、通信を多くするインセンティブが見えなくてちょっと不審、それとも単に書き込み先をサーバに多く持ってるだけの話？(ならなおさら回数を減らせという話が",
+        "conversation_id": "1366733460904112133",
+        "author_id": "707346268821913600",
+        "created_at": "2021-03-02T13:00:51.000Z",
+        "in_reply_to_user_id": "707346268821913600",
+        "reply_settings": "everyone",
+        "id": "1366735252488527877",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "source": "Twitter for iPad",
+        "possibly_sensitive": false
+      },
+      {
+        "text": "ソシャゲ、詫び石騒動だのそれを発端とした誹謗中傷が溢れて止まらん信用失墜のリスクを抱えてまでサーバーに依存する構成にするのかわからない、もっとスタンドアロンに楽しめてもいいように設計すべきでしょ(資本と期間的にもできたはずのウマ娘でもそうはなっていないのでなんらかの理由があるはず?",
+        "conversation_id": "1366733460904112133",
+        "author_id": "707346268821913600",
+        "created_at": "2021-03-02T12:53:44.000Z",
+        "reply_settings": "everyone",
+        "id": "1366733460904112133",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "source": "Twitter for iPad",
+        "possibly_sensitive": false
+      },
+      {
+        "text": "＼本日からエントリー＆就職説明会予約開始／\n\n2022年4月入社の技術・事務系全分野のエントリーを開始しました（3/31〆）22卒/第二新卒/既卒7年以内の方が対象です。\n一緒に宇宙航空の未来を支えてくれる意欲ある方からの応募をお待ちしております！\n\n★募集要項\nhttps://t.co/HsuUsC0OAZ\n\n#22卒 #就活",
+        "conversation_id": "1366213897569533954",
+        "entities": {
+          "urls": [
+            {
+              "start": 132,
+              "end": 155,
+              "url": "https://t.co/HsuUsC0OAZ",
+              "expanded_url": "https://stage.tksc.jaxa.jp/recruit/info/recruit.html",
+              "display_url": "stage.tksc.jaxa.jp/recruit/info/r…",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1364368094211100672/wzS8Uf8C?format=jpg&name=orig",
+                  "width": 1200,
+                  "height": 630
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1364368094211100672/wzS8Uf8C?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "募集要項 | JAXA 新卒採用サイト",
+              "description": "JAXAの募集要項のお知らせです。「未知こそ、未来だ。」JAXAの仕事とは、人類の進歩のいちばん先端で未来をきりひらくこと。あなたの使命とは、何なのか。未来のためにどんな貢献ができるか。宇宙には、その答えがきっとある。",
+              "unwound_url": "https://stage.tksc.jaxa.jp/recruit/info/recruit.html"
+            }
+          ],
+          "hashtags": [
+            {
+              "start": 157,
+              "end": 161,
+              "tag": "22卒"
+            },
+            {
+              "start": 162,
+              "end": 165,
+              "tag": "就活"
+            }
+          ]
+        },
+        "author_id": "104324908",
+        "created_at": "2021-03-01T02:29:10.000Z",
+        "reply_settings": "mentionedUsers",
+        "id": "1366213897569533954",
+        "public_metrics": {
+          "retweet_count": 85,
+          "reply_count": 1,
+          "like_count": 294,
+          "quote_count": 14
+        },
+        "source": "Twitter Web App",
+        "possibly_sensitive": false,
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "46",
+              "name": "Brand Category",
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+            },
+            "entity": {
+              "id": "872801340224806912",
+              "name": "Aerospace",
+              "description": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "id": "47",
+              "name": "Brand",
+              "description": "Brands and Companies"
+            },
+            "entity": {
+              "id": "1356253308600471556",
+              "name": "JAXA"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "854692455005921281",
+              "name": "Science",
+              "description": "Science"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "847899255880564736",
+              "name": "Space",
+              "description": "Space and astronomy"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847544972781826048",
+              "name": "Careers",
+              "description": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "847868745150119936",
+              "name": "Home & family",
+              "description": "Hobbies and interests"
+            }
+          },
+          {
+            "domain": {
+              "id": "65",
+              "name": "Interests and Hobbies Vertical",
+              "description": "Top level interests and hobbies groupings, like Food or Travel"
+            },
+            "entity": {
+              "id": "848920371311001600",
+              "name": "Technology",
+              "description": "Technology and computing"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "850073441055133696",
+              "name": "Job search",
+              "description": "Job search"
+            }
+          },
+          {
+            "domain": {
+              "id": "66",
+              "name": "Interests and Hobbies Category",
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+            },
+            "entity": {
+              "id": "898664974733631489",
+              "name": "Space Exploration",
+              "description": "Space Exploration"
+            }
+          }
+        ]
+      },
+      {
+        "text": "日記 https://t.co/05XhJnyBTv",
+        "conversation_id": "1366689994828521472",
+        "entities": {
+          "urls": [
+            {
+              "start": 3,
+              "end": 26,
+              "url": "https://t.co/05XhJnyBTv",
+              "expanded_url": "https://twitter.com/inunokagayaki/status/1366689994828521472/photo/1",
+              "display_url": "pic.twitter.com/05XhJnyBTv"
+            },
+            {
+              "start": 3,
+              "end": 26,
+              "url": "https://t.co/05XhJnyBTv",
+              "expanded_url": "https://twitter.com/inunokagayaki/status/1366689994828521472/photo/1",
+              "display_url": "pic.twitter.com/05XhJnyBTv"
+            },
+            {
+              "start": 3,
+              "end": 26,
+              "url": "https://t.co/05XhJnyBTv",
+              "expanded_url": "https://twitter.com/inunokagayaki/status/1366689994828521472/photo/1",
+              "display_url": "pic.twitter.com/05XhJnyBTv"
+            },
+            {
+              "start": 3,
+              "end": 26,
+              "url": "https://t.co/05XhJnyBTv",
+              "expanded_url": "https://twitter.com/inunokagayaki/status/1366689994828521472/photo/1",
+              "display_url": "pic.twitter.com/05XhJnyBTv"
+            }
+          ]
+        },
+        "author_id": "1342840593962024960",
+        "created_at": "2021-03-02T10:01:01.000Z",
+        "reply_settings": "everyone",
+        "id": "1366689994828521472",
+        "public_metrics": {
+          "retweet_count": 1488,
+          "reply_count": 26,
+          "like_count": 8159,
+          "quote_count": 35
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1366689989669523457",
+            "3_1366689989669494785",
+            "3_1366689989690417153",
+            "3_1366689989686292481"
+          ]
+        },
+        "source": "Twitter for iPhone",
+        "possibly_sensitive": false
+      },
+      {
+        "text": "https://t.co/ses1SuoZad",
+        "conversation_id": "1366636428877176835",
+        "entities": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/ses1SuoZad",
+              "expanded_url": "https://twitter.com/kysgame/status/1366636428877176835/photo/1",
+              "display_url": "pic.twitter.com/ses1SuoZad"
+            }
+          ]
+        },
+        "author_id": "1144606743160188928",
+        "created_at": "2021-03-02T06:28:10.000Z",
+        "reply_settings": "everyone",
+        "id": "1366636428877176835",
+        "public_metrics": {
+          "retweet_count": 8051,
+          "reply_count": 32,
+          "like_count": 12043,
+          "quote_count": 164
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1366636422619308032"
+          ]
+        },
+        "source": "Twitter for iPhone",
+        "possibly_sensitive": false
+      },
+      {
+        "text": "自分の所有馬ウマ娘にしたい、年収1000万超えてるウマ娘トレーナーさん達と組合馬主作って、セレクトで馬購入してG1取って、ウマ娘にしたい....\n\n興味あるトレーナーさんいませんか...",
+        "conversation_id": "1366650594442637313",
+        "author_id": "2821112330",
+        "created_at": "2021-03-02T07:24:27.000Z",
+        "reply_settings": "everyone",
+        "id": "1366650594442637313",
+        "public_metrics": {
+          "retweet_count": 21,
+          "reply_count": 0,
+          "like_count": 88,
+          "quote_count": 1
+        },
+        "source": "Twitter Web App",
+        "possibly_sensitive": false
+      },
+      {
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1366657228632059907"
+          }
+        ],
+        "text": "@Ningensei848 https://t.co/ntT1p3Mda8",
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "Ningensei848"
+            }
+          ],
+          "urls": [
+            {
+              "start": 14,
+              "end": 37,
+              "url": "https://t.co/ntT1p3Mda8",
+              "expanded_url": "https://twitter.com/mwtndmik/status/1366660667369906177/photo/1",
+              "display_url": "pic.twitter.com/ntT1p3Mda8"
+            }
+          ]
+        },
+        "conversation_id": "1366651309630267393",
+        "author_id": "4859634797",
+        "created_at": "2021-03-02T08:04:29.000Z",
+        "in_reply_to_user_id": "707346268821913600",
+        "reply_settings": "everyone",
+        "id": "1366660667369906177",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "attachments": {
+          "media_keys": [
+            "3_1366660612541927425"
+          ]
+        },
+        "source": "Twitter Web App",
+        "possibly_sensitive": false
+      },
+      {
+        "referenced_tweets": [
+          {
+            "type": "replied_to",
+            "id": "1366651309630267393"
+          }
+        ],
+        "text": "@Ningensei848 時間帯は重要だとは思わないけど，グループ開発の場合はグループのメンバーが同じ時間帯で働くことは重要なのでは？\nそしてクライアントありきの仕事ならクライアントが働いている時間帯で働くことは重要なのでは？\n一極集中・画一的に仕事するモデルが全体最適に寄与してきたのかな．",
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 13,
+              "username": "Ningensei848"
+            }
+          ]
+        },
+        "conversation_id": "1366651309630267393",
+        "author_id": "4859634797",
+        "created_at": "2021-03-02T07:45:35.000Z",
+        "in_reply_to_user_id": "707346268821913600",
+        "reply_settings": "everyone",
+        "id": "1366655914338447362",
+        "public_metrics": {
+          "retweet_count": 0,
+          "reply_count": 1,
+          "like_count": 0,
+          "quote_count": 0
+        },
+        "source": "Twitter Web App",
+        "possibly_sensitive": false
+      },
+      {
+        "text": "不安というのは内臓の感覚からくるもので、それに注目すればふるほど増幅するし持続する性質を持っている。\n\nもともとは身体感覚であり、しかもその感覚自体は「時間が経てば去ってゆくもの」という事実を知っていると、必要以上に飲み込まれなくて済むよ。",
+        "conversation_id": "1366429040215691265",
+        "author_id": "113309920",
+        "created_at": "2021-03-01T16:44:04.000Z",
+        "reply_settings": "everyone",
+        "id": "1366429040215691265",
+        "public_metrics": {
+          "retweet_count": 426,
+          "reply_count": 2,
+          "like_count": 2694,
+          "quote_count": 24
+        },
+        "source": "Twitter for iPhone",
+        "possibly_sensitive": false
+      },
+      {
+        "text": "本日、\n３月２日でZEYO.は、１１周年を迎えることとなりました。\nたくさんのお客様にご利用頂き、最高のスタッフ達に支えられながら、毎日営業できていることを\n心より感謝申し上げますm(_ _)m\n\n店長\n荒井　慶博",
+        "conversation_id": "1366567432710594560",
+        "author_id": "455836363",
+        "created_at": "2021-03-02T01:54:00.000Z",
+        "reply_settings": "everyone",
+        "id": "1366567432710594560",
+        "public_metrics": {
+          "retweet_count": 20,
+          "reply_count": 0,
+          "like_count": 80,
+          "quote_count": 0
+        },
+        "source": "Twitter Web App",
+        "possibly_sensitive": false,
+        "entities": {
+          "annotations": [
+            {
+              "start": 102,
+              "end": 106,
+              "probability": 0.4618,
+              "type": "Person",
+              "normalized_text": "荒井　慶博"
+            }
+          ]
+        }
+      }
+    ],
+    "media": [
+      {
+        "height": 1497,
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Evd1TfhVkAETIK3.jpg",
+        "media_key": "3_1366689989669523457",
+        "width": 1018
+      },
+      {
+        "height": 1486,
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Evd1TfhVIAEu1ar.jpg",
+        "media_key": "3_1366689989669494785",
+        "width": 1022
+      },
+      {
+        "height": 1525,
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Evd1TfmUYAEK3iR.jpg",
+        "media_key": "3_1366689989690417153",
+        "width": 1085
+      },
+      {
+        "height": 1516,
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Evd1TflVcAE_xfp.jpg",
+        "media_key": "3_1366689989686292481",
+        "width": 1063
+      },
+      {
+        "height": 956,
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EvdEletVoAAURSf.jpg",
+        "media_key": "3_1366636422619308032",
+        "width": 2048
+      },
+      {
+        "height": 1628,
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Evdb-l4VcAIzi-p.jpg",
+        "media_key": "3_1366662142808649730",
+        "width": 1559
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1366424235468615682",
+    "newest_id": "1366736872223875072",
+    "result_count": 28
+  }
+}
